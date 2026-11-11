@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Tech Radar อัปเดตอัตโนมัติ — เทรนปี AI models คำแนะนำน่าใช้ และแหล่งข้อมูลสด">
+<title>Tech Radar — เทรนอัปเดตอัตโนมัติ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#eef3f6;--sf:#fff;--ink:#122029;--mut:#5a6d79;--ln:#d3dde4;
+  --ac:#0b8a78;--acs:#dff3ef;--am:#b9731a;--ams:#fbeedb;
+  --use:#0b7a45;--uses:#e3f6eb;--watch:#1a5fa8;--watchs:#e6f0fa;--caut:#a33b2c;--cauts:#fdeceb;
+}
+@media(prefers-color-scheme:dark){:root{
+  --bg:#0e171d;--sf:#15232c;--ink:#e8eef3;--mut:#92a4b0;--ln:#2a3c48;
+  --ac:#3cc4ad;--acs:#12372f;--am:#e5a24a;--ams:#3a2c14;
+  --use:#5dca8d;--uses:#163226;--watch:#7eb6ef;--watchs:#163048;--caut:#f0a29a;--cauts:#3a1d1a;
+}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.7 "IBM Plex Sans Thai",system-ui,sans-serif;
+  padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+.w{max-width:980px;margin:0 auto;padding:26px 18px 72px}
+h1{font-size:clamp(1.75rem,5vw,2.55rem);margin:0 0 6px;line-height:1.2;letter-spacing:-.02em}
+h2{font-size:1.28rem;margin:0 0 6px}
+.m{color:var(--mut);font-size:14px}a{color:var(--ac)}
+.hero{margin-bottom:8px}
+.tabs{display:flex;gap:6px;overflow-x:auto;margin:16px 0 12px;padding-bottom:4px;-webkit-overflow-scrolling:touch}
+.tabs button{font:inherit;font-size:15px;white-space:nowrap;padding:8px 14px;border-radius:99px;border:1px solid var(--ln);background:var(--sf);color:var(--ink);cursor:pointer}
+.tabs button[aria-selected=true]{background:var(--ac);color:#fff;border-color:var(--ac)}
+.card{background:var(--sf);border:1px solid var(--ln);border-radius:12px;padding:16px 18px;margin:0 0 12px}
+.why{background:var(--acs);border-radius:8px;padding:10px 14px;margin:10px 0;font-size:15px}
+.warn{background:var(--ams);border-radius:8px;padding:10px 14px;margin:10px 0;font-size:14.5px}
+.r{display:grid;grid-template-columns:2.2em 1fr;gap:2px 10px;padding:10px 0;border-top:1px solid var(--ln)}
+.r .n{font-weight:700;color:var(--ac);grid-row:span 3}
+.r .t{display:flex;justify-content:space-between;gap:10px;font-weight:600;flex-wrap:wrap}
+.bar{height:6px;border-radius:4px;background:var(--ln);overflow:hidden}.bar i{display:block;height:100%;background:var(--ac)}
+.r p{margin:0;font-size:14.5px;color:var(--mut)}
+.g{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
+.g ol{margin:6px 0 0;padding-left:1.3em;font-size:14.5px}
+table{border-collapse:collapse;width:100%;font-size:14.5px;min-width:640px}
+th,td{text-align:left;padding:8px 9px;border-top:1px solid var(--ln)}
+th{color:var(--mut);font-weight:500}.sc{overflow-x:auto}
+.nw{background:var(--ams);color:var(--am);font-size:12px;border-radius:99px;padding:0 7px;margin-left:5px}
+.s{display:inline-block;font-size:12.5px;border-radius:99px;padding:0 9px;margin:2px 4px 2px 0;background:var(--acs);color:var(--ac)}
+.s.f{background:var(--ams);color:var(--am)}
+.theme{display:grid;gap:8px;margin:12px 0}
+.theme .row{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center}
+.theme .name{font-weight:600}
+.theme .hits{font-size:13px;color:var(--mut)}
+.rec{border-left:4px solid var(--ln);padding:10px 12px;margin:8px 0;border-radius:0 8px 8px 0;background:var(--bg)}
+.rec.use{border-color:var(--use);background:var(--uses)}
+.rec.watch{border-color:var(--watch);background:var(--watchs)}
+.rec.caution{border-color:var(--caut);background:var(--cauts)}
+.badge{display:inline-block;font-size:12px;font-weight:700;border-radius:99px;padding:1px 8px;margin-right:6px}
+.badge.use{background:var(--use);color:#fff}.badge.watch{background:var(--watch);color:#fff}.badge.caution{background:var(--caut);color:#fff}
+.tag{display:inline-block;font-size:12px;border:1px solid var(--ln);border-radius:99px;padding:0 8px;margin:2px 4px 0 0;color:var(--mut)}
+.chg li{margin:4px 0}
+.legend{display:flex;flex-wrap:wrap;gap:10px;font-size:13px;color:var(--mut);margin:8px 0 0}
+.legend span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.legend .u::before{background:var(--use)}.legend .w::before{background:var(--watch)}.legend .c::before{background:var(--caut)}
+</style>
+</head>
+<body>
+<div class="w">
+  <div class="hero">
+    <h1>Tech Radar</h1>
+    <div class="m" id="up">กำลังโหลด...</div>
+    <div id="st"></div>
+  </div>
+  <div class="tabs" id="tabs" role="tablist"></div>
+  <div id="view"></div>
+  <p class="m">ข้อมูลจาก LMArena (CC BY 4.0), <a href="https://artificialanalysis.ai/">Artificial Analysis</a>, Hacker News, GitHub, Hugging Face, npm, CISA KEV, FIRST EPSS — อัปเดตอัตโนมัติผ่าน GitHub Actions</p>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+const esc=t=>String(t??'').replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const LN={
+  or:"โมเดลใหม่ล่าสุดบน OpenRouter",
+  hn:"Hacker News Top",
+  gh:"GitHub repo ใหม่ 7 วัน",
+  hf:"Hugging Face Trending",
+  npm:"npm ดาวน์โหลดรายสัปดาห์",
+  kev:"CISA KEV ล่าสุด (ถูกโจมตีจริง)",
+  epss:"ช่องโหว่ที่มีโอกาสถูกโจมตีสูงสุด (EPSS)"
+};
+const TIER={use:["น่าใช้","use"],watch:["น่าจับตา","watch"],caution:["ระวัง","caution"]};
+let D;
+const fx=(x,n)=>x==null||x===""?"-":Number(x).toFixed(n);
+
+function hashTab(){
+  const h=(location.hash||"").replace(/^#/,"");
+  return h||null;
+}
+
+function trendsTab(){
+  const t=D.trends||{};
+  const ch=D.changes||{};
+  const themes=(t.themes||[]).map(x=>`
+    <div class="row">
+      <div>
+        <div class="name">${esc(x.name)}</div>
+        <div class="hits">สัญญาณ: ${esc((x.hits||[]).join(", "))||"—"}</div>
+      </div>
+      <div style="min-width:120px">
+        <div class="bar"><i style="width:${Math.min(100,x.heat||x.score*10)}%"></i></div>
+      </div>
+    </div>`).join("")||'<div class="m">ยังสรุปธีมไม่ได้ — รอแหล่งข้อมูลรอบถัดไป</div>';
+
+  const recs=(t.recommendations||[]).map(r=>{
+    const [label,cls]=TIER[r.tier]||["ดูเพิ่ม","watch"];
+    return `<div class="rec ${cls}"><span class="badge ${cls}">${label}</span><b>${esc(r.title)}</b>
+      <div style="margin-top:4px">${esc(r.why)}</div>
+      <div>${(r.tags||[]).map(x=>`<span class="tag">${esc(x)}</span>`).join("")}</div></div>`;
+  }).join("")||'<div class="m">ยังไม่มีคำแนะนำ</div>';
+
+  const changes=ch.items&&ch.items.length
+    ? `<ul class="chg">${ch.items.map(i=>`<li>${esc(i.text)}</li>`).join("")}</ul>`
+    : `<div class="m">${esc(ch.summary||"ยังไม่มี diff")}</div>`;
+
+  $('#view').innerHTML=`
+    <div class="card">
+      <h2>เทรนปี ${esc(t.year||new Date().getFullYear())}: ตอนนี้น่าสนใจอะไร</h2>
+      <p>${esc(t.blurb||"")}</p>
+      <div class="legend"><span class="u">น่าใช้ — เริ่มลอง/ใช้เป็นหลักได้</span><span class="w">น่าจับตา — ทดลองเปรียบเทียบ</span><span class="c">ระวัง — security / ความเสี่ยง</span></div>
+    </div>
+    <div class="card">
+      <h2>คำแนะนำสำหรับ dev</h2>
+      <div class="m">เรียงจากสัญญาณจริงบนบอร์ด ไม่ใช่โฆษณาค่าย — ทดสอบกับงานคุณก่อนล็อกสแตก</div>
+      ${recs}
+    </div>
+    <div class="card">
+      <h2>ธีมที่กำลังร้อน</h2>
+      <div class="theme">${themes}</div>
+      <div class="m">${esc(t.method||"")}</div>
+    </div>
+    <div class="card">
+      <h2>เปลี่ยนจากรอบก่อน</h2>
+      <div class="m">${esc(ch.summary||"")}</div>
+      ${changes}
+    </div>`;
+}
+
+function aiTab(){
+  const c=D.ai.compare, ar=c.filter(r=>r.arena!=null), vp=c.filter(r=>r.price>0);
+  const la=c[0], lr=ar.length?ar.reduce((a,b)=>b.arena>a.arena?b:a):null;
+  const bv=vp.length?vp.reduce((a,b)=>b.aa/b.price>a.aa/a.price?b:a):null, nw=c.filter(r=>r.new);
+  const ins=[
+    `<li>นำด้านความสามารถ (Artificial Analysis): <b>${esc(la.name)}</b> (${fx(la.aa,1)})</li>`,
+    lr?`<li>นำด้านความชอบผู้ใช้ (LMArena) ในกลุ่มที่จับคู่ได้: <b>${esc(lr.name)}</b> (${lr.arena})${lr.name!==la.name?' — ต่างจากอันดับ 1 ด้านความสามารถ':''}</li>`:'',
+    bv?`<li>คุ้มค่าสุด (คะแนนต่อราคา): <b>${esc(bv.name)}</b></li>`:'',
+    nw.length?`<li>เพิ่งเข้า Top 15: ${nw.map(r=>esc(r.name)).join(', ')}</li>`:''
+  ].join('');
+  $('#view').innerHTML=`<div class="card"><h2>AI Models: เทียบทุกบอร์ดในที่เดียว</h2>
+    <div class="m">รวมคะแนนจาก Artificial Analysis และ LMArena (จับคู่ตามชื่อโมเดล ถ้าไม่พบขึ้น -)</div>
+    <ul>${ins}</ul>
+    <div class="sc"><table><tr><th>โมเดล</th><th>ค่าย</th><th>AA Index</th><th>Coding</th><th>Agentic</th><th>Arena</th><th>ราคาผสม $/ล้าน</th><th>tok/s</th></tr>
+    ${c.map(r=>`<tr><td>${esc(r.name)}${r.new?'<span class="nw">ใหม่</span>':''}</td><td>${esc(r.org)}</td><td>${fx(r.aa,1)}</td><td>${fx(r.coding,1)}</td><td>${fx(r.agentic,1)}</td><td>${r.arena??'-'}</td><td>${fx(r.price,2)}</td><td>${fx(r.speed,0)}</td></tr>`).join('')}
+    </table></div>
+    <div class="why"><b>อ่านยังไง:</b> AA Index คือคะแนนทดสอบมาตรฐาน Arena คือความชอบผู้ใช้ ถ้าสูงคนละบอร์ด แปลว่าเก่งคนละแบบ — เลือกตามงานแล้วทดสอบโจทย์จริง</div>
+    <div class="warn">คะแนนจากสองแหล่งใช้วิธีวัดและวันที่ต่างกัน จับคู่ชื่อแบบเข้มงวด อาจพลาดโมเดลที่ตั้งชื่อต่างกัน</div>
+  </div>`;
+}
+
+function liveTab(){
+  const gh=D.live.gh;
+  let ghHtml='';
+  if(gh && !Array.isArray(gh) && gh.top){
+    ghHtml=`<div class="card"><b>${LN.gh}</b><ol>${(gh.top||[]).map(x=>`<li><a href="${esc(x[1])}" target="_blank" rel="noopener">${esc(x[0])}</a> <span class="m">${esc(x[2])}</span></li>`).join('')}</ol></div>`;
+    const langs=gh.by_lang||{};
+    Object.keys(langs).forEach(lang=>{
+      const items=langs[lang]||[];
+      if(!items.length) return;
+      ghHtml+=`<div class="card"><b>GitHub · ${esc(lang)}</b><ol>${items.map(x=>`<li><a href="${esc(x[1])}" target="_blank" rel="noopener">${esc(x[0])}</a> <span class="m">${esc(x[2])}</span></li>`).join('')}</ol></div>`;
+    });
+  } else {
+    const list=Array.isArray(gh)?gh:[];
+    ghHtml=`<div class="card"><b>${LN.gh}</b><ol>${list.map(x=>`<li><a href="${esc(x[1])}" target="_blank" rel="noopener">${esc(x[0])}</a> <span class="m">${esc(x[2])}</span></li>`).join('')||'<li class="m">ยังไม่มีข้อมูล</li>'}</ol></div>`;
+  }
+  const keys=['or','hn','hf','npm','kev','epss'];
+  const rest=keys.map(k=>`<div class="card"><b>${LN[k]}</b><ol>${(D.live[k]||[]).map(x=>`<li><a href="${esc(x[1])}" target="_blank" rel="noopener">${esc(x[0])}</a> <span class="m">${esc(x[2])}</span></li>`).join('')||'<li class="m">ยังไม่มีข้อมูล</li>'}</ol></div>`).join('');
+  $('#view').innerHTML=`<div class="g">${ghHtml}${rest}</div>`;
+}
+
+function boardTab(id){
+  const s=D.tables.find(x=>x.id===id);
+  if(!s){ $('#view').innerHTML='<div class="warn">ไม่พบตาราง</div>'; return; }
+  $('#view').innerHTML=`<div class="card"><h2>${esc(s.title)}</h2><div class="m">${esc(s.date)}</div>
+    <div class="why"><b>ทำไมน่าเชื่อถือ:</b> ${esc(s.why)}</div>
+    ${s.items.map((x,i)=>`<div class="r"><div class="n">${i+1}</div><div class="t"><span>${esc(x[0])} <span class="m">${esc(x[2])}</span></span><span>${esc(x[1])}</span></div><div class="bar"><i style="width:${Math.min(100,x[4])}%"></i></div><p>${esc(x[3])}</p></div>`).join('')}
+    <div class="warn"><b>ข้อควรระวัง:</b> ${esc(s.note)}</div>
+    <div class="m">แหล่ง: ${s.src.map(a=>`<a href="${esc(a[1])}" target="_blank" rel="noopener">${esc(a[0])}</a>`).join(' · ')}</div>
+  </div>`;
+}
+
+function tab(id){
+  document.querySelectorAll('#tabs button').forEach(b=>b.setAttribute('aria-selected', b.dataset.t===id));
+  history.replaceState(null,'','#'+id);
+  if(id==='trends') return trendsTab();
+  if(id==='ai') return aiTab();
+  if(id==='live') return liveTab();
+  boardTab(id);
+}
+
+fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{
+  D=d;
+  $('#up').textContent=d.updated?'อัปเดตล่าสุด '+new Date(d.updated).toLocaleString('th-TH'):'ยังไม่เคยรันสคริปต์อัปเดต (แสดงข้อมูลตั้งต้น)';
+  $('#st').innerHTML=Object.entries(d.status||{}).map(([k,v])=>`<span class="s ${v.ok?'':'f'}" title="${esc(v.msg||'')}">${k}: ${v.ok?'สำเร็จ':'ล้มเหลว'}</span>`).join('');
+  const tabs=[
+    ...(d.trends?[['trends','เทรนปี']]:[]),
+    ...(d.ai&&d.ai.compare&&d.ai.compare.length?[['ai','AI Models']]:[]),
+    ...d.tables.map(t=>[t.id,t.tab]),
+    ['live','ข้อมูลสด']
+  ];
+  $('#tabs').innerHTML=tabs.map(t=>`<button role="tab" data-t="${t[0]}">${esc(t[1])}</button>`).join('');
+  $('#tabs').onclick=e=>{const b=e.target.closest('button'); if(b) tab(b.dataset.t);};
+  const want=hashTab();
+  const start=tabs.some(t=>t[0]===want)?want:tabs[0][0];
+  tab(start);
+}).catch(()=>{
+  $('#view').innerHTML='<div class="warn">โหลด data.json ไม่ได้ เปิดผ่าน GitHub Pages หรือรัน <code>python -m http.server</code> ในโฟลเดอร์นี้</div>';
+});
+</script>
+</body>
+</html>

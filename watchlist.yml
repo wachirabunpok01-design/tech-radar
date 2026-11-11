@@ -1,0 +1,79 @@
+# รายการเฝ้าดู — แก้ไฟล์นี้แล้ว Actions จะดึงตามนี้เอง
+npm:
+  - react
+  - vue
+  - svelte
+  - solid-js
+  - "@angular/core"
+  - next
+  - vite
+  - typescript
+  - "@openai/agents"
+  - ai
+
+# ภาษาสำหรับ GitHub trending (repo ใหม่ 7 วัน ต่อภาษา)
+github_languages:
+  - Python
+  - TypeScript
+  - Rust
+  - Go
+  - Swift
+
+# คำค้นเทรนปี (นับจาก HN / GitHub / HF / OpenRouter)
+theme_keywords:
+  AI Agents / Tool use:
+    - agent
+    - agents
+    - tool use
+    - tool-calling
+    - mcp
+    - autonomous
+    - orchestrat
+  Coding assistants:
+    - coding
+    - copilot
+    - cursor
+    - code generation
+    - swe-bench
+    - ide
+  Open-weight / Local models:
+    - open-weight
+    - open weight
+    - open-source
+    - local llm
+    - ollama
+    - ggml
+    - llama
+    - deepseek
+    - qwen
+  Multimodal:
+    - multimodal
+    - vision
+    - image
+    - video
+    - audio
+    - speech
+  RAG / Knowledge:
+    - rag
+    - retrieval
+    - embedding
+    - vector
+    - knowledge base
+  Security / Exploit awareness:
+    - cve
+    - vulnerability
+    - exploit
+    - ransomware
+    - zero-day
+  Edge / On-device AI:
+    - on-device
+    - edge
+    - mobile ai
+    - small model
+    - distillation
+  Infra / Platforms:
+    - kubernetes
+    - serverless
+    - wasm
+    - docker
+    - observability

@@ -1,0 +1,177 @@
+{
+ "updated": "2026-11-11T05:00+00:00",
+ "snapshot": {
+  "ai_top": [],
+  "themes": [
+   "Open-weight / Local models",
+   "Coding assistants",
+   "Multimodal",
+   "AI Agents / Tool use"
+  ],
+  "or_top": [
+   "Baidu: ERNIE-5.5-Flash-Preview",
+   "Baidu: ERNIE-Light-DT-1.0",
+   "Google: Gemini 4 Carbon",
+   "Google: Gemini 4 Carbon (batch)",
+   "Nex AGI: Nex-N2.6"
+  ],
+  "hn_top": [
+   "Protecting SSH Keys with macOS Secure Enclave",
+   "Scion is back and is going to sell a kei truck in America",
+   ".name Grandfathered",
+   "Smart home devices should work without the internet",
+   "A great old-timey game-programming hack (2013)"
+  ]
+ },
+ "trends": {
+  "year": 2026,
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Open-weight / Local models, Coding assistants, Multimodal. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "themes": [
+   {
+    "name": "Open-weight / Local models",
+    "score": 6,
+    "hits": [
+     "deepseek",
+     "qwen"
+    ],
+    "heat": 72
+   },
+   {
+    "name": "Coding assistants",
+    "score": 3,
+    "hits": [
+     "coding",
+     "ide"
+    ],
+    "heat": 36
+   },
+   {
+    "name": "Multimodal",
+    "score": 3,
+    "hits": [
+     "image",
+     "audio"
+    ],
+    "heat": 36
+   },
+   {
+    "name": "AI Agents / Tool use",
+    "score": 2,
+    "hits": [
+     "agent",
+     "agents"
+    ],
+    "heat": 24
+   }
+  ],
+  "recommendations": [
+   {
+    "tier": "use",
+    "title": "Gemini 4 Carbon (High)",
+    "why": "นำ LMArena Text (คะแนน 1538) จากโหวตผู้ใช้จริง — เริ่มจากตัวนี้สำหรับงานสนทนา/เขียน แล้วเทียบกับโจทย์ของคุณ",
+    "tags": [
+     "LMArena",
+     "google"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Gemini 4 Argon (High)",
+    "why": "รองอันดับบน LMArena (1530) — น่าเทียบเคียงก่อนล็อก vendor",
+    "tags": [
+     "LMArena",
+     "google"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Baidu: ERNIE-5.5-Flash-Preview",
+    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-11 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
+    "tags": [
+     "OpenRouter",
+     "ใหม่"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+    "why": "ติด Trending บน Hugging Face ตอนนี้ — ดูถ้าสนใจโมเดล/น้ำหนักที่ชุมชนกำลังลอง",
+    "tags": [
+     "Hugging Face",
+     "trending"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Open-weight / local models",
+    "why": "สัญญาณจาก HN/HF/GitHub ชี้ว่า open-weight กำลังร้อน — ลองถ้าต้องการคุมข้อมูลหรือต้นทุน",
+    "tags": [
+     "open-weight",
+     "local"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Coding assistants / IDE agents",
+    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
+    "tags": [
+     "coding",
+     "devtools"
+    ]
+   },
+   {
+    "tier": "caution",
+    "title": "CVE-2026-124194 Microsoft Office",
+    "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
+    "tags": [
+     "security",
+     "KEV"
+    ]
+   }
+  ],
+  "method": "นับคำจากแหล่งสด + อันดับโมเดล ไม่ใช่ความเห็นบรรณาธิการ — รีเฟรชอัตโนมัติทุกครั้งที่สคริปต์รัน"
+ },
+ "status": {
+  "aa": {
+   "ok": false,
+   "time": "2026-11-11T05:00+00:00",
+   "msg": "ไม่มี secret AA_API_KEY"
+  },
+  "lm": {
+   "ok": true,
+   "time": "2026-11-11T05:00+00:00"
+  },
+  "or": {
+   "ok": true,
+   "time": "2026-11-11T05:00+00:00"
+  },
+  "hn": {
+   "ok": true,
+   "time": "2026-11-11T05:00+00:00"
+  },
+  "gh": {
+   "ok": true,
+   "time": "2026-11-11T05:00+00:00"
+  },
+  "hf": {
+   "ok": true,
+   "time": "2026-11-11T05:00+00:00"
+  },
+  "npm": {
+   "ok": true,
+   "time": "2026-11-11T05:00+00:00"
+  },
+  "kev": {
+   "ok": true,
+   "time": "2026-11-11T05:00+00:00"
+  },
+  "epss": {
+   "ok": true,
+   "time": "2026-11-11T05:00+00:00"
+  },
+  "trends": {
+   "ok": true,
+   "time": "2026-11-11T05:00+00:00"
+  }
+ }
+}
