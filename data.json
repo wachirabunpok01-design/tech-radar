@@ -1,46 +1,46 @@
 {
- "updated": "2026-11-11T05:00+00:00",
+ "updated": "2026-11-11T05:28+00:00",
  "status": {
   "aa": {
    "ok": false,
-   "time": "2026-11-11T05:00+00:00",
+   "time": "2026-11-11T05:28+00:00",
    "msg": "ไม่มี secret AA_API_KEY"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-11T05:00+00:00"
+   "time": "2026-11-11T05:28+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-11T05:00+00:00"
+   "time": "2026-11-11T05:28+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-11T05:00+00:00"
+   "time": "2026-11-11T05:28+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-11T05:00+00:00"
+   "time": "2026-11-11T05:28+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-11T05:00+00:00"
+   "time": "2026-11-11T05:28+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-11T05:00+00:00"
+   "time": "2026-11-11T05:28+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-11T05:00+00:00"
+   "time": "2026-11-11T05:28+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-11T05:00+00:00"
+   "time": "2026-11-11T05:28+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-11T05:00+00:00"
+   "time": "2026-11-11T05:28+00:00"
   }
  },
  "tables": [
@@ -294,12 +294,12 @@
    [
     "Baidu: ERNIE-5.5-Flash-Preview",
     "https://openrouter.ai/baidu/ernie-5.5-flash-preview",
-    "2026-11-11 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens"
+    "2026-11-10 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens"
    ],
    [
     "Baidu: ERNIE-Light-DT-1.0",
     "https://openrouter.ai/baidu/ernie-light-dt-1.0-intl",
-    "2026-11-11 · context 1,024,000 · $1.13 / $3.94 ต่อล้าน tokens"
+    "2026-11-10 · context 1,024,000 · $1.13 / $3.94 ต่อล้าน tokens"
    ],
    [
     "Google: Gemini 4 Carbon",
@@ -319,89 +319,89 @@
    [
     "Thinking Machines: Inkling 2 Small (free)",
     "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
-    "2026-11-10 · context 1,048,576 · $0.00 / $0.00 ต่อล้าน tokens"
+    "2026-11-09 · context 1,048,576 · $0.00 / $0.00 ต่อล้าน tokens"
    ],
    [
     "Anthropic: Claude Fable 5.2",
     "https://openrouter.ai/anthropic/claude-fable-5.2",
-    "2026-11-10 · context 1,000,000 · $8.00 / $40.00 ต่อล้าน tokens"
+    "2026-11-09 · context 1,000,000 · $8.00 / $40.00 ต่อล้าน tokens"
    ],
    [
     "Anthropic: Claude Fable 5.2 (batch)",
     "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
-    "2026-11-10 · context 1,000,000 · $4.00 / $20.00 ต่อล้าน tokens"
+    "2026-11-09 · context 1,000,000 · $4.00 / $20.00 ต่อล้าน tokens"
    ],
    [
     "Meta: Muse Ember",
     "https://openrouter.ai/meta/muse-ember",
-    "2026-11-10 · context 1,048,576 · $0.10 / $0.50 ต่อล้าน tokens"
+    "2026-11-09 · context 1,048,576 · $0.10 / $0.50 ต่อล้าน tokens"
    ],
    [
     "LiquidAI: LFM3-1.7B",
     "https://openrouter.ai/liquid/lfm-3-1.7b",
-    "2026-11-07 · context 262,144 · $0.08 / $0.20 ต่อล้าน tokens"
+    "2026-11-06 · context 262,144 · $0.08 / $0.20 ต่อล้าน tokens"
    ]
   ],
   "hn": [
    [
     "Protecting SSH Keys with macOS Secure Enclave",
     "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-    "13 คะแนน"
+    "33 คะแนน"
    ],
    [
     "Scion is back and is going to sell a kei truck in America",
     "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-    "398 คะแนน"
+    "405 คะแนน"
    ],
    [
     ".name Grandfathered",
     "https://neil.fraser.name/news/2026/11/10/",
-    "738 คะแนน"
+    "744 คะแนน"
    ],
    [
     "Smart home devices should work without the internet",
     "https://docodethatmatters.com/home-automation-overnight-success/",
-    "792 คะแนน"
+    "798 คะแนน"
    ],
    [
     "A great old-timey game-programming hack (2013)",
     "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-    "72 คะแนน"
+    "80 คะแนน"
    ],
    [
-    "Six Math Essentials by Terence Tao",
+    "Six Math Essentials",
     "https://teorth.github.io/tao-web/six-math-essentials.html",
-    "178 คะแนน"
+    "188 คะแนน"
+   ],
+   [
+    "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+    "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+    "37 คะแนน"
    ],
    [
     "Starlink Mini 2",
     "https://starlink.com/mini-2",
-    "331 คะแนน"
+    "341 คะแนน"
    ],
    [
     "Announcing .NET 11",
     "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-    "97 คะแนน"
+    "111 คะแนน"
    ],
    [
-    "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "Tracking Anthropic-discovered vulnerabilities",
     "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-    "356 คะแนน"
-   ],
-   [
-    "Hacking the Meta Ray-Ban smartglasses",
-    "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-    "80 คะแนน"
+    "361 คะแนน"
    ],
    [
     "Unremarkable things we made in 2026",
     "https://www.neilchen.co/blog/things2026",
-    "13 คะแนน"
+    "15 คะแนน"
    ],
    [
-    "Val Town is winding down",
-    "https://blog.val.town/winding-down",
-    "339 คะแนน"
+    "Hacking the Meta Ray-Ban smartglasses",
+    "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+    "82 คะแนน"
    ]
   ],
   "gh": {
@@ -409,22 +409,22 @@
     [
      "NotRexed/Hookshot",
      "https://github.com/NotRexed/Hookshot",
-     "★6,776 C++"
+     "★6,791 C++"
     ],
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★5,263 Swift"
+     "★5,302 Swift"
     ],
     [
      "tangerineturtle1/NX2navi",
      "https://github.com/tangerineturtle1/NX2navi",
-     "★2,942 C"
+     "★2,946 C"
     ],
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,451 C#"
+     "★2,454 C#"
     ],
     [
      "JenkinWoo/sheeridVerify",
@@ -434,27 +434,27 @@
     [
      "IainKay/ram-altman",
      "https://github.com/IainKay/ram-altman",
-     "★1,835 Shell"
+     "★1,837 Shell"
     ],
     [
      "jamesondh/chimera-vocal-synth",
      "https://github.com/jamesondh/chimera-vocal-synth",
-     "★1,753 Rust"
+     "★1,756 Rust"
     ],
     [
      "DIYgod/pinky",
      "https://github.com/DIYgod/pinky",
-     "★1,739 Go"
+     "★1,744 Go"
     ],
     [
      "mmdoctor/google-pro-helper",
      "https://github.com/mmdoctor/google-pro-helper",
-     "★1,666 Python"
+     "★1,668 Python"
     ],
     [
      "voyager-so/vork",
      "https://github.com/voyager-so/vork",
-     "★1,364 Rust"
+     "★1,365 Rust"
     ]
    ],
    "by_lang": {
@@ -462,17 +462,17 @@
      [
       "mmdoctor/google-pro-helper",
       "https://github.com/mmdoctor/google-pro-helper",
-      "★1,666"
+      "★1,668"
      ],
      [
       "WoYun520/gif-factory",
       "https://github.com/WoYun520/gif-factory",
-      "★1,102"
+      "★1,104"
      ],
      [
       "Th0rgal/satmux",
       "https://github.com/Th0rgal/satmux",
-      "★1,035"
+      "★1,036"
      ],
      [
       "farhatullah0006-art/rx-11-audio-editor-config",
@@ -482,7 +482,7 @@
      [
       "majorminorlabs/hermes-voice",
       "https://github.com/majorminorlabs/hermes-voice",
-      "★654"
+      "★655"
      ]
     ],
     "TypeScript": [
@@ -516,12 +516,12 @@
      [
       "jamesondh/chimera-vocal-synth",
       "https://github.com/jamesondh/chimera-vocal-synth",
-      "★1,753"
+      "★1,756"
      ],
      [
       "voyager-so/vork",
       "https://github.com/voyager-so/vork",
-      "★1,364"
+      "★1,365"
      ],
      [
       "thiagoaureliomartins-programador/chief-architect-premier",
@@ -531,19 +531,19 @@
      [
       "Gloridust/WowType",
       "https://github.com/Gloridust/WowType",
-      "★478"
+      "★482"
      ],
      [
       "PlateParrotTerminal/lag-doctor",
       "https://github.com/PlateParrotTerminal/lag-doctor",
-      "★451"
+      "★452"
      ]
     ],
     "Go": [
      [
       "DIYgod/pinky",
       "https://github.com/DIYgod/pinky",
-      "★1,739"
+      "★1,744"
      ],
      [
       "manjushree-iyer/soundpad-audio-suite",
@@ -553,29 +553,29 @@
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★618"
+      "★620"
      ],
      [
       "devvmhq/devvm",
       "https://github.com/devvmhq/devvm",
-      "★544"
+      "★545"
      ],
      [
       "TooonyChen/finallyshell",
       "https://github.com/TooonyChen/finallyshell",
-      "★444"
+      "★446"
      ]
     ],
     "Swift": [
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★5,263"
+      "★5,302"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,198"
+      "★1,220"
      ],
      [
       "JosssphZhou/poki",
@@ -585,7 +585,7 @@
      [
       "musubipapi/airpointer",
       "https://github.com/musubipapi/airpointer",
-      "★358"
+      "★359"
      ],
      [
       "umarz317/WatchPointer",
@@ -599,17 +599,22 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥1234"
+    "♥1239"
    ],
    [
     "speridlabs/idol",
     "https://huggingface.co/speridlabs/idol",
-    "♥1888"
+    "♥1894"
    ],
    [
     "moonshotai/Kimi-K3.1-Pro",
     "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "♥1874"
+    "♥1876"
+   ],
+   [
+    "MiniMaxAI/MiniMax-H3-Image",
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+    "♥478"
    ],
    [
     "ricursiveAI/Ripple-65B-Preview",
@@ -617,24 +622,19 @@
     "♥490"
    ],
    [
-    "MiniMaxAI/MiniMax-H3-Image",
-    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥469"
-   ],
-   [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11399"
+    "♥11402"
    ],
    [
     "NousResearch/Arete-27B",
     "https://huggingface.co/NousResearch/Arete-27B",
-    "♥407"
+    "♥409"
    ],
    [
     "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥2853"
+    "♥2856"
    ],
    [
     "ccore/Qwen3.5-4B-3D-Coder",
@@ -644,7 +644,7 @@
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥19574"
+    "♥19575"
    ]
   ],
   "npm": [
@@ -868,7 +868,7 @@
    {
     "tier": "watch",
     "title": "Baidu: ERNIE-5.5-Flash-Preview",
-    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-11 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
+    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-10 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
     "tags": [
      "OpenRouter",
      "ใหม่"
