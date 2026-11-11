@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-11T05:44+00:00",
+ "updated": "2026-11-11T14:19+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00",
+   "time": "2026-11-11T14:19+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-11T05:44+00:00"
+   "time": "2026-11-11T14:19+00:00"
   }
  },
  "tables": [
@@ -314,9 +314,9 @@
  "live": {
   "or": [
    [
-    "Baidu: ERNIE-5.5-Flash-Preview",
-    "https://openrouter.ai/baidu/ernie-5.5-flash-preview",
-    "2026-11-10 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens"
+    "Baidu: ERNIE-5.5-Flash-Preview (free)",
+    "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
+    "2026-11-10 · context 1,024,000 · $0.00 / $0.00 ต่อล้าน tokens"
    ],
    [
     "Baidu: ERNIE-Light-DT-1.0",
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
+    "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "https://pietromiotti.com/latest/maya-site/?maya",
+    "294 คะแนน"
+   ],
+   [
+    "Can a Linear Program Do Weight-Space Programming?",
+    "https://nathan.rs/posts/weight-space-lp/",
+    "68 คะแนน"
+   ],
+   [
+    "Using voltage glitching to unleash the A100 in my mining card",
+    "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "79 คะแนน"
+   ],
+   [
+    "Next-Level Benchmarking Overfitting – Thomas Neumann",
+    "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+    "25 คะแนน"
+   ],
+   [
     "Protecting SSH Keys with macOS Secure Enclave",
     "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-    "40 คะแนน"
-   ],
-   [
-    "Scion is back and is going to sell a kei truck in America",
-    "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-    "410 คะแนน"
-   ],
-   [
-    ".name Grandfathered",
-    "https://neil.fraser.name/news/2026/11/10/",
-    "750 คะแนน"
+    "287 คะแนน"
    ],
    [
     "Smart home devices should work without the internet",
     "https://docodethatmatters.com/home-automation-overnight-success/",
-    "811 คะแนน"
+    "1080 คะแนน"
    ],
    [
-    "A great old-timey game-programming hack (2013)",
-    "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-    "84 คะแนน"
+    "We need more goat sacrifices",
+    "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+    "15 คะแนน"
    ],
    [
-    "Six Math Essentials",
-    "https://teorth.github.io/tao-web/six-math-essentials.html",
-    "194 คะแนน"
+    ".name Grandfathered",
+    "https://neil.fraser.name/news/2026/11/10/",
+    "898 คะแนน"
    ],
    [
-    "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-    "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-    "42 คะแนน"
+    "Scion is back and is going to sell a kei truck in America",
+    "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+    "513 คะแนน"
    ],
    [
-    "Starlink Mini 2",
-    "https://starlink.com/mini-2",
-    "348 คะแนน"
+    "Apple has new Mac app coming to make running local AI models easy",
+    "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "368 คะแนน"
    ],
    [
-    "Tracking Anthropic-discovered vulnerabilities",
-    "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-    "364 คะแนน"
+    "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+    "https://news.ycombinator.com/item?id=50452404",
+    "1 คะแนน"
    ],
    [
-    "Announcing .NET 11",
-    "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-    "119 คะแนน"
-   ],
-   [
-    "Unremarkable things we made in 2026",
-    "https://www.neilchen.co/blog/things2026",
-    "18 คะแนน"
-   ],
-   [
-    "Greg Kurtzer's Ginux is now a userspace kernel",
-    "https://github.com/gmkurtzer/ginux",
-    "4 คะแนน"
+    "I asked every TV manufacturer 17 questions about how they spy on you",
+    "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+    "12 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "NotRexed/Hookshot",
      "https://github.com/NotRexed/Hookshot",
-     "★6,806 C++"
+     "★7,218 C++"
     ],
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★5,337 Swift"
+     "★5,931 Swift"
     ],
     [
      "tangerineturtle1/NX2navi",
      "https://github.com/tangerineturtle1/NX2navi",
-     "★2,947 C"
+     "★3,082 C"
     ],
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,456 C#"
+     "★2,551 C#"
     ],
     [
      "JenkinWoo/sheeridVerify",
      "https://github.com/JenkinWoo/sheeridVerify",
-     "★2,013 JavaScript"
+     "★2,022 JavaScript"
     ],
     [
      "IainKay/ram-altman",
      "https://github.com/IainKay/ram-altman",
-     "★1,838 Shell"
+     "★1,886 Shell"
     ],
     [
      "jamesondh/chimera-vocal-synth",
      "https://github.com/jamesondh/chimera-vocal-synth",
-     "★1,759 Rust"
+     "★1,866 Rust"
     ],
     [
      "DIYgod/pinky",
      "https://github.com/DIYgod/pinky",
-     "★1,746 Go"
+     "★1,829 Go"
     ],
     [
      "mmdoctor/google-pro-helper",
      "https://github.com/mmdoctor/google-pro-helper",
-     "★1,668 Python"
+     "★1,704 Python"
     ],
     [
-     "voyager-so/vork",
-     "https://github.com/voyager-so/vork",
-     "★1,365 Rust"
+     "Kianuni/Erosion-CN",
+     "https://github.com/Kianuni/Erosion-CN",
+     "★1,426 Swift"
     ]
    ],
    "by_lang": {
@@ -484,135 +484,135 @@
      [
       "mmdoctor/google-pro-helper",
       "https://github.com/mmdoctor/google-pro-helper",
-      "★1,668"
+      "★1,704"
      ],
      [
       "WoYun520/gif-factory",
       "https://github.com/WoYun520/gif-factory",
-      "★1,105"
+      "★1,181"
      ],
      [
       "Th0rgal/satmux",
       "https://github.com/Th0rgal/satmux",
-      "★1,036"
+      "★1,039"
      ],
      [
       "farhatullah0006-art/rx-11-audio-editor-config",
       "https://github.com/farhatullah0006-art/rx-11-audio-editor-config",
-      "★771"
+      "★1,034"
      ],
      [
-      "majorminorlabs/hermes-voice",
-      "https://github.com/majorminorlabs/hermes-voice",
-      "★655"
+      "HybridRobotics/supermimic",
+      "https://github.com/HybridRobotics/supermimic",
+      "★962"
      ]
     ],
     "TypeScript": [
      [
+      "tss878/delta-executor-toolkit",
+      "https://github.com/tss878/delta-executor-toolkit",
+      "★1,128"
+     ],
+     [
       "RolandoV3/metatrader-5-bot",
       "https://github.com/RolandoV3/metatrader-5-bot",
-      "★774"
+      "★1,036"
+     ],
+     [
+      "ethangangasingh-crypto/musicmakerunlimited",
+      "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
+      "★1,034"
      ],
      [
       "rdeepak-wq121/quicken-deluxe-installer",
       "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
-      "★773"
+      "★1,034"
      ],
      [
       "SK-Dev666/rust-external-trainer-tool",
       "https://github.com/SK-Dev666/rust-external-trainer-tool",
-      "★773"
-     ],
-     [
-      "Marcian15350/robux-generator-enhancement",
-      "https://github.com/Marcian15350/robux-generator-enhancement",
-      "★773"
-     ],
-     [
-      "tss878/delta-executor-toolkit",
-      "https://github.com/tss878/delta-executor-toolkit",
-      "★772"
+      "★1,034"
      ]
     ],
     "Rust": [
      [
       "jamesondh/chimera-vocal-synth",
       "https://github.com/jamesondh/chimera-vocal-synth",
-      "★1,759"
+      "★1,866"
      ],
      [
       "voyager-so/vork",
       "https://github.com/voyager-so/vork",
-      "★1,365"
+      "★1,389"
      ],
      [
       "thiagoaureliomartins-programador/chief-architect-premier",
       "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
-      "★775"
+      "★826"
      ],
      [
       "Gloridust/WowType",
       "https://github.com/Gloridust/WowType",
-      "★485"
+      "★560"
      ],
      [
-      "PlateParrotTerminal/lag-doctor",
-      "https://github.com/PlateParrotTerminal/lag-doctor",
-      "★452"
+      "BeeCaptivate/pc-cleanup-optimizer",
+      "https://github.com/BeeCaptivate/pc-cleanup-optimizer",
+      "★246"
      ]
     ],
     "Go": [
      [
       "DIYgod/pinky",
       "https://github.com/DIYgod/pinky",
-      "★1,746"
+      "★1,829"
      ],
      [
       "manjushree-iyer/soundpad-audio-suite",
       "https://github.com/manjushree-iyer/soundpad-audio-suite",
-      "★773"
+      "★1,034"
      ],
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★623"
+      "★708"
      ],
      [
       "devvmhq/devvm",
       "https://github.com/devvmhq/devvm",
-      "★545"
+      "★554"
      ],
      [
       "TooonyChen/finallyshell",
       "https://github.com/TooonyChen/finallyshell",
-      "★446"
+      "★450"
      ]
     ],
     "Swift": [
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★5,337"
+      "★5,931"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,235"
+      "★1,426"
      ],
      [
       "JosssphZhou/poki",
       "https://github.com/JosssphZhou/poki",
-      "★937"
+      "★958"
      ],
      [
       "musubipapi/airpointer",
       "https://github.com/musubipapi/airpointer",
-      "★360"
+      "★369"
      ],
      [
       "umarz317/WatchPointer",
       "https://github.com/umarz317/WatchPointer",
-      "★323"
+      "★326"
      ]
     ]
    }
@@ -621,104 +621,104 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥1243"
+    "♥1425"
    ],
    [
     "speridlabs/idol",
     "https://huggingface.co/speridlabs/idol",
-    "♥1895"
+    "♥1941"
    ],
    [
     "moonshotai/Kimi-K3.1-Pro",
     "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "♥1876"
+    "♥1902"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥483"
+    "♥616"
    ],
    [
     "ricursiveAI/Ripple-65B-Preview",
     "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
-    "♥490"
+    "♥498"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11402"
+    "♥11449"
    ],
    [
     "NousResearch/Arete-27B",
     "https://huggingface.co/NousResearch/Arete-27B",
-    "♥409"
+    "♥418"
    ],
    [
     "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥2856"
+    "♥2875"
    ],
    [
     "ccore/Qwen3.5-4B-3D-Coder",
     "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-    "♥976"
+    "♥993"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥19575"
+    "♥19599"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "252,214,826 /สัปดาห์"
+    "253,162,799 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "24,931,416 /สัปดาห์"
+    "25,006,275 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "9,443,701 /สัปดาห์"
+    "9,480,213 /สัปดาห์"
    ],
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "11,212,468 /สัปดาห์"
+    "11,278,570 /สัปดาห์"
    ],
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,425,587 /สัปดาห์"
+    "8,351,847 /สัปดาห์"
    ],
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "91,911,398 /สัปดาห์"
+    "92,077,869 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "263,886,976 /สัปดาห์"
+    "266,237,631 /สัปดาห์"
    ],
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "417,015,344 /สัปดาห์"
+    "418,180,186 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,345,442 /สัปดาห์"
+    "2,364,724 /สัปดาห์"
    ],
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "45,198,537 /สัปดาห์"
+    "45,363,657 /สัปดาห์"
    ]
   ],
   "kev": [
@@ -844,7 +844,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 10,
+    "score": 12,
     "hits": [
      "agent",
      "agents",
@@ -978,27 +978,19 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "ai_new",
-    "text": "โมเดลใหม่ใน Top: Claude Opus 5.5 (Max, Default Fallback)"
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h"
    },
    {
-    "kind": "ai_new",
-    "text": "โมเดลใหม่ใน Top: Gemini 4 Carbon (Medium)"
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Can a Linear Program Do Weight-Space Programming?"
    },
    {
-    "kind": "ai_new",
-    "text": "โมเดลใหม่ใน Top: GPT-6 Astra (Max)"
-   },
-   {
-    "kind": "ai_new",
-    "text": "โมเดลใหม่ใน Top: Claude Fable 5.2 (Medium, Default Fallback)"
-   },
-   {
-    "kind": "ai_new",
-    "text": "โมเดลใหม่ใน Top: GPT-6 Astra (Xhigh)"
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Using voltage glitching to unleash the A100 in my mining card"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 5 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1026,18 +1018,18 @@
     "image:GPT-Image-2.5 Sunburst"
    ],
    "or_top": [
-    "Baidu: ERNIE-5.5-Flash-Preview",
+    "Baidu: ERNIE-5.5-Flash-Preview (free)",
     "Baidu: ERNIE-Light-DT-1.0",
     "Google: Gemini 4 Carbon",
     "Google: Gemini 4 Carbon (batch)",
     "Nex AGI: Nex-N2.6"
    ],
    "hn_top": [
-    "Protecting SSH Keys with macOS Secure Enclave",
-    "Scion is back and is going to sell a kei truck in America",
-    ".name Grandfathered",
-    "Smart home devices should work without the internet",
-    "A great old-timey game-programming hack (2013)"
+    "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "Can a Linear Program Do Weight-Space Programming?",
+    "Using voltage glitching to unleash the A100 in my mining card",
+    "Next-Level Benchmarking Overfitting – Thomas Neumann",
+    "Protecting SSH Keys with macOS Secure Enclave"
    ]
   },
   "year": 2026,
@@ -2210,15 +2202,6 @@
       "modality": "text+image+file->text"
      },
      {
-      "name": "Z.ai: GLM 5.3 Flash (batch)",
-      "org": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
-      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
-      "context": 1048576,
-      "blended": 0.04675,
-      "modality": "text+image+video->text"
-     },
-     {
       "name": "Z.ai: GLM Flash Latest",
       "org": "~z-ai",
       "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
@@ -2234,6 +2217,15 @@
       "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
       "context": 1048576,
       "blended": 0.049525,
+      "modality": "text+image+video->text"
+     },
+     {
+      "name": "Z.ai: GLM 5.3 Flash (batch)",
+      "org": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
+      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
+      "context": 1048576,
+      "blended": 0.0505,
       "modality": "text+image+video->text"
      },
      {
@@ -2321,6 +2313,15 @@
       "modality": "text+image->text"
      },
      {
+      "name": "Baidu: ERNIE-5.5-Flash-Preview (free)",
+      "org": "baidu",
+      "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
+      "note": "context 1,024,000 · ~$0.00/ล้านผสม · text->text",
+      "context": 1024000,
+      "blended": 0.0,
+      "modality": "text->text"
+     },
+     {
       "name": "NVIDIA: Nemotron 3.5 Super VL (free)",
       "org": "nvidia",
       "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
@@ -2355,15 +2356,6 @@
       "context": 512000,
       "blended": 0.0,
       "modality": "text+image->text"
-     },
-     {
-      "name": "LiquidAI: LFM3-1.7B (free)",
-      "org": "liquid",
-      "url": "https://openrouter.ai/liquid/lfm-3-1.7b:free",
-      "note": "context 262,144 · ~$0.00/ล้านผสม · text->text",
-      "context": 262144,
-      "blended": 0.0,
-      "modality": "text->text"
      }
     ]
    },
