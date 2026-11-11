@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:19+00:00",
+ "updated": "2026-11-11T21:56+00:00",
  "snapshot": {
   "ai_top": [
    "Claude Opus 5.5 (Max, Default Fallback)",
@@ -12,7 +12,8 @@
    "Multimodal",
    "AI Agents / Tool use",
    "Coding assistants",
-   "Open-weight / Local models"
+   "Open-weight / Local models",
+   "RAG / Knowledge"
   ],
   "dim_leaders": [
    "text:Gemini 4 Carbon (High)",
@@ -32,11 +33,11 @@
    "Nex AGI: Nex-N2.6"
   ],
   "hn_top": [
-   "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-   "Can a Linear Program Do Weight-Space Programming?",
-   "Using voltage glitching to unleash the A100 in my mining card",
-   "Next-Level Benchmarking Overfitting – Thomas Neumann",
-   "Protecting SSH Keys with macOS Secure Enclave"
+   "AWS emulator",
+   "Tim Peters has died",
+   "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+   "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+   "Gemini Decisions API"
   ]
  },
  "trends": {
@@ -56,7 +57,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 12,
+    "score": 13,
     "hits": [
      "agent",
      "agents",
@@ -68,13 +69,13 @@
    },
    {
     "name": "Coding assistants",
-    "score": 7,
+    "score": 8,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 84
+    "heat": 96
    },
    {
     "name": "Open-weight / Local models",
@@ -84,6 +85,15 @@
      "qwen"
     ],
     "heat": 84
+   },
+   {
+    "name": "RAG / Knowledge",
+    "score": 2,
+    "hits": [
+     "rag",
+     "retrieval"
+    ],
+    "heat": 24
    }
   ],
   "recommendations": [
@@ -189,56 +199,56 @@
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00",
+   "time": "2026-11-11T21:56+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   }
  }
 }

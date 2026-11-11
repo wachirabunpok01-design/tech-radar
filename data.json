@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-11T14:19+00:00",
+ "updated": "2026-11-11T21:56+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00",
+   "time": "2026-11-11T21:56+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-11T14:19+00:00"
+   "time": "2026-11-11T21:56+00:00"
   }
  },
  "tables": [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
-    "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-    "https://pietromiotti.com/latest/maya-site/?maya",
-    "294 คะแนน"
+    "AWS emulator",
+    "https://github.com/aws/aws-emulator",
+    "479 คะแนน"
    ],
    [
-    "Can a Linear Program Do Weight-Space Programming?",
-    "https://nathan.rs/posts/weight-space-lp/",
-    "68 คะแนน"
+    "Tim Peters has died",
+    "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "650 คะแนน"
    ],
    [
-    "Using voltage glitching to unleash the A100 in my mining card",
-    "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-    "79 คะแนน"
+    "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "334 คะแนน"
    ],
    [
-    "Next-Level Benchmarking Overfitting – Thomas Neumann",
-    "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+    "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+    "https://termsheetplease.com/",
+    "116 คะแนน"
+   ],
+   [
+    "Gemini Decisions API",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "139 คะแนน"
+   ],
+   [
+    "GitHub Incident with Webhooks, Actions, etc.",
+    "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
+    "44 คะแนน"
+   ],
+   [
+    "Emacs in the Age of Magic",
+    "https://commandlinesystems.com/magic.txt",
+    "61 คะแนน"
+   ],
+   [
+    "Huawei releases MACaQ, its internal quantizer for local inference",
+    "https://github.com/huawei-csl/MACaQ",
     "25 คะแนน"
    ],
    [
-    "Protecting SSH Keys with macOS Secure Enclave",
-    "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-    "287 คะแนน"
+    "Faster Retrieval for Better, More Efficient RAG",
+    "https://machinelearning.apple.com/research/faster-retrieval",
+    "114 คะแนน"
    ],
    [
-    "Smart home devices should work without the internet",
-    "https://docodethatmatters.com/home-automation-overnight-success/",
-    "1080 คะแนน"
+    "Why are we still working this hard?",
+    "https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/",
+    "185 คะแนน"
    ],
    [
-    "We need more goat sacrifices",
-    "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
-    "15 คะแนน"
+    "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
+    "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+    "30 คะแนน"
    ],
    [
-    ".name Grandfathered",
-    "https://neil.fraser.name/news/2026/11/10/",
-    "898 คะแนน"
-   ],
-   [
-    "Scion is back and is going to sell a kei truck in America",
-    "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-    "513 คะแนน"
-   ],
-   [
-    "Apple has new Mac app coming to make running local AI models easy",
-    "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-    "368 คะแนน"
-   ],
-   [
-    "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-    "https://news.ycombinator.com/item?id=50452404",
-    "1 คะแนน"
-   ],
-   [
-    "I asked every TV manufacturer 17 questions about how they spy on you",
-    "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-    "12 คะแนน"
+    "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+    "https://news.ycombinator.com/item?id=50455811",
+    "37 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "NotRexed/Hookshot",
      "https://github.com/NotRexed/Hookshot",
-     "★7,218 C++"
+     "★7,637 C++"
     ],
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★5,931 Swift"
+     "★6,149 Swift"
     ],
     [
      "tangerineturtle1/NX2navi",
      "https://github.com/tangerineturtle1/NX2navi",
-     "★3,082 C"
+     "★3,200 C"
     ],
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,551 C#"
+     "★2,581 C#"
     ],
     [
      "JenkinWoo/sheeridVerify",
      "https://github.com/JenkinWoo/sheeridVerify",
-     "★2,022 JavaScript"
-    ],
-    [
-     "IainKay/ram-altman",
-     "https://github.com/IainKay/ram-altman",
-     "★1,886 Shell"
+     "★2,033 JavaScript"
     ],
     [
      "jamesondh/chimera-vocal-synth",
      "https://github.com/jamesondh/chimera-vocal-synth",
-     "★1,866 Rust"
+     "★1,950 Rust"
+    ],
+    [
+     "IainKay/ram-altman",
+     "https://github.com/IainKay/ram-altman",
+     "★1,938 Shell"
     ],
     [
      "DIYgod/pinky",
      "https://github.com/DIYgod/pinky",
-     "★1,829 Go"
+     "★1,857 Go"
     ],
     [
      "mmdoctor/google-pro-helper",
      "https://github.com/mmdoctor/google-pro-helper",
-     "★1,704 Python"
+     "★1,724 Python"
     ],
     [
      "Kianuni/Erosion-CN",
      "https://github.com/Kianuni/Erosion-CN",
-     "★1,426 Swift"
+     "★1,504 Swift"
     ]
    ],
    "by_lang": {
@@ -484,76 +484,76 @@
      [
       "mmdoctor/google-pro-helper",
       "https://github.com/mmdoctor/google-pro-helper",
-      "★1,704"
+      "★1,724"
      ],
      [
       "WoYun520/gif-factory",
       "https://github.com/WoYun520/gif-factory",
-      "★1,181"
-     ],
-     [
-      "Th0rgal/satmux",
-      "https://github.com/Th0rgal/satmux",
-      "★1,039"
+      "★1,311"
      ],
      [
       "farhatullah0006-art/rx-11-audio-editor-config",
       "https://github.com/farhatullah0006-art/rx-11-audio-editor-config",
-      "★1,034"
+      "★1,200"
+     ],
+     [
+      "Th0rgal/satmux",
+      "https://github.com/Th0rgal/satmux",
+      "★1,046"
      ],
      [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★962"
+      "★1,015"
      ]
     ],
     "TypeScript": [
      [
+      "ebtsamalhakmy-sketch/desktop-backup-suite",
+      "https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite",
+      "★1,296"
+     ],
+     [
       "tss878/delta-executor-toolkit",
       "https://github.com/tss878/delta-executor-toolkit",
-      "★1,128"
+      "★1,294"
      ],
      [
       "RolandoV3/metatrader-5-bot",
       "https://github.com/RolandoV3/metatrader-5-bot",
-      "★1,036"
+      "★1,203"
      ],
      [
       "ethangangasingh-crypto/musicmakerunlimited",
       "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
-      "★1,034"
+      "★1,200"
      ],
      [
       "rdeepak-wq121/quicken-deluxe-installer",
       "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
-      "★1,034"
-     ],
-     [
-      "SK-Dev666/rust-external-trainer-tool",
-      "https://github.com/SK-Dev666/rust-external-trainer-tool",
-      "★1,034"
+      "★1,200"
      ]
     ],
     "Rust": [
      [
       "jamesondh/chimera-vocal-synth",
       "https://github.com/jamesondh/chimera-vocal-synth",
-      "★1,866"
+      "★1,950"
      ],
      [
       "voyager-so/vork",
       "https://github.com/voyager-so/vork",
-      "★1,389"
+      "★1,431"
      ],
      [
       "thiagoaureliomartins-programador/chief-architect-premier",
       "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
-      "★826"
+      "★1,197"
      ],
      [
       "Gloridust/WowType",
       "https://github.com/Gloridust/WowType",
-      "★560"
+      "★582"
      ],
      [
       "BeeCaptivate/pc-cleanup-optimizer",
@@ -565,54 +565,54 @@
      [
       "DIYgod/pinky",
       "https://github.com/DIYgod/pinky",
-      "★1,829"
+      "★1,857"
      ],
      [
       "manjushree-iyer/soundpad-audio-suite",
       "https://github.com/manjushree-iyer/soundpad-audio-suite",
-      "★1,034"
+      "★1,200"
      ],
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★708"
+      "★804"
      ],
      [
       "devvmhq/devvm",
       "https://github.com/devvmhq/devvm",
-      "★554"
+      "★558"
      ],
      [
       "TooonyChen/finallyshell",
       "https://github.com/TooonyChen/finallyshell",
-      "★450"
+      "★452"
      ]
     ],
     "Swift": [
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★5,931"
+      "★6,149"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,426"
+      "★1,504"
      ],
      [
       "JosssphZhou/poki",
       "https://github.com/JosssphZhou/poki",
-      "★958"
+      "★970"
      ],
      [
       "musubipapi/airpointer",
       "https://github.com/musubipapi/airpointer",
-      "★369"
+      "★370"
      ],
      [
       "umarz317/WatchPointer",
       "https://github.com/umarz317/WatchPointer",
-      "★326"
+      "★327"
      ]
     ]
    }
@@ -621,52 +621,52 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥1425"
-   ],
-   [
-    "speridlabs/idol",
-    "https://huggingface.co/speridlabs/idol",
-    "♥1941"
-   ],
-   [
-    "moonshotai/Kimi-K3.1-Pro",
-    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "♥1902"
+    "♥2642"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥616"
+    "♥680"
+   ],
+   [
+    "speridlabs/idol",
+    "https://huggingface.co/speridlabs/idol",
+    "♥2137"
+   ],
+   [
+    "moonshotai/Kimi-K3.1-Pro",
+    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "♥1929"
    ],
    [
     "ricursiveAI/Ripple-65B-Preview",
     "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
-    "♥498"
-   ],
-   [
-    "Lightricks/LTX-2.5",
-    "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11449"
+    "♥514"
    ],
    [
     "NousResearch/Arete-27B",
     "https://huggingface.co/NousResearch/Arete-27B",
-    "♥418"
+    "♥429"
+   ],
+   [
+    "Lightricks/LTX-2.5",
+    "https://huggingface.co/Lightricks/LTX-2.5",
+    "♥11504"
    ],
    [
     "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥2875"
+    "♥2898"
    ],
    [
     "ccore/Qwen3.5-4B-3D-Coder",
     "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-    "♥993"
+    "♥1015"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥19599"
+    "♥19627"
    ]
   ],
   "npm": [
@@ -844,7 +844,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 12,
+    "score": 13,
     "hits": [
      "agent",
      "agents",
@@ -856,13 +856,13 @@
    },
    {
     "name": "Coding assistants",
-    "score": 7,
+    "score": 8,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 84
+    "heat": 96
    },
    {
     "name": "Open-weight / Local models",
@@ -872,6 +872,15 @@
      "qwen"
     ],
     "heat": 84
+   },
+   {
+    "name": "RAG / Knowledge",
+    "score": 2,
+    "hits": [
+     "rag",
+     "retrieval"
+    ],
+    "heat": 24
    }
   ],
   "recommendations": [
@@ -978,19 +987,23 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h"
+    "kind": "theme_up",
+    "text": "ธีมขึ้นแรง: RAG / Knowledge"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Can a Linear Program Do Weight-Space Programming?"
+    "text": "HN ใหม่ในท็อป: AWS emulator"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Using voltage glitching to unleash the A100 in my mining card"
+    "text": "HN ใหม่ในท็อป: Tim Peters has died"
+   },
+   {
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: A false smoke alarm almost drowned Jane Street's only NYC datacenter"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1005,7 +1018,8 @@
     "Multimodal",
     "AI Agents / Tool use",
     "Coding assistants",
-    "Open-weight / Local models"
+    "Open-weight / Local models",
+    "RAG / Knowledge"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1025,11 +1039,11 @@
     "Nex AGI: Nex-N2.6"
    ],
    "hn_top": [
-    "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-    "Can a Linear Program Do Weight-Space Programming?",
-    "Using voltage glitching to unleash the A100 in my mining card",
-    "Next-Level Benchmarking Overfitting – Thomas Neumann",
-    "Protecting SSH Keys with macOS Secure Enclave"
+    "AWS emulator",
+    "Tim Peters has died",
+    "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+    "Gemini Decisions API"
    ]
   },
   "year": 2026,
