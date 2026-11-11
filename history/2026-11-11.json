@@ -1,12 +1,22 @@
 {
- "updated": "2026-11-11T05:28+00:00",
+ "updated": "2026-11-11T05:36+00:00",
  "snapshot": {
   "ai_top": [],
   "themes": [
-   "Open-weight / Local models",
-   "Coding assistants",
    "Multimodal",
-   "AI Agents / Tool use"
+   "AI Agents / Tool use",
+   "Coding assistants",
+   "Open-weight / Local models"
+  ],
+  "dim_leaders": [
+   "text:Gemini 4 Carbon (High)",
+   "webdev:Claude Fable 5.2 (xHigh)",
+   "agent:Claude Opus 5.5 (Max)",
+   "vision:Claude Fable 5 (High)",
+   "search:Qwen3.8-Max",
+   "factual:Gemini 4 Carbon (High)",
+   "document:Claude Fable 5.1 (Max)",
+   "image:GPT-Image-2.5 Sunburst"
   ],
   "or_top": [
    "Baidu: ERNIE-5.5-Flash-Preview",
@@ -25,46 +35,112 @@
  },
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Open-weight / Local models, Coding assistants, Multimodal. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
+    "name": "Multimodal",
+    "score": 16,
+    "hits": [
+     "multimodal",
+     "vision",
+     "image",
+     "audio"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "AI Agents / Tool use",
+    "score": 10,
+    "hits": [
+     "agent",
+     "agents",
+     "tool use",
+     "tool-calling",
+     "mcp"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "Coding assistants",
+    "score": 7,
+    "hits": [
+     "coding",
+     "copilot",
+     "ide"
+    ],
+    "heat": 84
+   },
+   {
     "name": "Open-weight / Local models",
-    "score": 6,
+    "score": 7,
     "hits": [
      "deepseek",
      "qwen"
     ],
-    "heat": 72
-   },
-   {
-    "name": "Coding assistants",
-    "score": 3,
-    "hits": [
-     "coding",
-     "ide"
-    ],
-    "heat": 36
-   },
-   {
-    "name": "Multimodal",
-    "score": 3,
-    "hits": [
-     "image",
-     "audio"
-    ],
-    "heat": 36
-   },
-   {
-    "name": "AI Agents / Tool use",
-    "score": 2,
-    "hits": [
-     "agent",
-     "agents"
-    ],
-    "heat": 24
+    "heat": 84
    }
   ],
   "recommendations": [
+   {
+    "tier": "use",
+    "title": "Gemini 4 Carbon (High) · Text",
+    "why": "อันดับ 1 บน LMArena · Text — เหมาะงาน: chat, อธิบาย, ร่างข้อความ",
+    "tags": [
+     "Text",
+     "google",
+     "chat, อธิบาย, ร่างข้อความ"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Claude Fable 5.2 (xHigh) · WebDev",
+    "why": "อันดับ 1 บน LMArena · WebDev — เหมาะงาน: เขียนเว็บ, UI, frontend",
+    "tags": [
+     "WebDev",
+     "anthropic",
+     "เขียนเว็บ, UI, frontend"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Claude Opus 5.5 (Max) · Agent",
+    "why": "อันดับ 1 บน LMArena · Agent — เหมาะงาน: agent, tool-calling, automation",
+    "tags": [
+     "Agent",
+     "anthropic",
+     "agent, tool-calling, automation"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Claude Fable 5 (High) · Vision",
+    "why": "อันดับ 1 บน LMArena · Vision — เหมาะงาน: อ่านรูป, screenshot, UI review",
+    "tags": [
+     "Vision",
+     "anthropic",
+     "อ่านรูป, screenshot, UI review"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Qwen3.8-Max · Search",
+    "why": "อันดับ 1 บน LMArena · Search — เหมาะงาน: search-augmented, research",
+    "tags": [
+     "Search",
+     "alibaba",
+     "search-augmented, research"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Gemini 4 Carbon (High) · Factual",
+    "why": "อันดับ 1 บน LMArena · Factual — เหมาะงาน: คำตอบที่ต้องถูกต้อง",
+    "tags": [
+     "Factual",
+     "google",
+     "คำตอบที่ต้องถูกต้อง"
+    ]
+   },
    {
     "tier": "use",
     "title": "Gemini 4 Carbon (High)",
@@ -86,7 +162,7 @@
    {
     "tier": "watch",
     "title": "Baidu: ERNIE-5.5-Flash-Preview",
-    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-10 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
+    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-11 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
     "tags": [
      "OpenRouter",
      "ใหม่"
@@ -100,33 +176,6 @@
      "Hugging Face",
      "trending"
     ]
-   },
-   {
-    "tier": "watch",
-    "title": "Open-weight / local models",
-    "why": "สัญญาณจาก HN/HF/GitHub ชี้ว่า open-weight กำลังร้อน — ลองถ้าต้องการคุมข้อมูลหรือต้นทุน",
-    "tags": [
-     "open-weight",
-     "local"
-    ]
-   },
-   {
-    "tier": "use",
-    "title": "Coding assistants / IDE agents",
-    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
-    "tags": [
-     "coding",
-     "devtools"
-    ]
-   },
-   {
-    "tier": "caution",
-    "title": "CVE-2026-124194 Microsoft Office",
-    "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
-    "tags": [
-     "security",
-     "KEV"
-    ]
    }
   ],
   "method": "นับคำจากแหล่งสด + อันดับโมเดล ไม่ใช่ความเห็นบรรณาธิการ — รีเฟรชอัตโนมัติทุกครั้งที่สคริปต์รัน"
@@ -134,44 +183,53 @@
  "status": {
   "aa": {
    "ok": false,
-   "time": "2026-11-11T05:28+00:00",
+   "time": "2026-11-11T05:36+00:00",
    "msg": "ไม่มี secret AA_API_KEY"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
+  },
+  "dims": {
+   "ok": true,
+   "time": "2026-11-11T05:36+00:00",
+   "msg": "8 boards"
+  },
+  "dimensions": {
+   "ok": true,
+   "time": "2026-11-11T05:36+00:00"
   }
  }
 }

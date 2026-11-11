@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Tech Radar อัปเดตอัตโนมัติ — เทรนปี AI models คำแนะนำน่าใช้ และแหล่งข้อมูลสด">
-<title>Tech Radar — เทรนอัปเดตอัตโนมัติ</title>
+<meta name="description" content="Tech Radar — มิติโมเดลแยกตามงาน WebDev Agent Vision Search และเทรนปีอัปเดตอัตโนมัติ">
+<title>Tech Radar — มิติโมเดล & เทรน</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
@@ -21,9 +21,10 @@
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.7 "IBM Plex Sans Thai",system-ui,sans-serif;
   padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
-.w{max-width:980px;margin:0 auto;padding:26px 18px 72px}
+.w{max-width:1040px;margin:0 auto;padding:26px 18px 72px}
 h1{font-size:clamp(1.75rem,5vw,2.55rem);margin:0 0 6px;line-height:1.2;letter-spacing:-.02em}
 h2{font-size:1.28rem;margin:0 0 6px}
+h3{font-size:1.05rem;margin:0 0 4px}
 .m{color:var(--mut);font-size:14px}a{color:var(--ac)}
 .hero{margin-bottom:8px}
 .tabs{display:flex;gap:6px;overflow-x:auto;margin:16px 0 12px;padding-bottom:4px;-webkit-overflow-scrolling:touch}
@@ -40,7 +41,7 @@ h2{font-size:1.28rem;margin:0 0 6px}
 .g{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
 .g ol{margin:6px 0 0;padding-left:1.3em;font-size:14.5px}
 table{border-collapse:collapse;width:100%;font-size:14.5px;min-width:640px}
-th,td{text-align:left;padding:8px 9px;border-top:1px solid var(--ln)}
+th,td{text-align:left;padding:8px 9px;border-top:1px solid var(--ln);vertical-align:top}
 th{color:var(--mut);font-weight:500}.sc{overflow-x:auto}
 .nw{background:var(--ams);color:var(--am);font-size:12px;border-radius:99px;padding:0 7px;margin-left:5px}
 .s{display:inline-block;font-size:12.5px;border-radius:99px;padding:0 9px;margin:2px 4px 2px 0;background:var(--acs);color:var(--ac)}
@@ -60,6 +61,16 @@ th{color:var(--mut);font-weight:500}.sc{overflow-x:auto}
 .legend{display:flex;flex-wrap:wrap;gap:10px;font-size:13px;color:var(--mut);margin:8px 0 0}
 .legend span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
 .legend .u::before{background:var(--use)}.legend .w::before{background:var(--watch)}.legend .c::before{background:var(--caut)}
+.pick{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;margin-top:10px}
+.pick .p{border:1px solid var(--ln);border-radius:10px;padding:12px;background:var(--bg)}
+.pick .p .k{font-size:12.5px;color:var(--mut);margin-bottom:2px}
+.pick .p .v{font-weight:700;line-height:1.35}
+.pick .p .sc{font-size:13px;color:var(--ac);font-weight:600;margin-top:4px}
+.dimnav{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
+.dimnav button{font:inherit;font-size:13px;padding:5px 11px;border-radius:99px;border:1px solid var(--ln);background:var(--sf);cursor:pointer;color:var(--ink)}
+.dimnav button.on{background:var(--ink);color:var(--sf);border-color:var(--ink)}
+.rankpill{display:inline-block;min-width:1.6em;text-align:center;font-size:12px;font-weight:700;border-radius:6px;padding:1px 6px;background:var(--acs);color:var(--ac)}
+.rankpill.na{background:transparent;color:var(--mut);font-weight:500}
 </style>
 </head>
 <body>
@@ -71,7 +82,7 @@ th{color:var(--mut);font-weight:500}.sc{overflow-x:auto}
   </div>
   <div class="tabs" id="tabs" role="tablist"></div>
   <div id="view"></div>
-  <p class="m">ข้อมูลจาก LMArena (CC BY 4.0), <a href="https://artificialanalysis.ai/">Artificial Analysis</a>, Hacker News, GitHub, Hugging Face, npm, CISA KEV, FIRST EPSS — อัปเดตอัตโนมัติผ่าน GitHub Actions</p>
+  <p class="m">ข้อมูลจาก LMArena (CC BY 4.0), <a href="https://artificialanalysis.ai/">Artificial Analysis</a>, OpenRouter, Hacker News, GitHub, Hugging Face, npm, CISA KEV, FIRST EPSS — อัปเดตอัตโนมัติผ่าน GitHub Actions</p>
 </div>
 <script>
 const $=s=>document.querySelector(s);
@@ -86,7 +97,7 @@ const LN={
   epss:"ช่องโหว่ที่มีโอกาสถูกโจมตีสูงสุด (EPSS)"
 };
 const TIER={use:["น่าใช้","use"],watch:["น่าจับตา","watch"],caution:["ระวัง","caution"]};
-let D;
+let D, dimFocus=null;
 const fx=(x,n)=>x==null||x===""?"-":Number(x).toFixed(n);
 
 function hashTab(){
@@ -112,7 +123,7 @@ function trendsTab(){
     const [label,cls]=TIER[r.tier]||["ดูเพิ่ม","watch"];
     return `<div class="rec ${cls}"><span class="badge ${cls}">${label}</span><b>${esc(r.title)}</b>
       <div style="margin-top:4px">${esc(r.why)}</div>
-      <div>${(r.tags||[]).map(x=>`<span class="tag">${esc(x)}</span>`).join("")}</div></div>`;
+      <div>${(r.tags||[]).filter(Boolean).map(x=>`<span class="tag">${esc(x)}</span>`).join("")}</div></div>`;
   }).join("")||'<div class="m">ยังไม่มีคำแนะนำ</div>';
 
   const changes=ch.items&&ch.items.length
@@ -127,7 +138,7 @@ function trendsTab(){
     </div>
     <div class="card">
       <h2>คำแนะนำสำหรับ dev</h2>
-      <div class="m">เรียงจากสัญญาณจริงบนบอร์ด ไม่ใช่โฆษณาค่าย — ทดสอบกับงานคุณก่อนล็อกสแตก</div>
+      <div class="m">รวมจากมิติเฉพาะทาง + บอร์ดรวม — ทดสอบกับงานคุณก่อนล็อกสแตก</div>
       ${recs}
     </div>
     <div class="card">
@@ -142,6 +153,99 @@ function trendsTab(){
     </div>`;
 }
 
+function dimensionsTab(){
+  const d=D.dimensions||{};
+  const boards=d.boards||[];
+  const picks=d.picks||[];
+  const matrix=d.matrix||[];
+  const aa=d.aa_dims||[];
+  const specs=d.specialties||{};
+  const focus=dimFocus && boards.find(b=>b.id===dimFocus) ? dimFocus : (boards[0]&&boards[0].id);
+  dimFocus=focus;
+  const board=boards.find(b=>b.id===focus)||boards[0];
+
+  const pickHtml=picks.length?`<div class="pick">${picks.map(p=>`
+    <div class="p">
+      <div class="k">${esc(p.label)}</div>
+      <div class="v">${esc(p.model)}</div>
+      <div class="sc">${esc(p.score_label)} · ${esc(p.org||"")}</div>
+      <div class="m" style="margin-top:6px">${esc(p.use||"")}</div>
+    </div>`).join("")}</div>`:'<div class="m">ยังไม่มีมิติ</div>';
+
+  const nav=boards.map(b=>`<button type="button" data-dim="${esc(b.id)}" class="${b.id===focus?'on':''}">${esc(b.short)}</button>`).join("");
+
+  let boardHtml='<div class="m">ยังดึงบอร์ดมิติไม่ได้</div>';
+  if(board){
+    boardHtml=`
+      <h3>${esc(board.label)}</h3>
+      <div class="m">อัปเดต ${esc(board.date||"")} · งานที่เหมาะ: ${esc(board.use||"")}</div>
+      <div class="why"><b>ทำไมสำคัญ:</b> ${esc(board.tip||"")}</div>
+      ${(board.items||[]).map((it,i)=>`
+        <div class="r">
+          <div class="n">${it.rank||i+1}</div>
+          <div class="t"><span>${esc(it.name)} <span class="m">${esc(it.org||"")}</span></span><span>${esc(it.score_label)}</span></div>
+          <div class="bar"><i style="width:${Math.min(100,it.bar||0)}%"></i></div>
+          <p>${esc(it.meta||"")}</p>
+        </div>`).join("")}`;
+  }
+
+  const dimIds=boards.map(b=>b.id);
+  const matrixHtml=matrix.length?`<div class="sc"><table>
+    <tr><th>โมเดล</th><th>ค่าย</th>${dimIds.map(id=>`<th>${esc((boards.find(b=>b.id===id)||{}).short||id)}</th>`).join("")}<th>#มิติ</th></tr>
+    ${matrix.map(row=>`<tr>
+      <td>${esc(row.name)}</td><td>${esc(row.org||"")}</td>
+      ${dimIds.map(id=>{
+        const r=row.ranks&&row.ranks[id];
+        return r!=null?`<td><span class="rankpill">#${r}</span></td>`:`<td><span class="rankpill na">—</span></td>`;
+      }).join("")}
+      <td>${row.appear||0}</td>
+    </tr>`).join("")}
+  </table></div>`:'<div class="m">ยังสรุปตารางไขว้ไม่ได้</div>';
+
+  const aaHtml=aa.length?`<div class="pick">${aa.map(x=>`
+    <div class="p"><div class="k">${esc(x.label)}</div><div class="v">${esc(x.model)}</div>
+    <div class="sc">${esc(x.score_label)}</div><div class="m" style="margin-top:6px">${esc(x.why||"")}</div></div>`).join("")}</div>`:'';
+
+  const specKeys=Object.keys(specs);
+  const specHtml=specKeys.length?`<div class="g">${specKeys.map(k=>{
+    const s=specs[k];
+    return `<div class="card" style="margin:0"><b>${esc(s.title||k)}</b><div class="m">${esc(s.tip||"")}</div>
+      <ol>${(s.items||[]).map(it=>`<li><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.name)}</a> <span class="m">${esc(it.note||"")}</span></li>`).join("")||'<li class="m">—</li>'}</ol></div>`;
+  }).join("")}</div>`:'';
+
+  $('#view').innerHTML=`
+    <div class="card">
+      <h2>มิติโมเดล — แยกตามงานจริง</h2>
+      <p>${esc(d.blurb||"")}</p>
+      <div class="m">${esc(d.method||"")}</div>
+      ${pickHtml}
+    </div>
+    <div class="card">
+      <h2>บอร์ดรายมิติ (LMArena)</h2>
+      <div class="dimnav" id="dimnav">${nav}</div>
+      ${boardHtml}
+    </div>
+    <div class="card">
+      <h2>ตารางไขว้ — ใครเก่งหลายด้าน</h2>
+      <div class="m">ตัวเลขคืออันดับในมิตินั้น (ยิ่งน้อยยิ่งดี) — โมเดลที่โผล่หลายคอลัมน์ = เอนกประสงค์</div>
+      ${matrixHtml}
+    </div>
+    ${aaHtml?`<div class="card"><h2>มิติจาก Artificial Analysis</h2>${aaHtml}<div class="m">ต้องมี AA_API_KEY ถึงจะอัปเดตสด</div></div>`:''}
+    ${specHtml?`<div class="card"><h2>มิติราคา / Context / Multimodal (OpenRouter)</h2>${specHtml}</div>`:''}
+    <div class="warn">คะแนนคนละบอร์ดเทียบกันตรง ๆ ไม่ได้ (สเกลต่างกัน) — ใช้เทียบอันดับภายในมิติเดียวกัน แล้วเลือกตามงาน</div>
+    <div class="m">แหล่ง: ${(d.source||[]).map(a=>`<a href="${esc(a[1])}" target="_blank" rel="noopener">${esc(a[0])}</a>`).join(' · ')}</div>`;
+
+  const navEl=$('#dimnav');
+  if(navEl){
+    navEl.onclick=e=>{
+      const b=e.target.closest('button[data-dim]');
+      if(!b) return;
+      dimFocus=b.dataset.dim;
+      dimensionsTab();
+    };
+  }
+}
+
 function aiTab(){
   const c=D.ai.compare, ar=c.filter(r=>r.arena!=null), vp=c.filter(r=>r.price>0);
   const la=c[0], lr=ar.length?ar.reduce((a,b)=>b.arena>a.arena?b:a):null;
@@ -152,14 +256,13 @@ function aiTab(){
     bv?`<li>คุ้มค่าสุด (คะแนนต่อราคา): <b>${esc(bv.name)}</b></li>`:'',
     nw.length?`<li>เพิ่งเข้า Top 15: ${nw.map(r=>esc(r.name)).join(', ')}</li>`:''
   ].join('');
-  $('#view').innerHTML=`<div class="card"><h2>AI Models: เทียบทุกบอร์ดในที่เดียว</h2>
-    <div class="m">รวมคะแนนจาก Artificial Analysis และ LMArena (จับคู่ตามชื่อโมเดล ถ้าไม่พบขึ้น -)</div>
+  $('#view').innerHTML=`<div class="card"><h2>AI Models: เทียบ AA + Arena</h2>
+    <div class="m">ภาพรวมรวมบอร์ด — ดูแท็บ <b>มิติโมเดล</b> สำหรับแยก Coding/Agent/Vision ละเอียด</div>
     <ul>${ins}</ul>
-    <div class="sc"><table><tr><th>โมเดล</th><th>ค่าย</th><th>AA Index</th><th>Coding</th><th>Agentic</th><th>Arena</th><th>ราคาผสม $/ล้าน</th><th>tok/s</th></tr>
-    ${c.map(r=>`<tr><td>${esc(r.name)}${r.new?'<span class="nw">ใหม่</span>':''}</td><td>${esc(r.org)}</td><td>${fx(r.aa,1)}</td><td>${fx(r.coding,1)}</td><td>${fx(r.agentic,1)}</td><td>${r.arena??'-'}</td><td>${fx(r.price,2)}</td><td>${fx(r.speed,0)}</td></tr>`).join('')}
+    <div class="sc"><table><tr><th>โมเดล</th><th>ค่าย</th><th>AA</th><th>Coding</th><th>Agentic</th><th>Arena</th><th>WebDev#</th><th>Agent#</th><th>$/ล้าน</th><th>tok/s</th></tr>
+    ${c.map(r=>`<tr><td>${esc(r.name)}${r.new?'<span class="nw">ใหม่</span>':''}</td><td>${esc(r.org)}</td><td>${fx(r.aa,1)}</td><td>${fx(r.coding,1)}</td><td>${fx(r.agentic,1)}</td><td>${r.arena??'-'}</td><td>${r.webdev_rank??'-'}</td><td>${r.agent_rank??'-'}</td><td>${fx(r.price,2)}</td><td>${fx(r.speed,0)}</td></tr>`).join('')}
     </table></div>
-    <div class="why"><b>อ่านยังไง:</b> AA Index คือคะแนนทดสอบมาตรฐาน Arena คือความชอบผู้ใช้ ถ้าสูงคนละบอร์ด แปลว่าเก่งคนละแบบ — เลือกตามงานแล้วทดสอบโจทย์จริง</div>
-    <div class="warn">คะแนนจากสองแหล่งใช้วิธีวัดและวันที่ต่างกัน จับคู่ชื่อแบบเข้มงวด อาจพลาดโมเดลที่ตั้งชื่อต่างกัน</div>
+    <div class="why"><b>อ่านยังไง:</b> AA คือทดสอบมาตรฐาน Arena คือความชอบผู้ใช้ WebDev#/Agent# คืออันดับบน LMArena แยกมิติ</div>
   </div>`;
 }
 
@@ -198,6 +301,7 @@ function tab(id){
   document.querySelectorAll('#tabs button').forEach(b=>b.setAttribute('aria-selected', b.dataset.t===id));
   history.replaceState(null,'','#'+id);
   if(id==='trends') return trendsTab();
+  if(id==='dims') return dimensionsTab();
   if(id==='ai') return aiTab();
   if(id==='live') return liveTab();
   boardTab(id);
@@ -208,6 +312,7 @@ fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{
   $('#up').textContent=d.updated?'อัปเดตล่าสุด '+new Date(d.updated).toLocaleString('th-TH'):'ยังไม่เคยรันสคริปต์อัปเดต (แสดงข้อมูลตั้งต้น)';
   $('#st').innerHTML=Object.entries(d.status||{}).map(([k,v])=>`<span class="s ${v.ok?'':'f'}" title="${esc(v.msg||'')}">${k}: ${v.ok?'สำเร็จ':'ล้มเหลว'}</span>`).join('');
   const tabs=[
+    ...(d.dimensions&&d.dimensions.boards&&d.dimensions.boards.length?[['dims','มิติโมเดล']]:[]),
     ...(d.trends?[['trends','เทรนปี']]:[]),
     ...(d.ai&&d.ai.compare&&d.ai.compare.length?[['ai','AI Models']]:[]),
     ...d.tables.map(t=>[t.id,t.tab]),

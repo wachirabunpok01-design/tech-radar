@@ -26,6 +26,77 @@ YEAR = dt.date.today().year
 AA_ROWS: list[dict] = []
 ARENA: dict[str, float] = {}
 OR_NEW: list = []
+OR_MODELS: list[dict] = []
+ARENA_DIMS: dict[str, dict] = {}
+
+# มิติจาก LMArena (config บน HuggingFace dataset)
+DIM_SPECS = [
+    {
+        "id": "text",
+        "config": "text",
+        "label": "สนทนา / เขียนทั่วไป",
+        "short": "Text",
+        "use": "chat, อธิบาย, ร่างข้อความ",
+        "tip": "คะแนนจากโหวตผู้ใช้จริงในงานคุย/เขียนทั่วไป — เหมาะเป็น default สำหรับงานภาษา",
+    },
+    {
+        "id": "webdev",
+        "config": "webdev",
+        "label": "WebDev / Coding UI",
+        "short": "WebDev",
+        "use": "เขียนเว็บ, UI, frontend",
+        "tip": "เน้นงานสร้างเว็บและโค้ดหน้าบ้าน — สำคัญถ้าคุณใช้ AI ช่วยเขียนแอป",
+    },
+    {
+        "id": "agent",
+        "config": "agent",
+        "label": "Agent / Tool use",
+        "short": "Agent",
+        "use": "agent, tool-calling, automation",
+        "tip": "วัดผลงาน agent จริง (ไม่ใช่แค่ chat) — ดูถ้าทำระบบ agent / IDE agent",
+        "score_kind": "ratio",
+    },
+    {
+        "id": "vision",
+        "config": "vision",
+        "label": "Vision / รูปภาพ",
+        "short": "Vision",
+        "use": "อ่านรูป, screenshot, UI review",
+        "tip": "โมเดลที่เก่งมองรูป — เหมาะงานวิเคราะห์ภาพ/เอกสารสแกน",
+    },
+    {
+        "id": "search",
+        "config": "search",
+        "label": "Search / หาข้อมูล",
+        "short": "Search",
+        "use": "search-augmented, research",
+        "tip": "งานค้นและตอบจากเว็บ — ใกล้เคียง workflow วิจัย/ข่าว",
+    },
+    {
+        "id": "factual",
+        "config": "text_factuality",
+        "label": "ข้อเท็จจริง (Factuality)",
+        "short": "Factual",
+        "use": "คำตอบที่ต้องถูกต้อง",
+        "tip": "เน้นความถูกต้องของข้อเท็จจริงมากกว่าความลื่นของภาษา",
+    },
+    {
+        "id": "document",
+        "config": "document",
+        "label": "เอกสารยาว",
+        "short": "Docs",
+        "use": "สรุปเอกสาร, contract, PDF",
+        "tip": "งานเอกสารยาว — ดูถ้าใช้ AI กับรายงาน/สัญญา/คู่มือ",
+    },
+    {
+        "id": "image",
+        "config": "text_to_image",
+        "label": "สร้างรูป (Text→Image)",
+        "short": "Image",
+        "use": "generate รูปจากข้อความ",
+        "tip": "บอร์ดสร้างภาพ — คนละกลุ่มกับ LLM แชท",
+    },
+]
 
 
 def norm(n: str) -> str:
@@ -204,21 +275,292 @@ def epss():
 
 
 def openrouter():
-    global OR_NEW
-    d = [m for m in get("https://openrouter.ai/api/v1/models")["data"] if m.get("created")]
-    d.sort(key=lambda m: -m["created"])
-    out = []
-    for m in d[:10]:
+    global OR_NEW, OR_MODELS
+    raw = [m for m in get("https://openrouter.ai/api/v1/models")["data"] if m.get("created")]
+    models = []
+    for m in raw:
         p = m.get("pricing") or {}
         try:
-            price = f"${float(p.get('prompt', 0)) * 1e6:.2f} / ${float(p.get('completion', 0)) * 1e6:.2f} ต่อล้าน tokens"
+            prompt = float(p.get("prompt") or 0) * 1e6
+            completion = float(p.get("completion") or 0) * 1e6
+            blended = prompt * 0.75 + completion * 0.25
         except Exception:
-            price = "ราคาไม่ระบุ"
-        c = m.get("context_length")
-        c = f"{c:,}" if c else "?"
-        out.append([m["name"], f"https://openrouter.ai/{m['id']}", f"{dt.date.fromtimestamp(m['created'])} · context {c} · {price}"])
-    OR_NEW = out
+            prompt = completion = blended = None
+        arch = m.get("architecture") or {}
+        mods_in = arch.get("input_modalities") or []
+        mods_out = arch.get("output_modalities") or []
+        models.append(
+            dict(
+                id=m.get("id"),
+                name=m.get("name") or m.get("id"),
+                url=f"https://openrouter.ai/{m.get('id')}",
+                created=m.get("created"),
+                context=m.get("context_length") or 0,
+                prompt=prompt,
+                completion=completion,
+                blended=blended,
+                modality=arch.get("modality") or "",
+                input_modalities=mods_in,
+                output_modalities=mods_out,
+                reasoning=bool(m.get("reasoning")),
+            )
+        )
+    OR_MODELS = models
+    newest = sorted(models, key=lambda x: -x["created"])[:10]
+    OR_NEW = []
+    out = []
+    for m in newest:
+        price = (
+            f"${m['prompt']:.2f} / ${m['completion']:.2f} ต่อล้าน tokens"
+            if m["prompt"] is not None
+            else "ราคาไม่ระบุ"
+        )
+        c = f"{m['context']:,}" if m["context"] else "?"
+        row = [m["name"], m["url"], f"{dt.date.fromtimestamp(m['created'])} · context {c} · {price}"]
+        out.append(row)
+        OR_NEW.append(row)
     return out
+
+
+def _arena_score(row: dict) -> float:
+    if row.get("rating") is not None:
+        return float(row["rating"])
+    if row.get("score") is not None:
+        return float(row["score"])
+    return 0.0
+
+
+def fetch_arena_config(config: str, limit: int = 8) -> list[dict]:
+    u = (
+        "https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset"
+        f"&config={config}&split=latest&offset=0&length=100"
+    )
+    rows = [r["row"] for r in get(u)["rows"]]
+    if not rows:
+        return []
+    if any(r.get("category") == "overall" for r in rows):
+        rows = [r for r in rows if r.get("category") == "overall"]
+    rows.sort(key=lambda r: -_arena_score(r))
+    out = []
+    for i, r in enumerate(rows[:limit]):
+        score = _arena_score(r)
+        out.append(
+            dict(
+                rank=int(r.get("rank") or i + 1),
+                name=r.get("model_name") or "",
+                org=r.get("organization") or "",
+                score=score,
+                votes=int(r.get("vote_count") or r.get("observation_count") or 0),
+                date=str(r.get("leaderboard_publish_date") or TODAY),
+                license=r.get("license") or "",
+            )
+        )
+    return out
+
+
+def arena_dimensions():
+    """ดึงบอร์ดแยกมิติจาก LMArena หลาย config"""
+    global ARENA_DIMS, ARENA
+    boards = []
+    for spec in DIM_SPECS:
+        items = fetch_arena_config(spec["config"], limit=8)
+        if not items:
+            continue
+        kind = spec.get("score_kind") or "elo"
+        top = items[0]["score"] or 1
+        formatted = []
+        for it in items:
+            if kind == "ratio":
+                label = f"{it['score'] * 100:.1f}%"
+                bar = round(it["score"] / top * 100) if top else 0
+            else:
+                label = str(round(it["score"]))
+                bar = round(it["score"] / top * 100) if top else 0
+            formatted.append(
+                {
+                    **it,
+                    "score_label": label,
+                    "bar": bar,
+                    "meta": f"โหวต/สังเกต ~{it['votes']:,}" if it["votes"] else it.get("license") or "",
+                }
+            )
+        board = {
+            "id": spec["id"],
+            "config": spec["config"],
+            "label": spec["label"],
+            "short": spec["short"],
+            "use": spec["use"],
+            "tip": spec["tip"],
+            "score_kind": kind,
+            "date": formatted[0]["date"],
+            "leader": formatted[0]["name"],
+            "items": formatted,
+        }
+        boards.append(board)
+        ARENA_DIMS[spec["id"]] = board
+        if spec["id"] == "text":
+            ARENA = {it["name"]: it["score"] for it in formatted}
+    return boards
+
+
+def build_or_specialties() -> dict:
+    """มิติจาก OpenRouter: ราคา, context, multimodal, reasoning"""
+    def usable(m: dict) -> bool:
+        mid = (m.get("id") or "").lower()
+        name = (m.get("name") or "").lower()
+        # ตัด router / ราคาพิเศษที่ทำให้ตัวเลขเพี้ยน
+        if mid.startswith("openrouter/") or "auto router" in name or "auto code" in name:
+            return False
+        b = m.get("blended")
+        if b is not None and (b < 0 or b > 500):
+            return False
+        return bool(m.get("name"))
+
+    models = [m for m in OR_MODELS if usable(m)]
+    if not models:
+        return {}
+
+    def row(m, note):
+        return {
+            "name": m["name"],
+            "org": (m.get("id") or "").split("/")[0],
+            "url": m["url"],
+            "note": note,
+            "context": m.get("context") or 0,
+            "blended": m.get("blended"),
+            "modality": m.get("modality") or "",
+        }
+
+    paid = [m for m in models if isinstance(m.get("blended"), (int, float)) and 0 < m["blended"] <= 500]
+    long_ctx = sorted(
+        [m for m in models if (m.get("context") or 0) >= 200_000],
+        key=lambda m: (-m["context"], m["blended"] if m.get("blended") is not None and m["blended"] > 0 else 9e9),
+    )
+    value = sorted(
+        [m for m in paid if (m.get("context") or 0) >= 64_000],
+        key=lambda m: (m["blended"] / max((m.get("context") or 1) / 1000, 1)),
+    )
+    multi = [
+        m
+        for m in models
+        if any(x in (m.get("input_modalities") or []) for x in ("image", "audio", "video", "file"))
+        or ("image" in (m.get("modality") or "") or "audio" in (m.get("modality") or "") or "video" in (m.get("modality") or ""))
+    ]
+    multi = sorted(
+        multi,
+        key=lambda m: (
+            -len(m.get("input_modalities") or []),
+            m["blended"] if m.get("blended") is not None and m["blended"] > 0 else 9e9,
+        ),
+    )
+    reason = [m for m in models if m.get("reasoning")]
+    reason = sorted(
+        reason,
+        key=lambda m: (
+            m["blended"] if m.get("blended") is not None and m["blended"] >= 0 else 9e9,
+            -m.get("context", 0),
+        ),
+    )
+    cheap = sorted(paid, key=lambda m: m["blended"])
+
+    def pack(title, tip, items, n=6):
+        out = []
+        for m in items[:n]:
+            bits = []
+            if m.get("context"):
+                bits.append(f"context {m['context']:,}")
+            if m.get("blended") is not None:
+                bits.append(f"~${m['blended']:.2f}/ล้านผสม")
+            if m.get("modality"):
+                bits.append(m["modality"])
+            out.append(row(m, " · ".join(bits) or tip))
+        return {"title": title, "tip": tip, "items": out}
+
+    return {
+        "long_context": pack("Context ยาวพิเศษ (≥200K)", "เหมาะงานเอกสารยาว / codebase ใหญ่", long_ctx),
+        "value": pack("คุ้ม context ต่อราคา", "ได้ context เยอะในราคาไม่แพง (ประมาณการจาก OpenRouter)", value),
+        "multimodal": pack("Multimodal (รับรูป/ไฟล์/เสียง/วิดีโอ)", "ใช้เมื่องานไม่ใช่แค่ข้อความ", multi),
+        "reasoning": pack("มีโหมด Reasoning", "โมเดลที่ OpenRouter ติดธง reasoning", reason),
+        "cheap": pack("ราคาถูกสุด (ประมาณ)", "งานปริมาณมากที่คุณภาพไม่ต้องท็อปสุด", cheap),
+    }
+
+
+def build_dimensions(boards: list[dict]) -> dict:
+    """สรุปมิติ + ตารางไขว้ + คำแนะนำตามงาน"""
+    picks = []
+    for b in boards:
+        if not b.get("items"):
+            continue
+        top = b["items"][0]
+        picks.append(
+            {
+                "dim": b["id"],
+                "label": b["label"],
+                "short": b["short"],
+                "model": top["name"],
+                "org": top["org"],
+                "score_label": top["score_label"],
+                "use": b["use"],
+                "why": f"อันดับ 1 บน LMArena · {b['short']} — เหมาะงาน: {b['use']}",
+            }
+        )
+
+    # ตารางไขว้: โมเดลที่โผล่หลายมิติ
+    rank_map: dict[str, dict] = {}
+    for b in boards:
+        for it in b.get("items") or []:
+            name = it["name"]
+            slot = rank_map.setdefault(name, {"name": name, "org": it.get("org") or "", "ranks": {}, "appear": 0})
+            slot["ranks"][b["id"]] = it["rank"]
+            slot["appear"] += 1
+    # เลือกโมเดลที่ปรากฏ ≥2 มิติ หรือท็อปของมิติหลัก
+    leaders = {b["leader"] for b in boards}
+    matrix = [v for v in rank_map.values() if v["appear"] >= 2 or v["name"] in leaders]
+    matrix.sort(key=lambda x: (-x["appear"], sum(x["ranks"].values()) / max(len(x["ranks"]), 1)))
+    matrix = matrix[:12]
+
+    # specialty จาก AA ถ้ามี
+    aa_dims = []
+    if AA_ROWS:
+        coding = [r for r in AA_ROWS if r.get("coding") is not None]
+        agentic = [r for r in AA_ROWS if r.get("agentic") is not None]
+        speed = [r for r in AA_ROWS if r.get("speed")]
+        value = [r for r in AA_ROWS if isinstance(r.get("price"), (int, float)) and r["price"] > 0]
+        if coding:
+            bc = max(coding, key=lambda r: r["coding"])
+            aa_dims.append({"id": "aa_coding", "label": "AA Coding Index", "model": bc["name"], "score_label": f"{bc['coding']:.1f}", "why": "ทดสอบ coding มาตรฐานจาก Artificial Analysis"})
+        if agentic:
+            ba = max(agentic, key=lambda r: r["agentic"])
+            aa_dims.append({"id": "aa_agentic", "label": "AA Agentic Index", "model": ba["name"], "score_label": f"{ba['agentic']:.1f}", "why": "ทดสอบ agentic / tool use มาตรฐาน"})
+        if speed:
+            bs = max(speed, key=lambda r: r["speed"])
+            aa_dims.append({"id": "aa_speed", "label": "ความเร็ว (tok/s)", "model": bs["name"], "score_label": f"{bs['speed']:.0f}", "why": "median output tokens/วินาที จาก AA"})
+        if value:
+            bv = max(value, key=lambda r: (r.get("aa") or 0) / r["price"])
+            aa_dims.append({"id": "aa_value", "label": "คุ้มค่า AA/ราคา", "model": bv["name"], "score_label": f"{(bv['aa']/bv['price']):.1f}", "why": "คะแนน AA ต่อราคาผสม — งานปริมาณมาก"})
+
+    specialties = build_or_specialties()
+    blurb = "แยกมิติตามงานจริงจาก LMArena (ไม่ใช่คะแนนรวมอย่างเดียว) — โมเดลที่เก่ง chat อาจไม่ชนะ WebDev/Agent/Vision"
+    if picks:
+        blurb = (
+            f"ตอนนี้ผู้นำคนละมิติ: "
+            + ", ".join(f"{p['short']}→{p['model']}" for p in picks[:4])
+            + " — เลือกตามงาน ไม่ใช่ตามชื่อดังอย่างเดียว"
+        )
+
+    return {
+        "blurb": blurb,
+        "boards": boards,
+        "picks": picks,
+        "matrix": matrix,
+        "aa_dims": aa_dims,
+        "specialties": specialties,
+        "source": [
+            ["LMArena leaderboard dataset (CC BY 4.0)", "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset"],
+            ["OpenRouter models", "https://openrouter.ai/models"],
+        ],
+        "method": "แต่ละการ์ดดึง config แยกจาก LMArena + มิติราคา/context จาก OpenRouter อัปเดตอัตโนมัติ",
+    }
 
 
 def build_ai(data):
@@ -226,10 +568,22 @@ def build_ai(data):
         return data.get("ai")
     prev = set((data.get("ai") or {}).get("seen", []))
     an = {norm(k): v for k, v in ARENA.items()}
+    # รวมคะแนนจากมิติด้าน coding/agent ถ้ามี
+    web = {norm(it["name"]): it["rank"] for it in (ARENA_DIMS.get("webdev") or {}).get("items") or []}
+    ag = {norm(it["name"]): it["rank"] for it in (ARENA_DIMS.get("agent") or {}).get("items") or []}
     rows = []
     for r in AA_ROWS:
-        a = an.get(norm(r["name"]))
-        rows.append({**r, "arena": round(a) if a else None, "new": bool(prev) and r["name"] not in prev})
+        key = norm(r["name"])
+        a = an.get(key)
+        rows.append(
+            {
+                **r,
+                "arena": round(a) if a else None,
+                "webdev_rank": web.get(key),
+                "agent_rank": ag.get(key),
+                "new": bool(prev) and r["name"] not in prev,
+            }
+        )
     return {"compare": rows, "seen": [r["name"] for r in AA_ROWS], "arena_count": len(ARENA)}
 
 
@@ -258,6 +612,17 @@ def corpus_text(data: dict) -> str:
             bits.append("coding")
         if r.get("agentic"):
             bits.append("agent tool")
+    for b in (data.get("dimensions") or {}).get("boards") or []:
+        bits.append(b.get("label") or "")
+        bits.append(b.get("use") or "")
+        for it in (b.get("items") or [])[:5]:
+            bits.append(it.get("name") or "")
+        if b.get("id") == "webdev":
+            bits.append("coding ide copilot")
+        if b.get("id") == "agent":
+            bits.append("agent agents tool mcp")
+        if b.get("id") in ("vision", "image"):
+            bits.append("multimodal vision image")
     return " ".join(bits).lower()
 
 
@@ -279,6 +644,18 @@ def build_trends(data: dict, watch: dict) -> dict:
     themes = scored[:8]
 
     recs = []
+    # คำแนะนำจากมิติเฉพาะทางก่อน (ละเอียดกว่าภาพรวม)
+    for p in ((data.get("dimensions") or {}).get("picks") or [])[:6]:
+        tier = "use" if p.get("dim") in ("text", "webdev", "factual", "document") else "watch"
+        recs.append(
+            {
+                "tier": tier,
+                "title": f"{p['model']} · {p['short']}",
+                "why": p.get("why") or f"นำมิติ {p['label']}",
+                "tags": [p.get("short") or "มิติ", p.get("org") or "AI", p.get("use") or ""],
+            }
+        )
+
     compare = (data.get("ai") or {}).get("compare") or []
     if compare:
         best = compare[0]
@@ -464,9 +841,11 @@ def build_trends(data: dict, watch: dict) -> dict:
 def snapshot_for_diff(data: dict) -> dict:
     ai_names = [r["name"] for r in (data.get("ai") or {}).get("compare") or []]
     themes = [t["name"] for t in (data.get("trends") or {}).get("themes") or []]
+    dim_leaders = [f"{p.get('dim')}:{p.get('model')}" for p in ((data.get("dimensions") or {}).get("picks") or [])[:8]]
     return {
         "ai_top": ai_names[:5],
         "themes": themes[:5],
+        "dim_leaders": dim_leaders,
         "or_top": [x[0] for x in ((data.get("live") or {}).get("or") or [])[:5]],
         "hn_top": [x[0] for x in ((data.get("live") or {}).get("hn") or [])[:5]],
     }
@@ -489,6 +868,16 @@ def build_changes(prev: dict | None, cur: dict) -> dict:
     for name in pt[:3]:
         if name not in ct[:5]:
             items.append({"kind": "theme_down", "text": f"ธีมแผ่วลงจากท็อป: {name}"})
+    pd, cd = prev.get("dim_leaders") or [], cur.get("dim_leaders") or []
+    prev_map = dict(x.split(":", 1) for x in pd if ":" in x)
+    for entry in cd:
+        if ":" not in entry:
+            continue
+        dim, model = entry.split(":", 1)
+        if dim in prev_map and prev_map[dim] != model:
+            items.append({"kind": "dim", "text": f"ผู้นำมิติ {dim} เปลี่ยน: {prev_map[dim]} → {model}"})
+        elif dim not in prev_map:
+            items.append({"kind": "dim", "text": f"มีมิติใหม่/ผู้นำ: {dim} → {model}"})
     ph, ch = set(prev.get("hn_top") or []), cur.get("hn_top") or []
     for t in ch[:3]:
         if t not in ph:
@@ -541,7 +930,7 @@ def main():
     data.setdefault("status", {})
     data.setdefault("live", {})
     data.setdefault("tables", [])
-    data.setdefault("schema", 2)
+    data.setdefault("schema", 3)
     now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes")
     prev_snap = load_prev_snapshot(data)
 
@@ -552,6 +941,34 @@ def main():
             data["status"][name] = {"ok": True, "time": now}
         except Exception as e:
             data["status"][name] = {"ok": False, "time": now, "msg": str(e)[:150]}
+
+    # บอร์ดแยกมิติ (สำคัญกว่าภาพรวม)
+    boards = []
+    try:
+        boards = arena_dimensions()
+        # sync ตาราง LMArena text จากมิติ text ถ้ามี
+        text_board = next((b for b in boards if b["id"] == "text"), None)
+        if text_board and text_board.get("items"):
+            items = [
+                [it["name"], it["score_label"], it["org"], it.get("meta") or "", it.get("bar") or 0]
+                for it in text_board["items"][:6]
+            ]
+            data["tables"] = [x for x in data["tables"] if x["id"] != "lm"] + [
+                table(
+                    "lm",
+                    "LMArena",
+                    "LMArena Text: ความชอบของผู้ใช้จริง",
+                    f"ข้อมูลวันที่ {text_board.get('date') or TODAY}",
+                    "ผู้ใช้เปรียบเทียบคำตอบของสองโมเดลแบบไม่รู้ชื่อแล้วโหวต สะท้อนว่าคนชอบคำตอบแบบไหนจริง",
+                    items,
+                    "ดูแท็บมิติโมเดล สำหรับ WebDev / Agent / Vision / Search แยกตามงาน",
+                    [["LMArena leaderboard dataset (CC BY 4.0)", "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset"]],
+                )
+            ]
+        data["status"]["dims"] = {"ok": True, "time": now, "msg": f"{len(boards)} boards"}
+    except Exception as e:
+        data["status"]["dims"] = {"ok": False, "time": now, "msg": str(e)[:150]}
+        boards = (data.get("dimensions") or {}).get("boards") or []
 
     npm_pkgs = watch.get("npm") or ["react", "vue", "svelte", "solid-js", "@angular/core"]
     langs = watch.get("github_languages") or ["Python", "TypeScript", "Rust"]
@@ -578,6 +995,12 @@ def main():
             data["status"][name] = {"ok": False, "time": now, "msg": str(e)[:150]}
 
     try:
+        data["dimensions"] = build_dimensions(boards)
+        data["status"]["dimensions"] = {"ok": True, "time": now}
+    except Exception as e:
+        data["status"]["dimensions"] = {"ok": False, "time": now, "msg": str(e)[:150]}
+
+    try:
         ai = build_ai(data)
         if ai:
             data["ai"] = ai
@@ -593,7 +1016,7 @@ def main():
 
     cur_snap = snapshot_for_diff(data)
     data["changes"] = build_changes(prev_snap, cur_snap)
-    data["meta"] = {"previous_snapshot": cur_snap, "year": YEAR, "schema": 2}
+    data["meta"] = {"previous_snapshot": cur_snap, "year": YEAR, "schema": 3}
     data["updated"] = now
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:

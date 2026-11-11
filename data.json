@@ -1,46 +1,55 @@
 {
- "updated": "2026-11-11T05:28+00:00",
+ "updated": "2026-11-11T05:36+00:00",
  "status": {
   "aa": {
    "ok": false,
-   "time": "2026-11-11T05:28+00:00",
+   "time": "2026-11-11T05:36+00:00",
    "msg": "ไม่มี secret AA_API_KEY"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-11T05:28+00:00"
+   "time": "2026-11-11T05:36+00:00"
+  },
+  "dims": {
+   "ok": true,
+   "time": "2026-11-11T05:36+00:00",
+   "msg": "8 boards"
+  },
+  "dimensions": {
+   "ok": true,
+   "time": "2026-11-11T05:36+00:00"
   }
  },
  "tables": [
@@ -241,46 +250,46 @@
      "Gemini 4 Carbon (High)",
      "1538",
      "google",
-     "จำนวนโหวต 4,282",
+     "โหวต/สังเกต ~4,282",
      100
     ],
     [
      "Gemini 4 Argon (High)",
      "1530",
      "google",
-     "จำนวนโหวต 19,787",
+     "โหวต/สังเกต ~19,787",
      99
     ],
     [
      "Claude Opus 5.5 (High)",
      "1513",
      "anthropic",
-     "จำนวนโหวต 15,249",
+     "โหวต/สังเกต ~15,249",
      98
     ],
     [
      "Claude Fable 5.1 (Max)",
      "1512",
      "anthropic",
-     "จำนวนโหวต 20,087",
+     "โหวต/สังเกต ~20,087",
      98
     ],
     [
      "Claude Opus 5 (Max)",
      "1506",
      "anthropic",
-     "จำนวนโหวต 35,710",
+     "โหวต/สังเกต ~35,710",
      98
     ],
     [
      "Muse Wonder (Max)",
      "1503",
      "meta",
-     "จำนวนโหวต 12,032",
+     "โหวต/สังเกต ~12,032",
      98
     ]
    ],
-   "note": "คะแนนที่ต่างกันไม่กี่แต้มอยู่ในช่วงความคลาดเคลื่อน ถือว่าเสมอกันทางสถิติได้",
+   "note": "ดูแท็บมิติโมเดล สำหรับ WebDev / Agent / Vision / Search แยกตามงาน",
    "src": [
     [
      "LMArena leaderboard dataset (CC BY 4.0)",
@@ -294,12 +303,12 @@
    [
     "Baidu: ERNIE-5.5-Flash-Preview",
     "https://openrouter.ai/baidu/ernie-5.5-flash-preview",
-    "2026-11-10 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens"
+    "2026-11-11 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens"
    ],
    [
     "Baidu: ERNIE-Light-DT-1.0",
     "https://openrouter.ai/baidu/ernie-light-dt-1.0-intl",
-    "2026-11-10 · context 1,024,000 · $1.13 / $3.94 ต่อล้าน tokens"
+    "2026-11-11 · context 1,024,000 · $1.13 / $3.94 ต่อล้าน tokens"
    ],
    [
     "Google: Gemini 4 Carbon",
@@ -319,49 +328,49 @@
    [
     "Thinking Machines: Inkling 2 Small (free)",
     "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
-    "2026-11-09 · context 1,048,576 · $0.00 / $0.00 ต่อล้าน tokens"
+    "2026-11-10 · context 1,048,576 · $0.00 / $0.00 ต่อล้าน tokens"
    ],
    [
     "Anthropic: Claude Fable 5.2",
     "https://openrouter.ai/anthropic/claude-fable-5.2",
-    "2026-11-09 · context 1,000,000 · $8.00 / $40.00 ต่อล้าน tokens"
+    "2026-11-10 · context 1,000,000 · $8.00 / $40.00 ต่อล้าน tokens"
    ],
    [
     "Anthropic: Claude Fable 5.2 (batch)",
     "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
-    "2026-11-09 · context 1,000,000 · $4.00 / $20.00 ต่อล้าน tokens"
+    "2026-11-10 · context 1,000,000 · $4.00 / $20.00 ต่อล้าน tokens"
    ],
    [
     "Meta: Muse Ember",
     "https://openrouter.ai/meta/muse-ember",
-    "2026-11-09 · context 1,048,576 · $0.10 / $0.50 ต่อล้าน tokens"
+    "2026-11-10 · context 1,048,576 · $0.10 / $0.50 ต่อล้าน tokens"
    ],
    [
     "LiquidAI: LFM3-1.7B",
     "https://openrouter.ai/liquid/lfm-3-1.7b",
-    "2026-11-06 · context 262,144 · $0.08 / $0.20 ต่อล้าน tokens"
+    "2026-11-07 · context 262,144 · $0.08 / $0.20 ต่อล้าน tokens"
    ]
   ],
   "hn": [
    [
     "Protecting SSH Keys with macOS Secure Enclave",
     "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-    "33 คะแนน"
+    "36 คะแนน"
    ],
    [
     "Scion is back and is going to sell a kei truck in America",
     "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-    "405 คะแนน"
+    "408 คะแนน"
    ],
    [
     ".name Grandfathered",
     "https://neil.fraser.name/news/2026/11/10/",
-    "744 คะแนน"
+    "748 คะแนน"
    ],
    [
     "Smart home devices should work without the internet",
     "https://docodethatmatters.com/home-automation-overnight-success/",
-    "798 คะแนน"
+    "806 คะแนน"
    ],
    [
     "A great old-timey game-programming hack (2013)",
@@ -371,37 +380,37 @@
    [
     "Six Math Essentials",
     "https://teorth.github.io/tao-web/six-math-essentials.html",
-    "188 คะแนน"
+    "191 คะแนน"
    ],
    [
     "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
     "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-    "37 คะแนน"
+    "42 คะแนน"
    ],
    [
     "Starlink Mini 2",
     "https://starlink.com/mini-2",
-    "341 คะแนน"
-   ],
-   [
-    "Announcing .NET 11",
-    "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-    "111 คะแนน"
-   ],
-   [
-    "Tracking Anthropic-discovered vulnerabilities",
-    "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-    "361 คะแนน"
+    "344 คะแนน"
    ],
    [
     "Unremarkable things we made in 2026",
     "https://www.neilchen.co/blog/things2026",
-    "15 คะแนน"
+    "16 คะแนน"
    ],
    [
-    "Hacking the Meta Ray-Ban smartglasses",
-    "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-    "82 คะแนน"
+    "Announcing .NET 11",
+    "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "115 คะแนน"
+   ],
+   [
+    "Tracking Anthropic-discovered vulnerabilities",
+    "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "363 คะแนน"
+   ],
+   [
+    "AlphaProof Code",
+    "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "603 คะแนน"
    ]
   ],
   "gh": {
@@ -409,17 +418,17 @@
     [
      "NotRexed/Hookshot",
      "https://github.com/NotRexed/Hookshot",
-     "★6,791 C++"
+     "★6,800 C++"
     ],
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★5,302 Swift"
+     "★5,319 Swift"
     ],
     [
      "tangerineturtle1/NX2navi",
      "https://github.com/tangerineturtle1/NX2navi",
-     "★2,946 C"
+     "★2,947 C"
     ],
     [
      "jhaizhou-ops/S2Arm",
@@ -439,7 +448,7 @@
     [
      "jamesondh/chimera-vocal-synth",
      "https://github.com/jamesondh/chimera-vocal-synth",
-     "★1,756 Rust"
+     "★1,757 Rust"
     ],
     [
      "DIYgod/pinky",
@@ -467,7 +476,7 @@
      [
       "WoYun520/gif-factory",
       "https://github.com/WoYun520/gif-factory",
-      "★1,104"
+      "★1,105"
      ],
      [
       "Th0rgal/satmux",
@@ -516,7 +525,7 @@
      [
       "jamesondh/chimera-vocal-synth",
       "https://github.com/jamesondh/chimera-vocal-synth",
-      "★1,756"
+      "★1,757"
      ],
      [
       "voyager-so/vork",
@@ -531,7 +540,7 @@
      [
       "Gloridust/WowType",
       "https://github.com/Gloridust/WowType",
-      "★482"
+      "★484"
      ],
      [
       "PlateParrotTerminal/lag-doctor",
@@ -553,7 +562,7 @@
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★620"
+      "★621"
      ],
      [
       "devvmhq/devvm",
@@ -570,12 +579,12 @@
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★5,302"
+      "★5,319"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,220"
+      "★1,229"
      ],
      [
       "JosssphZhou/poki",
@@ -599,7 +608,7 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥1239"
+    "♥1242"
    ],
    [
     "speridlabs/idol",
@@ -614,7 +623,7 @@
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥478"
+    "♥480"
    ],
    [
     "ricursiveAI/Ripple-65B-Preview",
@@ -807,46 +816,112 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Open-weight / Local models, Coding assistants, Multimodal. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
+    "name": "Multimodal",
+    "score": 16,
+    "hits": [
+     "multimodal",
+     "vision",
+     "image",
+     "audio"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "AI Agents / Tool use",
+    "score": 10,
+    "hits": [
+     "agent",
+     "agents",
+     "tool use",
+     "tool-calling",
+     "mcp"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "Coding assistants",
+    "score": 7,
+    "hits": [
+     "coding",
+     "copilot",
+     "ide"
+    ],
+    "heat": 84
+   },
+   {
     "name": "Open-weight / Local models",
-    "score": 6,
+    "score": 7,
     "hits": [
      "deepseek",
      "qwen"
     ],
-    "heat": 72
-   },
-   {
-    "name": "Coding assistants",
-    "score": 3,
-    "hits": [
-     "coding",
-     "ide"
-    ],
-    "heat": 36
-   },
-   {
-    "name": "Multimodal",
-    "score": 3,
-    "hits": [
-     "image",
-     "audio"
-    ],
-    "heat": 36
-   },
-   {
-    "name": "AI Agents / Tool use",
-    "score": 2,
-    "hits": [
-     "agent",
-     "agents"
-    ],
-    "heat": 24
+    "heat": 84
    }
   ],
   "recommendations": [
+   {
+    "tier": "use",
+    "title": "Gemini 4 Carbon (High) · Text",
+    "why": "อันดับ 1 บน LMArena · Text — เหมาะงาน: chat, อธิบาย, ร่างข้อความ",
+    "tags": [
+     "Text",
+     "google",
+     "chat, อธิบาย, ร่างข้อความ"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Claude Fable 5.2 (xHigh) · WebDev",
+    "why": "อันดับ 1 บน LMArena · WebDev — เหมาะงาน: เขียนเว็บ, UI, frontend",
+    "tags": [
+     "WebDev",
+     "anthropic",
+     "เขียนเว็บ, UI, frontend"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Claude Opus 5.5 (Max) · Agent",
+    "why": "อันดับ 1 บน LMArena · Agent — เหมาะงาน: agent, tool-calling, automation",
+    "tags": [
+     "Agent",
+     "anthropic",
+     "agent, tool-calling, automation"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Claude Fable 5 (High) · Vision",
+    "why": "อันดับ 1 บน LMArena · Vision — เหมาะงาน: อ่านรูป, screenshot, UI review",
+    "tags": [
+     "Vision",
+     "anthropic",
+     "อ่านรูป, screenshot, UI review"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Qwen3.8-Max · Search",
+    "why": "อันดับ 1 บน LMArena · Search — เหมาะงาน: search-augmented, research",
+    "tags": [
+     "Search",
+     "alibaba",
+     "search-augmented, research"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Gemini 4 Carbon (High) · Factual",
+    "why": "อันดับ 1 บน LMArena · Factual — เหมาะงาน: คำตอบที่ต้องถูกต้อง",
+    "tags": [
+     "Factual",
+     "google",
+     "คำตอบที่ต้องถูกต้อง"
+    ]
+   },
    {
     "tier": "use",
     "title": "Gemini 4 Carbon (High)",
@@ -868,7 +943,7 @@
    {
     "tier": "watch",
     "title": "Baidu: ERNIE-5.5-Flash-Preview",
-    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-10 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
+    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-11 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
     "tags": [
      "OpenRouter",
      "ใหม่"
@@ -881,33 +956,6 @@
     "tags": [
      "Hugging Face",
      "trending"
-    ]
-   },
-   {
-    "tier": "watch",
-    "title": "Open-weight / local models",
-    "why": "สัญญาณจาก HN/HF/GitHub ชี้ว่า open-weight กำลังร้อน — ลองถ้าต้องการคุมข้อมูลหรือต้นทุน",
-    "tags": [
-     "open-weight",
-     "local"
-    ]
-   },
-   {
-    "tier": "use",
-    "title": "Coding assistants / IDE agents",
-    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
-    "tags": [
-     "coding",
-     "devtools"
-    ]
-   },
-   {
-    "tier": "caution",
-    "title": "CVE-2026-124194 Microsoft Office",
-    "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
-    "tags": [
-     "security",
-     "KEV"
     ]
    }
   ],
@@ -922,10 +970,20 @@
   "previous_snapshot": {
    "ai_top": [],
    "themes": [
-    "Open-weight / Local models",
-    "Coding assistants",
     "Multimodal",
-    "AI Agents / Tool use"
+    "AI Agents / Tool use",
+    "Coding assistants",
+    "Open-weight / Local models"
+   ],
+   "dim_leaders": [
+    "text:Gemini 4 Carbon (High)",
+    "webdev:Claude Fable 5.2 (xHigh)",
+    "agent:Claude Opus 5.5 (Max)",
+    "vision:Claude Fable 5 (High)",
+    "search:Qwen3.8-Max",
+    "factual:Gemini 4 Carbon (High)",
+    "document:Claude Fable 5.1 (Max)",
+    "image:GPT-Image-2.5 Sunburst"
    ],
    "or_top": [
     "Baidu: ERNIE-5.5-Flash-Preview",
@@ -943,6 +1001,1403 @@
    ]
   },
   "year": 2026,
-  "schema": 2
+  "schema": 3
+ },
+ "dimensions": {
+  "blurb": "ตอนนี้ผู้นำคนละมิติ: Text→Gemini 4 Carbon (High), WebDev→Claude Fable 5.2 (xHigh), Agent→Claude Opus 5.5 (Max), Vision→Claude Fable 5 (High) — เลือกตามงาน ไม่ใช่ตามชื่อดังอย่างเดียว",
+  "boards": [
+   {
+    "id": "text",
+    "config": "text",
+    "label": "สนทนา / เขียนทั่วไป",
+    "short": "Text",
+    "use": "chat, อธิบาย, ร่างข้อความ",
+    "tip": "คะแนนจากโหวตผู้ใช้จริงในงานคุย/เขียนทั่วไป — เหมาะเป็น default สำหรับงานภาษา",
+    "score_kind": "elo",
+    "date": "2026-11-09",
+    "leader": "Gemini 4 Carbon (High)",
+    "items": [
+     {
+      "rank": 1,
+      "name": "Gemini 4 Carbon (High)",
+      "org": "google",
+      "score": 1538.2768191996465,
+      "votes": 4282,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1538",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~4,282"
+     },
+     {
+      "rank": 2,
+      "name": "Gemini 4 Argon (High)",
+      "org": "google",
+      "score": 1530.160034009476,
+      "votes": 19787,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1530",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~19,787"
+     },
+     {
+      "rank": 3,
+      "name": "Claude Opus 5.5 (High)",
+      "org": "anthropic",
+      "score": 1513.0021399366474,
+      "votes": 15249,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1513",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~15,249"
+     },
+     {
+      "rank": 4,
+      "name": "Claude Fable 5.1 (Max)",
+      "org": "anthropic",
+      "score": 1512.3784035606031,
+      "votes": 20087,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1512",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~20,087"
+     },
+     {
+      "rank": 5,
+      "name": "Claude Opus 5 (Max)",
+      "org": "anthropic",
+      "score": 1506.3172184201153,
+      "votes": 35710,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1506",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~35,710"
+     },
+     {
+      "rank": 6,
+      "name": "Muse Wonder (Max)",
+      "org": "meta",
+      "score": 1503.0484713809174,
+      "votes": 12032,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1503",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~12,032"
+     },
+     {
+      "rank": 7,
+      "name": "Claude Opus 5 (High)",
+      "org": "anthropic",
+      "score": 1502.2616064241324,
+      "votes": 73697,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1502",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~73,697"
+     },
+     {
+      "rank": 8,
+      "name": "Claude Opus 4.6 (High)",
+      "org": "anthropic",
+      "score": 1501.6578583092228,
+      "votes": 84424,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1502",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~84,424"
+     }
+    ]
+   },
+   {
+    "id": "webdev",
+    "config": "webdev",
+    "label": "WebDev / Coding UI",
+    "short": "WebDev",
+    "use": "เขียนเว็บ, UI, frontend",
+    "tip": "เน้นงานสร้างเว็บและโค้ดหน้าบ้าน — สำคัญถ้าคุณใช้ AI ช่วยเขียนแอป",
+    "score_kind": "elo",
+    "date": "2026-11-10",
+    "leader": "Claude Fable 5.2 (xHigh)",
+    "items": [
+     {
+      "rank": 1,
+      "name": "Claude Fable 5.2 (xHigh)",
+      "org": "anthropic",
+      "score": 1835.7616196356087,
+      "votes": 994,
+      "date": "2026-11-10",
+      "license": "Proprietary",
+      "score_label": "1836",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~994"
+     },
+     {
+      "rank": 2,
+      "name": "Claude Opus 5.5 (Max)",
+      "org": "anthropic",
+      "score": 1814.2816520204044,
+      "votes": 4187,
+      "date": "2026-11-10",
+      "license": "Proprietary",
+      "score_label": "1814",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~4,187"
+     },
+     {
+      "rank": 3,
+      "name": "Claude Sonnet 5.5 (xHigh)",
+      "org": "anthropic",
+      "score": 1772.538547019699,
+      "votes": 5818,
+      "date": "2026-11-10",
+      "license": "Proprietary",
+      "score_label": "1773",
+      "bar": 97,
+      "meta": "โหวต/สังเกต ~5,818"
+     },
+     {
+      "rank": 4,
+      "name": "Gemini 4 Carbon (High)",
+      "org": "google",
+      "score": 1768.1626867367634,
+      "votes": 2120,
+      "date": "2026-11-10",
+      "license": "Proprietary",
+      "score_label": "1768",
+      "bar": 96,
+      "meta": "โหวต/สังเกต ~2,120"
+     },
+     {
+      "rank": 5,
+      "name": "GPT-6 Astra (Max)",
+      "org": "openai",
+      "score": 1764.4344013988034,
+      "votes": 8425,
+      "date": "2026-11-10",
+      "license": "Proprietary",
+      "score_label": "1764",
+      "bar": 96,
+      "meta": "โหวต/สังเกต ~8,425"
+     },
+     {
+      "rank": 6,
+      "name": "GPT-6.1 Sol (Max)",
+      "org": "openai",
+      "score": 1743.0164492394315,
+      "votes": 5539,
+      "date": "2026-11-10",
+      "license": "Proprietary",
+      "score_label": "1743",
+      "bar": 95,
+      "meta": "โหวต/สังเกต ~5,539"
+     },
+     {
+      "rank": 7,
+      "name": "Claude Fable 5.1 (Max)",
+      "org": "anthropic",
+      "score": 1742.0807843055443,
+      "votes": 9756,
+      "date": "2026-11-10",
+      "license": "Proprietary",
+      "score_label": "1742",
+      "bar": 95,
+      "meta": "โหวต/สังเกต ~9,756"
+     },
+     {
+      "rank": 8,
+      "name": "Muse Wonder Full (Max)",
+      "org": "meta",
+      "score": 1723.43699935368,
+      "votes": 2069,
+      "date": "2026-11-10",
+      "license": "Proprietary",
+      "score_label": "1723",
+      "bar": 94,
+      "meta": "โหวต/สังเกต ~2,069"
+     }
+    ]
+   },
+   {
+    "id": "agent",
+    "config": "agent",
+    "label": "Agent / Tool use",
+    "short": "Agent",
+    "use": "agent, tool-calling, automation",
+    "tip": "วัดผลงาน agent จริง (ไม่ใช่แค่ chat) — ดูถ้าทำระบบ agent / IDE agent",
+    "score_kind": "ratio",
+    "date": "2026-11-08",
+    "leader": "Claude Opus 5.5 (Max)",
+    "items": [
+     {
+      "rank": 1,
+      "name": "Claude Opus 5.5 (Max)",
+      "org": "anthropic",
+      "score": 0.1995562589597002,
+      "votes": 2477322,
+      "date": "2026-11-08",
+      "license": "Proprietary",
+      "score_label": "20.0%",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~2,477,322"
+     },
+     {
+      "rank": 2,
+      "name": "Gemini 4 Carbon (High)",
+      "org": "google",
+      "score": 0.1663061302907077,
+      "votes": 8594005,
+      "date": "2026-11-08",
+      "license": "Proprietary",
+      "score_label": "16.6%",
+      "bar": 83,
+      "meta": "โหวต/สังเกต ~8,594,005"
+     },
+     {
+      "rank": 3,
+      "name": "Claude Sonnet 5.5 (Max)",
+      "org": "anthropic",
+      "score": 0.15994371740491212,
+      "votes": 1241679,
+      "date": "2026-11-08",
+      "license": "Proprietary",
+      "score_label": "16.0%",
+      "bar": 80,
+      "meta": "โหวต/สังเกต ~1,241,679"
+     },
+     {
+      "rank": 4,
+      "name": "Claude Fable 5.1 (Max)",
+      "org": "anthropic",
+      "score": 0.1433518291440155,
+      "votes": 2440710,
+      "date": "2026-11-08",
+      "license": "Proprietary",
+      "score_label": "14.3%",
+      "bar": 72,
+      "meta": "โหวต/สังเกต ~2,440,710"
+     },
+     {
+      "rank": 5,
+      "name": "GPT-6 Astra (Max)",
+      "org": "openai",
+      "score": 0.14238994554675694,
+      "votes": 1318529,
+      "date": "2026-11-08",
+      "license": "Proprietary",
+      "score_label": "14.2%",
+      "bar": 71,
+      "meta": "โหวต/สังเกต ~1,318,529"
+     },
+     {
+      "rank": 6,
+      "name": "GPT-6.1 Sol (Max)",
+      "org": "openai",
+      "score": 0.12527511889777543,
+      "votes": 3003038,
+      "date": "2026-11-08",
+      "license": "Proprietary",
+      "score_label": "12.5%",
+      "bar": 63,
+      "meta": "โหวต/สังเกต ~3,003,038"
+     },
+     {
+      "rank": 7,
+      "name": "GPT-6.1 Terra (Max)",
+      "org": "openai",
+      "score": 0.12102900587768267,
+      "votes": 7778687,
+      "date": "2026-11-08",
+      "license": "Proprietary",
+      "score_label": "12.1%",
+      "bar": 61,
+      "meta": "โหวต/สังเกต ~7,778,687"
+     },
+     {
+      "rank": 8,
+      "name": "Gemini 4 Argon (High)",
+      "org": "google",
+      "score": 0.10828589688358664,
+      "votes": 6590911,
+      "date": "2026-11-08",
+      "license": "Proprietary",
+      "score_label": "10.8%",
+      "bar": 54,
+      "meta": "โหวต/สังเกต ~6,590,911"
+     }
+    ]
+   },
+   {
+    "id": "vision",
+    "config": "vision",
+    "label": "Vision / รูปภาพ",
+    "short": "Vision",
+    "use": "อ่านรูป, screenshot, UI review",
+    "tip": "โมเดลที่เก่งมองรูป — เหมาะงานวิเคราะห์ภาพ/เอกสารสแกน",
+    "score_kind": "elo",
+    "date": "2026-11-09",
+    "leader": "Claude Fable 5 (High)",
+    "items": [
+     {
+      "rank": 1,
+      "name": "Claude Fable 5 (High)",
+      "org": "anthropic",
+      "score": 1325.5950264504859,
+      "votes": 15536,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1326",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~15,536"
+     },
+     {
+      "rank": 2,
+      "name": "Claude Opus 5.5 (High)",
+      "org": "anthropic",
+      "score": 1323.800208469898,
+      "votes": 4789,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1324",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~4,789"
+     },
+     {
+      "rank": 3,
+      "name": "Claude Fable 5.1 (Max)",
+      "org": "anthropic",
+      "score": 1321.6205983003467,
+      "votes": 6296,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1322",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~6,296"
+     },
+     {
+      "rank": 4,
+      "name": "Claude Opus 4.7",
+      "org": "anthropic",
+      "score": 1318.7172278809103,
+      "votes": 23777,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1319",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~23,777"
+     },
+     {
+      "rank": 5,
+      "name": "Claude Opus 5 (High)",
+      "org": "anthropic",
+      "score": 1317.4780604047467,
+      "votes": 19345,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1317",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~19,345"
+     },
+     {
+      "rank": 6,
+      "name": "Gemini 3.8 Flash (High)",
+      "org": "google",
+      "score": 1316.7805997775436,
+      "votes": 7624,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1317",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~7,624"
+     },
+     {
+      "rank": 7,
+      "name": "Claude Opus 4.6 (High)",
+      "org": "anthropic",
+      "score": 1315.5778808782616,
+      "votes": 22116,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1316",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~22,116"
+     },
+     {
+      "rank": 8,
+      "name": "Claude Opus 4.7 (High)",
+      "org": "anthropic",
+      "score": 1313.9473396777987,
+      "votes": 22609,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1314",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~22,609"
+     }
+    ]
+   },
+   {
+    "id": "search",
+    "config": "search",
+    "label": "Search / หาข้อมูล",
+    "short": "Search",
+    "use": "search-augmented, research",
+    "tip": "งานค้นและตอบจากเว็บ — ใกล้เคียง workflow วิจัย/ข่าว",
+    "score_kind": "elo",
+    "date": "2026-11-09",
+    "leader": "Qwen3.8-Max",
+    "items": [
+     {
+      "rank": 1,
+      "name": "Qwen3.8-Max",
+      "org": "alibaba",
+      "score": 1259.7846063797126,
+      "votes": 1998,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1260",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~1,998"
+     },
+     {
+      "rank": 2,
+      "name": "GPT-5.6 Sol (xHigh)",
+      "org": "openai",
+      "score": 1257.8409818653483,
+      "votes": 62364,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1258",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~62,364"
+     },
+     {
+      "rank": 3,
+      "name": "Claude Opus 4.6 (Search)",
+      "org": "anthropic",
+      "score": 1251.67354288363,
+      "votes": 166732,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1252",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~166,732"
+     },
+     {
+      "rank": 4,
+      "name": "GPT-5.5 (Search)",
+      "org": "openai",
+      "score": 1245.8634367841091,
+      "votes": 121489,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1246",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~121,489"
+     },
+     {
+      "rank": 5,
+      "name": "Claude Opus 5 (High)",
+      "org": "anthropic",
+      "score": 1239.025130530186,
+      "votes": 34000,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1239",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~34,000"
+     },
+     {
+      "rank": 6,
+      "name": "Claude Fable 5.1 (High)",
+      "org": "anthropic",
+      "score": 1237.306953938375,
+      "votes": 33769,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1237",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~33,769"
+     },
+     {
+      "rank": 7,
+      "name": "GPT-6 Astra (Max)",
+      "org": "openai",
+      "score": 1230.8121743131878,
+      "votes": 17456,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1231",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~17,456"
+     },
+     {
+      "rank": 8,
+      "name": "GPT-6.1 Sol (Max)",
+      "org": "openai",
+      "score": 1230.3607869286543,
+      "votes": 26556,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1230",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~26,556"
+     }
+    ]
+   },
+   {
+    "id": "factual",
+    "config": "text_factuality",
+    "label": "ข้อเท็จจริง (Factuality)",
+    "short": "Factual",
+    "use": "คำตอบที่ต้องถูกต้อง",
+    "tip": "เน้นความถูกต้องของข้อเท็จจริงมากกว่าความลื่นของภาษา",
+    "score_kind": "elo",
+    "date": "2026-11-09",
+    "leader": "Gemini 4 Carbon (High)",
+    "items": [
+     {
+      "rank": 1,
+      "name": "Gemini 4 Carbon (High)",
+      "org": "google",
+      "score": 1521.247433694608,
+      "votes": 4282,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1521",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~4,282"
+     },
+     {
+      "rank": 2,
+      "name": "Claude Opus 5.5 (High)",
+      "org": "anthropic",
+      "score": 1505.526573368984,
+      "votes": 15249,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1506",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~15,249"
+     },
+     {
+      "rank": 3,
+      "name": "Claude Fable 5.1 (Max)",
+      "org": "anthropic",
+      "score": 1498.8481107843413,
+      "votes": 20087,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1499",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~20,087"
+     },
+     {
+      "rank": 4,
+      "name": "Gemini 4 Argon (High)",
+      "org": "google",
+      "score": 1497.8439030594157,
+      "votes": 19787,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1498",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~19,787"
+     },
+     {
+      "rank": 5,
+      "name": "Muse Wonder (Max)",
+      "org": "meta",
+      "score": 1495.099174716489,
+      "votes": 12032,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1495",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~12,032"
+     },
+     {
+      "rank": 6,
+      "name": "Claude Opus 4.6 (High)",
+      "org": "anthropic",
+      "score": 1492.5518107844118,
+      "votes": 84094,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1493",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~84,094"
+     },
+     {
+      "rank": 7,
+      "name": "Claude Opus 4.6",
+      "org": "anthropic",
+      "score": 1488.0178934643588,
+      "votes": 88858,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1488",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~88,858"
+     },
+     {
+      "rank": 8,
+      "name": "Claude Opus 5 (Max)",
+      "org": "anthropic",
+      "score": 1487.5655076231876,
+      "votes": 35710,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1488",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~35,710"
+     }
+    ]
+   },
+   {
+    "id": "document",
+    "config": "document",
+    "label": "เอกสารยาว",
+    "short": "Docs",
+    "use": "สรุปเอกสาร, contract, PDF",
+    "tip": "งานเอกสารยาว — ดูถ้าใช้ AI กับรายงาน/สัญญา/คู่มือ",
+    "score_kind": "elo",
+    "date": "2026-11-09",
+    "leader": "Claude Fable 5.1 (Max)",
+    "items": [
+     {
+      "rank": 1,
+      "name": "Claude Fable 5.1 (Max)",
+      "org": "anthropic",
+      "score": 1514.8444232134589,
+      "votes": 1453,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1515",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~1,453"
+     },
+     {
+      "rank": 2,
+      "name": "Claude Opus 5 (High)",
+      "org": "anthropic",
+      "score": 1508.6625833274056,
+      "votes": 16189,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1509",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~16,189"
+     },
+     {
+      "rank": 3,
+      "name": "Claude Opus 4.6 (High)",
+      "org": "anthropic",
+      "score": 1507.60610565217,
+      "votes": 29456,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1508",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~29,456"
+     },
+     {
+      "rank": 4,
+      "name": "Claude Opus 4.6",
+      "org": "anthropic",
+      "score": 1506.2191931675916,
+      "votes": 47264,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1506",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~47,264"
+     },
+     {
+      "rank": 5,
+      "name": "Claude Fable 5 (High)",
+      "org": "anthropic",
+      "score": 1496.6075677227989,
+      "votes": 12357,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1497",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~12,357"
+     },
+     {
+      "rank": 6,
+      "name": "Claude Opus 4.7 (High)",
+      "org": "anthropic",
+      "score": 1495.6841694268028,
+      "votes": 23327,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1496",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~23,327"
+     },
+     {
+      "rank": 7,
+      "name": "Claude Opus 4.7",
+      "org": "anthropic",
+      "score": 1494.7864950430023,
+      "votes": 23628,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1495",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~23,628"
+     },
+     {
+      "rank": 8,
+      "name": "GPT-5.5 (High)",
+      "org": "openai",
+      "score": 1484.2928607888468,
+      "votes": 27324,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1484",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~27,324"
+     }
+    ]
+   },
+   {
+    "id": "image",
+    "config": "text_to_image",
+    "label": "สร้างรูป (Text→Image)",
+    "short": "Image",
+    "use": "generate รูปจากข้อความ",
+    "tip": "บอร์ดสร้างภาพ — คนละกลุ่มกับ LLM แชท",
+    "score_kind": "elo",
+    "date": "2026-11-09",
+    "leader": "GPT-Image-2.5 Sunburst",
+    "items": [
+     {
+      "rank": 1,
+      "name": "GPT-Image-2.5 Sunburst",
+      "org": "openai",
+      "score": 1428.8022742459389,
+      "votes": 57928,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1429",
+      "bar": 100,
+      "meta": "โหวต/สังเกต ~57,928"
+     },
+     {
+      "rank": 2,
+      "name": "GPT-Image-2.6 Sunburst (Medium)",
+      "org": "openai",
+      "score": 1406.1151590556499,
+      "votes": 2718,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1406",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~2,718"
+     },
+     {
+      "rank": 3,
+      "name": "GPT-Image-2.5 Flare",
+      "org": "openai",
+      "score": 1400.210414766318,
+      "votes": 57020,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1400",
+      "bar": 98,
+      "meta": "โหวต/สังเกต ~57,020"
+     },
+     {
+      "rank": 4,
+      "name": "GPT-Image-2.6 Flare (Medium)",
+      "org": "openai",
+      "score": 1382.830123027905,
+      "votes": 2551,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1383",
+      "bar": 97,
+      "meta": "โหวต/สังเกต ~2,551"
+     },
+     {
+      "rank": 5,
+      "name": "GPT-Image-2 (Medium)",
+      "org": "openai",
+      "score": 1381.7347594999533,
+      "votes": 106021,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1382",
+      "bar": 97,
+      "meta": "โหวต/สังเกต ~106,021"
+     },
+     {
+      "rank": 6,
+      "name": "MAI-Image-2.6",
+      "org": "microsoft-ai",
+      "score": 1329.3470669581607,
+      "votes": 38700,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1329",
+      "bar": 93,
+      "meta": "โหวต/สังเกต ~38,700"
+     },
+     {
+      "rank": 7,
+      "name": "Gemini Nano Banana 2.1",
+      "org": "google",
+      "score": 1327.684032477051,
+      "votes": 4966,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1328",
+      "bar": 93,
+      "meta": "โหวต/สังเกต ~4,966"
+     },
+     {
+      "rank": 8,
+      "name": "Grok Imagine Image 2.0",
+      "org": "xai",
+      "score": 1318.6315706852572,
+      "votes": 9959,
+      "date": "2026-11-09",
+      "license": "Proprietary",
+      "score_label": "1319",
+      "bar": 92,
+      "meta": "โหวต/สังเกต ~9,959"
+     }
+    ]
+   }
+  ],
+  "picks": [
+   {
+    "dim": "text",
+    "label": "สนทนา / เขียนทั่วไป",
+    "short": "Text",
+    "model": "Gemini 4 Carbon (High)",
+    "org": "google",
+    "score_label": "1538",
+    "use": "chat, อธิบาย, ร่างข้อความ",
+    "why": "อันดับ 1 บน LMArena · Text — เหมาะงาน: chat, อธิบาย, ร่างข้อความ"
+   },
+   {
+    "dim": "webdev",
+    "label": "WebDev / Coding UI",
+    "short": "WebDev",
+    "model": "Claude Fable 5.2 (xHigh)",
+    "org": "anthropic",
+    "score_label": "1836",
+    "use": "เขียนเว็บ, UI, frontend",
+    "why": "อันดับ 1 บน LMArena · WebDev — เหมาะงาน: เขียนเว็บ, UI, frontend"
+   },
+   {
+    "dim": "agent",
+    "label": "Agent / Tool use",
+    "short": "Agent",
+    "model": "Claude Opus 5.5 (Max)",
+    "org": "anthropic",
+    "score_label": "20.0%",
+    "use": "agent, tool-calling, automation",
+    "why": "อันดับ 1 บน LMArena · Agent — เหมาะงาน: agent, tool-calling, automation"
+   },
+   {
+    "dim": "vision",
+    "label": "Vision / รูปภาพ",
+    "short": "Vision",
+    "model": "Claude Fable 5 (High)",
+    "org": "anthropic",
+    "score_label": "1326",
+    "use": "อ่านรูป, screenshot, UI review",
+    "why": "อันดับ 1 บน LMArena · Vision — เหมาะงาน: อ่านรูป, screenshot, UI review"
+   },
+   {
+    "dim": "search",
+    "label": "Search / หาข้อมูล",
+    "short": "Search",
+    "model": "Qwen3.8-Max",
+    "org": "alibaba",
+    "score_label": "1260",
+    "use": "search-augmented, research",
+    "why": "อันดับ 1 บน LMArena · Search — เหมาะงาน: search-augmented, research"
+   },
+   {
+    "dim": "factual",
+    "label": "ข้อเท็จจริง (Factuality)",
+    "short": "Factual",
+    "model": "Gemini 4 Carbon (High)",
+    "org": "google",
+    "score_label": "1521",
+    "use": "คำตอบที่ต้องถูกต้อง",
+    "why": "อันดับ 1 บน LMArena · Factual — เหมาะงาน: คำตอบที่ต้องถูกต้อง"
+   },
+   {
+    "dim": "document",
+    "label": "เอกสารยาว",
+    "short": "Docs",
+    "model": "Claude Fable 5.1 (Max)",
+    "org": "anthropic",
+    "score_label": "1515",
+    "use": "สรุปเอกสาร, contract, PDF",
+    "why": "อันดับ 1 บน LMArena · Docs — เหมาะงาน: สรุปเอกสาร, contract, PDF"
+   },
+   {
+    "dim": "image",
+    "label": "สร้างรูป (Text→Image)",
+    "short": "Image",
+    "model": "GPT-Image-2.5 Sunburst",
+    "org": "openai",
+    "score_label": "1429",
+    "use": "generate รูปจากข้อความ",
+    "why": "อันดับ 1 บน LMArena · Image — เหมาะงาน: generate รูปจากข้อความ"
+   }
+  ],
+  "matrix": [
+   {
+    "name": "Claude Fable 5.1 (Max)",
+    "org": "anthropic",
+    "ranks": {
+     "text": 4,
+     "webdev": 7,
+     "agent": 4,
+     "vision": 3,
+     "factual": 3,
+     "document": 1
+    },
+    "appear": 6
+   },
+   {
+    "name": "Gemini 4 Carbon (High)",
+    "org": "google",
+    "ranks": {
+     "text": 1,
+     "webdev": 4,
+     "agent": 2,
+     "factual": 1
+    },
+    "appear": 4
+   },
+   {
+    "name": "Claude Opus 5 (High)",
+    "org": "anthropic",
+    "ranks": {
+     "text": 7,
+     "vision": 5,
+     "search": 5,
+     "document": 2
+    },
+    "appear": 4
+   },
+   {
+    "name": "Claude Opus 4.6 (High)",
+    "org": "anthropic",
+    "ranks": {
+     "text": 8,
+     "vision": 7,
+     "factual": 6,
+     "document": 3
+    },
+    "appear": 4
+   },
+   {
+    "name": "Claude Opus 5.5 (High)",
+    "org": "anthropic",
+    "ranks": {
+     "text": 3,
+     "vision": 2,
+     "factual": 2
+    },
+    "appear": 3
+   },
+   {
+    "name": "Gemini 4 Argon (High)",
+    "org": "google",
+    "ranks": {
+     "text": 2,
+     "agent": 8,
+     "factual": 4
+    },
+    "appear": 3
+   },
+   {
+    "name": "GPT-6 Astra (Max)",
+    "org": "openai",
+    "ranks": {
+     "webdev": 5,
+     "agent": 5,
+     "search": 7
+    },
+    "appear": 3
+   },
+   {
+    "name": "GPT-6.1 Sol (Max)",
+    "org": "openai",
+    "ranks": {
+     "webdev": 6,
+     "agent": 6,
+     "search": 8
+    },
+    "appear": 3
+   },
+   {
+    "name": "Claude Opus 5.5 (Max)",
+    "org": "anthropic",
+    "ranks": {
+     "webdev": 2,
+     "agent": 1
+    },
+    "appear": 2
+   },
+   {
+    "name": "Claude Fable 5 (High)",
+    "org": "anthropic",
+    "ranks": {
+     "vision": 1,
+     "document": 5
+    },
+    "appear": 2
+   },
+   {
+    "name": "Muse Wonder (Max)",
+    "org": "meta",
+    "ranks": {
+     "text": 6,
+     "factual": 5
+    },
+    "appear": 2
+   },
+   {
+    "name": "Claude Opus 4.7",
+    "org": "anthropic",
+    "ranks": {
+     "vision": 4,
+     "document": 7
+    },
+    "appear": 2
+   }
+  ],
+  "aa_dims": [],
+  "specialties": {
+   "long_context": {
+    "title": "Context ยาวพิเศษ (≥200K)",
+    "tip": "เหมาะงานเอกสารยาว / codebase ใหญ่",
+    "items": [
+     {
+      "name": "SpaceXAI: Grok 4.20 Multi-Agent",
+      "org": "x-ai",
+      "url": "https://openrouter.ai/x-ai/grok-4.20-multi-agent",
+      "note": "context 2,000,000 · ~$1.56/ล้านผสม · text+image+file->text",
+      "context": 2000000,
+      "blended": 1.5625,
+      "modality": "text+image+file->text"
+     },
+     {
+      "name": "SpaceXAI: Grok 4.20",
+      "org": "x-ai",
+      "url": "https://openrouter.ai/x-ai/grok-4.20",
+      "note": "context 2,000,000 · ~$1.56/ล้านผสม · text+image+file->text",
+      "context": 2000000,
+      "blended": 1.5625,
+      "modality": "text+image+file->text"
+     },
+     {
+      "name": "Meta: Llama 4 Scout",
+      "org": "meta-llama",
+      "url": "https://openrouter.ai/meta-llama/llama-4-scout",
+      "note": "context 1,310,720 · ~$0.15/ล้านผสม · text+image->text",
+      "context": 1310720,
+      "blended": 0.15,
+      "modality": "text+image->text"
+     },
+     {
+      "name": "OpenAI: GPT-6 Luna Pro (batch)",
+      "org": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6-luna-pro:batch",
+      "note": "context 1,050,000 · ~$0.10/ล้านผสม · text+image+file->text",
+      "context": 1050000,
+      "blended": 0.1,
+      "modality": "text+image+file->text"
+     },
+     {
+      "name": "OpenAI: GPT-6 Luna (batch)",
+      "org": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6-luna:batch",
+      "note": "context 1,050,000 · ~$0.10/ล้านผสม · text+image+file->text",
+      "context": 1050000,
+      "blended": 0.1,
+      "modality": "text+image+file->text"
+     },
+     {
+      "name": "Xiaomi: MiMo-V2.6-Flash",
+      "org": "xiaomi",
+      "url": "https://openrouter.ai/xiaomi/mimo-v2.6-flash",
+      "note": "context 1,050,000 · ~$0.18/ล้านผสม · text+image+audio+video->text",
+      "context": 1050000,
+      "blended": 0.17500000000000002,
+      "modality": "text+image+audio+video->text"
+     }
+    ]
+   },
+   "value": {
+    "title": "คุ้ม context ต่อราคา",
+    "tip": "ได้ context เยอะในราคาไม่แพง (ประมาณการจาก OpenRouter)",
+    "items": [
+     {
+      "name": "ScaleDown: Summarize",
+      "org": "scaledown",
+      "url": "https://openrouter.ai/scaledown/summarize",
+      "note": "context 1,000,000 · ~$0.03/ล้านผสม · text+image+file->text",
+      "context": 1000000,
+      "blended": 0.03,
+      "modality": "text+image+file->text"
+     },
+     {
+      "name": "ScaleDown: Extract",
+      "org": "scaledown",
+      "url": "https://openrouter.ai/scaledown/extract",
+      "note": "context 1,000,000 · ~$0.03/ล้านผสม · text+image+file->text",
+      "context": 1000000,
+      "blended": 0.03,
+      "modality": "text+image+file->text"
+     },
+     {
+      "name": "Z.ai: GLM 5.3 Flash (batch)",
+      "org": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
+      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
+      "context": 1048576,
+      "blended": 0.04675,
+      "modality": "text+image+video->text"
+     },
+     {
+      "name": "Z.ai: GLM Flash Latest",
+      "org": "~z-ai",
+      "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
+      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
+      "context": 1048576,
+      "blended": 0.049525,
+      "modality": "text+image+video->text"
+     },
+     {
+      "name": "Z.ai: GLM 5.3 Flash",
+      "org": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
+      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
+      "context": 1048576,
+      "blended": 0.049525,
+      "modality": "text+image+video->text"
+     },
+     {
+      "name": "Qwen: Qwen3.7 Flash",
+      "org": "qwen",
+      "url": "https://openrouter.ai/qwen/qwen3.7-flash",
+      "note": "context 1,000,000 · ~$0.06/ล้านผสม · text+image+video->text",
+      "context": 1000000,
+      "blended": 0.055,
+      "modality": "text+image+video->text"
+     }
+    ]
+   },
+   "multimodal": {
+    "title": "Multimodal (รับรูป/ไฟล์/เสียง/วิดีโอ)",
+    "tip": "ใช้เมื่องานไม่ใช่แค่ข้อความ",
+    "items": [
+     {
+      "name": "Google: Gemini 2.5 Flash Lite",
+      "org": "google",
+      "url": "https://openrouter.ai/google/gemini-2.5-flash-lite",
+      "note": "context 1,048,576 · ~$0.17/ล้านผสม · text+image+file+audio+video->text",
+      "context": 1048576,
+      "blended": 0.175,
+      "modality": "text+image+file+audio+video->text"
+     },
+     {
+      "name": "Meta: Muse Ember",
+      "org": "meta",
+      "url": "https://openrouter.ai/meta/muse-ember",
+      "note": "context 1,048,576 · ~$0.20/ล้านผสม · text+image+file+audio+video->text",
+      "context": 1048576,
+      "blended": 0.2,
+      "modality": "text+image+file+audio+video->text"
+     },
+     {
+      "name": "Google: Gemini 3.1 Flash Lite (batch)",
+      "org": "google",
+      "url": "https://openrouter.ai/google/gemini-3.1-flash-lite:batch",
+      "note": "context 1,048,576 · ~$0.28/ล้านผสม · text+image+file+audio+video->text",
+      "context": 1048576,
+      "blended": 0.28125,
+      "modality": "text+image+file+audio+video->text"
+     },
+     {
+      "name": "Google: Gemini 3.5 Flash Lite (batch)",
+      "org": "google",
+      "url": "https://openrouter.ai/google/gemini-3.5-flash-lite:batch",
+      "note": "context 1,048,576 · ~$0.42/ล้านผสม · text+image+file+audio+video->text",
+      "context": 1048576,
+      "blended": 0.425,
+      "modality": "text+image+file+audio+video->text"
+     },
+     {
+      "name": "Google: Gemini 3.1 Flash Lite",
+      "org": "google",
+      "url": "https://openrouter.ai/google/gemini-3.1-flash-lite",
+      "note": "context 1,048,576 · ~$0.56/ล้านผสม · text+image+file+audio+video->text",
+      "context": 1048576,
+      "blended": 0.5625,
+      "modality": "text+image+file+audio+video->text"
+     },
+     {
+      "name": "Google: Gemini 3.1 Flash Lite Preview",
+      "org": "google",
+      "url": "https://openrouter.ai/google/gemini-3.1-flash-lite-preview",
+      "note": "context 1,048,576 · ~$0.56/ล้านผสม · text+image+file+audio+video->text",
+      "context": 1048576,
+      "blended": 0.5625,
+      "modality": "text+image+file+audio+video->text"
+     }
+    ]
+   },
+   "reasoning": {
+    "title": "มีโหมด Reasoning",
+    "tip": "โมเดลที่ OpenRouter ติดธง reasoning",
+    "items": [
+     {
+      "name": "Thinking Machines: Inkling 2 Small (free)",
+      "org": "thinkingmachines",
+      "url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
+      "note": "context 1,048,576 · ~$0.00/ล้านผสม · text+image->text",
+      "context": 1048576,
+      "blended": 0.0,
+      "modality": "text+image->text"
+     },
+     {
+      "name": "NVIDIA: Nemotron 3.5 Super VL (free)",
+      "org": "nvidia",
+      "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
+      "note": "context 1,000,000 · ~$0.00/ล้านผสม · text+image+video->text",
+      "context": 1000000,
+      "blended": 0.0,
+      "modality": "text+image+video->text"
+     },
+     {
+      "name": "NVIDIA: Nemotron 3.5 Lightning (free)",
+      "org": "nvidia",
+      "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free",
+      "note": "context 1,000,000 · ~$0.00/ล้านผสม · text->text",
+      "context": 1000000,
+      "blended": 0.0,
+      "modality": "text->text"
+     },
+     {
+      "name": "NVIDIA: Nemotron 3 Ultra (free)",
+      "org": "nvidia",
+      "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free",
+      "note": "context 1,000,000 · ~$0.00/ล้านผสม · text->text",
+      "context": 1000000,
+      "blended": 0.0,
+      "modality": "text->text"
+     },
+     {
+      "name": "Dots Studio: Dots3-Note Preview (free)",
+      "org": "dots-studio",
+      "url": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
+      "note": "context 512,000 · ~$0.00/ล้านผสม · text+image->text",
+      "context": 512000,
+      "blended": 0.0,
+      "modality": "text+image->text"
+     },
+     {
+      "name": "LiquidAI: LFM3-1.7B (free)",
+      "org": "liquid",
+      "url": "https://openrouter.ai/liquid/lfm-3-1.7b:free",
+      "note": "context 262,144 · ~$0.00/ล้านผสม · text->text",
+      "context": 262144,
+      "blended": 0.0,
+      "modality": "text->text"
+     }
+    ]
+   },
+   "cheap": {
+    "title": "ราคาถูกสุด (ประมาณ)",
+    "tip": "งานปริมาณมากที่คุณภาพไม่ต้องท็อปสุด",
+    "items": [
+     {
+      "name": "inclusionAI: Ling 3.0 Tiny",
+      "org": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.0-tiny",
+      "note": "context 262,144 · ~$0.02/ล้านผสม · text->text",
+      "context": 262144,
+      "blended": 0.0225,
+      "modality": "text->text"
+     },
+     {
+      "name": "Meta: Llama 3.1 8B Instruct",
+      "org": "meta-llama",
+      "url": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
+      "note": "context 131,072 · ~$0.03/ล้านผสม · text->text",
+      "context": 131072,
+      "blended": 0.025,
+      "modality": "text->text"
+     },
+     {
+      "name": "Mistral: Mistral Nemo",
+      "org": "mistralai",
+      "url": "https://openrouter.ai/mistralai/mistral-nemo",
+      "note": "context 131,072 · ~$0.03/ล้านผสม · text->text",
+      "context": 131072,
+      "blended": 0.02925,
+      "modality": "text->text"
+     },
+     {
+      "name": "ScaleDown: Summarize",
+      "org": "scaledown",
+      "url": "https://openrouter.ai/scaledown/summarize",
+      "note": "context 1,000,000 · ~$0.03/ล้านผสม · text+image+file->text",
+      "context": 1000000,
+      "blended": 0.03,
+      "modality": "text+image+file->text"
+     },
+     {
+      "name": "ScaleDown: Extract",
+      "org": "scaledown",
+      "url": "https://openrouter.ai/scaledown/extract",
+      "note": "context 1,000,000 · ~$0.03/ล้านผสม · text+image+file->text",
+      "context": 1000000,
+      "blended": 0.03,
+      "modality": "text+image+file->text"
+     },
+     {
+      "name": "inclusionAI: Ling 3.0 Flash",
+      "org": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash",
+      "note": "context 262,144 · ~$0.03/ล้านผสม · text->text",
+      "context": 262144,
+      "blended": 0.0315,
+      "modality": "text->text"
+     }
+    ]
+   }
+  },
+  "source": [
+   [
+    "LMArena leaderboard dataset (CC BY 4.0)",
+    "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset"
+   ],
+   [
+    "OpenRouter models",
+    "https://openrouter.ai/models"
+   ]
+  ],
+  "method": "แต่ละการ์ดดึง config แยกจาก LMArena + มิติราคา/context จาก OpenRouter อัปเดตอัตโนมัติ"
  }
 }
