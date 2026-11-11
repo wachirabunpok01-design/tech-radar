@@ -117,7 +117,7 @@ function trendsTab(){
 
   const changes=ch.items&&ch.items.length
     ? `<ul class="chg">${ch.items.map(i=>`<li>${esc(i.text)}</li>`).join("")}</ul>`
-    : `<div class="m">${esc(ch.summary||"ยังไม่มี diff")}</div>`;
+    : "";
 
   $('#view').innerHTML=`
     <div class="card">
