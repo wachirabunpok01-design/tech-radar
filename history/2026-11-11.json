@@ -1,7 +1,13 @@
 {
- "updated": "2026-11-11T05:36+00:00",
+ "updated": "2026-11-11T05:44+00:00",
  "snapshot": {
-  "ai_top": [],
+  "ai_top": [
+   "Claude Opus 5.5 (Max, Default Fallback)",
+   "Gemini 4 Carbon (Medium)",
+   "GPT-6 Astra (Max)",
+   "Claude Fable 5.2 (Medium, Default Fallback)",
+   "GPT-6 Astra (Xhigh)"
+  ],
   "themes": [
    "Multimodal",
    "AI Agents / Tool use",
@@ -143,38 +149,38 @@
    },
    {
     "tier": "use",
-    "title": "Gemini 4 Carbon (High)",
-    "why": "นำ LMArena Text (คะแนน 1538) จากโหวตผู้ใช้จริง — เริ่มจากตัวนี้สำหรับงานสนทนา/เขียน แล้วเทียบกับโจทย์ของคุณ",
+    "title": "Claude Opus 5.5 (Max, Default Fallback)",
+    "why": "นำด้านความสามารถ (AA 59.1) จาก Artificial Analysis — เหมาะเป็น default สำหรับงานทั่วไป/ยาก",
     "tags": [
-     "LMArena",
-     "google"
+     "ความสามารถสูง",
+     "Anthropic"
     ]
    },
    {
     "tier": "watch",
-    "title": "Gemini 4 Argon (High)",
-    "why": "รองอันดับบน LMArena (1530) — น่าเทียบเคียงก่อนล็อก vendor",
+    "title": "Gemini 4 Carbon (Medium)",
+    "why": "คนชอบสูงบน LMArena (1538) แม้คะแนนทดสอบอาจไม่สูงสุด — เหมาะงานสนทนา/เขียน",
     "tags": [
-     "LMArena",
-     "google"
+     "user preference",
+     "Google"
     ]
    },
    {
-    "tier": "watch",
-    "title": "Baidu: ERNIE-5.5-Flash-Preview",
-    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-10 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
+    "tier": "use",
+    "title": "Coding assistants / IDE agents",
+    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
     "tags": [
-     "OpenRouter",
-     "ใหม่"
+     "coding",
+     "devtools"
     ]
    },
    {
-    "tier": "watch",
-    "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "why": "ติด Trending บน Hugging Face ตอนนี้ — ดูถ้าสนใจโมเดล/น้ำหนักที่ชุมชนกำลังลอง",
+    "tier": "caution",
+    "title": "CVE-2026-124194 Microsoft Office",
+    "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
     "tags": [
-     "Hugging Face",
-     "trending"
+     "security",
+     "KEV"
     ]
    }
   ],
@@ -182,54 +188,57 @@
  },
  "status": {
   "aa": {
-   "ok": false,
-   "time": "2026-11-11T05:36+00:00",
-   "msg": "ไม่มี secret AA_API_KEY"
+   "ok": true,
+   "time": "2026-11-11T05:44+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00",
+   "time": "2026-11-11T05:44+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
+  },
+  "ai": {
+   "ok": true,
+   "time": "2026-11-11T05:44+00:00"
   }
  }
 }

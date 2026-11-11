@@ -1,113 +1,61 @@
 {
- "updated": "2026-11-11T05:36+00:00",
+ "updated": "2026-11-11T05:44+00:00",
  "status": {
   "aa": {
-   "ok": false,
-   "time": "2026-11-11T05:36+00:00",
-   "msg": "ไม่มี secret AA_API_KEY"
+   "ok": true,
+   "time": "2026-11-11T05:44+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00",
+   "time": "2026-11-11T05:44+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-11T05:36+00:00"
+   "time": "2026-11-11T05:44+00:00"
+  },
+  "ai": {
+   "ok": true,
+   "time": "2026-11-11T05:44+00:00"
   }
  },
  "tables": [
-  {
-   "id": "aa",
-   "tab": "Artificial Analysis",
-   "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ข้อมูล 17 ต.ค. 2026 (Intelligence Index v4.3.2)",
-   "why": "รวมผลจาก 10 การทดสอบมาตรฐาน (เช่น งานจริงระดับอาชีพ ฟิสิกส์ การใช้ Tool) ที่ทีมเดียวกันรันเอง ทำให้เทียบข้ามค่ายได้ยุติธรรมกว่าคะแนนที่ผู้พัฒนาประกาศเอง และยังดูราคาและความเร็วได้",
-   "items": [
-    [
-     "Claude Opus 5.5 (max)",
-     "58",
-     "Anthropic",
-     "อันดับ 1 ในบอร์ดที่ตรวจเมื่อ 17 ต.ค.",
-     100
-    ],
-    [
-     "Muse Wonder Full (max)",
-     "56",
-     "Meta",
-     "อันดับ 4 ในบอร์ดเดียวกัน",
-     97
-    ],
-    [
-     "GPT-6 Astra (max)",
-     "53",
-     "OpenAI",
-     "อันดับ 8",
-     91
-    ],
-    [
-     "Gemini 4 Argon (high)",
-     "53",
-     "Google",
-     "อันดับ 9 ทั้งที่ชนะบน LMArena แสดงว่า 'คนชอบ' กับ 'ทดสอบเก่ง' ไม่เหมือนกัน",
-     91
-    ],
-    [
-     "GPT-6.1 Sol (max)",
-     "52",
-     "OpenAI",
-     "อันดับ 13 ในบอร์ดเดียวกัน",
-     90
-    ]
-   ],
-   "note": "เวอร์ชันของ Index เปลี่ยนเป็นระยะ คะแนนต่างเวอร์ชัน (เช่น 61 ในบางรายงานเดือน ส.ค.) เทียบกันตรง ๆ ไม่ได้ ให้ดูอันดับในบอร์ดเวอร์ชันเดียวกัน",
-   "src": [
-    [
-     "Developers Digest",
-     "https://www.developersdigest.tech/benchmarks/artificial-analysis"
-    ],
-    [
-     "DataLearner",
-     "https://global.datalearner.com/leaderboards/external/aa-quality-index"
-    ]
-   ]
-  },
   {
    "id": "db",
    "tab": "DB-Engines",
@@ -240,6 +188,71 @@
    ]
   },
   {
+   "id": "aa",
+   "tab": "Artificial Analysis",
+   "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
+   "date": "ดึงเมื่อ 2026-11-11",
+   "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
+   "items": [
+    [
+     "Claude Opus 5.5 (Max, Default Fallback)",
+     "59.1",
+     "Anthropic",
+     "ดูรายละเอียดที่เว็บต้นทาง",
+     100
+    ],
+    [
+     "Gemini 4 Carbon (Medium)",
+     "58.3",
+     "Google",
+     "ดูรายละเอียดที่เว็บต้นทาง",
+     99
+    ],
+    [
+     "GPT-6 Astra (Max)",
+     "56.9",
+     "OpenAI",
+     "ดูรายละเอียดที่เว็บต้นทาง",
+     96
+    ],
+    [
+     "Claude Fable 5.2 (Medium, Default Fallback)",
+     "56.4",
+     "Anthropic",
+     "ดูรายละเอียดที่เว็บต้นทาง",
+     95
+    ],
+    [
+     "GPT-6 Astra (Xhigh)",
+     "55.3",
+     "OpenAI",
+     "ดูรายละเอียดที่เว็บต้นทาง",
+     94
+    ],
+    [
+     "GPT-6.1 Sol (Xhigh)",
+     "52.5",
+     "OpenAI",
+     "ดูรายละเอียดที่เว็บต้นทาง",
+     89
+    ],
+    [
+     "GPT-6.1 Sol (High)",
+     "50.3",
+     "OpenAI",
+     "ดูรายละเอียดที่เว็บต้นทาง",
+     85
+    ]
+   ],
+   "note": "เวอร์ชันของ Index เปลี่ยนเป็นระยะ เทียบคะแนนข้ามช่วงเวลาตรง ๆ ไม่ได้",
+   "src": [
+    [
+     "Data from Artificial Analysis",
+     "https://artificialanalysis.ai/"
+    ]
+   ]
+  },
+  {
    "id": "lm",
    "tab": "LMArena",
    "title": "LMArena Text: ความชอบของผู้ใช้จริง",
@@ -355,32 +368,32 @@
    [
     "Protecting SSH Keys with macOS Secure Enclave",
     "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-    "36 คะแนน"
+    "40 คะแนน"
    ],
    [
     "Scion is back and is going to sell a kei truck in America",
     "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-    "408 คะแนน"
+    "410 คะแนน"
    ],
    [
     ".name Grandfathered",
     "https://neil.fraser.name/news/2026/11/10/",
-    "748 คะแนน"
+    "750 คะแนน"
    ],
    [
     "Smart home devices should work without the internet",
     "https://docodethatmatters.com/home-automation-overnight-success/",
-    "806 คะแนน"
+    "811 คะแนน"
    ],
    [
     "A great old-timey game-programming hack (2013)",
     "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-    "80 คะแนน"
+    "84 คะแนน"
    ],
    [
     "Six Math Essentials",
     "https://teorth.github.io/tao-web/six-math-essentials.html",
-    "192 คะแนน"
+    "194 คะแนน"
    ],
    [
     "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
@@ -390,27 +403,27 @@
    [
     "Starlink Mini 2",
     "https://starlink.com/mini-2",
-    "344 คะแนน"
-   ],
-   [
-    "Unremarkable things we made in 2026",
-    "https://www.neilchen.co/blog/things2026",
-    "16 คะแนน"
-   ],
-   [
-    "Announcing .NET 11",
-    "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-    "115 คะแนน"
+    "348 คะแนน"
    ],
    [
     "Tracking Anthropic-discovered vulnerabilities",
     "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-    "363 คะแนน"
+    "364 คะแนน"
    ],
    [
-    "AlphaProof Code",
-    "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "603 คะแนน"
+    "Announcing .NET 11",
+    "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "119 คะแนน"
+   ],
+   [
+    "Unremarkable things we made in 2026",
+    "https://www.neilchen.co/blog/things2026",
+    "18 คะแนน"
+   ],
+   [
+    "Greg Kurtzer's Ginux is now a userspace kernel",
+    "https://github.com/gmkurtzer/ginux",
+    "4 คะแนน"
    ]
   ],
   "gh": {
@@ -418,12 +431,12 @@
     [
      "NotRexed/Hookshot",
      "https://github.com/NotRexed/Hookshot",
-     "★6,800 C++"
+     "★6,806 C++"
     ],
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★5,319 Swift"
+     "★5,337 Swift"
     ],
     [
      "tangerineturtle1/NX2navi",
@@ -433,7 +446,7 @@
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,454 C#"
+     "★2,456 C#"
     ],
     [
      "JenkinWoo/sheeridVerify",
@@ -443,17 +456,17 @@
     [
      "IainKay/ram-altman",
      "https://github.com/IainKay/ram-altman",
-     "★1,837 Shell"
+     "★1,838 Shell"
     ],
     [
      "jamesondh/chimera-vocal-synth",
      "https://github.com/jamesondh/chimera-vocal-synth",
-     "★1,757 Rust"
+     "★1,759 Rust"
     ],
     [
      "DIYgod/pinky",
      "https://github.com/DIYgod/pinky",
-     "★1,745 Go"
+     "★1,746 Go"
     ],
     [
      "mmdoctor/google-pro-helper",
@@ -525,7 +538,7 @@
      [
       "jamesondh/chimera-vocal-synth",
       "https://github.com/jamesondh/chimera-vocal-synth",
-      "★1,757"
+      "★1,759"
      ],
      [
       "voyager-so/vork",
@@ -540,7 +553,7 @@
      [
       "Gloridust/WowType",
       "https://github.com/Gloridust/WowType",
-      "★484"
+      "★485"
      ],
      [
       "PlateParrotTerminal/lag-doctor",
@@ -552,7 +565,7 @@
      [
       "DIYgod/pinky",
       "https://github.com/DIYgod/pinky",
-      "★1,745"
+      "★1,746"
      ],
      [
       "manjushree-iyer/soundpad-audio-suite",
@@ -562,7 +575,7 @@
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★622"
+      "★623"
      ],
      [
       "devvmhq/devvm",
@@ -579,12 +592,12 @@
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★5,319"
+      "★5,337"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,229"
+      "★1,235"
      ],
      [
       "JosssphZhou/poki",
@@ -594,7 +607,7 @@
      [
       "musubipapi/airpointer",
       "https://github.com/musubipapi/airpointer",
-      "★359"
+      "★360"
      ],
      [
       "umarz317/WatchPointer",
@@ -608,12 +621,12 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥1242"
+    "♥1243"
    ],
    [
     "speridlabs/idol",
     "https://huggingface.co/speridlabs/idol",
-    "♥1894"
+    "♥1895"
    ],
    [
     "moonshotai/Kimi-K3.1-Pro",
@@ -623,7 +636,7 @@
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥480"
+    "♥483"
    ],
    [
     "ricursiveAI/Ripple-65B-Preview",
@@ -924,38 +937,38 @@
    },
    {
     "tier": "use",
-    "title": "Gemini 4 Carbon (High)",
-    "why": "นำ LMArena Text (คะแนน 1538) จากโหวตผู้ใช้จริง — เริ่มจากตัวนี้สำหรับงานสนทนา/เขียน แล้วเทียบกับโจทย์ของคุณ",
+    "title": "Claude Opus 5.5 (Max, Default Fallback)",
+    "why": "นำด้านความสามารถ (AA 59.1) จาก Artificial Analysis — เหมาะเป็น default สำหรับงานทั่วไป/ยาก",
     "tags": [
-     "LMArena",
-     "google"
+     "ความสามารถสูง",
+     "Anthropic"
     ]
    },
    {
     "tier": "watch",
-    "title": "Gemini 4 Argon (High)",
-    "why": "รองอันดับบน LMArena (1530) — น่าเทียบเคียงก่อนล็อก vendor",
+    "title": "Gemini 4 Carbon (Medium)",
+    "why": "คนชอบสูงบน LMArena (1538) แม้คะแนนทดสอบอาจไม่สูงสุด — เหมาะงานสนทนา/เขียน",
     "tags": [
-     "LMArena",
-     "google"
+     "user preference",
+     "Google"
     ]
    },
    {
-    "tier": "watch",
-    "title": "Baidu: ERNIE-5.5-Flash-Preview",
-    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-10 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
+    "tier": "use",
+    "title": "Coding assistants / IDE agents",
+    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
     "tags": [
-     "OpenRouter",
-     "ใหม่"
+     "coding",
+     "devtools"
     ]
    },
    {
-    "tier": "watch",
-    "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "why": "ติด Trending บน Hugging Face ตอนนี้ — ดูถ้าสนใจโมเดล/น้ำหนักที่ชุมชนกำลังลอง",
+    "tier": "caution",
+    "title": "CVE-2026-124194 Microsoft Office",
+    "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
     "tags": [
-     "Hugging Face",
-     "trending"
+     "security",
+     "KEV"
     ]
    }
   ],
@@ -963,12 +976,39 @@
  },
  "changes": {
   "has_prev": true,
-  "items": [],
-  "summary": "คะแนนหลักนิ่งจากรอบก่อน (ยังอัปเดตแหล่งสดตามปกติ)"
+  "items": [
+   {
+    "kind": "ai_new",
+    "text": "โมเดลใหม่ใน Top: Claude Opus 5.5 (Max, Default Fallback)"
+   },
+   {
+    "kind": "ai_new",
+    "text": "โมเดลใหม่ใน Top: Gemini 4 Carbon (Medium)"
+   },
+   {
+    "kind": "ai_new",
+    "text": "โมเดลใหม่ใน Top: GPT-6 Astra (Max)"
+   },
+   {
+    "kind": "ai_new",
+    "text": "โมเดลใหม่ใน Top: Claude Fable 5.2 (Medium, Default Fallback)"
+   },
+   {
+    "kind": "ai_new",
+    "text": "โมเดลใหม่ใน Top: GPT-6 Astra (Xhigh)"
+   }
+  ],
+  "summary": "พบการเปลี่ยนแปลง 5 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
-   "ai_top": [],
+   "ai_top": [
+    "Claude Opus 5.5 (Max, Default Fallback)",
+    "Gemini 4 Carbon (Medium)",
+    "GPT-6 Astra (Max)",
+    "Claude Fable 5.2 (Medium, Default Fallback)",
+    "GPT-6 Astra (Xhigh)"
+   ],
    "themes": [
     "Multimodal",
     "AI Agents / Tool use",
@@ -2399,5 +2439,222 @@
    ]
   ],
   "method": "แต่ละการ์ดดึง config แยกจาก LMArena + มิติราคา/context จาก OpenRouter อัปเดตอัตโนมัติ"
+ },
+ "ai": {
+  "compare": [
+   {
+    "name": "Claude Opus 5.5 (Max, Default Fallback)",
+    "org": "Anthropic",
+    "aa": 59.1,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": 1513,
+    "webdev_rank": 2,
+    "agent_rank": 1,
+    "new": false
+   },
+   {
+    "name": "Gemini 4 Carbon (Medium)",
+    "org": "Google",
+    "aa": 58.3,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": 1538,
+    "webdev_rank": 4,
+    "agent_rank": 2,
+    "new": false
+   },
+   {
+    "name": "GPT-6 Astra (Max)",
+    "org": "OpenAI",
+    "aa": 56.9,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": 5,
+    "agent_rank": 5,
+    "new": false
+   },
+   {
+    "name": "Claude Fable 5.2 (Medium, Default Fallback)",
+    "org": "Anthropic",
+    "aa": 56.4,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": 1,
+    "agent_rank": null,
+    "new": false
+   },
+   {
+    "name": "GPT-6 Astra (Xhigh)",
+    "org": "OpenAI",
+    "aa": 55.3,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": 5,
+    "agent_rank": 5,
+    "new": false
+   },
+   {
+    "name": "GPT-6.1 Sol (Xhigh)",
+    "org": "OpenAI",
+    "aa": 52.5,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": 6,
+    "agent_rank": 6,
+    "new": false
+   },
+   {
+    "name": "GPT-6.1 Sol (High)",
+    "org": "OpenAI",
+    "aa": 50.3,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": 6,
+    "agent_rank": 6,
+    "new": false
+   },
+   {
+    "name": "Claude Fable 5.1 (Max, Default Fallback)",
+    "org": "Anthropic",
+    "aa": 49.2,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": 1512,
+    "webdev_rank": 7,
+    "agent_rank": 4,
+    "new": false
+   },
+   {
+    "name": "Claude Fable 5.1 (Medium, Default Fallback)",
+    "org": "Anthropic",
+    "aa": 43.2,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": 1512,
+    "webdev_rank": 7,
+    "agent_rank": 4,
+    "new": false
+   },
+   {
+    "name": "Claude Sonnet 5.5 (High, Default Fallback)",
+    "org": "Anthropic",
+    "aa": 41.5,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": 3,
+    "agent_rank": 3,
+    "new": false
+   },
+   {
+    "name": "Muse Wonder (High)",
+    "org": "Meta",
+    "aa": 40.5,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": 1503,
+    "webdev_rank": null,
+    "agent_rank": null,
+    "new": false
+   },
+   {
+    "name": "Claude Fable 5.1 (Low, Default Fallback)",
+    "org": "Anthropic",
+    "aa": 38.7,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": 1512,
+    "webdev_rank": 7,
+    "agent_rank": 4,
+    "new": false
+   },
+   {
+    "name": "Grok 4.7 (High)",
+    "org": "SpaceXAI",
+    "aa": 35.2,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": null,
+    "agent_rank": null,
+    "new": false
+   },
+   {
+    "name": "Claude Haiku 5.5 (Xhigh)",
+    "org": "Anthropic",
+    "aa": 34.6,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": null,
+    "agent_rank": null,
+    "new": false
+   },
+   {
+    "name": "Grok 4.7 (Low)",
+    "org": "SpaceXAI",
+    "aa": 31.1,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": null,
+    "agent_rank": null,
+    "new": false
+   }
+  ],
+  "seen": [
+   "Claude Opus 5.5 (Max, Default Fallback)",
+   "Gemini 4 Carbon (Medium)",
+   "GPT-6 Astra (Max)",
+   "Claude Fable 5.2 (Medium, Default Fallback)",
+   "GPT-6 Astra (Xhigh)",
+   "GPT-6.1 Sol (Xhigh)",
+   "GPT-6.1 Sol (High)",
+   "Claude Fable 5.1 (Max, Default Fallback)",
+   "Claude Fable 5.1 (Medium, Default Fallback)",
+   "Claude Sonnet 5.5 (High, Default Fallback)",
+   "Muse Wonder (High)",
+   "Claude Fable 5.1 (Low, Default Fallback)",
+   "Grok 4.7 (High)",
+   "Claude Haiku 5.5 (Xhigh)",
+   "Grok 4.7 (Low)"
+  ],
+  "arena_count": 8
  }
 }
