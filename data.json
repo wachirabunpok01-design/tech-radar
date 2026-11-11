@@ -303,12 +303,12 @@
    [
     "Baidu: ERNIE-5.5-Flash-Preview",
     "https://openrouter.ai/baidu/ernie-5.5-flash-preview",
-    "2026-11-11 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens"
+    "2026-11-10 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens"
    ],
    [
     "Baidu: ERNIE-Light-DT-1.0",
     "https://openrouter.ai/baidu/ernie-light-dt-1.0-intl",
-    "2026-11-11 · context 1,024,000 · $1.13 / $3.94 ต่อล้าน tokens"
+    "2026-11-10 · context 1,024,000 · $1.13 / $3.94 ต่อล้าน tokens"
    ],
    [
     "Google: Gemini 4 Carbon",
@@ -328,27 +328,27 @@
    [
     "Thinking Machines: Inkling 2 Small (free)",
     "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
-    "2026-11-10 · context 1,048,576 · $0.00 / $0.00 ต่อล้าน tokens"
+    "2026-11-09 · context 1,048,576 · $0.00 / $0.00 ต่อล้าน tokens"
    ],
    [
     "Anthropic: Claude Fable 5.2",
     "https://openrouter.ai/anthropic/claude-fable-5.2",
-    "2026-11-10 · context 1,000,000 · $8.00 / $40.00 ต่อล้าน tokens"
+    "2026-11-09 · context 1,000,000 · $8.00 / $40.00 ต่อล้าน tokens"
    ],
    [
     "Anthropic: Claude Fable 5.2 (batch)",
     "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
-    "2026-11-10 · context 1,000,000 · $4.00 / $20.00 ต่อล้าน tokens"
+    "2026-11-09 · context 1,000,000 · $4.00 / $20.00 ต่อล้าน tokens"
    ],
    [
     "Meta: Muse Ember",
     "https://openrouter.ai/meta/muse-ember",
-    "2026-11-10 · context 1,048,576 · $0.10 / $0.50 ต่อล้าน tokens"
+    "2026-11-09 · context 1,048,576 · $0.10 / $0.50 ต่อล้าน tokens"
    ],
    [
     "LiquidAI: LFM3-1.7B",
     "https://openrouter.ai/liquid/lfm-3-1.7b",
-    "2026-11-07 · context 262,144 · $0.08 / $0.20 ต่อล้าน tokens"
+    "2026-11-06 · context 262,144 · $0.08 / $0.20 ต่อล้าน tokens"
    ]
   ],
   "hn": [
@@ -380,7 +380,7 @@
    [
     "Six Math Essentials",
     "https://teorth.github.io/tao-web/six-math-essentials.html",
-    "191 คะแนน"
+    "192 คะแนน"
    ],
    [
     "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
@@ -453,7 +453,7 @@
     [
      "DIYgod/pinky",
      "https://github.com/DIYgod/pinky",
-     "★1,744 Go"
+     "★1,745 Go"
     ],
     [
      "mmdoctor/google-pro-helper",
@@ -552,7 +552,7 @@
      [
       "DIYgod/pinky",
       "https://github.com/DIYgod/pinky",
-      "★1,744"
+      "★1,745"
      ],
      [
       "manjushree-iyer/soundpad-audio-suite",
@@ -562,7 +562,7 @@
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★621"
+      "★622"
      ],
      [
       "devvmhq/devvm",
@@ -943,7 +943,7 @@
    {
     "tier": "watch",
     "title": "Baidu: ERNIE-5.5-Flash-Preview",
-    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-11 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
+    "why": "โมเดลใหม่ล่าสุดบน OpenRouter — 2026-11-10 · context 1,024,000 · $0.28 / $1.13 ต่อล้าน tokens — เหมาะทดลองฟีเจอร์ใหม่ก่อนตัดสินใจ",
     "tags": [
      "OpenRouter",
      "ใหม่"
