@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-12T07:08+00:00",
+ "updated": "2026-11-12T17:35+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00",
+   "time": "2026-11-12T17:35+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-12T07:08+00:00"
+   "time": "2026-11-12T17:35+00:00"
   }
  },
  "tables": [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
-    "93% of paint splatters are valid Perl programs (2019)",
-    "https://www.mcmillen.dev/sigbovik/",
-    "354 คะแนน"
+    "NVIDIA Announces CEO Transition",
+    "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "1491 คะแนน"
    ],
    [
-    "Tim Peters has died",
-    "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-    "1085 คะแนน"
+    "Anthropic IPO",
+    "https://ipo.anthropic.com/us/",
+    "568 คะแนน"
    ],
    [
-    "Critical RCE Vulnerability in Apache HTTP Server",
-    "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-    "124 คะแนน"
+    "Abandoned Quake 4 expansion finished by modders and now playable",
+    "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "119 คะแนน"
    ],
    [
-    "AWS emulator",
-    "https://github.com/aws/aws-emulator",
-    "793 คะแนน"
+    "I'm making LLMs work on small and old devices",
+    "https://github.com/hyperionaidev/smolmaxxing/",
+    "66 คะแนน"
    ],
    [
-    "Nvidia is preparing to oust Jensen Huang",
-    "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-    "860 คะแนน"
+    "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "99 คะแนน"
    ],
    [
-    "Jane Street: Socratic Tutor",
-    "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-    "21 คะแนน"
+    "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+    "https://github.com/chocoford/ExcalidrawZ",
+    "33 คะแนน"
    ],
    [
-    "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-    "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-    "465 คะแนน"
+    "Why Writing Correct Software Is Hard",
+    "https://pron.github.io/posts/correctness-and-complexity",
+    "270 คะแนน"
    ],
    [
-    "Gemini Decisions API",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "378 คะแนน"
+    "Libreagi – Save OSS Models",
+    "https://libreagi.com/",
+    "67 คะแนน"
    ],
    [
-    "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "510 คะแนน"
-   ],
-   [
-    "Lock Your GitHub Actions",
-    "https://hugovk.dev/blog/2026/lock-github-actions/",
-    "209 คะแนน"
-   ],
-   [
-    "Darling Development Update – Q4 2026",
-    "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-    "16 คะแนน"
-   ],
-   [
-    "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
-    "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+    "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+    "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
     "15 คะแนน"
+   ],
+   [
+    "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+    "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+    "55 คะแนน"
+   ],
+   [
+    "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+    "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+    "32 คะแนน"
+   ],
+   [
+    "Running web sites makes me not want to",
+    "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+    "42 คะแนน"
    ]
   ],
   "gh": {
@@ -431,119 +431,119 @@
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★6,568 Swift"
+     "★6,878 Swift"
     ],
     [
      "tangerineturtle1/NX2navi",
      "https://github.com/tangerineturtle1/NX2navi",
-     "★3,330 C"
+     "★3,464 C"
     ],
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,664 C#"
+     "★2,748 C#"
     ],
     [
      "JenkinWoo/sheeridVerify",
      "https://github.com/JenkinWoo/sheeridVerify",
-     "★2,046 JavaScript"
+     "★2,076 JavaScript"
     ],
     [
      "DIYgod/pinky",
      "https://github.com/DIYgod/pinky",
-     "★1,909 Go"
+     "★1,988 Go"
     ],
     [
      "Kianuni/Erosion-CN",
      "https://github.com/Kianuni/Erosion-CN",
-     "★1,641 Swift"
+     "★1,713 Swift"
+    ],
+    [
+     "HybridRobotics/supermimic",
+     "https://github.com/HybridRobotics/supermimic",
+     "★1,287 Python"
     ],
     [
      "mahmoudtawfik1998/secure-pdf-document-processor",
      "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
-     "★1,305 HTML"
+     "★1,212 HTML"
     ],
     [
      "hembramneeraj3-create/aida-64-extreme",
      "https://github.com/hembramneeraj3-create/aida-64-extreme",
-     "★1,304 HTML"
+     "★1,207 HTML"
     ],
     [
      "abdulmannanmalik13-wq/adobe-substance-3d-studio",
      "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
-     "★1,304 HTML"
-    ],
-    [
-     "AleRibeiro44/archicad-desktop-setup",
-     "https://github.com/AleRibeiro44/archicad-desktop-setup",
-     "★1,301 HTML"
+     "★1,207 HTML"
     ]
    ],
    "by_lang": {
     "Python": [
      [
-      "farhatullah0006-art/rx-11-audio-editor-config",
-      "https://github.com/farhatullah0006-art/rx-11-audio-editor-config",
-      "★1,200"
-     ],
-     [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★1,151"
+      "★1,287"
+     ],
+     [
+      "farhatullah0006-art/rx-11-audio-editor-config",
+      "https://github.com/farhatullah0006-art/rx-11-audio-editor-config",
+      "★1,103"
      ],
      [
       "Th0rgal/satmux",
       "https://github.com/Th0rgal/satmux",
-      "★1,048"
+      "★1,054"
      ],
      [
       "Goblinmine/homelab-diagram",
       "https://github.com/Goblinmine/homelab-diagram",
-      "★889"
+      "★923"
      ],
      [
       "lxe/phoneuse",
       "https://github.com/lxe/phoneuse",
-      "★613"
+      "★626"
      ]
     ],
     "TypeScript": [
      [
       "ebtsamalhakmy-sketch/desktop-backup-suite",
       "https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite",
-      "★1,296"
+      "★1,199"
      ],
      [
       "tss878/delta-executor-toolkit",
       "https://github.com/tss878/delta-executor-toolkit",
-      "★1,295"
+      "★1,198"
      ],
      [
       "RolandoV3/metatrader-5-bot",
       "https://github.com/RolandoV3/metatrader-5-bot",
-      "★1,204"
+      "★1,108"
      ],
      [
       "ethangangasingh-crypto/musicmakerunlimited",
       "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
-      "★1,200"
+      "★1,103"
      ],
      [
       "rdeepak-wq121/quicken-deluxe-installer",
       "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
-      "★1,200"
+      "★1,103"
      ]
     ],
     "Rust": [
      [
       "thiagoaureliomartins-programador/chief-architect-premier",
       "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
-      "★1,197"
+      "★1,100"
      ],
      [
       "Gloridust/WowType",
       "https://github.com/Gloridust/WowType",
-      "★629"
+      "★671"
      ],
      [
       "BeeCaptivate/pc-cleanup-optimizer",
@@ -553,66 +553,66 @@
      [
       "bea4dev/shoji-bar-4",
       "https://github.com/bea4dev/shoji-bar-4",
-      "★208"
+      "★216"
      ],
      [
-      "AutocratMinaret/valorant-ai-clip-editor",
-      "https://github.com/AutocratMinaret/valorant-ai-clip-editor",
-      "★179"
+      "makepad/relax",
+      "https://github.com/makepad/relax",
+      "★213"
      ]
     ],
     "Go": [
      [
       "DIYgod/pinky",
       "https://github.com/DIYgod/pinky",
-      "★1,909"
+      "★1,988"
      ],
      [
       "manjushree-iyer/soundpad-audio-suite",
       "https://github.com/manjushree-iyer/soundpad-audio-suite",
-      "★1,200"
+      "★1,103"
      ],
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★861"
+      "★930"
      ],
      [
       "devvmhq/devvm",
       "https://github.com/devvmhq/devvm",
-      "★564"
+      "★590"
      ],
      [
       "TooonyChen/finallyshell",
       "https://github.com/TooonyChen/finallyshell",
-      "★456"
+      "★466"
      ]
     ],
     "Swift": [
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★6,568"
+      "★6,878"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,641"
+      "★1,713"
      ],
      [
       "musubipapi/airpointer",
       "https://github.com/musubipapi/airpointer",
-      "★375"
+      "★383"
      ],
      [
       "oscarcreatess/airpointer",
       "https://github.com/oscarcreatess/airpointer",
-      "★186"
+      "★187"
      ],
      [
       "qnguyen3/zalo-swift-re",
       "https://github.com/qnguyen3/zalo-swift-re",
-      "★150"
+      "★151"
      ]
     ]
    }
@@ -621,104 +621,104 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥4344"
+    "♥4657"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥774"
+    "♥837"
    ],
    [
     "speridlabs/idol",
     "https://huggingface.co/speridlabs/idol",
-    "♥2166"
+    "♥2210"
    ],
    [
     "NousResearch/Arete-27B",
     "https://huggingface.co/NousResearch/Arete-27B",
-    "♥443"
+    "♥468"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11545"
-   ],
-   [
-    "ricursiveAI/Ripple-65B-Preview",
-    "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
-    "♥520"
-   ],
-   [
-    "moonshotai/Kimi-K3.1-Pro",
-    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "♥1950"
+    "♥11592"
    ],
    [
     "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥2929"
+    "♥2967"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥19665"
+    "♥19708"
    ],
    [
     "ccore/Qwen3.5-4B-3D-Coder",
     "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-    "♥1021"
+    "♥1037"
+   ],
+   [
+    "ricursiveAI/Ripple-65B-Preview",
+    "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+    "♥526"
+   ],
+   [
+    "Comfy-Org/MiniMax-H3-Image",
+    "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+    "♥285"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "253,162,799 /สัปดาห์"
+    "252,219,874 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "25,006,275 /สัปดาห์"
+    "24,765,263 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "9,480,213 /สัปดาห์"
+    "9,330,041 /สัปดาห์"
    ],
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "11,278,570 /สัปดาห์"
+    "11,237,314 /สัปดาห์"
    ],
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,351,847 /สัปดาห์"
+    "8,216,063 /สัปดาห์"
    ],
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "92,077,869 /สัปดาห์"
+    "91,355,769 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "266,237,631 /สัปดาห์"
+    "266,727,765 /สัปดาห์"
    ],
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "418,180,186 /สัปดาห์"
+    "415,398,285 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,364,724 /สัปดาห์"
+    "2,332,641 /สัปดาห์"
    ],
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "45,363,657 /สัปดาห์"
+    "44,800,760 /สัปดาห์"
    ]
   ],
   "kev": [
@@ -833,7 +833,7 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 16,
+    "score": 17,
     "hits": [
      "multimodal",
      "vision",
@@ -844,7 +844,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 12,
+    "score": 10,
     "hits": [
      "agent",
      "agents",
@@ -872,14 +872,6 @@
      "qwen"
     ],
     "heat": 84
-   },
-   {
-    "name": "Security / Exploit awareness",
-    "score": 1,
-    "hits": [
-     "vulnerability"
-    ],
-    "heat": 12
    }
   ],
   "recommendations": [
@@ -986,20 +978,20 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "theme_up",
-    "text": "ธีมขึ้นแรง: Security / Exploit awareness"
-   },
-   {
     "kind": "dim",
     "text": "ผู้นำมิติ agent เปลี่ยน: Claude Opus 5.5 (Max) → Claude Fable 5.2 (Max)"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: 93% of paint splatters are valid Perl programs (2019)"
+    "text": "HN ใหม่ในท็อป: NVIDIA Announces CEO Transition"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Critical RCE Vulnerability in Apache HTTP Server"
+    "text": "HN ใหม่ในท็อป: Anthropic IPO"
+   },
+   {
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Abandoned Quake 4 expansion finished by modders and now playable"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
@@ -1017,8 +1009,7 @@
     "Multimodal",
     "AI Agents / Tool use",
     "Coding assistants",
-    "Open-weight / Local models",
-    "Security / Exploit awareness"
+    "Open-weight / Local models"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1038,11 +1029,11 @@
     "Nex AGI: Nex-N2.6"
    ],
    "hn_top": [
-    "93% of paint splatters are valid Perl programs (2019)",
-    "Tim Peters has died",
-    "Critical RCE Vulnerability in Apache HTTP Server",
-    "AWS emulator",
-    "Nvidia is preparing to oust Jensen Huang"
+    "NVIDIA Announces CEO Transition",
+    "Anthropic IPO",
+    "Abandoned Quake 4 expansion finished by modders and now playable",
+    "I'm making LLMs work on small and old devices",
+    "Talking Zen 6 with Mike Clark at AMD In-Depth"
    ]
   },
   "year": 2026,
@@ -2241,13 +2232,13 @@
       "modality": "text+image+video->text"
      },
      {
-      "name": "DeepSeek: DeepSeek V4.1 Flash 1017 (batch)",
-      "org": "deepseek",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017:batch",
-      "note": "context 1,048,576 · ~$0.06/ล้านผสม · text+image->text",
-      "context": 1048576,
-      "blended": 0.058249999999999996,
-      "modality": "text+image->text"
+      "name": "inclusionAI: Ling 3.1 Flash",
+      "org": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.1-flash",
+      "note": "context 1,000,000 · ~$0.07/ล้านผสม · text->text",
+      "context": 1000000,
+      "blended": 0.0675,
+      "modality": "text->text"
      }
     ]
    },
