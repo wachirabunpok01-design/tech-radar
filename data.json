@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-11T21:56+00:00",
+ "updated": "2026-11-12T07:08+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00",
+   "time": "2026-11-12T07:08+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-11T21:56+00:00"
+   "time": "2026-11-12T07:08+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-11",
+   "date": "ดึงเมื่อ 2026-11-12",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -366,145 +366,145 @@
   ],
   "hn": [
    [
-    "AWS emulator",
-    "https://github.com/aws/aws-emulator",
-    "479 คะแนน"
+    "93% of paint splatters are valid Perl programs (2019)",
+    "https://www.mcmillen.dev/sigbovik/",
+    "354 คะแนน"
    ],
    [
     "Tim Peters has died",
     "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-    "650 คะแนน"
+    "1085 คะแนน"
+   ],
+   [
+    "Critical RCE Vulnerability in Apache HTTP Server",
+    "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "124 คะแนน"
+   ],
+   [
+    "AWS emulator",
+    "https://github.com/aws/aws-emulator",
+    "793 คะแนน"
+   ],
+   [
+    "Nvidia is preparing to oust Jensen Huang",
+    "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "860 คะแนน"
+   ],
+   [
+    "Jane Street: Socratic Tutor",
+    "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+    "21 คะแนน"
    ],
    [
     "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
     "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-    "334 คะแนน"
-   ],
-   [
-    "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-    "https://termsheetplease.com/",
-    "116 คะแนน"
+    "465 คะแนน"
    ],
    [
     "Gemini Decisions API",
     "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "139 คะแนน"
+    "378 คะแนน"
    ],
    [
-    "GitHub Incident with Webhooks, Actions, etc.",
-    "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
-    "44 คะแนน"
+    "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "510 คะแนน"
    ],
    [
-    "Emacs in the Age of Magic",
-    "https://commandlinesystems.com/magic.txt",
-    "61 คะแนน"
+    "Lock Your GitHub Actions",
+    "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "209 คะแนน"
    ],
    [
-    "Huawei releases MACaQ, its internal quantizer for local inference",
-    "https://github.com/huawei-csl/MACaQ",
-    "25 คะแนน"
+    "Darling Development Update – Q4 2026",
+    "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+    "16 คะแนน"
    ],
    [
-    "Faster Retrieval for Better, More Efficient RAG",
-    "https://machinelearning.apple.com/research/faster-retrieval",
-    "114 คะแนน"
-   ],
-   [
-    "Why are we still working this hard?",
-    "https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/",
-    "185 คะแนน"
-   ],
-   [
-    "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-    "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-    "30 คะแนน"
-   ],
-   [
-    "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-    "https://news.ycombinator.com/item?id=50455811",
-    "37 คะแนน"
+    "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
+    "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+    "15 คะแนน"
    ]
   ],
   "gh": {
    "top": [
     [
-     "NotRexed/Hookshot",
-     "https://github.com/NotRexed/Hookshot",
-     "★7,637 C++"
-    ],
-    [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★6,149 Swift"
+     "★6,568 Swift"
     ],
     [
      "tangerineturtle1/NX2navi",
      "https://github.com/tangerineturtle1/NX2navi",
-     "★3,200 C"
+     "★3,330 C"
     ],
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,581 C#"
+     "★2,664 C#"
     ],
     [
      "JenkinWoo/sheeridVerify",
      "https://github.com/JenkinWoo/sheeridVerify",
-     "★2,033 JavaScript"
-    ],
-    [
-     "jamesondh/chimera-vocal-synth",
-     "https://github.com/jamesondh/chimera-vocal-synth",
-     "★1,950 Rust"
-    ],
-    [
-     "IainKay/ram-altman",
-     "https://github.com/IainKay/ram-altman",
-     "★1,938 Shell"
+     "★2,046 JavaScript"
     ],
     [
      "DIYgod/pinky",
      "https://github.com/DIYgod/pinky",
-     "★1,857 Go"
-    ],
-    [
-     "mmdoctor/google-pro-helper",
-     "https://github.com/mmdoctor/google-pro-helper",
-     "★1,724 Python"
+     "★1,909 Go"
     ],
     [
      "Kianuni/Erosion-CN",
      "https://github.com/Kianuni/Erosion-CN",
-     "★1,504 Swift"
+     "★1,641 Swift"
+    ],
+    [
+     "mahmoudtawfik1998/secure-pdf-document-processor",
+     "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+     "★1,305 HTML"
+    ],
+    [
+     "hembramneeraj3-create/aida-64-extreme",
+     "https://github.com/hembramneeraj3-create/aida-64-extreme",
+     "★1,304 HTML"
+    ],
+    [
+     "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+     "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+     "★1,304 HTML"
+    ],
+    [
+     "AleRibeiro44/archicad-desktop-setup",
+     "https://github.com/AleRibeiro44/archicad-desktop-setup",
+     "★1,301 HTML"
     ]
    ],
    "by_lang": {
     "Python": [
-     [
-      "mmdoctor/google-pro-helper",
-      "https://github.com/mmdoctor/google-pro-helper",
-      "★1,724"
-     ],
-     [
-      "WoYun520/gif-factory",
-      "https://github.com/WoYun520/gif-factory",
-      "★1,311"
-     ],
      [
       "farhatullah0006-art/rx-11-audio-editor-config",
       "https://github.com/farhatullah0006-art/rx-11-audio-editor-config",
       "★1,200"
      ],
      [
-      "Th0rgal/satmux",
-      "https://github.com/Th0rgal/satmux",
-      "★1,046"
-     ],
-     [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★1,015"
+      "★1,151"
+     ],
+     [
+      "Th0rgal/satmux",
+      "https://github.com/Th0rgal/satmux",
+      "★1,048"
+     ],
+     [
+      "Goblinmine/homelab-diagram",
+      "https://github.com/Goblinmine/homelab-diagram",
+      "★889"
+     ],
+     [
+      "lxe/phoneuse",
+      "https://github.com/lxe/phoneuse",
+      "★613"
      ]
     ],
     "TypeScript": [
@@ -516,12 +516,12 @@
      [
       "tss878/delta-executor-toolkit",
       "https://github.com/tss878/delta-executor-toolkit",
-      "★1,294"
+      "★1,295"
      ],
      [
       "RolandoV3/metatrader-5-bot",
       "https://github.com/RolandoV3/metatrader-5-bot",
-      "★1,203"
+      "★1,204"
      ],
      [
       "ethangangasingh-crypto/musicmakerunlimited",
@@ -536,16 +536,6 @@
     ],
     "Rust": [
      [
-      "jamesondh/chimera-vocal-synth",
-      "https://github.com/jamesondh/chimera-vocal-synth",
-      "★1,950"
-     ],
-     [
-      "voyager-so/vork",
-      "https://github.com/voyager-so/vork",
-      "★1,431"
-     ],
-     [
       "thiagoaureliomartins-programador/chief-architect-premier",
       "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
       "★1,197"
@@ -553,19 +543,29 @@
      [
       "Gloridust/WowType",
       "https://github.com/Gloridust/WowType",
-      "★582"
+      "★629"
      ],
      [
       "BeeCaptivate/pc-cleanup-optimizer",
       "https://github.com/BeeCaptivate/pc-cleanup-optimizer",
       "★246"
+     ],
+     [
+      "bea4dev/shoji-bar-4",
+      "https://github.com/bea4dev/shoji-bar-4",
+      "★208"
+     ],
+     [
+      "AutocratMinaret/valorant-ai-clip-editor",
+      "https://github.com/AutocratMinaret/valorant-ai-clip-editor",
+      "★179"
      ]
     ],
     "Go": [
      [
       "DIYgod/pinky",
       "https://github.com/DIYgod/pinky",
-      "★1,857"
+      "★1,909"
      ],
      [
       "manjushree-iyer/soundpad-audio-suite",
@@ -575,44 +575,44 @@
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★804"
+      "★861"
      ],
      [
       "devvmhq/devvm",
       "https://github.com/devvmhq/devvm",
-      "★558"
+      "★564"
      ],
      [
       "TooonyChen/finallyshell",
       "https://github.com/TooonyChen/finallyshell",
-      "★452"
+      "★456"
      ]
     ],
     "Swift": [
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★6,149"
+      "★6,568"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,504"
-     ],
-     [
-      "JosssphZhou/poki",
-      "https://github.com/JosssphZhou/poki",
-      "★970"
+      "★1,641"
      ],
      [
       "musubipapi/airpointer",
       "https://github.com/musubipapi/airpointer",
-      "★370"
+      "★375"
      ],
      [
-      "umarz317/WatchPointer",
-      "https://github.com/umarz317/WatchPointer",
-      "★327"
+      "oscarcreatess/airpointer",
+      "https://github.com/oscarcreatess/airpointer",
+      "★186"
+     ],
+     [
+      "qnguyen3/zalo-swift-re",
+      "https://github.com/qnguyen3/zalo-swift-re",
+      "★150"
      ]
     ]
    }
@@ -621,52 +621,52 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥2642"
+    "♥4344"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥680"
+    "♥774"
    ],
    [
     "speridlabs/idol",
     "https://huggingface.co/speridlabs/idol",
-    "♥2137"
-   ],
-   [
-    "moonshotai/Kimi-K3.1-Pro",
-    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "♥1929"
-   ],
-   [
-    "ricursiveAI/Ripple-65B-Preview",
-    "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
-    "♥514"
+    "♥2166"
    ],
    [
     "NousResearch/Arete-27B",
     "https://huggingface.co/NousResearch/Arete-27B",
-    "♥429"
+    "♥443"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11504"
+    "♥11545"
+   ],
+   [
+    "ricursiveAI/Ripple-65B-Preview",
+    "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+    "♥520"
+   ],
+   [
+    "moonshotai/Kimi-K3.1-Pro",
+    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "♥1950"
    ],
    [
     "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥2898"
-   ],
-   [
-    "ccore/Qwen3.5-4B-3D-Coder",
-    "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-    "♥1015"
+    "♥2929"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥19627"
+    "♥19665"
+   ],
+   [
+    "ccore/Qwen3.5-4B-3D-Coder",
+    "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+    "♥1021"
    ]
   ],
   "npm": [
@@ -844,7 +844,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 13,
+    "score": 12,
     "hits": [
      "agent",
      "agents",
@@ -856,13 +856,13 @@
    },
    {
     "name": "Coding assistants",
-    "score": 8,
+    "score": 7,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 96
+    "heat": 84
    },
    {
     "name": "Open-weight / Local models",
@@ -874,13 +874,12 @@
     "heat": 84
    },
    {
-    "name": "RAG / Knowledge",
-    "score": 2,
+    "name": "Security / Exploit awareness",
+    "score": 1,
     "hits": [
-     "rag",
-     "retrieval"
+     "vulnerability"
     ],
-    "heat": 24
+    "heat": 12
    }
   ],
   "recommendations": [
@@ -906,7 +905,7 @@
    },
    {
     "tier": "watch",
-    "title": "Claude Opus 5.5 (Max) · Agent",
+    "title": "Claude Fable 5.2 (Max) · Agent",
     "why": "อันดับ 1 บน LMArena · Agent — เหมาะงาน: agent, tool-calling, automation",
     "tags": [
      "Agent",
@@ -988,19 +987,19 @@
   "items": [
    {
     "kind": "theme_up",
-    "text": "ธีมขึ้นแรง: RAG / Knowledge"
+    "text": "ธีมขึ้นแรง: Security / Exploit awareness"
+   },
+   {
+    "kind": "dim",
+    "text": "ผู้นำมิติ agent เปลี่ยน: Claude Opus 5.5 (Max) → Claude Fable 5.2 (Max)"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: AWS emulator"
+    "text": "HN ใหม่ในท็อป: 93% of paint splatters are valid Perl programs (2019)"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Tim Peters has died"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: A false smoke alarm almost drowned Jane Street's only NYC datacenter"
+    "text": "HN ใหม่ในท็อป: Critical RCE Vulnerability in Apache HTTP Server"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
@@ -1019,12 +1018,12 @@
     "AI Agents / Tool use",
     "Coding assistants",
     "Open-weight / Local models",
-    "RAG / Knowledge"
+    "Security / Exploit awareness"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
     "webdev:Claude Fable 5.2 (xHigh)",
-    "agent:Claude Opus 5.5 (Max)",
+    "agent:Claude Fable 5.2 (Max)",
     "vision:Claude Fable 5 (High)",
     "search:Qwen3.8-Max",
     "factual:Gemini 4 Carbon (High)",
@@ -1039,18 +1038,18 @@
     "Nex AGI: Nex-N2.6"
    ],
    "hn_top": [
-    "AWS emulator",
+    "93% of paint splatters are valid Perl programs (2019)",
     "Tim Peters has died",
-    "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-    "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-    "Gemini Decisions API"
+    "Critical RCE Vulnerability in Apache HTTP Server",
+    "AWS emulator",
+    "Nvidia is preparing to oust Jensen Huang"
    ]
   },
   "year": 2026,
   "schema": 3
  },
  "dimensions": {
-  "blurb": "ตอนนี้ผู้นำคนละมิติ: Text→Gemini 4 Carbon (High), WebDev→Claude Fable 5.2 (xHigh), Agent→Claude Opus 5.5 (Max), Vision→Claude Fable 5 (High) — เลือกตามงาน ไม่ใช่ตามชื่อดังอย่างเดียว",
+  "blurb": "ตอนนี้ผู้นำคนละมิติ: Text→Gemini 4 Carbon (High), WebDev→Claude Fable 5.2 (xHigh), Agent→Claude Fable 5.2 (Max), Vision→Claude Fable 5 (High) — เลือกตามงาน ไม่ใช่ตามชื่อดังอย่างเดียว",
   "boards": [
    {
     "id": "text",
@@ -1278,104 +1277,104 @@
     "use": "agent, tool-calling, automation",
     "tip": "วัดผลงาน agent จริง (ไม่ใช่แค่ chat) — ดูถ้าทำระบบ agent / IDE agent",
     "score_kind": "ratio",
-    "date": "2026-11-08",
-    "leader": "Claude Opus 5.5 (Max)",
+    "date": "2026-11-11",
+    "leader": "Claude Fable 5.2 (Max)",
     "items": [
      {
       "rank": 1,
-      "name": "Claude Opus 5.5 (Max)",
+      "name": "Claude Fable 5.2 (Max)",
       "org": "anthropic",
-      "score": 0.1995562589597002,
-      "votes": 2477322,
-      "date": "2026-11-08",
+      "score": 0.3035278006076262,
+      "votes": 577927,
+      "date": "2026-11-11",
       "license": "Proprietary",
-      "score_label": "20.0%",
+      "score_label": "30.4%",
       "bar": 100,
-      "meta": "โหวต/สังเกต ~2,477,322"
+      "meta": "โหวต/สังเกต ~577,927"
      },
      {
       "rank": 2,
-      "name": "Gemini 4 Carbon (High)",
-      "org": "google",
-      "score": 0.1663061302907077,
-      "votes": 8594005,
-      "date": "2026-11-08",
+      "name": "Claude Opus 5.5 (Max)",
+      "org": "anthropic",
+      "score": 0.19515077489350557,
+      "votes": 2575030,
+      "date": "2026-11-11",
       "license": "Proprietary",
-      "score_label": "16.6%",
-      "bar": 83,
-      "meta": "โหวต/สังเกต ~8,594,005"
+      "score_label": "19.5%",
+      "bar": 64,
+      "meta": "โหวต/สังเกต ~2,575,030"
      },
      {
       "rank": 3,
-      "name": "Claude Sonnet 5.5 (Max)",
-      "org": "anthropic",
-      "score": 0.15994371740491212,
-      "votes": 1241679,
-      "date": "2026-11-08",
+      "name": "Gemini 4 Carbon (High)",
+      "org": "google",
+      "score": 0.1697596959508571,
+      "votes": 9558978,
+      "date": "2026-11-11",
       "license": "Proprietary",
-      "score_label": "16.0%",
-      "bar": 80,
-      "meta": "โหวต/สังเกต ~1,241,679"
+      "score_label": "17.0%",
+      "bar": 56,
+      "meta": "โหวต/สังเกต ~9,558,978"
      },
      {
       "rank": 4,
-      "name": "Claude Fable 5.1 (Max)",
+      "name": "Claude Sonnet 5.5 (Max)",
       "org": "anthropic",
-      "score": 0.1433518291440155,
-      "votes": 2440710,
-      "date": "2026-11-08",
+      "score": 0.15950175927879887,
+      "votes": 1274623,
+      "date": "2026-11-11",
       "license": "Proprietary",
-      "score_label": "14.3%",
-      "bar": 72,
-      "meta": "โหวต/สังเกต ~2,440,710"
+      "score_label": "16.0%",
+      "bar": 53,
+      "meta": "โหวต/สังเกต ~1,274,623"
      },
      {
       "rank": 5,
-      "name": "GPT-6 Astra (Max)",
-      "org": "openai",
-      "score": 0.14238994554675694,
-      "votes": 1318529,
-      "date": "2026-11-08",
+      "name": "Claude Fable 5.1 (Max)",
+      "org": "anthropic",
+      "score": 0.1481895326988354,
+      "votes": 2434457,
+      "date": "2026-11-11",
       "license": "Proprietary",
-      "score_label": "14.2%",
-      "bar": 71,
-      "meta": "โหวต/สังเกต ~1,318,529"
+      "score_label": "14.8%",
+      "bar": 49,
+      "meta": "โหวต/สังเกต ~2,434,457"
      },
      {
       "rank": 6,
-      "name": "GPT-6.1 Sol (Max)",
+      "name": "GPT-6 Astra (Max)",
       "org": "openai",
-      "score": 0.12527511889777543,
-      "votes": 3003038,
-      "date": "2026-11-08",
+      "score": 0.1453835362149422,
+      "votes": 1353961,
+      "date": "2026-11-11",
       "license": "Proprietary",
-      "score_label": "12.5%",
-      "bar": 63,
-      "meta": "โหวต/สังเกต ~3,003,038"
+      "score_label": "14.5%",
+      "bar": 48,
+      "meta": "โหวต/สังเกต ~1,353,961"
      },
      {
       "rank": 7,
-      "name": "GPT-6.1 Terra (Max)",
+      "name": "GPT-6.1 Sol (Max)",
       "org": "openai",
-      "score": 0.12102900587768267,
-      "votes": 7778687,
-      "date": "2026-11-08",
+      "score": 0.12459903897353725,
+      "votes": 3093307,
+      "date": "2026-11-11",
       "license": "Proprietary",
-      "score_label": "12.1%",
-      "bar": 61,
-      "meta": "โหวต/สังเกต ~7,778,687"
+      "score_label": "12.5%",
+      "bar": 41,
+      "meta": "โหวต/สังเกต ~3,093,307"
      },
      {
       "rank": 8,
-      "name": "Gemini 4 Argon (High)",
-      "org": "google",
-      "score": 0.10828589688358664,
-      "votes": 6590911,
-      "date": "2026-11-08",
+      "name": "GPT-6.1 Terra (Max)",
+      "org": "openai",
+      "score": 0.11995891113225184,
+      "votes": 8572270,
+      "date": "2026-11-11",
       "license": "Proprietary",
-      "score_label": "10.8%",
-      "bar": 54,
-      "meta": "โหวต/สังเกต ~6,590,911"
+      "score_label": "12.0%",
+      "bar": 40,
+      "meta": "โหวต/สังเกต ~8,572,270"
      }
     ]
    },
@@ -1950,9 +1949,9 @@
     "dim": "agent",
     "label": "Agent / Tool use",
     "short": "Agent",
-    "model": "Claude Opus 5.5 (Max)",
+    "model": "Claude Fable 5.2 (Max)",
     "org": "anthropic",
-    "score_label": "20.0%",
+    "score_label": "30.4%",
     "use": "agent, tool-calling, automation",
     "why": "อันดับ 1 บน LMArena · Agent — เหมาะงาน: agent, tool-calling, automation"
    },
@@ -2014,7 +2013,7 @@
     "ranks": {
      "text": 4,
      "webdev": 7,
-     "agent": 4,
+     "agent": 5,
      "vision": 3,
      "factual": 3,
      "document": 1
@@ -2027,7 +2026,7 @@
     "ranks": {
      "text": 1,
      "webdev": 4,
-     "agent": 2,
+     "agent": 3,
      "factual": 1
     },
     "appear": 4
@@ -2065,21 +2064,11 @@
     "appear": 3
    },
    {
-    "name": "Gemini 4 Argon (High)",
-    "org": "google",
-    "ranks": {
-     "text": 2,
-     "agent": 8,
-     "factual": 4
-    },
-    "appear": 3
-   },
-   {
     "name": "GPT-6 Astra (Max)",
     "org": "openai",
     "ranks": {
      "webdev": 5,
-     "agent": 5,
+     "agent": 6,
      "search": 7
     },
     "appear": 3
@@ -2089,7 +2078,7 @@
     "org": "openai",
     "ranks": {
      "webdev": 6,
-     "agent": 6,
+     "agent": 7,
      "search": 8
     },
     "appear": 3
@@ -2099,7 +2088,16 @@
     "org": "anthropic",
     "ranks": {
      "webdev": 2,
-     "agent": 1
+     "agent": 2
+    },
+    "appear": 2
+   },
+   {
+    "name": "Gemini 4 Argon (High)",
+    "org": "google",
+    "ranks": {
+     "text": 2,
+     "factual": 4
     },
     "appear": 2
    },
@@ -2234,15 +2232,6 @@
       "modality": "text+image+video->text"
      },
      {
-      "name": "Z.ai: GLM 5.3 Flash (batch)",
-      "org": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
-      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
-      "context": 1048576,
-      "blended": 0.0505,
-      "modality": "text+image+video->text"
-     },
-     {
       "name": "Qwen: Qwen3.7 Flash",
       "org": "qwen",
       "url": "https://openrouter.ai/qwen/qwen3.7-flash",
@@ -2250,6 +2239,15 @@
       "context": 1000000,
       "blended": 0.055,
       "modality": "text+image+video->text"
+     },
+     {
+      "name": "DeepSeek: DeepSeek V4.1 Flash 1017 (batch)",
+      "org": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017:batch",
+      "note": "context 1,048,576 · ~$0.06/ล้านผสม · text+image->text",
+      "context": 1048576,
+      "blended": 0.058249999999999996,
+      "modality": "text+image->text"
      }
     ]
    },
@@ -2458,7 +2456,7 @@
     "speed": null,
     "arena": 1513,
     "webdev_rank": 2,
-    "agent_rank": 1,
+    "agent_rank": 2,
     "new": false
    },
    {
@@ -2471,7 +2469,7 @@
     "speed": null,
     "arena": 1538,
     "webdev_rank": 4,
-    "agent_rank": 2,
+    "agent_rank": 3,
     "new": false
    },
    {
@@ -2484,7 +2482,7 @@
     "speed": null,
     "arena": null,
     "webdev_rank": 5,
-    "agent_rank": 5,
+    "agent_rank": 6,
     "new": false
    },
    {
@@ -2497,7 +2495,7 @@
     "speed": null,
     "arena": null,
     "webdev_rank": 1,
-    "agent_rank": null,
+    "agent_rank": 1,
     "new": false
    },
    {
@@ -2510,7 +2508,7 @@
     "speed": null,
     "arena": null,
     "webdev_rank": 5,
-    "agent_rank": 5,
+    "agent_rank": 6,
     "new": false
    },
    {
@@ -2523,7 +2521,7 @@
     "speed": null,
     "arena": null,
     "webdev_rank": 6,
-    "agent_rank": 6,
+    "agent_rank": 7,
     "new": false
    },
    {
@@ -2536,7 +2534,7 @@
     "speed": null,
     "arena": null,
     "webdev_rank": 6,
-    "agent_rank": 6,
+    "agent_rank": 7,
     "new": false
    },
    {
@@ -2549,7 +2547,7 @@
     "speed": null,
     "arena": 1512,
     "webdev_rank": 7,
-    "agent_rank": 4,
+    "agent_rank": 5,
     "new": false
    },
    {
@@ -2562,7 +2560,7 @@
     "speed": null,
     "arena": 1512,
     "webdev_rank": 7,
-    "agent_rank": 4,
+    "agent_rank": 5,
     "new": false
    },
    {
@@ -2575,7 +2573,7 @@
     "speed": null,
     "arena": null,
     "webdev_rank": 3,
-    "agent_rank": 3,
+    "agent_rank": 4,
     "new": false
    },
    {
@@ -2601,7 +2599,7 @@
     "speed": null,
     "arena": 1512,
     "webdev_rank": 7,
-    "agent_rank": 4,
+    "agent_rank": 5,
     "new": false
    },
    {
