@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-12T17:35+00:00",
+ "updated": "2026-11-12T23:37+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00",
+   "time": "2026-11-12T23:37+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   }
  },
  "tables": [
@@ -314,6 +314,16 @@
  "live": {
   "or": [
    [
+    "Google: Gemini 4 Hydrogen",
+    "https://openrouter.ai/google/gemini-4-hydrogen",
+    "2026-11-12 · context 1,048,576 · $1.50 / $7.50 ต่อล้าน tokens"
+   ],
+   [
+    "Google: Gemini 4 Hydrogen (batch)",
+    "https://openrouter.ai/google/gemini-4-hydrogen:batch",
+    "2026-11-12 · context 1,048,576 · $0.75 / $3.75 ต่อล้าน tokens"
+   ],
+   [
     "Baidu: ERNIE-5.5-Flash-Preview (free)",
     "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
     "2026-11-10 · context 1,024,000 · $0.00 / $0.00 ต่อล้าน tokens"
@@ -339,6 +349,11 @@
     "2026-11-10 · context 262,144 · $0.12 / $0.40 ต่อล้าน tokens"
    ],
    [
+    "Thinking Machines: Inkling 2 Small",
+    "https://openrouter.ai/thinkingmachines/inkling-2-small",
+    "2026-11-09 · context 1,048,576 · $0.30 / $1.00 ต่อล้าน tokens"
+   ],
+   [
     "Thinking Machines: Inkling 2 Small (free)",
     "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
     "2026-11-09 · context 1,048,576 · $0.00 / $0.00 ต่อล้าน tokens"
@@ -347,83 +362,68 @@
     "Anthropic: Claude Fable 5.2",
     "https://openrouter.ai/anthropic/claude-fable-5.2",
     "2026-11-09 · context 1,000,000 · $8.00 / $40.00 ต่อล้าน tokens"
-   ],
-   [
-    "Anthropic: Claude Fable 5.2 (batch)",
-    "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
-    "2026-11-09 · context 1,000,000 · $4.00 / $20.00 ต่อล้าน tokens"
-   ],
-   [
-    "Meta: Muse Ember",
-    "https://openrouter.ai/meta/muse-ember",
-    "2026-11-09 · context 1,048,576 · $0.10 / $0.50 ต่อล้าน tokens"
-   ],
-   [
-    "LiquidAI: LFM3-1.7B",
-    "https://openrouter.ai/liquid/lfm-3-1.7b",
-    "2026-11-06 · context 262,144 · $0.08 / $0.20 ต่อล้าน tokens"
    ]
   ],
   "hn": [
    [
-    "NVIDIA Announces CEO Transition",
-    "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "1491 คะแนน"
+    "Jensen Huang resigns",
+    "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "2719 คะแนน"
    ],
    [
-    "Anthropic IPO",
-    "https://ipo.anthropic.com/us/",
-    "568 คะแนน"
+    "Rust 1.100",
+    "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "305 คะแนน"
    ],
    [
-    "Abandoned Quake 4 expansion finished by modders and now playable",
-    "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-    "119 คะแนน"
+    "Why You Should Expect an AI Crash",
+    "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+    "25 คะแนน"
+   ],
+   [
+    "Gemini 4 Hydrogen and Orchestrator",
+    "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "236 คะแนน"
+   ],
+   [
+    "Foundation Models framework",
+    "https://developer.apple.com/foundation-models-framework/",
+    "83 คะแนน"
+   ],
+   [
+    "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "166 คะแนน"
+   ],
+   [
+    "AI is turning Apple's app review process into a nightmare for synth developers",
+    "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "50 คะแนน"
+   ],
+   [
+    "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "https://github.com/simpsoka/zigzag",
+    "263 คะแนน"
+   ],
+   [
+    "Service degradation on Microsoft 365",
+    "https://status.cloud.microsoft/",
+    "401 คะแนน"
+   ],
+   [
+    "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+    "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+    "123 คะแนน"
    ],
    [
     "I'm making LLMs work on small and old devices",
     "https://github.com/hyperionaidev/smolmaxxing/",
-    "66 คะแนน"
+    "261 คะแนน"
    ],
    [
-    "Talking Zen 6 with Mike Clark at AMD In-Depth",
-    "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-    "99 คะแนน"
-   ],
-   [
-    "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-    "https://github.com/chocoford/ExcalidrawZ",
-    "33 คะแนน"
-   ],
-   [
-    "Why Writing Correct Software Is Hard",
-    "https://pron.github.io/posts/correctness-and-complexity",
-    "270 คะแนน"
-   ],
-   [
-    "Libreagi – Save OSS Models",
-    "https://libreagi.com/",
-    "67 คะแนน"
-   ],
-   [
-    "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-    "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-    "15 คะแนน"
-   ],
-   [
-    "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-    "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-    "55 คะแนน"
-   ],
-   [
-    "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-    "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
-    "32 คะแนน"
-   ],
-   [
-    "Running web sites makes me not want to",
-    "https://lowkey.party/running-web-sites-makes-me-not-want-to",
-    "42 คะแนน"
+    "Abandoned Quake 4 expansion finished by modders and now playable",
+    "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "230 คะแนน"
    ]
   ],
   "gh": {
@@ -431,37 +431,37 @@
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★6,878 Swift"
+     "★6,931 Swift"
     ],
     [
      "tangerineturtle1/NX2navi",
      "https://github.com/tangerineturtle1/NX2navi",
-     "★3,464 C"
+     "★3,553 C"
     ],
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,748 C#"
+     "★2,755 C#"
     ],
     [
      "JenkinWoo/sheeridVerify",
      "https://github.com/JenkinWoo/sheeridVerify",
-     "★2,076 JavaScript"
+     "★2,080 JavaScript"
     ],
     [
      "DIYgod/pinky",
      "https://github.com/DIYgod/pinky",
-     "★1,988 Go"
+     "★1,998 Go"
     ],
     [
      "Kianuni/Erosion-CN",
      "https://github.com/Kianuni/Erosion-CN",
-     "★1,713 Swift"
+     "★1,722 Swift"
     ],
     [
      "HybridRobotics/supermimic",
      "https://github.com/HybridRobotics/supermimic",
-     "★1,287 Python"
+     "★1,303 Python"
     ],
     [
      "mahmoudtawfik1998/secure-pdf-document-processor",
@@ -471,7 +471,7 @@
     [
      "hembramneeraj3-create/aida-64-extreme",
      "https://github.com/hembramneeraj3-create/aida-64-extreme",
-     "★1,207 HTML"
+     "★1,208 HTML"
     ],
     [
      "abdulmannanmalik13-wq/adobe-substance-3d-studio",
@@ -484,7 +484,7 @@
      [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★1,287"
+      "★1,303"
      ],
      [
       "farhatullah0006-art/rx-11-audio-editor-config",
@@ -494,17 +494,17 @@
      [
       "Th0rgal/satmux",
       "https://github.com/Th0rgal/satmux",
-      "★1,054"
+      "★1,057"
      ],
      [
       "Goblinmine/homelab-diagram",
       "https://github.com/Goblinmine/homelab-diagram",
-      "★923"
+      "★934"
      ],
      [
       "lxe/phoneuse",
       "https://github.com/lxe/phoneuse",
-      "★626"
+      "★636"
      ]
     ],
     "TypeScript": [
@@ -519,6 +519,11 @@
       "★1,198"
      ],
      [
+      "agentes-chat/agentes-chat",
+      "https://github.com/agentes-chat/agentes-chat",
+      "★1,150"
+     ],
+     [
       "RolandoV3/metatrader-5-bot",
       "https://github.com/RolandoV3/metatrader-5-bot",
       "★1,108"
@@ -526,11 +531,6 @@
      [
       "ethangangasingh-crypto/musicmakerunlimited",
       "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
-      "★1,103"
-     ],
-     [
-      "rdeepak-wq121/quicken-deluxe-installer",
-      "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
       "★1,103"
      ]
     ],
@@ -543,7 +543,12 @@
      [
       "Gloridust/WowType",
       "https://github.com/Gloridust/WowType",
-      "★671"
+      "★674"
+     ],
+     [
+      "makepad/relax",
+      "https://github.com/makepad/relax",
+      "★265"
      ],
      [
       "BeeCaptivate/pc-cleanup-optimizer",
@@ -553,19 +558,14 @@
      [
       "bea4dev/shoji-bar-4",
       "https://github.com/bea4dev/shoji-bar-4",
-      "★216"
-     ],
-     [
-      "makepad/relax",
-      "https://github.com/makepad/relax",
-      "★213"
+      "★218"
      ]
     ],
     "Go": [
      [
       "DIYgod/pinky",
       "https://github.com/DIYgod/pinky",
-      "★1,988"
+      "★1,998"
      ],
      [
       "manjushree-iyer/soundpad-audio-suite",
@@ -575,12 +575,12 @@
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★930"
+      "★965"
      ],
      [
       "devvmhq/devvm",
       "https://github.com/devvmhq/devvm",
-      "★590"
+      "★597"
      ],
      [
       "TooonyChen/finallyshell",
@@ -592,12 +592,12 @@
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★6,878"
+      "★6,931"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,713"
+      "★1,722"
      ],
      [
       "musubipapi/airpointer",
@@ -621,52 +621,52 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥4657"
+    "♥4713"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥837"
-   ],
-   [
-    "speridlabs/idol",
-    "https://huggingface.co/speridlabs/idol",
-    "♥2210"
+    "♥865"
    ],
    [
     "NousResearch/Arete-27B",
     "https://huggingface.co/NousResearch/Arete-27B",
-    "♥468"
+    "♥483"
+   ],
+   [
+    "speridlabs/idol",
+    "https://huggingface.co/speridlabs/idol",
+    "♥2227"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11592"
-   ],
-   [
-    "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥2967"
+    "♥11627"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥19708"
+    "♥19742"
+   ],
+   [
+    "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "♥2977"
    ],
    [
     "ccore/Qwen3.5-4B-3D-Coder",
     "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-    "♥1037"
-   ],
-   [
-    "ricursiveAI/Ripple-65B-Preview",
-    "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
-    "♥526"
+    "♥1048"
    ],
    [
     "Comfy-Org/MiniMax-H3-Image",
     "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥285"
+    "♥290"
+   ],
+   [
+    "ricursiveAI/Ripple-65B-Preview",
+    "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+    "♥534"
    ]
   ],
   "npm": [
@@ -844,25 +844,26 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 10,
+    "score": 13,
     "hits": [
      "agent",
      "agents",
      "tool use",
      "tool-calling",
-     "mcp"
+     "mcp",
+     "orchestrat"
     ],
     "heat": 100
    },
    {
     "name": "Coding assistants",
-    "score": 7,
+    "score": 8,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 84
+    "heat": 96
    },
    {
     "name": "Open-weight / Local models",
@@ -983,15 +984,15 @@
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: NVIDIA Announces CEO Transition"
+    "text": "HN ใหม่ในท็อป: Jensen Huang resigns"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Anthropic IPO"
+    "text": "HN ใหม่ในท็อป: Rust 1.100"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Abandoned Quake 4 expansion finished by modders and now playable"
+    "text": "HN ใหม่ในท็อป: Why You Should Expect an AI Crash"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
@@ -1022,18 +1023,18 @@
     "image:GPT-Image-2.5 Sunburst"
    ],
    "or_top": [
+    "Google: Gemini 4 Hydrogen",
+    "Google: Gemini 4 Hydrogen (batch)",
     "Baidu: ERNIE-5.5-Flash-Preview (free)",
     "Baidu: ERNIE-Light-DT-1.0",
-    "Google: Gemini 4 Carbon",
-    "Google: Gemini 4 Carbon (batch)",
-    "Nex AGI: Nex-N2.6"
+    "Google: Gemini 4 Carbon"
    ],
    "hn_top": [
-    "NVIDIA Announces CEO Transition",
-    "Anthropic IPO",
-    "Abandoned Quake 4 expansion finished by modders and now playable",
-    "I'm making LLMs work on small and old devices",
-    "Talking Zen 6 with Mike Clark at AMD In-Depth"
+    "Jensen Huang resigns",
+    "Rust 1.100",
+    "Why You Should Expect an AI Crash",
+    "Gemini 4 Hydrogen and Orchestrator",
+    "Foundation Models framework"
    ]
   },
   "year": 2026,
@@ -2316,6 +2317,15 @@
       "modality": "text+image->text"
      },
      {
+      "name": "Particle AI: Particle-1 (free)",
+      "org": "particle-ai",
+      "url": "https://openrouter.ai/particle-ai/particle-1:free",
+      "note": "context 1,048,576 · ~$0.00/ล้านผสม · text+image->text",
+      "context": 1048576,
+      "blended": 0.0,
+      "modality": "text+image->text"
+     },
+     {
       "name": "Baidu: ERNIE-5.5-Flash-Preview (free)",
       "org": "baidu",
       "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
@@ -2350,15 +2360,6 @@
       "context": 1000000,
       "blended": 0.0,
       "modality": "text->text"
-     },
-     {
-      "name": "Dots Studio: Dots3-Note Preview (free)",
-      "org": "dots-studio",
-      "url": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
-      "note": "context 512,000 · ~$0.00/ล้านผสม · text+image->text",
-      "context": 512000,
-      "blended": 0.0,
-      "modality": "text+image->text"
      }
     ]
    },

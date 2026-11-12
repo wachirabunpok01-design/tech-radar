@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:35+00:00",
+ "updated": "2026-11-12T23:37+00:00",
  "snapshot": {
   "ai_top": [
    "Claude Opus 5.5 (Max, Default Fallback)",
@@ -25,18 +25,18 @@
    "image:GPT-Image-2.5 Sunburst"
   ],
   "or_top": [
+   "Google: Gemini 4 Hydrogen",
+   "Google: Gemini 4 Hydrogen (batch)",
    "Baidu: ERNIE-5.5-Flash-Preview (free)",
    "Baidu: ERNIE-Light-DT-1.0",
-   "Google: Gemini 4 Carbon",
-   "Google: Gemini 4 Carbon (batch)",
-   "Nex AGI: Nex-N2.6"
+   "Google: Gemini 4 Carbon"
   ],
   "hn_top": [
-   "NVIDIA Announces CEO Transition",
-   "Anthropic IPO",
-   "Abandoned Quake 4 expansion finished by modders and now playable",
-   "I'm making LLMs work on small and old devices",
-   "Talking Zen 6 with Mike Clark at AMD In-Depth"
+   "Jensen Huang resigns",
+   "Rust 1.100",
+   "Why You Should Expect an AI Crash",
+   "Gemini 4 Hydrogen and Orchestrator",
+   "Foundation Models framework"
   ]
  },
  "trends": {
@@ -56,25 +56,26 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 10,
+    "score": 13,
     "hits": [
      "agent",
      "agents",
      "tool use",
      "tool-calling",
-     "mcp"
+     "mcp",
+     "orchestrat"
     ],
     "heat": 100
    },
    {
     "name": "Coding assistants",
-    "score": 7,
+    "score": 8,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 84
+    "heat": 96
    },
    {
     "name": "Open-weight / Local models",
@@ -189,56 +190,56 @@
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00",
+   "time": "2026-11-12T23:37+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-12T17:35+00:00"
+   "time": "2026-11-12T23:37+00:00"
   }
  }
 }
