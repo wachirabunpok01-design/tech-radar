@@ -1,59 +1,59 @@
 {
- "updated": "2026-11-13T06:41+00:00",
+ "updated": "2026-11-13T17:12+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   },
   "lm": {
    "ok": false,
-   "time": "2026-11-13T06:41+00:00",
+   "time": "2026-11-13T17:12+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   },
   "dims": {
    "ok": false,
-   "time": "2026-11-13T06:41+00:00",
+   "time": "2026-11-13T17:12+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-13T06:41+00:00"
+   "time": "2026-11-13T17:12+00:00"
   }
  },
  "tables": [
@@ -367,64 +367,64 @@
   ],
   "hn": [
    [
+    "Reverse engineering my Coway air purifier to ditch the cloud",
+    "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "323 คะแนน"
+   ],
+   [
+    "Why Zig over C for Systems Programming",
+    "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+    "138 คะแนน"
+   ],
+   [
+    "A technical vision for the Haskell ecosystem",
+    "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+    "64 คะแนน"
+   ],
+   [
+    "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+    "https://www.science.org/doi/10.1126/science.132.3436.1291",
+    "326 คะแนน"
+   ],
+   [
     "Jensen Huang resigns",
     "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-    "3307 คะแนน"
+    "3881 คะแนน"
+   ],
+   [
+    "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+    "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+    "47 คะแนน"
+   ],
+   [
+    "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+    "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+    "96 คะแนน"
+   ],
+   [
+    "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+    "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+    "27 คะแนน"
    ],
    [
     "IceWM",
     "https://ice-wm.org/",
-    "63 คะแนน"
+    "314 คะแนน"
+   ],
+   [
+    "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "https://status.claude.com/incidents/nn11wk485zfn",
+    "428 คะแนน"
    ],
    [
     "Rust 1.100",
     "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-    "588 คะแนน"
+    "826 คะแนน"
    ],
    [
-    "Switcher (2004)",
-    "https://folklore.org/Switcher.html",
-    "73 คะแนน"
-   ],
-   [
-    "Brave Search API now accepts agentic payments via the x402 protocol",
-    "https://brave.com/blog/search-api-agentic-payments/",
-    "46 คะแนน"
-   ],
-   [
-    "Scientists claim the universe is twice as old as believed",
-    "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
-    "16 คะแนน"
-   ],
-   [
-    "Gemini 4 Hydrogen and Orchestrator",
-    "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-    "381 คะแนน"
-   ],
-   [
-    "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-    "https://github.com/simpsoka/zigzag",
-    "451 คะแนน"
-   ],
-   [
-    "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-    "186 คะแนน"
-   ],
-   [
-    "Nvidia employees petition to bring back Jensen Huang",
-    "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-    "383 คะแนน"
-   ],
-   [
-    "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-    "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-    "259 คะแนน"
-   ],
-   [
-    "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-    "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-    "208 คะแนน"
+    "Why is Google cutting off Search from AI-free schools? Here are some theories",
+    "https://text.npr.org/nx-s1-6029408",
+    "53 คะแนน"
    ]
   ],
   "gh": {
@@ -432,52 +432,52 @@
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★7,050 Swift"
+     "★7,233 Swift"
     ],
     [
      "tangerineturtle1/NX2navi",
      "https://github.com/tangerineturtle1/NX2navi",
-     "★3,645 C"
+     "★3,789 C"
     ],
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,799 C#"
+     "★2,853 C#"
     ],
     [
      "Kianuni/Erosion-CN",
      "https://github.com/Kianuni/Erosion-CN",
-     "★1,754 Swift"
+     "★1,889 Swift"
     ],
     [
      "HybridRobotics/supermimic",
      "https://github.com/HybridRobotics/supermimic",
-     "★1,354 Python"
-    ],
-    [
-     "agentes-chat/agentes-chat",
-     "https://github.com/agentes-chat/agentes-chat",
-     "★1,241 TypeScript"
+     "★1,419 Python"
     ],
     [
      "apex-compute/ANR",
      "https://github.com/apex-compute/ANR",
-     "★1,092 C++"
+     "★1,335 C++"
     ],
     [
-     "Th0rgal/satmux",
-     "https://github.com/Th0rgal/satmux",
-     "★1,058 Python"
+     "agentes-chat/agentes-chat",
+     "https://github.com/agentes-chat/agentes-chat",
+     "★1,304 TypeScript"
     ],
     [
      "FrigadeHQ/yogurt",
      "https://github.com/FrigadeHQ/yogurt",
-     "★1,031 TypeScript"
+     "★1,201 TypeScript"
     ],
     [
      "HolyArrs/HolyArrs",
      "https://github.com/HolyArrs/HolyArrs",
-     "★1,016 Go"
+     "★1,073 Go"
+    ],
+    [
+     "Th0rgal/satmux",
+     "https://github.com/Th0rgal/satmux",
+     "★1,071 Python"
     ]
    ],
    "by_lang": {
@@ -485,61 +485,61 @@
      [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★1,354"
+      "★1,419"
      ],
      [
       "Th0rgal/satmux",
       "https://github.com/Th0rgal/satmux",
-      "★1,058"
+      "★1,071"
      ],
      [
       "Goblinmine/homelab-diagram",
       "https://github.com/Goblinmine/homelab-diagram",
-      "★950"
+      "★972"
      ],
      [
       "lxe/phoneuse",
       "https://github.com/lxe/phoneuse",
-      "★638"
+      "★647"
      ],
      [
-      "Dodaios/ste80-humanizer",
-      "https://github.com/Dodaios/ste80-humanizer",
-      "★466"
+      "Robbyant/lingbot-touch",
+      "https://github.com/Robbyant/lingbot-touch",
+      "★483"
      ]
     ],
     "TypeScript": [
      [
       "agentes-chat/agentes-chat",
       "https://github.com/agentes-chat/agentes-chat",
-      "★1,241"
+      "★1,304"
      ],
      [
       "FrigadeHQ/yogurt",
       "https://github.com/FrigadeHQ/yogurt",
-      "★1,031"
+      "★1,201"
      ],
      [
       "alexeyw/lot-map",
       "https://github.com/alexeyw/lot-map",
-      "★642"
+      "★700"
      ],
      [
       "JDhruv14/line-art-animation",
       "https://github.com/JDhruv14/line-art-animation",
-      "★605"
+      "★644"
      ],
      [
       "luobinger/PerkRadar",
       "https://github.com/luobinger/PerkRadar",
-      "★486"
+      "★491"
      ]
     ],
     "Rust": [
      [
       "makepad/relax",
       "https://github.com/makepad/relax",
-      "★311"
+      "★439"
      ],
      [
       "BeeCaptivate/pc-cleanup-optimizer",
@@ -549,71 +549,71 @@
      [
       "bea4dev/shoji-bar-4",
       "https://github.com/bea4dev/shoji-bar-4",
-      "★219"
+      "★223"
      ],
      [
       "GiroCrab/GiroCrab",
       "https://github.com/GiroCrab/GiroCrab",
-      "★189"
+      "★213"
      ],
      [
-      "AutocratMinaret/valorant-ai-clip-editor",
-      "https://github.com/AutocratMinaret/valorant-ai-clip-editor",
-      "★179"
+      "MajestyPoemFold/ghostclick-mouse-double-click-fix",
+      "https://github.com/MajestyPoemFold/ghostclick-mouse-double-click-fix",
+      "★173"
      ]
     ],
     "Go": [
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★1,016"
+      "★1,073"
      ],
      [
       "21stware/bowel",
       "https://github.com/21stware/bowel",
-      "★469"
+      "★476"
      ],
      [
       "TooonyChen/finallyshell",
       "https://github.com/TooonyChen/finallyshell",
-      "★465"
+      "★469"
      ],
      [
       "djyde/dalibre",
       "https://github.com/djyde/dalibre",
-      "★338"
+      "★343"
      ],
      [
       "oceanpacificpeace/lichii-shader-sync",
       "https://github.com/oceanpacificpeace/lichii-shader-sync",
-      "★334"
+      "★335"
      ]
     ],
     "Swift": [
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★7,050"
+      "★7,233"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,754"
+      "★1,889"
      ],
      [
       "dqhieu/Silica",
       "https://github.com/dqhieu/Silica",
-      "★157"
+      "★164"
      ],
      [
       "qnguyen3/zalo-swift-re",
       "https://github.com/qnguyen3/zalo-swift-re",
-      "★151"
+      "★153"
      ],
      [
       "ichitaso/Regitela",
       "https://github.com/ichitaso/Regitela",
-      "★135"
+      "★147"
      ]
     ]
    }
@@ -622,104 +622,104 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥4787"
+    "♥4895"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥906"
+    "♥971"
    ],
    [
     "NousResearch/Arete-27B",
     "https://huggingface.co/NousResearch/Arete-27B",
-    "♥500"
-   ],
-   [
-    "speridlabs/idol",
-    "https://huggingface.co/speridlabs/idol",
-    "♥2248"
+    "♥524"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11659"
+    "♥11723"
+   ],
+   [
+    "speridlabs/idol",
+    "https://huggingface.co/speridlabs/idol",
+    "♥2265"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥19772"
+    "♥19825"
+   ],
+   [
+    "moonshotai/Kimi-K3.1-Pro",
+    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "♥2003"
    ],
    [
     "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥2996"
+    "♥3022"
    ],
    [
     "Comfy-Org/MiniMax-H3-Image",
     "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥312"
+    "♥330"
    ],
    [
     "ccore/Qwen3.5-4B-3D-Coder",
     "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-    "♥1064"
-   ],
-   [
-    "ricursiveAI/Ripple-65B-Preview",
-    "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
-    "♥541"
+    "♥1071"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "252,219,874 /สัปดาห์"
+    "253,620,155 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "24,765,263 /สัปดาห์"
+    "24,681,689 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "9,330,041 /สัปดาห์"
+    "9,399,332 /สัปดาห์"
    ],
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "11,237,314 /สัปดาห์"
+    "11,301,127 /สัปดาห์"
    ],
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,216,063 /สัปดาห์"
+    "8,209,049 /สัปดาห์"
    ],
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "91,355,769 /สัปดาห์"
+    "91,951,280 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "266,727,765 /สัปดาห์"
+    "268,597,806 /สัปดาห์"
    ],
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "415,398,285 /สัปดาห์"
+    "416,642,849 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,332,641 /สัปดาห์"
+    "2,334,288 /สัปดาห์"
    ],
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "44,800,760 /สัปดาห์"
+    "44,825,123 /สัปดาห์"
    ]
   ],
   "kev": [
@@ -830,24 +830,11 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: AI Agents / Tool use, Multimodal, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
-    "name": "AI Agents / Tool use",
-    "score": 16,
-    "hits": [
-     "agent",
-     "agents",
-     "tool use",
-     "tool-calling",
-     "mcp",
-     "orchestrat"
-    ],
-    "heat": 100
-   },
-   {
     "name": "Multimodal",
-    "score": 15,
+    "score": 16,
     "hits": [
      "multimodal",
      "vision",
@@ -856,14 +843,26 @@
     "heat": 100
    },
    {
+    "name": "AI Agents / Tool use",
+    "score": 14,
+    "hits": [
+     "agent",
+     "agents",
+     "tool use",
+     "tool-calling",
+     "mcp"
+    ],
+    "heat": 100
+   },
+   {
     "name": "Coding assistants",
-    "score": 8,
+    "score": 7,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 96
+    "heat": 84
    },
    {
     "name": "Open-weight / Local models",
@@ -873,14 +872,6 @@
      "qwen"
     ],
     "heat": 84
-   },
-   {
-    "name": "Edge / On-device AI",
-    "score": 1,
-    "hits": [
-     "edge"
-    ],
-    "heat": 12
    }
   ],
   "recommendations": [
@@ -978,15 +969,19 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "theme_up",
-    "text": "ธีมขึ้นแรง: Edge / On-device AI"
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Reverse engineering my Coway air purifier to ditch the cloud"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: IceWM"
+    "text": "HN ใหม่ในท็อป: Why Zig over C for Systems Programming"
+   },
+   {
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: A technical vision for the Haskell ecosystem"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 2 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -998,11 +993,10 @@
     "GPT-6 Astra (Xhigh)"
    ],
    "themes": [
-    "AI Agents / Tool use",
     "Multimodal",
+    "AI Agents / Tool use",
     "Coding assistants",
-    "Open-weight / Local models",
-    "Edge / On-device AI"
+    "Open-weight / Local models"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1022,11 +1016,11 @@
     "Google: Gemini 4 Carbon"
    ],
    "hn_top": [
-    "Jensen Huang resigns",
-    "IceWM",
-    "Rust 1.100",
-    "Switcher (2004)",
-    "Brave Search API now accepts agentic payments via the x402 protocol"
+    "Reverse engineering my Coway air purifier to ditch the cloud",
+    "Why Zig over C for Systems Programming",
+    "A technical vision for the Haskell ecosystem",
+    "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+    "Jensen Huang resigns"
    ]
   },
   "year": 2026,
