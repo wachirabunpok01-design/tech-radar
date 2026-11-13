@@ -1,59 +1,59 @@
 {
- "updated": "2026-11-13T17:12+00:00",
+ "updated": "2026-11-13T23:31+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   },
   "lm": {
    "ok": false,
-   "time": "2026-11-13T17:12+00:00",
+   "time": "2026-11-13T23:31+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   },
   "dims": {
    "ok": false,
-   "time": "2026-11-13T17:12+00:00",
+   "time": "2026-11-13T23:31+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-13T17:12+00:00"
+   "time": "2026-11-13T23:31+00:00"
   }
  },
  "tables": [
@@ -315,6 +315,11 @@
  "live": {
   "or": [
    [
+    "inclusionAI: Ling 3.2 Flash (free)",
+    "https://openrouter.ai/inclusionai/ling-3.2-flash:free",
+    "2026-11-13 · context 1,048,576 · $0.00 / $0.00 ต่อล้าน tokens"
+   ],
+   [
     "Google: Gemini 4 Hydrogen",
     "https://openrouter.ai/google/gemini-4-hydrogen",
     "2026-11-12 · context 1,048,576 · $1.50 / $7.50 ต่อล้าน tokens"
@@ -358,73 +363,68 @@
     "Thinking Machines: Inkling 2 Small (free)",
     "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
     "2026-11-09 · context 1,048,576 · $0.00 / $0.00 ต่อล้าน tokens"
-   ],
-   [
-    "Anthropic: Claude Fable 5.2",
-    "https://openrouter.ai/anthropic/claude-fable-5.2",
-    "2026-11-09 · context 1,000,000 · $8.00 / $40.00 ต่อล้าน tokens"
    ]
   ],
   "hn": [
    [
+    "FAA Issues National Ground Stop",
+    "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+    "1000 คะแนน"
+   ],
+   [
+    "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+    "https://orcasairband.com/",
+    "77 คะแนน"
+   ],
+   [
+    "FM-1 Workbench",
+    "https://open.m-vave.com/fm1-workbench",
+    "153 คะแนน"
+   ],
+   [
     "Reverse engineering my Coway air purifier to ditch the cloud",
     "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-    "323 คะแนน"
+    "646 คะแนน"
    ],
    [
-    "Why Zig over C for Systems Programming",
-    "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-    "138 คะแนน"
+    "After 600 experiments, here's what I discovered about JEPA world models",
+    "https://haddyalchaer.com/jepa",
+    "194 คะแนน"
    ],
    [
-    "A technical vision for the Haskell ecosystem",
-    "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-    "64 คะแนน"
+    "Found: A protein that drives ageing without unleashing inflammation",
+    "https://www.nature.com/articles/d41586-026-03638-3",
+    "81 คะแนน"
+   ],
+   [
+    "Perplexity Decider v1.3: Training, eval, and use cases",
+    "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "83 คะแนน"
+   ],
+   [
+    "Claude Meetings",
+    "https://claude.com/resources/articles/claude-meetings",
+    "51 คะแนน"
    ],
    [
     "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
     "https://www.science.org/doi/10.1126/science.132.3436.1291",
-    "326 คะแนน"
+    "427 คะแนน"
    ],
    [
-    "Jensen Huang resigns",
-    "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-    "3881 คะแนน"
+    "Live-migration support in FreeBSD and bhyve coming",
+    "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+    "48 คะแนน"
    ],
    [
-    "Lonewolf 0.3 – A standalone XMPP server written in Rust",
-    "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
-    "47 คะแนน"
+    "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+    "https://atg.science/careers",
+    "1 คะแนน"
    ],
    [
-    "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
-    "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
-    "96 คะแนน"
-   ],
-   [
-    "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
-    "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-    "27 คะแนน"
-   ],
-   [
-    "IceWM",
-    "https://ice-wm.org/",
-    "314 คะแนน"
-   ],
-   [
-    "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-    "https://status.claude.com/incidents/nn11wk485zfn",
-    "428 คะแนน"
-   ],
-   [
-    "Rust 1.100",
-    "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-    "826 คะแนน"
-   ],
-   [
-    "Why is Google cutting off Search from AI-free schools? Here are some theories",
-    "https://text.npr.org/nx-s1-6029408",
-    "53 คะแนน"
+    "Big tech is here to let us down",
+    "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+    "179 คะแนน"
    ]
   ],
   "gh": {
@@ -432,52 +432,52 @@
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★7,233 Swift"
+     "★7,294 Swift"
     ],
     [
      "tangerineturtle1/NX2navi",
      "https://github.com/tangerineturtle1/NX2navi",
-     "★3,789 C"
+     "★3,875 C"
     ],
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,853 C#"
+     "★2,864 C#"
     ],
     [
      "Kianuni/Erosion-CN",
      "https://github.com/Kianuni/Erosion-CN",
-     "★1,889 Swift"
-    ],
-    [
-     "HybridRobotics/supermimic",
-     "https://github.com/HybridRobotics/supermimic",
-     "★1,419 Python"
+     "★1,909 Swift"
     ],
     [
      "apex-compute/ANR",
      "https://github.com/apex-compute/ANR",
-     "★1,335 C++"
+     "★1,455 C++"
+    ],
+    [
+     "HybridRobotics/supermimic",
+     "https://github.com/HybridRobotics/supermimic",
+     "★1,435 Python"
     ],
     [
      "agentes-chat/agentes-chat",
      "https://github.com/agentes-chat/agentes-chat",
-     "★1,304 TypeScript"
+     "★1,338 TypeScript"
     ],
     [
      "FrigadeHQ/yogurt",
      "https://github.com/FrigadeHQ/yogurt",
-     "★1,201 TypeScript"
+     "★1,255 TypeScript"
     ],
     [
      "HolyArrs/HolyArrs",
      "https://github.com/HolyArrs/HolyArrs",
-     "★1,073 Go"
+     "★1,099 Go"
     ],
     [
      "Th0rgal/satmux",
      "https://github.com/Th0rgal/satmux",
-     "★1,071 Python"
+     "★1,073 Python"
     ]
    ],
    "by_lang": {
@@ -485,61 +485,61 @@
      [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★1,419"
+      "★1,435"
      ],
      [
       "Th0rgal/satmux",
       "https://github.com/Th0rgal/satmux",
-      "★1,071"
+      "★1,073"
      ],
      [
       "Goblinmine/homelab-diagram",
       "https://github.com/Goblinmine/homelab-diagram",
-      "★972"
+      "★984"
      ],
      [
       "lxe/phoneuse",
       "https://github.com/lxe/phoneuse",
-      "★647"
+      "★648"
      ],
      [
       "Robbyant/lingbot-touch",
       "https://github.com/Robbyant/lingbot-touch",
-      "★483"
+      "★490"
      ]
     ],
     "TypeScript": [
      [
       "agentes-chat/agentes-chat",
       "https://github.com/agentes-chat/agentes-chat",
-      "★1,304"
+      "★1,338"
      ],
      [
       "FrigadeHQ/yogurt",
       "https://github.com/FrigadeHQ/yogurt",
-      "★1,201"
+      "★1,255"
      ],
      [
       "alexeyw/lot-map",
       "https://github.com/alexeyw/lot-map",
-      "★700"
+      "★727"
      ],
      [
       "JDhruv14/line-art-animation",
       "https://github.com/JDhruv14/line-art-animation",
-      "★644"
+      "★659"
      ],
      [
-      "luobinger/PerkRadar",
-      "https://github.com/luobinger/PerkRadar",
-      "★491"
+      "deepseek-ai/chat-demo",
+      "https://github.com/deepseek-ai/chat-demo",
+      "★639"
      ]
     ],
     "Rust": [
      [
       "makepad/relax",
       "https://github.com/makepad/relax",
-      "★439"
+      "★472"
      ],
      [
       "BeeCaptivate/pc-cleanup-optimizer",
@@ -547,73 +547,73 @@
       "★246"
      ],
      [
-      "bea4dev/shoji-bar-4",
-      "https://github.com/bea4dev/shoji-bar-4",
-      "★223"
-     ],
-     [
       "GiroCrab/GiroCrab",
       "https://github.com/GiroCrab/GiroCrab",
-      "★213"
+      "★230"
      ],
      [
-      "MajestyPoemFold/ghostclick-mouse-double-click-fix",
-      "https://github.com/MajestyPoemFold/ghostclick-mouse-double-click-fix",
-      "★173"
+      "bea4dev/shoji-bar-4",
+      "https://github.com/bea4dev/shoji-bar-4",
+      "★224"
+     ],
+     [
+      "quer3q/kraken-mount",
+      "https://github.com/quer3q/kraken-mount",
+      "★223"
      ]
     ],
     "Go": [
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★1,073"
+      "★1,099"
      ],
      [
       "21stware/bowel",
       "https://github.com/21stware/bowel",
-      "★476"
+      "★478"
      ],
      [
       "TooonyChen/finallyshell",
       "https://github.com/TooonyChen/finallyshell",
-      "★469"
+      "★471"
      ],
      [
       "djyde/dalibre",
       "https://github.com/djyde/dalibre",
-      "★343"
+      "★346"
      ],
      [
-      "oceanpacificpeace/lichii-shader-sync",
-      "https://github.com/oceanpacificpeace/lichii-shader-sync",
-      "★335"
+      "failsafe-security/artex",
+      "https://github.com/failsafe-security/artex",
+      "★324"
      ]
     ],
     "Swift": [
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★7,233"
+      "★7,294"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,889"
+      "★1,909"
      ],
      [
       "dqhieu/Silica",
       "https://github.com/dqhieu/Silica",
-      "★164"
+      "★167"
+     ],
+     [
+      "ichitaso/Regitela",
+      "https://github.com/ichitaso/Regitela",
+      "★154"
      ],
      [
       "qnguyen3/zalo-swift-re",
       "https://github.com/qnguyen3/zalo-swift-re",
       "★153"
-     ],
-     [
-      "ichitaso/Regitela",
-      "https://github.com/ichitaso/Regitela",
-      "★147"
      ]
     ]
    }
@@ -622,52 +622,52 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥4895"
+    "♥5756"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥971"
+    "♥1007"
    ],
    [
     "NousResearch/Arete-27B",
     "https://huggingface.co/NousResearch/Arete-27B",
-    "♥524"
+    "♥543"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11723"
-   ],
-   [
-    "speridlabs/idol",
-    "https://huggingface.co/speridlabs/idol",
-    "♥2265"
+    "♥11771"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥19825"
+    "♥19865"
    ],
    [
-    "moonshotai/Kimi-K3.1-Pro",
-    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "♥2003"
+    "speridlabs/idol",
+    "https://huggingface.co/speridlabs/idol",
+    "♥2292"
    ],
    [
     "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥3022"
+    "♥3047"
+   ],
+   [
+    "moonshotai/Kimi-K3.1-Pro",
+    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "♥2026"
    ],
    [
     "Comfy-Org/MiniMax-H3-Image",
     "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥330"
+    "♥342"
    ],
    [
-    "ccore/Qwen3.5-4B-3D-Coder",
-    "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-    "♥1071"
+    "Zyphra/ZONOS3-Mini",
+    "https://huggingface.co/Zyphra/ZONOS3-Mini",
+    "♥284"
    ]
   ],
   "npm": [
@@ -724,6 +724,16 @@
   ],
   "kev": [
    [
+    "CVE-2026-114713 UnrealIRCd UnrealIRCd",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
+    "เพิ่มเมื่อ 2026-11-13"
+   ],
+   [
+    "CVE-2026-123039 Check Point Multiple Products",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
+    "เพิ่มเมื่อ 2026-11-13"
+   ],
+   [
     "CVE-2026-124194 Microsoft Office",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-124194",
     "เพิ่มเมื่อ 2026-11-10"
@@ -761,16 +771,6 @@
    [
     "CVE-2026-123158 OpenBSD OpenSSH",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
-    "เพิ่มเมื่อ 2026-11-09"
-   ],
-   [
-    "CVE-2026-116779 SignalWire FreeSwitch",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-116779",
-    "เพิ่มเมื่อ 2026-11-09"
-   ],
-   [
-    "CVE-2026-123218 IBM Aspera Faspex",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
     "เพิ่มเมื่อ 2026-11-09"
    ]
   ],
@@ -830,11 +830,24 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: AI Agents / Tool use, Multimodal, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
+    "name": "AI Agents / Tool use",
+    "score": 17,
+    "hits": [
+     "agent",
+     "agents",
+     "tool use",
+     "tool-calling",
+     "mcp",
+     "autonomous"
+    ],
+    "heat": 100
+   },
+   {
     "name": "Multimodal",
-    "score": 16,
+    "score": 15,
     "hits": [
      "multimodal",
      "vision",
@@ -843,26 +856,14 @@
     "heat": 100
    },
    {
-    "name": "AI Agents / Tool use",
-    "score": 14,
-    "hits": [
-     "agent",
-     "agents",
-     "tool use",
-     "tool-calling",
-     "mcp"
-    ],
-    "heat": 100
-   },
-   {
     "name": "Coding assistants",
-    "score": 7,
+    "score": 8,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 84
+    "heat": 96
    },
    {
     "name": "Open-weight / Local models",
@@ -955,7 +956,7 @@
    },
    {
     "tier": "caution",
-    "title": "CVE-2026-124194 Microsoft Office",
+    "title": "CVE-2026-114713 UnrealIRCd UnrealIRCd",
     "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
     "tags": [
      "security",
@@ -970,15 +971,15 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Reverse engineering my Coway air purifier to ditch the cloud"
+    "text": "HN ใหม่ในท็อป: FAA Issues National Ground Stop"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Why Zig over C for Systems Programming"
+    "text": "HN ใหม่ในท็อป: Live airband on all frequencies from KORS. Victoria, CA also ground stopped"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: A technical vision for the Haskell ecosystem"
+    "text": "HN ใหม่ในท็อป: FM-1 Workbench"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
@@ -993,8 +994,8 @@
     "GPT-6 Astra (Xhigh)"
    ],
    "themes": [
-    "Multimodal",
     "AI Agents / Tool use",
+    "Multimodal",
     "Coding assistants",
     "Open-weight / Local models"
    ],
@@ -1009,18 +1010,18 @@
     "image:GPT-Image-2.5 Sunburst"
    ],
    "or_top": [
+    "inclusionAI: Ling 3.2 Flash (free)",
     "Google: Gemini 4 Hydrogen",
     "Google: Gemini 4 Hydrogen (batch)",
     "Baidu: ERNIE-5.5-Flash-Preview (free)",
-    "Baidu: ERNIE-Light-DT-1.0",
-    "Google: Gemini 4 Carbon"
+    "Baidu: ERNIE-Light-DT-1.0"
    ],
    "hn_top": [
+    "FAA Issues National Ground Stop",
+    "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+    "FM-1 Workbench",
     "Reverse engineering my Coway air purifier to ditch the cloud",
-    "Why Zig over C for Systems Programming",
-    "A technical vision for the Haskell ecosystem",
-    "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-    "Jensen Huang resigns"
+    "After 600 experiments, here's what I discovered about JEPA world models"
    ]
   },
   "year": 2026,
@@ -2294,6 +2295,15 @@
     "tip": "โมเดลที่ OpenRouter ติดธง reasoning",
     "items": [
      {
+      "name": "inclusionAI: Ling 3.2 Flash (free)",
+      "org": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.2-flash:free",
+      "note": "context 1,048,576 · ~$0.00/ล้านผสม · text+image->text",
+      "context": 1048576,
+      "blended": 0.0,
+      "modality": "text+image->text"
+     },
+     {
       "name": "Thinking Machines: Inkling 2 Small (free)",
       "org": "thinkingmachines",
       "url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
@@ -2333,15 +2343,6 @@
       "name": "NVIDIA: Nemotron 3.5 Lightning (free)",
       "org": "nvidia",
       "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free",
-      "note": "context 1,000,000 · ~$0.00/ล้านผสม · text->text",
-      "context": 1000000,
-      "blended": 0.0,
-      "modality": "text->text"
-     },
-     {
-      "name": "NVIDIA: Nemotron 3 Ultra (free)",
-      "org": "nvidia",
-      "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free",
       "note": "context 1,000,000 · ~$0.00/ล้านผสม · text->text",
       "context": 1000000,
       "blended": 0.0,
