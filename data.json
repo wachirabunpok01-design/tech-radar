@@ -1,59 +1,59 @@
 {
- "updated": "2026-11-14T06:19+00:00",
+ "updated": "2026-11-14T15:48+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "lm": {
    "ok": false,
-   "time": "2026-11-14T06:19+00:00",
+   "time": "2026-11-14T15:48+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "dims": {
    "ok": false,
-   "time": "2026-11-14T06:19+00:00",
+   "time": "2026-11-14T15:48+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   }
  },
  "tables": [
@@ -367,64 +367,64 @@
   ],
   "hn": [
    [
+    "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "https://gitlab.com/snipedbywifi/terminactory",
+    "39 คะแนน"
+   ],
+   [
+    "Why get an expensive Pi when I have an old phone?",
+    "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+    "306 คะแนน"
+   ],
+   [
+    "KDE: The Documentary on Free Software [video]",
+    "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+    "37 คะแนน"
+   ],
+   [
+    "Advancing science and engineering with Antigravity's /teamwork",
+    "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "32 คะแนน"
+   ],
+   [
+    "Generative AI uses more energy on non-English text",
+    "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+    "64 คะแนน"
+   ],
+   [
+    "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+    "https://github.com/FURSOY/fursoy-cpu",
+    "13 คะแนน"
+   ],
+   [
+    "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+    "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "155 คะแนน"
+   ],
+   [
     "Ggml v1.0.0",
     "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-    "139 คะแนน"
+    "354 คะแนน"
    ],
    [
-    "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-    "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-    "287 คะแนน"
+    "Show HN: Agweb – a browser for agents that stays out of your way",
+    "https://github.com/paul-nameless/agweb",
+    "21 คะแนน"
    ],
    [
-    "FAA issues national ground stop – lifted 4.5 hours later",
-    "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-    "1467 คะแนน"
+    "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+    "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+    "49 คะแนน"
    ],
    [
-    "Terminal borders that don't cost a cell",
-    "https://www.joshka.net/cell-borders/",
-    "175 คะแนน"
+    "Testing a Trash Can Faraday Cage",
+    "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+    "19 คะแนน"
    ],
    [
-    "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-    "https://unsloth.ai/docs/models/qwen3.8",
-    "83 คะแนน"
-   ],
-   [
-    "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-    "https://grounds.top/",
-    "104 คะแนน"
-   ],
-   [
-    "What Happened to 3Com?",
-    "https://dfarq.homeip.net/what-happened-to-3com/",
-    "106 คะแนน"
-   ],
-   [
-    "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-    "https://orcasairband.com/",
-    "246 คะแนน"
-   ],
-   [
-    "FM-1 Workbench",
-    "https://open.m-vave.com/fm1-workbench",
-    "213 คะแนน"
-   ],
-   [
-    "Found: A protein that drives ageing without unleashing inflammation",
-    "https://www.nature.com/articles/d41586-026-03638-3",
-    "170 คะแนน"
-   ],
-   [
-    "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-    "210 คะแนน"
-   ],
-   [
-    "After 600 experiments, here's what I discovered about JEPA world models",
-    "https://haddyalchaer.com/jepa",
-    "240 คะแนน"
+    "Monkey Island: all 13 versions side by side",
+    "https://monkeyisland.pages.dev/",
+    "310 คะแนน"
    ]
   ],
   "gh": {
@@ -432,52 +432,52 @@
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★7,410 Swift"
+     "★7,521 Swift"
     ],
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,896 C#"
+     "★2,945 C#"
     ],
     [
      "Kianuni/Erosion-CN",
      "https://github.com/Kianuni/Erosion-CN",
-     "★1,962 Swift"
+     "★2,033 Swift"
     ],
     [
      "apex-compute/ANR",
      "https://github.com/apex-compute/ANR",
-     "★1,550 C++"
-    ],
-    [
-     "HybridRobotics/supermimic",
-     "https://github.com/HybridRobotics/supermimic",
-     "★1,457 Python"
-    ],
-    [
-     "agentes-chat/agentes-chat",
-     "https://github.com/agentes-chat/agentes-chat",
-     "★1,356 TypeScript"
-    ],
-    [
-     "FrigadeHQ/yogurt",
-     "https://github.com/FrigadeHQ/yogurt",
-     "★1,320 TypeScript"
+     "★1,710 C++"
     ],
     [
      "deepseek-ai/chat-demo",
      "https://github.com/deepseek-ai/chat-demo",
-     "★1,112 TypeScript"
+     "★1,587 TypeScript"
+    ],
+    [
+     "HybridRobotics/supermimic",
+     "https://github.com/HybridRobotics/supermimic",
+     "★1,486 Python"
+    ],
+    [
+     "FrigadeHQ/yogurt",
+     "https://github.com/FrigadeHQ/yogurt",
+     "★1,395 TypeScript"
+    ],
+    [
+     "agentes-chat/agentes-chat",
+     "https://github.com/agentes-chat/agentes-chat",
+     "★1,377 TypeScript"
     ],
     [
      "HolyArrs/HolyArrs",
      "https://github.com/HolyArrs/HolyArrs",
-     "★1,109 Go"
+     "★1,155 Go"
     ],
     [
-     "kolbicz/WQFiles",
-     "https://github.com/kolbicz/WQFiles",
-     "★819 Objective-C"
+     "DevedevT/FFmpeg-GUI-Editor-Windows",
+     "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+     "★1,044 Visual Basic .NET"
     ]
    ],
    "by_lang": {
@@ -485,103 +485,103 @@
      [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★1,457"
-     ],
-     [
-      "Robbyant/lingbot-touch",
-      "https://github.com/Robbyant/lingbot-touch",
-      "★503"
+      "★1,486"
      ],
      [
       "Dodaios/ste80-humanizer",
       "https://github.com/Dodaios/ste80-humanizer",
-      "★493"
+      "★529"
      ],
      [
-      "lizTheDeveloper/flyover-scrub",
-      "https://github.com/lizTheDeveloper/flyover-scrub",
-      "★359"
+      "Robbyant/lingbot-touch",
+      "https://github.com/Robbyant/lingbot-touch",
+      "★522"
      ],
      [
-      "MiniMax-AI/MiniMax-H3-Image",
-      "https://github.com/MiniMax-AI/MiniMax-H3-Image",
-      "★345"
+      "duwqijlk/muse-protocol",
+      "https://github.com/duwqijlk/muse-protocol",
+      "★420"
+     ],
+     [
+      "xiaoerofficial021-collab/FlowHMR-Windows",
+      "https://github.com/xiaoerofficial021-collab/FlowHMR-Windows",
+      "★376"
      ]
     ],
     "TypeScript": [
      [
-      "agentes-chat/agentes-chat",
-      "https://github.com/agentes-chat/agentes-chat",
-      "★1,356"
+      "deepseek-ai/chat-demo",
+      "https://github.com/deepseek-ai/chat-demo",
+      "★1,587"
      ],
      [
       "FrigadeHQ/yogurt",
       "https://github.com/FrigadeHQ/yogurt",
-      "★1,320"
+      "★1,395"
      ],
      [
-      "deepseek-ai/chat-demo",
-      "https://github.com/deepseek-ai/chat-demo",
-      "★1,112"
+      "agentes-chat/agentes-chat",
+      "https://github.com/agentes-chat/agentes-chat",
+      "★1,377"
      ],
      [
       "alexeyw/lot-map",
       "https://github.com/alexeyw/lot-map",
-      "★750"
+      "★790"
      ],
      [
       "JDhruv14/line-art-animation",
       "https://github.com/JDhruv14/line-art-animation",
-      "★672"
+      "★719"
      ]
     ],
     "Rust": [
      [
       "makepad/relax",
       "https://github.com/makepad/relax",
-      "★509"
+      "★527"
      ],
      [
       "quer3q/kraken-mount",
       "https://github.com/quer3q/kraken-mount",
-      "★265"
+      "★311"
      ],
      [
-      "BeeCaptivate/pc-cleanup-optimizer",
-      "https://github.com/BeeCaptivate/pc-cleanup-optimizer",
-      "★246"
+      "Lowbydemodulator/IPTV_Player2.0",
+      "https://github.com/Lowbydemodulator/IPTV_Player2.0",
+      "★294"
      ],
      [
-      "GiroCrab/GiroCrab",
-      "https://github.com/GiroCrab/GiroCrab",
-      "★233"
+      "WestLightningMove/IPTV_Player2.0",
+      "https://github.com/WestLightningMove/IPTV_Player2.0",
+      "★293"
      ],
      [
-      "bea4dev/shoji-bar-4",
-      "https://github.com/bea4dev/shoji-bar-4",
-      "★224"
+      "ChannelSparrowYank/IPTV_Player2.0",
+      "https://github.com/ChannelSparrowYank/IPTV_Player2.0",
+      "★292"
      ]
     ],
     "Go": [
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★1,109"
-     ],
-     [
-      "djyde/dalibre",
-      "https://github.com/djyde/dalibre",
-      "★348"
+      "★1,155"
      ],
      [
       "failsafe-security/artex",
       "https://github.com/failsafe-security/artex",
-      "★340"
+      "★448"
+     ],
+     [
+      "djyde/dalibre",
+      "https://github.com/djyde/dalibre",
+      "★350"
      ],
      [
       "lobehub/lobe-mygo",
       "https://github.com/lobehub/lobe-mygo",
-      "★242"
+      "★245"
      ],
      [
       "ValidatorStack/solana-vigil",
@@ -593,27 +593,27 @@
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★7,410"
+      "★7,521"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,962"
+      "★2,033"
      ],
      [
       "dqhieu/Silica",
       "https://github.com/dqhieu/Silica",
-      "★172"
+      "★177"
      ],
      [
       "ichitaso/Regitela",
       "https://github.com/ichitaso/Regitela",
-      "★157"
+      "★164"
      ],
      [
       "H4CNPE/YumEdit",
       "https://github.com/H4CNPE/YumEdit",
-      "★143"
+      "★149"
      ]
     ]
    }
@@ -622,104 +622,104 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥6622"
+    "♥7279"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1043"
-   ],
-   [
-    "NousResearch/Arete-27B",
-    "https://huggingface.co/NousResearch/Arete-27B",
-    "♥570"
+    "♥1090"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11815"
+    "♥11878"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥19911"
+    "♥19961"
    ],
    [
-    "speridlabs/idol",
-    "https://huggingface.co/speridlabs/idol",
-    "♥2309"
+    "NousResearch/Arete-27B",
+    "https://huggingface.co/NousResearch/Arete-27B",
+    "♥585"
    ],
    [
     "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥3073"
+    "♥3104"
    ],
    [
-    "moonshotai/Kimi-K3.1-Pro",
-    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "♥2048"
+    "speridlabs/idol",
+    "https://huggingface.co/speridlabs/idol",
+    "♥2330"
    ],
    [
     "Comfy-Org/MiniMax-H3-Image",
     "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥358"
+    "♥376"
+   ],
+   [
+    "moonshotai/Kimi-K3.1-Pro",
+    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "♥2070"
    ],
    [
     "Zyphra/ZONOS3-Mini",
     "https://huggingface.co/Zyphra/ZONOS3-Mini",
-    "♥306"
+    "♥330"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "253,620,155 /สัปดาห์"
+    "256,249,908 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "24,681,689 /สัปดาห์"
+    "24,808,637 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "9,399,332 /สัปดาห์"
+    "9,567,430 /สัปดาห์"
    ],
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "11,301,127 /สัปดาห์"
+    "11,474,314 /สัปดาห์"
    ],
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,209,049 /สัปดาห์"
+    "8,188,114 /สัปดาห์"
    ],
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "91,951,280 /สัปดาห์"
+    "92,890,722 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "268,597,806 /สัปดาห์"
+    "271,758,738 /สัปดาห์"
    ],
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "416,642,849 /สัปดาห์"
+    "420,299,292 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,334,288 /สัปดาห์"
+    "2,338,229 /สัปดาห์"
    ],
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "44,825,123 /สัปดาห์"
+    "45,318,861 /สัปดาห์"
    ]
   ],
   "kev": [
@@ -830,28 +830,28 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: AI Agents / Tool use, Multimodal, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
-    "name": "Multimodal",
-    "score": 17,
-    "hits": [
-     "multimodal",
-     "vision",
-     "image",
-     "video"
-    ],
-    "heat": 100
-   },
-   {
     "name": "AI Agents / Tool use",
-    "score": 14,
+    "score": 16,
     "hits": [
      "agent",
      "agents",
      "tool use",
      "tool-calling",
      "mcp"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "Multimodal",
+    "score": 16,
+    "hits": [
+     "multimodal",
+     "vision",
+     "image",
+     "video"
     ],
     "heat": 100
    },
@@ -867,7 +867,7 @@
    },
    {
     "name": "Open-weight / Local models",
-    "score": 10,
+    "score": 9,
     "hits": [
      "ggml",
      "deepseek",
@@ -972,15 +972,15 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Ggml v1.0.0"
+    "text": "HN ใหม่ในท็อป: Show HN: A terminal-native idle factory game, written in Rust with ratatui"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
+    "text": "HN ใหม่ในท็อป: Why get an expensive Pi when I have an old phone?"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: FAA issues national ground stop – lifted 4.5 hours later"
+    "text": "HN ใหม่ในท็อป: KDE: The Documentary on Free Software [video]"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
@@ -995,8 +995,8 @@
     "GPT-6 Astra (Xhigh)"
    ],
    "themes": [
-    "Multimodal",
     "AI Agents / Tool use",
+    "Multimodal",
     "Coding assistants",
     "Open-weight / Local models"
    ],
@@ -1018,11 +1018,11 @@
     "Baidu: ERNIE-Light-DT-1.0"
    ],
    "hn_top": [
-    "Ggml v1.0.0",
-    "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-    "FAA issues national ground stop – lifted 4.5 hours later",
-    "Terminal borders that don't cost a cell",
-    "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update"
+    "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "Why get an expensive Pi when I have an old phone?",
+    "KDE: The Documentary on Free Software [video]",
+    "Advancing science and engineering with Antigravity's /teamwork",
+    "Generative AI uses more energy on non-English text"
    ]
   },
   "year": 2026,

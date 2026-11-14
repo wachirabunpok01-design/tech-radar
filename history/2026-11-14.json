@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:19+00:00",
+ "updated": "2026-11-14T15:48+00:00",
  "snapshot": {
   "ai_top": [
    "Claude Opus 5.5 (Max, Default Fallback)",
@@ -9,8 +9,8 @@
    "GPT-6 Astra (Xhigh)"
   ],
   "themes": [
-   "Multimodal",
    "AI Agents / Tool use",
+   "Multimodal",
    "Coding assistants",
    "Open-weight / Local models"
   ],
@@ -32,37 +32,37 @@
    "Baidu: ERNIE-Light-DT-1.0"
   ],
   "hn_top": [
-   "Ggml v1.0.0",
-   "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-   "FAA issues national ground stop – lifted 4.5 hours later",
-   "Terminal borders that don't cost a cell",
-   "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update"
+   "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+   "Why get an expensive Pi when I have an old phone?",
+   "KDE: The Documentary on Free Software [video]",
+   "Advancing science and engineering with Antigravity's /teamwork",
+   "Generative AI uses more energy on non-English text"
   ]
  },
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: AI Agents / Tool use, Multimodal, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
-    "name": "Multimodal",
-    "score": 17,
-    "hits": [
-     "multimodal",
-     "vision",
-     "image",
-     "video"
-    ],
-    "heat": 100
-   },
-   {
     "name": "AI Agents / Tool use",
-    "score": 14,
+    "score": 16,
     "hits": [
      "agent",
      "agents",
      "tool use",
      "tool-calling",
      "mcp"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "Multimodal",
+    "score": 16,
+    "hits": [
+     "multimodal",
+     "vision",
+     "image",
+     "video"
     ],
     "heat": 100
    },
@@ -78,7 +78,7 @@
    },
    {
     "name": "Open-weight / Local models",
-    "score": 10,
+    "score": 9,
     "hits": [
      "ggml",
      "deepseek",
@@ -181,57 +181,57 @@
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "lm": {
    "ok": false,
-   "time": "2026-11-14T06:19+00:00",
+   "time": "2026-11-14T15:48+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "dims": {
    "ok": false,
-   "time": "2026-11-14T06:19+00:00",
+   "time": "2026-11-14T15:48+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-14T06:19+00:00"
+   "time": "2026-11-14T15:48+00:00"
   }
  }
 }
