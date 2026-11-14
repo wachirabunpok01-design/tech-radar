@@ -1,59 +1,59 @@
 {
- "updated": "2026-11-13T23:31+00:00",
+ "updated": "2026-11-14T06:19+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   },
   "lm": {
    "ok": false,
-   "time": "2026-11-13T23:31+00:00",
+   "time": "2026-11-14T06:19+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   },
   "dims": {
    "ok": false,
-   "time": "2026-11-13T23:31+00:00",
+   "time": "2026-11-14T06:19+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-13T23:31+00:00"
+   "time": "2026-11-14T06:19+00:00"
   }
  },
  "tables": [
@@ -250,7 +250,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-13",
+   "date": "ดึงเมื่อ 2026-11-14",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -367,64 +367,64 @@
   ],
   "hn": [
    [
-    "FAA Issues National Ground Stop",
-    "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
-    "1000 คะแนน"
+    "Ggml v1.0.0",
+    "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "139 คะแนน"
+   ],
+   [
+    "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "287 คะแนน"
+   ],
+   [
+    "FAA issues national ground stop – lifted 4.5 hours later",
+    "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+    "1467 คะแนน"
+   ],
+   [
+    "Terminal borders that don't cost a cell",
+    "https://www.joshka.net/cell-borders/",
+    "175 คะแนน"
+   ],
+   [
+    "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "https://unsloth.ai/docs/models/qwen3.8",
+    "83 คะแนน"
+   ],
+   [
+    "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+    "https://grounds.top/",
+    "104 คะแนน"
+   ],
+   [
+    "What Happened to 3Com?",
+    "https://dfarq.homeip.net/what-happened-to-3com/",
+    "106 คะแนน"
    ],
    [
     "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
     "https://orcasairband.com/",
-    "77 คะแนน"
+    "246 คะแนน"
    ],
    [
     "FM-1 Workbench",
     "https://open.m-vave.com/fm1-workbench",
-    "153 คะแนน"
-   ],
-   [
-    "Reverse engineering my Coway air purifier to ditch the cloud",
-    "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-    "646 คะแนน"
-   ],
-   [
-    "After 600 experiments, here's what I discovered about JEPA world models",
-    "https://haddyalchaer.com/jepa",
-    "194 คะแนน"
+    "213 คะแนน"
    ],
    [
     "Found: A protein that drives ageing without unleashing inflammation",
     "https://www.nature.com/articles/d41586-026-03638-3",
-    "81 คะแนน"
+    "170 คะแนน"
    ],
    [
-    "Perplexity Decider v1.3: Training, eval, and use cases",
-    "https://www.perplexity.ai/hub/blog/perplexity-decider",
-    "83 คะแนน"
+    "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+    "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "210 คะแนน"
    ],
    [
-    "Claude Meetings",
-    "https://claude.com/resources/articles/claude-meetings",
-    "51 คะแนน"
-   ],
-   [
-    "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-    "https://www.science.org/doi/10.1126/science.132.3436.1291",
-    "427 คะแนน"
-   ],
-   [
-    "Live-migration support in FreeBSD and bhyve coming",
-    "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-    "48 คะแนน"
-   ],
-   [
-    "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-    "https://atg.science/careers",
-    "1 คะแนน"
-   ],
-   [
-    "Big tech is here to let us down",
-    "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-    "179 คะแนน"
+    "After 600 experiments, here's what I discovered about JEPA world models",
+    "https://haddyalchaer.com/jepa",
+    "240 คะแนน"
    ]
   ],
   "gh": {
@@ -432,52 +432,52 @@
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★7,294 Swift"
-    ],
-    [
-     "tangerineturtle1/NX2navi",
-     "https://github.com/tangerineturtle1/NX2navi",
-     "★3,875 C"
+     "★7,410 Swift"
     ],
     [
      "jhaizhou-ops/S2Arm",
      "https://github.com/jhaizhou-ops/S2Arm",
-     "★2,864 C#"
+     "★2,896 C#"
     ],
     [
      "Kianuni/Erosion-CN",
      "https://github.com/Kianuni/Erosion-CN",
-     "★1,909 Swift"
+     "★1,962 Swift"
     ],
     [
      "apex-compute/ANR",
      "https://github.com/apex-compute/ANR",
-     "★1,455 C++"
+     "★1,550 C++"
     ],
     [
      "HybridRobotics/supermimic",
      "https://github.com/HybridRobotics/supermimic",
-     "★1,435 Python"
+     "★1,457 Python"
     ],
     [
      "agentes-chat/agentes-chat",
      "https://github.com/agentes-chat/agentes-chat",
-     "★1,338 TypeScript"
+     "★1,356 TypeScript"
     ],
     [
      "FrigadeHQ/yogurt",
      "https://github.com/FrigadeHQ/yogurt",
-     "★1,255 TypeScript"
+     "★1,320 TypeScript"
+    ],
+    [
+     "deepseek-ai/chat-demo",
+     "https://github.com/deepseek-ai/chat-demo",
+     "★1,112 TypeScript"
     ],
     [
      "HolyArrs/HolyArrs",
      "https://github.com/HolyArrs/HolyArrs",
-     "★1,099 Go"
+     "★1,109 Go"
     ],
     [
-     "Th0rgal/satmux",
-     "https://github.com/Th0rgal/satmux",
-     "★1,073 Python"
+     "kolbicz/WQFiles",
+     "https://github.com/kolbicz/WQFiles",
+     "★819 Objective-C"
     ]
    ],
    "by_lang": {
@@ -485,61 +485,66 @@
      [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★1,435"
-     ],
-     [
-      "Th0rgal/satmux",
-      "https://github.com/Th0rgal/satmux",
-      "★1,073"
-     ],
-     [
-      "Goblinmine/homelab-diagram",
-      "https://github.com/Goblinmine/homelab-diagram",
-      "★984"
-     ],
-     [
-      "lxe/phoneuse",
-      "https://github.com/lxe/phoneuse",
-      "★648"
+      "★1,457"
      ],
      [
       "Robbyant/lingbot-touch",
       "https://github.com/Robbyant/lingbot-touch",
-      "★490"
+      "★503"
+     ],
+     [
+      "Dodaios/ste80-humanizer",
+      "https://github.com/Dodaios/ste80-humanizer",
+      "★493"
+     ],
+     [
+      "lizTheDeveloper/flyover-scrub",
+      "https://github.com/lizTheDeveloper/flyover-scrub",
+      "★359"
+     ],
+     [
+      "MiniMax-AI/MiniMax-H3-Image",
+      "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+      "★345"
      ]
     ],
     "TypeScript": [
      [
       "agentes-chat/agentes-chat",
       "https://github.com/agentes-chat/agentes-chat",
-      "★1,338"
+      "★1,356"
      ],
      [
       "FrigadeHQ/yogurt",
       "https://github.com/FrigadeHQ/yogurt",
-      "★1,255"
-     ],
-     [
-      "alexeyw/lot-map",
-      "https://github.com/alexeyw/lot-map",
-      "★727"
-     ],
-     [
-      "JDhruv14/line-art-animation",
-      "https://github.com/JDhruv14/line-art-animation",
-      "★659"
+      "★1,320"
      ],
      [
       "deepseek-ai/chat-demo",
       "https://github.com/deepseek-ai/chat-demo",
-      "★639"
+      "★1,112"
+     ],
+     [
+      "alexeyw/lot-map",
+      "https://github.com/alexeyw/lot-map",
+      "★750"
+     ],
+     [
+      "JDhruv14/line-art-animation",
+      "https://github.com/JDhruv14/line-art-animation",
+      "★672"
      ]
     ],
     "Rust": [
      [
       "makepad/relax",
       "https://github.com/makepad/relax",
-      "★472"
+      "★509"
+     ],
+     [
+      "quer3q/kraken-mount",
+      "https://github.com/quer3q/kraken-mount",
+      "★265"
      ],
      [
       "BeeCaptivate/pc-cleanup-optimizer",
@@ -549,71 +554,66 @@
      [
       "GiroCrab/GiroCrab",
       "https://github.com/GiroCrab/GiroCrab",
-      "★230"
+      "★233"
      ],
      [
       "bea4dev/shoji-bar-4",
       "https://github.com/bea4dev/shoji-bar-4",
       "★224"
-     ],
-     [
-      "quer3q/kraken-mount",
-      "https://github.com/quer3q/kraken-mount",
-      "★223"
      ]
     ],
     "Go": [
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★1,099"
-     ],
-     [
-      "21stware/bowel",
-      "https://github.com/21stware/bowel",
-      "★478"
-     ],
-     [
-      "TooonyChen/finallyshell",
-      "https://github.com/TooonyChen/finallyshell",
-      "★471"
+      "★1,109"
      ],
      [
       "djyde/dalibre",
       "https://github.com/djyde/dalibre",
-      "★346"
+      "★348"
      ],
      [
       "failsafe-security/artex",
       "https://github.com/failsafe-security/artex",
-      "★324"
+      "★340"
+     ],
+     [
+      "lobehub/lobe-mygo",
+      "https://github.com/lobehub/lobe-mygo",
+      "★242"
+     ],
+     [
+      "ValidatorStack/solana-vigil",
+      "https://github.com/ValidatorStack/solana-vigil",
+      "★230"
      ]
     ],
     "Swift": [
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★7,294"
+      "★7,410"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★1,909"
+      "★1,962"
      ],
      [
       "dqhieu/Silica",
       "https://github.com/dqhieu/Silica",
-      "★167"
+      "★172"
      ],
      [
       "ichitaso/Regitela",
       "https://github.com/ichitaso/Regitela",
-      "★154"
+      "★157"
      ],
      [
-      "qnguyen3/zalo-swift-re",
-      "https://github.com/qnguyen3/zalo-swift-re",
-      "★153"
+      "H4CNPE/YumEdit",
+      "https://github.com/H4CNPE/YumEdit",
+      "★143"
      ]
     ]
    }
@@ -622,52 +622,52 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥5756"
+    "♥6622"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1007"
+    "♥1043"
    ],
    [
     "NousResearch/Arete-27B",
     "https://huggingface.co/NousResearch/Arete-27B",
-    "♥543"
+    "♥570"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11771"
+    "♥11815"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥19865"
+    "♥19911"
    ],
    [
     "speridlabs/idol",
     "https://huggingface.co/speridlabs/idol",
-    "♥2292"
+    "♥2309"
    ],
    [
     "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥3047"
+    "♥3073"
    ],
    [
     "moonshotai/Kimi-K3.1-Pro",
     "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "♥2026"
+    "♥2048"
    ],
    [
     "Comfy-Org/MiniMax-H3-Image",
     "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥342"
+    "♥358"
    ],
    [
     "Zyphra/ZONOS3-Mini",
     "https://huggingface.co/Zyphra/ZONOS3-Mini",
-    "♥284"
+    "♥306"
    ]
   ],
   "npm": [
@@ -830,49 +830,50 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: AI Agents / Tool use, Multimodal, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
-    "name": "AI Agents / Tool use",
+    "name": "Multimodal",
     "score": 17,
+    "hits": [
+     "multimodal",
+     "vision",
+     "image",
+     "video"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "AI Agents / Tool use",
+    "score": 14,
     "hits": [
      "agent",
      "agents",
      "tool use",
      "tool-calling",
-     "mcp",
-     "autonomous"
-    ],
-    "heat": 100
-   },
-   {
-    "name": "Multimodal",
-    "score": 15,
-    "hits": [
-     "multimodal",
-     "vision",
-     "image"
+     "mcp"
     ],
     "heat": 100
    },
    {
     "name": "Coding assistants",
-    "score": 8,
+    "score": 10,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 96
+    "heat": 100
    },
    {
     "name": "Open-weight / Local models",
-    "score": 7,
+    "score": 10,
     "hits": [
+     "ggml",
      "deepseek",
      "qwen"
     ],
-    "heat": 84
+    "heat": 100
    }
   ],
   "recommendations": [
@@ -971,15 +972,15 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: FAA Issues National Ground Stop"
+    "text": "HN ใหม่ในท็อป: Ggml v1.0.0"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Live airband on all frequencies from KORS. Victoria, CA also ground stopped"
+    "text": "HN ใหม่ในท็อป: Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: FM-1 Workbench"
+    "text": "HN ใหม่ในท็อป: FAA issues national ground stop – lifted 4.5 hours later"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
@@ -994,8 +995,8 @@
     "GPT-6 Astra (Xhigh)"
    ],
    "themes": [
-    "AI Agents / Tool use",
     "Multimodal",
+    "AI Agents / Tool use",
     "Coding assistants",
     "Open-weight / Local models"
    ],
@@ -1017,11 +1018,11 @@
     "Baidu: ERNIE-Light-DT-1.0"
    ],
    "hn_top": [
-    "FAA Issues National Ground Stop",
-    "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-    "FM-1 Workbench",
-    "Reverse engineering my Coway air purifier to ditch the cloud",
-    "After 600 experiments, here's what I discovered about JEPA world models"
+    "Ggml v1.0.0",
+    "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "FAA issues national ground stop – lifted 4.5 hours later",
+    "Terminal borders that don't cost a cell",
+    "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update"
    ]
   },
   "year": 2026,

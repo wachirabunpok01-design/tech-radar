@@ -1,0 +1,237 @@
+{
+ "updated": "2026-11-14T06:19+00:00",
+ "snapshot": {
+  "ai_top": [
+   "Claude Opus 5.5 (Max, Default Fallback)",
+   "Gemini 4 Carbon (Medium)",
+   "GPT-6 Astra (Max)",
+   "Claude Fable 5.2 (Medium, Default Fallback)",
+   "GPT-6 Astra (Xhigh)"
+  ],
+  "themes": [
+   "Multimodal",
+   "AI Agents / Tool use",
+   "Coding assistants",
+   "Open-weight / Local models"
+  ],
+  "dim_leaders": [
+   "text:Gemini 4 Carbon (High)",
+   "webdev:Claude Fable 5.2 (xHigh)",
+   "agent:Claude Fable 5.2 (Max)",
+   "vision:Claude Fable 5 (High)",
+   "search:Qwen3.8-Max",
+   "factual:Gemini 4 Carbon (High)",
+   "document:Claude Fable 5.1 (Max)",
+   "image:GPT-Image-2.5 Sunburst"
+  ],
+  "or_top": [
+   "inclusionAI: Ling 3.2 Flash (free)",
+   "Google: Gemini 4 Hydrogen",
+   "Google: Gemini 4 Hydrogen (batch)",
+   "Baidu: ERNIE-5.5-Flash-Preview (free)",
+   "Baidu: ERNIE-Light-DT-1.0"
+  ],
+  "hn_top": [
+   "Ggml v1.0.0",
+   "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+   "FAA issues national ground stop – lifted 4.5 hours later",
+   "Terminal borders that don't cost a cell",
+   "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update"
+  ]
+ },
+ "trends": {
+  "year": 2026,
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "themes": [
+   {
+    "name": "Multimodal",
+    "score": 17,
+    "hits": [
+     "multimodal",
+     "vision",
+     "image",
+     "video"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "AI Agents / Tool use",
+    "score": 14,
+    "hits": [
+     "agent",
+     "agents",
+     "tool use",
+     "tool-calling",
+     "mcp"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "Coding assistants",
+    "score": 10,
+    "hits": [
+     "coding",
+     "copilot",
+     "ide"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "Open-weight / Local models",
+    "score": 10,
+    "hits": [
+     "ggml",
+     "deepseek",
+     "qwen"
+    ],
+    "heat": 100
+   }
+  ],
+  "recommendations": [
+   {
+    "tier": "use",
+    "title": "Gemini 4 Carbon (High) · Text",
+    "why": "อันดับ 1 บน LMArena · Text — เหมาะงาน: chat, อธิบาย, ร่างข้อความ",
+    "tags": [
+     "Text",
+     "google",
+     "chat, อธิบาย, ร่างข้อความ"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Claude Fable 5.2 (xHigh) · WebDev",
+    "why": "อันดับ 1 บน LMArena · WebDev — เหมาะงาน: เขียนเว็บ, UI, frontend",
+    "tags": [
+     "WebDev",
+     "anthropic",
+     "เขียนเว็บ, UI, frontend"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Claude Fable 5.2 (Max) · Agent",
+    "why": "อันดับ 1 บน LMArena · Agent — เหมาะงาน: agent, tool-calling, automation",
+    "tags": [
+     "Agent",
+     "anthropic",
+     "agent, tool-calling, automation"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Claude Fable 5 (High) · Vision",
+    "why": "อันดับ 1 บน LMArena · Vision — เหมาะงาน: อ่านรูป, screenshot, UI review",
+    "tags": [
+     "Vision",
+     "anthropic",
+     "อ่านรูป, screenshot, UI review"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Qwen3.8-Max · Search",
+    "why": "อันดับ 1 บน LMArena · Search — เหมาะงาน: search-augmented, research",
+    "tags": [
+     "Search",
+     "alibaba",
+     "search-augmented, research"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Gemini 4 Carbon (High) · Factual",
+    "why": "อันดับ 1 บน LMArena · Factual — เหมาะงาน: คำตอบที่ต้องถูกต้อง",
+    "tags": [
+     "Factual",
+     "google",
+     "คำตอบที่ต้องถูกต้อง"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Claude Opus 5.5 (Max, Default Fallback)",
+    "why": "นำด้านความสามารถ (AA 59.1) จาก Artificial Analysis — เหมาะเป็น default สำหรับงานทั่วไป/ยาก",
+    "tags": [
+     "ความสามารถสูง",
+     "Anthropic"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Coding assistants / IDE agents",
+    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
+    "tags": [
+     "coding",
+     "devtools"
+    ]
+   },
+   {
+    "tier": "caution",
+    "title": "CVE-2026-114713 UnrealIRCd UnrealIRCd",
+    "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
+    "tags": [
+     "security",
+     "KEV"
+    ]
+   }
+  ],
+  "method": "นับคำจากแหล่งสด + อันดับโมเดล ไม่ใช่ความเห็นบรรณาธิการ — รีเฟรชอัตโนมัติทุกครั้งที่สคริปต์รัน"
+ },
+ "status": {
+  "aa": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  },
+  "lm": {
+   "ok": false,
+   "time": "2026-11-14T06:19+00:00",
+   "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
+  },
+  "or": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  },
+  "hn": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  },
+  "gh": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  },
+  "hf": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  },
+  "npm": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  },
+  "kev": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  },
+  "epss": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  },
+  "trends": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  },
+  "dims": {
+   "ok": false,
+   "time": "2026-11-14T06:19+00:00",
+   "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
+  },
+  "dimensions": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  },
+  "ai": {
+   "ok": true,
+   "time": "2026-11-14T06:19+00:00"
+  }
+ }
+}
