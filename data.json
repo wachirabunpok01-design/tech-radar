@@ -1,59 +1,59 @@
 {
- "updated": "2026-11-15T06:26+00:00",
+ "updated": "2026-11-15T16:20+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   },
   "lm": {
    "ok": false,
-   "time": "2026-11-15T06:26+00:00",
+   "time": "2026-11-15T16:20+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   },
   "dims": {
    "ok": false,
-   "time": "2026-11-15T06:26+00:00",
+   "time": "2026-11-15T16:20+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-15T06:26+00:00"
+   "time": "2026-11-15T16:20+00:00"
   }
  },
  "tables": [
@@ -367,64 +367,64 @@
   ],
   "hn": [
    [
+    "All AI-generated code should be Open Source",
+    "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "209 คะแนน"
+   ],
+   [
+    "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+    "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+    "167 คะแนน"
+   ],
+   [
+    "Things That Turbo Pascal Is Smaller Than (2011)",
+    "https://prog21.dadgum.com/116.html",
+    "71 คะแนน"
+   ],
+   [
+    "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+    "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+    "43 คะแนน"
+   ],
+   [
     "SpaceX catches the Starship to end Flight 15",
     "https://www.spacex.com/launches/starship-flight-15",
-    "1018 คะแนน"
+    "1456 คะแนน"
+   ],
+   [
+    "Understanding Positional Embeddings in Modern LLMs",
+    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "87 คะแนน"
+   ],
+   [
+    "Emacs Is My Browser",
+    "https://joshblais.com/blog/emacs-as-my-browser/",
+    "18 คะแนน"
+   ],
+   [
+    "A NES emulator written in Odin",
+    "https://lucypero.com/lucynes.html",
+    "47 คะแนน"
+   ],
+   [
+    "Why did some Apollo missions carry a grenade launcher?",
+    "https://space.stackexchange.com/questions/37775",
+    "135 คะแนน"
    ],
    [
     "Lovable apps expose passport details and more than 200K private messages",
     "https://www.crissyfield.de/research/lovable-en/",
-    "749 คะแนน"
-   ],
-   [
-    "Memory Safety Bugs in Rust Standard Library",
-    "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-    "35 คะแนน"
-   ],
-   [
-    "Show HN: Gawain – Require type hints on all Python variables",
-    "https://github.com/matheuzgomes/gawain",
-    "26 คะแนน"
-   ],
-   [
-    "How did Woz write the Apple 1 BASIC before building the computer?",
-    "https://retrocomputing.stackexchange.com/questions/17957",
-    "170 คะแนน"
-   ],
-   [
-    "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-    "https://github.com/Tthanh2k6/turbo-browser-mcp",
-    "17 คะแนน"
+    "938 คะแนน"
    ],
    [
     "Court denies motion to dismiss DRAM price fixing case",
     "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-    "39 คะแนน"
+    "361 คะแนน"
    ],
    [
-    "The Evolving Story of How Chemistry Became Biology",
-    "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-    "24 คะแนน"
-   ],
-   [
-    "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-    "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-    "169 คะแนน"
-   ],
-   [
-    "A family tree of software job titles",
-    "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-    "270 คะแนน"
-   ],
-   [
-    "KDE: The documentary [video]",
-    "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-    "432 คะแนน"
-   ],
-   [
-    "Nvidia deliberately kept GPU prices high through circular financing deals",
-    "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-    "400 คะแนน"
+    "What thousands of conversations look like inside a language model",
+    "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+    "57 คะแนน"
    ]
   ],
   "gh": {
@@ -432,52 +432,52 @@
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★7,617 Swift"
-    ],
-    [
-     "Kianuni/Erosion-CN",
-     "https://github.com/Kianuni/Erosion-CN",
-     "★2,077 Swift"
+     "★7,715 Swift"
     ],
     [
      "deepseek-ai/chat-demo",
      "https://github.com/deepseek-ai/chat-demo",
-     "★1,886 TypeScript"
+     "★2,552 TypeScript"
+    ],
+    [
+     "Kianuni/Erosion-CN",
+     "https://github.com/Kianuni/Erosion-CN",
+     "★2,120 Swift"
     ],
     [
      "apex-compute/ANR",
      "https://github.com/apex-compute/ANR",
-     "★1,879 C++"
+     "★1,999 C++"
     ],
     [
      "FrigadeHQ/yogurt",
      "https://github.com/FrigadeHQ/yogurt",
-     "★1,521 TypeScript"
-    ],
-    [
-     "HybridRobotics/supermimic",
-     "https://github.com/HybridRobotics/supermimic",
-     "★1,513 Python"
-    ],
-    [
-     "agentes-chat/agentes-chat",
-     "https://github.com/agentes-chat/agentes-chat",
-     "★1,417 TypeScript"
-    ],
-    [
-     "HolyArrs/HolyArrs",
-     "https://github.com/HolyArrs/HolyArrs",
-     "★1,200 Go"
+     "★1,591 TypeScript"
     ],
     [
      "DevedevT/FFmpeg-GUI-Editor-Windows",
      "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "★1,051 Visual Basic .NET"
+     "★1,541 Visual Basic .NET"
+    ],
+    [
+     "HybridRobotics/supermimic",
+     "https://github.com/HybridRobotics/supermimic",
+     "★1,537 Python"
+    ],
+    [
+     "agentes-chat/agentes-chat",
+     "https://github.com/agentes-chat/agentes-chat",
+     "★1,476 TypeScript"
+    ],
+    [
+     "HolyArrs/HolyArrs",
+     "https://github.com/HolyArrs/HolyArrs",
+     "★1,232 Go"
     ],
     [
      "adriadam10/mkw-recomp",
      "https://github.com/adriadam10/mkw-recomp",
-     "★971 C"
+     "★1,115 C"
     ]
    ],
    "by_lang": {
@@ -485,61 +485,61 @@
      [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★1,513"
+      "★1,537"
      ],
      [
       "duwqijlk/muse-protocol",
       "https://github.com/duwqijlk/muse-protocol",
-      "★639"
+      "★887"
      ],
      [
       "Dodaios/ste80-humanizer",
       "https://github.com/Dodaios/ste80-humanizer",
-      "★629"
+      "★672"
      ],
      [
       "Robbyant/lingbot-touch",
       "https://github.com/Robbyant/lingbot-touch",
-      "★554"
+      "★588"
      ],
      [
       "Moh4696/cinematic-skill",
       "https://github.com/Moh4696/cinematic-skill",
-      "★424"
+      "★463"
      ]
     ],
     "TypeScript": [
      [
       "deepseek-ai/chat-demo",
       "https://github.com/deepseek-ai/chat-demo",
-      "★1,886"
+      "★2,552"
      ],
      [
       "FrigadeHQ/yogurt",
       "https://github.com/FrigadeHQ/yogurt",
-      "★1,521"
+      "★1,591"
      ],
      [
       "agentes-chat/agentes-chat",
       "https://github.com/agentes-chat/agentes-chat",
-      "★1,417"
+      "★1,476"
      ],
      [
       "alexeyw/lot-map",
       "https://github.com/alexeyw/lot-map",
-      "★840"
+      "★860"
      ],
      [
       "JDhruv14/line-art-animation",
       "https://github.com/JDhruv14/line-art-animation",
-      "★784"
+      "★812"
      ]
     ],
     "Rust": [
      [
       "WarriorRemember/IPTV_Player_2.0",
       "https://github.com/WarriorRemember/IPTV_Player_2.0",
-      "★673"
+      "★674"
      ],
      [
       "TurquoiseDetective/IPTV_Player_2.0",
@@ -557,63 +557,63 @@
       "★667"
      ],
      [
-      "Titanlushrink/IPTV_Player_2.0",
-      "https://github.com/Titanlushrink/IPTV_Player_2.0",
-      "★665"
+      "Trapbraneedle/IPTV_Player_2.0",
+      "https://github.com/Trapbraneedle/IPTV_Player_2.0",
+      "★666"
      ]
     ],
     "Go": [
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★1,200"
-     ],
-     [
-      "Trapbraneedle/IPTV_Player_2.0",
-      "https://github.com/Trapbraneedle/IPTV_Player_2.0",
-      "★666"
+      "★1,232"
      ],
      [
       "failsafe-security/artex",
       "https://github.com/failsafe-security/artex",
-      "★613"
+      "★677"
      ],
      [
       "egoist/tinytraffic",
       "https://github.com/egoist/tinytraffic",
-      "★231"
+      "★234"
      ],
      [
       "ValidatorStack/solana-vigil",
       "https://github.com/ValidatorStack/solana-vigil",
       "★230"
+     ],
+     [
+      "Ciao1019/ArcMD",
+      "https://github.com/Ciao1019/ArcMD",
+      "★173"
      ]
     ],
     "Swift": [
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★7,617"
+      "★7,715"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★2,077"
+      "★2,120"
      ],
      [
       "paul-nameless/agweb",
       "https://github.com/paul-nameless/agweb",
-      "★191"
-     ],
-     [
-      "ichitaso/Regitela",
-      "https://github.com/ichitaso/Regitela",
-      "★173"
+      "★214"
      ],
      [
       "oneamendez/crate-ios",
       "https://github.com/oneamendez/crate-ios",
-      "★132"
+      "★213"
+     ],
+     [
+      "ichitaso/Regitela",
+      "https://github.com/ichitaso/Regitela",
+      "★183"
      ]
     ]
    }
@@ -622,52 +622,52 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥7398"
+    "♥7471"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1130"
+    "♥1157"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20033"
+    "♥20074"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥11953"
-   ],
-   [
-    "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥3134"
+    "♥12009"
    ],
    [
     "Comfy-Org/MiniMax-H3-Image",
     "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥390"
+    "♥404"
    ],
    [
-    "speridlabs/idol",
-    "https://huggingface.co/speridlabs/idol",
-    "♥2344"
-   ],
-   [
-    "NousResearch/Arete-27B",
-    "https://huggingface.co/NousResearch/Arete-27B",
-    "♥599"
+    "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "♥3147"
    ],
    [
     "Zyphra/ZONOS3-Mini",
     "https://huggingface.co/Zyphra/ZONOS3-Mini",
-    "♥353"
+    "♥374"
    ],
    [
-    "moonshotai/Kimi-K3.1-Pro",
-    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "♥2082"
+    "speridlabs/idol",
+    "https://huggingface.co/speridlabs/idol",
+    "♥2358"
+   ],
+   [
+    "thinkingmachines/Inkling-2-Small",
+    "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+    "♥334"
+   ],
+   [
+    "NousResearch/Arete-27B",
+    "https://huggingface.co/NousResearch/Arete-27B",
+    "♥606"
    ]
   ],
   "npm": [
@@ -684,7 +684,7 @@
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "9,567,430 /สัปดาห์"
+    "9,685,203 /สัปดาห์"
    ],
    [
     "solid-js",
@@ -704,7 +704,7 @@
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "271,758,738 /สัปดาห์"
+    "274,471,057 /สัปดาห์"
    ],
    [
     "typescript",
@@ -714,7 +714,7 @@
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,338,229 /สัปดาห์"
+    "2,352,161 /สัปดาห์"
    ],
    [
     "ai",
@@ -830,28 +830,27 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: AI Agents / Tool use, Multimodal, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
+    "name": "Multimodal",
+    "score": 15,
+    "hits": [
+     "multimodal",
+     "vision",
+     "image"
+    ],
+    "heat": 100
+   },
+   {
     "name": "AI Agents / Tool use",
-    "score": 16,
+    "score": 14,
     "hits": [
      "agent",
      "agents",
      "tool use",
      "tool-calling",
      "mcp"
-    ],
-    "heat": 100
-   },
-   {
-    "name": "Multimodal",
-    "score": 16,
-    "hits": [
-     "multimodal",
-     "vision",
-     "image",
-     "video"
     ],
     "heat": 100
    },
@@ -873,6 +872,14 @@
      "qwen"
     ],
     "heat": 96
+   },
+   {
+    "name": "RAG / Knowledge",
+    "score": 1,
+    "hits": [
+     "embedding"
+    ],
+    "heat": 12
    }
   ],
   "recommendations": [
@@ -970,15 +977,23 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: SpaceX catches the Starship to end Flight 15"
+    "kind": "theme_up",
+    "text": "ธีมขึ้นแรง: RAG / Knowledge"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Memory Safety Bugs in Rust Standard Library"
+    "text": "HN ใหม่ในท็อป: All AI-generated code should be Open Source"
+   },
+   {
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use"
+   },
+   {
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Things That Turbo Pascal Is Smaller Than (2011)"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 2 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -990,10 +1005,11 @@
     "GPT-6 Astra (Xhigh)"
    ],
    "themes": [
-    "AI Agents / Tool use",
     "Multimodal",
+    "AI Agents / Tool use",
     "Coding assistants",
-    "Open-weight / Local models"
+    "Open-weight / Local models",
+    "RAG / Knowledge"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1013,11 +1029,11 @@
     "Baidu: ERNIE-Light-DT-1.0"
    ],
    "hn_top": [
-    "SpaceX catches the Starship to end Flight 15",
-    "Lovable apps expose passport details and more than 200K private messages",
-    "Memory Safety Bugs in Rust Standard Library",
-    "Show HN: Gawain – Require type hints on all Python variables",
-    "How did Woz write the Apple 1 BASIC before building the computer?"
+    "All AI-generated code should be Open Source",
+    "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+    "Things That Turbo Pascal Is Smaller Than (2011)",
+    "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+    "SpaceX catches the Starship to end Flight 15"
    ]
   },
   "year": 2026,
@@ -2189,6 +2205,24 @@
       "modality": "text+image+file->text"
      },
      {
+      "name": "DeepSeek: DeepSeek V4.1 Flash 1017",
+      "org": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "note": "context 1,048,576 · ~$0.04/ล้านผสม · text+image->text",
+      "context": 1048576,
+      "blended": 0.041999999999999996,
+      "modality": "text+image->text"
+     },
+     {
+      "name": "DeepSeek: DeepSeek Flash Latest",
+      "org": "~deepseek",
+      "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
+      "note": "context 1,048,576 · ~$0.04/ล้านผสม · text+image->text",
+      "context": 1048576,
+      "blended": 0.041999999999999996,
+      "modality": "text+image->text"
+     },
+     {
       "name": "Z.ai: GLM Flash Latest",
       "org": "~z-ai",
       "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
@@ -2205,24 +2239,6 @@
       "context": 1048576,
       "blended": 0.049525,
       "modality": "text+image+video->text"
-     },
-     {
-      "name": "Qwen: Qwen3.7 Flash",
-      "org": "qwen",
-      "url": "https://openrouter.ai/qwen/qwen3.7-flash",
-      "note": "context 1,000,000 · ~$0.06/ล้านผสม · text+image+video->text",
-      "context": 1000000,
-      "blended": 0.055,
-      "modality": "text+image+video->text"
-     },
-     {
-      "name": "inclusionAI: Ling 3.1 Flash",
-      "org": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-3.1-flash",
-      "note": "context 1,000,000 · ~$0.07/ล้านผสม · text->text",
-      "context": 1000000,
-      "blended": 0.0675,
-      "modality": "text->text"
      }
     ]
    },
