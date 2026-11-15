@@ -1,59 +1,59 @@
 {
- "updated": "2026-11-15T16:20+00:00",
+ "updated": "2026-11-15T22:47+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   },
   "lm": {
    "ok": false,
-   "time": "2026-11-15T16:20+00:00",
+   "time": "2026-11-15T22:47+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   },
   "dims": {
    "ok": false,
-   "time": "2026-11-15T16:20+00:00",
+   "time": "2026-11-15T22:47+00:00",
    "msg": "501 Server Error: Not Implemented for url: https://datasets-server.huggingface.co/rows?dataset=lmarena-ai/leaderboard-dataset&config=text&split=latest"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-15T16:20+00:00"
+   "time": "2026-11-15T22:47+00:00"
   }
  },
  "tables": [
@@ -367,64 +367,64 @@
   ],
   "hn": [
    [
-    "All AI-generated code should be Open Source",
-    "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-    "209 คะแนน"
+    "Old Bitly Links Are Being Hijacked",
+    "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+    "22 คะแนน"
    ],
    [
-    "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+    "A short explainer on how El Niño works [video]",
+    "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "130 คะแนน"
+   ],
+   [
+    "Your Agent Will Pick the Hackable One",
+    "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+    "49 คะแนน"
+   ],
+   [
+    "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "https://bruceroettgers.eu/blog/protomaps/",
+    "63 คะแนน"
+   ],
+   [
+    "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+    "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+    "117 คะแนน"
+   ],
+   [
+    "The MacBook Pro's OLED PWM problem",
     "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-    "167 คะแนน"
+    "373 คะแนน"
+   ],
+   [
+    "WebGL Flight Simulator with seed generated terrain",
+    "https://baron.by.dai.studio/",
+    "30 คะแนน"
+   ],
+   [
+    "Eclipse Mosquitto – An open source MQTT broker",
+    "https://github.com/eclipse-mosquitto/mosquitto",
+    "52 คะแนน"
+   ],
+   [
+    "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+    "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+    "279 คะแนน"
+   ],
+   [
+    "Handwriting, as a Font",
+    "https://ductus.sorenblank.com",
+    "40 คะแนน"
+   ],
+   [
+    "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+    "272 คะแนน"
    ],
    [
     "Things That Turbo Pascal Is Smaller Than (2011)",
     "https://prog21.dadgum.com/116.html",
-    "71 คะแนน"
-   ],
-   [
-    "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-    "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-    "43 คะแนน"
-   ],
-   [
-    "SpaceX catches the Starship to end Flight 15",
-    "https://www.spacex.com/launches/starship-flight-15",
-    "1456 คะแนน"
-   ],
-   [
-    "Understanding Positional Embeddings in Modern LLMs",
-    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-    "87 คะแนน"
-   ],
-   [
-    "Emacs Is My Browser",
-    "https://joshblais.com/blog/emacs-as-my-browser/",
-    "18 คะแนน"
-   ],
-   [
-    "A NES emulator written in Odin",
-    "https://lucypero.com/lucynes.html",
-    "47 คะแนน"
-   ],
-   [
-    "Why did some Apollo missions carry a grenade launcher?",
-    "https://space.stackexchange.com/questions/37775",
-    "135 คะแนน"
-   ],
-   [
-    "Lovable apps expose passport details and more than 200K private messages",
-    "https://www.crissyfield.de/research/lovable-en/",
-    "938 คะแนน"
-   ],
-   [
-    "Court denies motion to dismiss DRAM price fixing case",
-    "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-    "361 คะแนน"
-   ],
-   [
-    "What thousands of conversations look like inside a language model",
-    "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-    "57 คะแนน"
+    "176 คะแนน"
    ]
   ],
   "gh": {
@@ -432,52 +432,52 @@
     [
      "huamidev/GestaltX",
      "https://github.com/huamidev/GestaltX",
-     "★7,715 Swift"
+     "★7,731 Swift"
     ],
     [
      "deepseek-ai/chat-demo",
      "https://github.com/deepseek-ai/chat-demo",
-     "★2,552 TypeScript"
-    ],
-    [
-     "Kianuni/Erosion-CN",
-     "https://github.com/Kianuni/Erosion-CN",
-     "★2,120 Swift"
+     "★2,895 TypeScript"
     ],
     [
      "apex-compute/ANR",
      "https://github.com/apex-compute/ANR",
-     "★1,999 C++"
+     "★2,182 C++"
+    ],
+    [
+     "Kianuni/Erosion-CN",
+     "https://github.com/Kianuni/Erosion-CN",
+     "★2,124 Swift"
     ],
     [
      "FrigadeHQ/yogurt",
      "https://github.com/FrigadeHQ/yogurt",
-     "★1,591 TypeScript"
-    ],
-    [
-     "DevedevT/FFmpeg-GUI-Editor-Windows",
-     "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "★1,541 Visual Basic .NET"
+     "★1,635 TypeScript"
     ],
     [
      "HybridRobotics/supermimic",
      "https://github.com/HybridRobotics/supermimic",
-     "★1,537 Python"
+     "★1,551 Python"
     ],
     [
      "agentes-chat/agentes-chat",
      "https://github.com/agentes-chat/agentes-chat",
-     "★1,476 TypeScript"
+     "★1,500 TypeScript"
     ],
     [
      "HolyArrs/HolyArrs",
      "https://github.com/HolyArrs/HolyArrs",
-     "★1,232 Go"
+     "★1,255 Go"
+    ],
+    [
+     "DevedevT/FFmpeg-GUI-Editor-Windows",
+     "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+     "★1,227 Visual Basic .NET"
     ],
     [
      "adriadam10/mkw-recomp",
      "https://github.com/adriadam10/mkw-recomp",
-     "★1,115 C"
+     "★1,211 C"
     ]
    ],
    "by_lang": {
@@ -485,135 +485,135 @@
      [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★1,537"
+      "★1,551"
      ],
      [
       "duwqijlk/muse-protocol",
       "https://github.com/duwqijlk/muse-protocol",
-      "★887"
+      "★985"
      ],
      [
       "Dodaios/ste80-humanizer",
       "https://github.com/Dodaios/ste80-humanizer",
-      "★672"
+      "★690"
      ],
      [
       "Robbyant/lingbot-touch",
       "https://github.com/Robbyant/lingbot-touch",
-      "★588"
+      "★606"
      ],
      [
       "Moh4696/cinematic-skill",
       "https://github.com/Moh4696/cinematic-skill",
-      "★463"
+      "★503"
      ]
     ],
     "TypeScript": [
      [
       "deepseek-ai/chat-demo",
       "https://github.com/deepseek-ai/chat-demo",
-      "★2,552"
+      "★2,895"
      ],
      [
       "FrigadeHQ/yogurt",
       "https://github.com/FrigadeHQ/yogurt",
-      "★1,591"
+      "★1,635"
      ],
      [
       "agentes-chat/agentes-chat",
       "https://github.com/agentes-chat/agentes-chat",
-      "★1,476"
+      "★1,500"
      ],
      [
       "alexeyw/lot-map",
       "https://github.com/alexeyw/lot-map",
-      "★860"
+      "★885"
      ],
      [
       "JDhruv14/line-art-animation",
       "https://github.com/JDhruv14/line-art-animation",
-      "★812"
+      "★826"
      ]
     ],
     "Rust": [
      [
-      "WarriorRemember/IPTV_Player_2.0",
-      "https://github.com/WarriorRemember/IPTV_Player_2.0",
-      "★674"
+      "makepad/relax",
+      "https://github.com/makepad/relax",
+      "★558"
      ],
      [
-      "TurquoiseDetective/IPTV_Player_2.0",
-      "https://github.com/TurquoiseDetective/IPTV_Player_2.0",
-      "★669"
+      "tremorbuffalospire/IPTV_Player_2.0",
+      "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
+      "★380"
      ],
      [
-      "tornadonovicewhirl40/IPTV_Player_2.0",
-      "https://github.com/tornadonovicewhirl40/IPTV_Player_2.0",
-      "★669"
+      "TorrentArrow/IPTV_Player_2.0",
+      "https://github.com/TorrentArrow/IPTV_Player_2.0",
+      "★377"
      ],
      [
-      "WattBeetleLearn/IPTV_Player_2.0",
-      "https://github.com/WattBeetleLearn/IPTV_Player_2.0",
-      "★667"
+      "quer3q/kraken-mount",
+      "https://github.com/quer3q/kraken-mount",
+      "★371"
      ],
      [
-      "Trapbraneedle/IPTV_Player_2.0",
-      "https://github.com/Trapbraneedle/IPTV_Player_2.0",
-      "★666"
+      "GiroCrab/GiroCrab",
+      "https://github.com/GiroCrab/GiroCrab",
+      "★266"
      ]
     ],
     "Go": [
      [
       "HolyArrs/HolyArrs",
       "https://github.com/HolyArrs/HolyArrs",
-      "★1,232"
+      "★1,255"
      ],
      [
       "failsafe-security/artex",
       "https://github.com/failsafe-security/artex",
-      "★677"
+      "★703"
      ],
      [
-      "egoist/tinytraffic",
-      "https://github.com/egoist/tinytraffic",
-      "★234"
+      "TurtleReside/Gemini-Config-Checker-",
+      "https://github.com/TurtleReside/Gemini-Config-Checker-",
+      "★473"
      ],
      [
-      "ValidatorStack/solana-vigil",
-      "https://github.com/ValidatorStack/solana-vigil",
-      "★230"
+      "WerewolfEmuHub/Gemini-Config-Checker-",
+      "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
+      "★473"
      ],
      [
-      "Ciao1019/ArcMD",
-      "https://github.com/Ciao1019/ArcMD",
-      "★173"
+      "Violetnyudress/Gemini-Config-Checker-",
+      "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+      "★473"
      ]
     ],
     "Swift": [
      [
       "huamidev/GestaltX",
       "https://github.com/huamidev/GestaltX",
-      "★7,715"
+      "★7,731"
      ],
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★2,120"
-     ],
-     [
-      "paul-nameless/agweb",
-      "https://github.com/paul-nameless/agweb",
-      "★214"
+      "★2,124"
      ],
      [
       "oneamendez/crate-ios",
       "https://github.com/oneamendez/crate-ios",
-      "★213"
+      "★269"
      ],
      [
-      "ichitaso/Regitela",
-      "https://github.com/ichitaso/Regitela",
-      "★183"
+      "yetanotherbrowser/yab",
+      "https://github.com/yetanotherbrowser/yab",
+      "★230"
+     ],
+     [
+      "paul-nameless/agweb",
+      "https://github.com/paul-nameless/agweb",
+      "★221"
      ]
     ]
    }
@@ -622,52 +622,52 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥7471"
+    "♥7519"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1157"
+    "♥1176"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20074"
+    "♥20112"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12009"
+    "♥12053"
    ],
    [
     "Comfy-Org/MiniMax-H3-Image",
     "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥404"
+    "♥409"
    ],
    [
     "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥3147"
+    "♥3163"
    ],
    [
     "Zyphra/ZONOS3-Mini",
     "https://huggingface.co/Zyphra/ZONOS3-Mini",
-    "♥374"
-   ],
-   [
-    "speridlabs/idol",
-    "https://huggingface.co/speridlabs/idol",
-    "♥2358"
+    "♥391"
    ],
    [
     "thinkingmachines/Inkling-2-Small",
     "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "♥334"
+    "♥340"
    ],
    [
-    "NousResearch/Arete-27B",
-    "https://huggingface.co/NousResearch/Arete-27B",
-    "♥606"
+    "speridlabs/idol",
+    "https://huggingface.co/speridlabs/idol",
+    "♥2362"
+   ],
+   [
+    "unsloth/Qwen3.8-27B-GGUF",
+    "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+    "♥5994"
    ]
   ],
   "npm": [
@@ -834,17 +834,18 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 15,
+    "score": 17,
     "hits": [
      "multimodal",
      "vision",
-     "image"
+     "image",
+     "video"
     ],
     "heat": 100
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 14,
+    "score": 15,
     "hits": [
      "agent",
      "agents",
@@ -856,30 +857,22 @@
    },
    {
     "name": "Coding assistants",
-    "score": 8,
+    "score": 10,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 96
+    "heat": 100
    },
    {
     "name": "Open-weight / Local models",
-    "score": 8,
+    "score": 9,
     "hits": [
      "deepseek",
      "qwen"
     ],
-    "heat": 96
-   },
-   {
-    "name": "RAG / Knowledge",
-    "score": 1,
-    "hits": [
-     "embedding"
-    ],
-    "heat": 12
+    "heat": 100
    }
   ],
   "recommendations": [
@@ -977,23 +970,19 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "theme_up",
-    "text": "ธีมขึ้นแรง: RAG / Knowledge"
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Old Bitly Links Are Being Hijacked"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: All AI-generated code should be Open Source"
+    "text": "HN ใหม่ในท็อป: A short explainer on how El Niño works [video]"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Things That Turbo Pascal Is Smaller Than (2011)"
+    "text": "HN ใหม่ในท็อป: Your Agent Will Pick the Hackable One"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1008,8 +997,7 @@
     "Multimodal",
     "AI Agents / Tool use",
     "Coding assistants",
-    "Open-weight / Local models",
-    "RAG / Knowledge"
+    "Open-weight / Local models"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1029,11 +1017,11 @@
     "Baidu: ERNIE-Light-DT-1.0"
    ],
    "hn_top": [
-    "All AI-generated code should be Open Source",
-    "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-    "Things That Turbo Pascal Is Smaller Than (2011)",
-    "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-    "SpaceX catches the Starship to end Flight 15"
+    "Old Bitly Links Are Being Hijacked",
+    "A short explainer on how El Niño works [video]",
+    "Your Agent Will Pick the Hackable One",
+    "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can"
    ]
   },
   "year": 2026,
