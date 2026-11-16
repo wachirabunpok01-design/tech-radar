@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-16T06:25+00:00",
+ "updated": "2026-11-16T19:35+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00",
+   "time": "2026-11-16T19:35+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-16T06:25+00:00"
+   "time": "2026-11-16T19:35+00:00"
   }
  },
  "tables": [
@@ -314,9 +314,14 @@
  "live": {
   "or": [
    [
+    "Tencent: Hy4 flash",
+    "https://openrouter.ai/tencent/hy4-flash",
+    "2026-11-16 · context 1,048,576 · $0.04 / $0.14 ต่อล้าน tokens"
+   ],
+   [
     "Qwen: Qwen4 Max",
     "https://openrouter.ai/qwen/qwen4-max",
-    "2026-11-16 · context 1,000,000 · $1.50 / $4.50 ต่อล้าน tokens"
+    "2026-11-16 · context 1,000,000 · $1.42 / $4.27 ต่อล้าน tokens"
    ],
    [
     "inclusionAI: Ling 3.2 Flash (free)",
@@ -357,73 +362,68 @@
     "Nex AGI: Nex-N2.6",
     "https://openrouter.ai/nex-agi/nex-n2.6",
     "2026-11-10 · context 262,144 · $0.12 / $0.40 ต่อล้าน tokens"
-   ],
-   [
-    "Thinking Machines: Inkling 2 Small",
-    "https://openrouter.ai/thinkingmachines/inkling-2-small",
-    "2026-11-09 · context 1,048,576 · $0.30 / $1.00 ต่อล้าน tokens"
    ]
   ],
   "hn": [
    [
-    "Universal XSS in uBlock Origin from website-driven element picker",
-    "https://iter.ca/post/ubo-uxss/",
-    "240 คะแนน"
+    "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+    "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "149 คะแนน"
    ],
    [
-    "Qwen4-Max",
-    "https://qwen.ai/blog?id=qwen4-max",
-    "331 คะแนน"
+    "Grazing sheep in fields with solar arrays",
+    "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+    "100 คะแนน"
    ],
    [
-    "How to Make Almost Anything",
+    "Jiff 1.0: A datetime library for Rust",
+    "https://burntsushi.net/jiff/",
+    "163 คะแนน"
+   ],
+   [
+    "Frame – 31.5\" color ePaper display",
+    "https://trmnl.com/blog/introducing-frame",
+    "83 คะแนน"
+   ],
+   [
+    "Aristotle Expands into Rust",
+    "https://www.harmonic.fun/news/aristotle-rust-verification/",
+    "43 คะแนน"
+   ],
+   [
+    "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+    "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+    "253 คะแนน"
+   ],
+   [
+    "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+    "https://fakemetrics.com/",
+    "21 คะแนน"
+   ],
+   [
+    "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+    "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+    "28 คะแนน"
+   ],
+   [
+    "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+    "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+    "631 คะแนน"
+   ],
+   [
+    "How to make almost anything",
     "https://pub.cba.mit.edu/863.26/site/",
-    "14 คะแนน"
+    "767 คะแนน"
    ],
    [
-    "Old Bitly links are being hijacked",
-    "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-    "243 คะแนน"
+    "Jolt – Clojure that speaks C",
+    "https://jolt-lang.net/",
+    "33 คะแนน"
    ],
    [
-    "What's Next for Nvidia?",
-    "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-    "184 คะแนน"
-   ],
-   [
-    "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-    "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-    "108 คะแนน"
-   ],
-   [
-    "Preserving 30 years of Salon journalism",
-    "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-    "131 คะแนน"
-   ],
-   [
-    "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-    "https://bruceroettgers.eu/blog/protomaps/",
-    "266 คะแนน"
-   ],
-   [
-    "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
-    "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
-    "29 คะแนน"
-   ],
-   [
-    "A short explainer on how El Niño works [video]",
-    "https://www.youtube.com/watch?v=7_JF3etiAv8",
-    "215 คะแนน"
-   ],
-   [
-    "Do we still have to denormalize? Have your schema and search it too",
-    "https://www.paradedb.com/blog/joins",
-    "55 คะแนน"
-   ],
-   [
-    "Handwriting, as a Font",
-    "https://ductus.sorenblank.com",
-    "214 คะแนน"
+    "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+    "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+    "6 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "deepseek-ai/chat-demo",
      "https://github.com/deepseek-ai/chat-demo",
-     "★3,495 TypeScript"
+     "★4,001 TypeScript"
     ],
     [
      "apex-compute/ANR",
      "https://github.com/apex-compute/ANR",
-     "★2,276 C++"
+     "★2,436 C++"
     ],
     [
      "Kianuni/Erosion-CN",
      "https://github.com/Kianuni/Erosion-CN",
-     "★2,154 Swift"
+     "★2,194 Swift"
     ],
     [
      "hitkeeen/blender-ai-mcp-addon",
      "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "★1,759 "
+     "★2,121 "
     ],
     [
      "FrigadeHQ/yogurt",
      "https://github.com/FrigadeHQ/yogurt",
-     "★1,700 TypeScript"
+     "★1,825 TypeScript"
     ],
     [
      "HybridRobotics/supermimic",
      "https://github.com/HybridRobotics/supermimic",
-     "★1,595 Python"
-    ],
-    [
-     "DevedevT/FFmpeg-GUI-Editor-Windows",
-     "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "★1,233 Visual Basic .NET"
+     "★1,652 Python"
     ],
     [
      "Noniv/abyssal-garden",
      "https://github.com/Noniv/abyssal-garden",
-     "★1,230 JavaScript"
+     "★1,602 JavaScript"
     ],
     [
      "duwqijlk/muse-protocol",
      "https://github.com/duwqijlk/muse-protocol",
-     "★1,175 Python"
+     "★1,417 Python"
     ],
     [
      "Eynnzerr/TelemetryCleaner",
      "https://github.com/Eynnzerr/TelemetryCleaner",
-     "★1,143 Kotlin"
+     "★1,289 Kotlin"
+    ],
+    [
+     "ZiChuanLan/freebie-radar",
+     "https://github.com/ZiChuanLan/freebie-radar",
+     "★1,110 TypeScript"
     ]
    ],
    "by_lang": {
@@ -484,88 +484,88 @@
      [
       "HybridRobotics/supermimic",
       "https://github.com/HybridRobotics/supermimic",
-      "★1,595"
+      "★1,652"
      ],
      [
       "duwqijlk/muse-protocol",
       "https://github.com/duwqijlk/muse-protocol",
-      "★1,175"
+      "★1,417"
      ],
      [
       "haziqahmedqasmi/PeakCut",
       "https://github.com/haziqahmedqasmi/PeakCut",
-      "★477"
-     ],
-     [
-      "higurashi-ai/Haru",
-      "https://github.com/higurashi-ai/Haru",
-      "★449"
+      "★599"
      ],
      [
       "n4ze3m/tiny-voca",
       "https://github.com/n4ze3m/tiny-voca",
-      "★431"
+      "★581"
+     ],
+     [
+      "higurashi-ai/Haru",
+      "https://github.com/higurashi-ai/Haru",
+      "★510"
      ]
     ],
     "TypeScript": [
      [
       "deepseek-ai/chat-demo",
       "https://github.com/deepseek-ai/chat-demo",
-      "★3,495"
+      "★4,001"
      ],
      [
       "FrigadeHQ/yogurt",
       "https://github.com/FrigadeHQ/yogurt",
-      "★1,700"
+      "★1,825"
      ],
      [
       "ZiChuanLan/freebie-radar",
       "https://github.com/ZiChuanLan/freebie-radar",
-      "★903"
+      "★1,110"
      ],
      [
       "JDhruv14/line-art-animation",
       "https://github.com/JDhruv14/line-art-animation",
-      "★854"
+      "★912"
      ],
      [
       "opencoredev/islandcn",
       "https://github.com/opencoredev/islandcn",
-      "★743"
+      "★771"
      ]
     ],
     "Rust": [
      [
       "makepad/relax",
       "https://github.com/makepad/relax",
-      "★565"
-     ],
-     [
-      "quer3q/kraken-mount",
-      "https://github.com/quer3q/kraken-mount",
-      "★395"
-     ],
-     [
-      "tremorbuffalospire/IPTV_Player_2.0",
-      "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
-      "★381"
-     ],
-     [
-      "TorrentArrow/IPTV_Player_2.0",
-      "https://github.com/TorrentArrow/IPTV_Player_2.0",
-      "★377"
+      "★576"
      ],
      [
       "BigPizzaV3/ClaudeMom",
       "https://github.com/BigPizzaV3/ClaudeMom",
-      "★344"
+      "★523"
+     ],
+     [
+      "quer3q/kraken-mount",
+      "https://github.com/quer3q/kraken-mount",
+      "★429"
+     ],
+     [
+      "tremorbuffalospire/IPTV_Player_2.0",
+      "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
+      "★380"
+     ],
+     [
+      "TorrentArrow/IPTV_Player_2.0",
+      "https://github.com/TorrentArrow/IPTV_Player_2.0",
+      "★376"
      ]
     ],
     "Go": [
      [
       "failsafe-security/artex",
       "https://github.com/failsafe-security/artex",
-      "★731"
+      "★773"
      ],
      [
       "TurtleReside/Gemini-Config-Checker-",
@@ -592,27 +592,27 @@
      [
       "Kianuni/Erosion-CN",
       "https://github.com/Kianuni/Erosion-CN",
-      "★2,154"
+      "★2,194"
      ],
      [
       "yetanotherbrowser/yab",
       "https://github.com/yetanotherbrowser/yab",
-      "★417"
+      "★576"
      ],
      [
       "oneamendez/crate-ios",
       "https://github.com/oneamendez/crate-ios",
-      "★323"
-     ],
-     [
-      "paul-nameless/agweb",
-      "https://github.com/paul-nameless/agweb",
-      "★231"
+      "★391"
      ],
      [
       "zephyr4123/snug",
       "https://github.com/zephyr4123/snug",
-      "★212"
+      "★258"
+     ],
+     [
+      "paul-nameless/agweb",
+      "https://github.com/paul-nameless/agweb",
+      "★247"
      ]
     ]
    }
@@ -621,52 +621,52 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥7581"
+    "♥8260"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1209"
+    "♥1286"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20144"
+    "♥20234"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12092"
+    "♥12187"
    ],
    [
     "Comfy-Org/MiniMax-H3-Image",
     "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥421"
+    "♥461"
    ],
    [
     "Zyphra/ZONOS3-Mini",
     "https://huggingface.co/Zyphra/ZONOS3-Mini",
-    "♥411"
-   ],
-   [
-    "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥3175"
-   ],
-   [
-    "thinkingmachines/Inkling-2-Small",
-    "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "♥349"
+    "♥445"
    ],
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥331"
+    "♥399"
+   ],
+   [
+    "thinkingmachines/Inkling-2-Small",
+    "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+    "♥386"
    ],
    [
     "unsloth/Qwen3.8-27B-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-    "♥6006"
+    "♥6055"
+   ],
+   [
+    "speridlabs/idol",
+    "https://huggingface.co/speridlabs/idol",
+    "♥2403"
    ]
   ],
   "npm": [
@@ -708,12 +708,12 @@
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "423,856,689 /สัปดาห์"
+    "427,220,745 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,352,161 /สัปดาห์"
+    "2,369,432 /สัปดาห์"
    ],
    [
     "ai",
@@ -829,25 +829,15 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, Open-weight / Local models, AI Agents / Tool use. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Open-weight / Local models. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
     "name": "Multimodal",
-    "score": 16,
+    "score": 15,
     "hits": [
      "multimodal",
      "vision",
-     "image",
-     "video"
-    ],
-    "heat": 100
-   },
-   {
-    "name": "Open-weight / Local models",
-    "score": 12,
-    "hits": [
-     "deepseek",
-     "qwen"
+     "image"
     ],
     "heat": 100
    },
@@ -860,6 +850,15 @@
      "tool use",
      "tool-calling",
      "mcp"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "Open-weight / Local models",
+    "score": 10,
+    "hits": [
+     "deepseek",
+     "qwen"
     ],
     "heat": 100
    },
@@ -979,15 +978,15 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Universal XSS in uBlock Origin from website-driven element picker"
+    "text": "HN ใหม่ในท็อป: Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Qwen4-Max"
+    "text": "HN ใหม่ในท็อป: Grazing sheep in fields with solar arrays"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: How to Make Almost Anything"
+    "text": "HN ใหม่ในท็อป: Jiff 1.0: A datetime library for Rust"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
@@ -1003,8 +1002,8 @@
    ],
    "themes": [
     "Multimodal",
-    "Open-weight / Local models",
     "AI Agents / Tool use",
+    "Open-weight / Local models",
     "Coding assistants"
    ],
    "dim_leaders": [
@@ -1018,18 +1017,18 @@
     "image:GPT-Image-2.5 Sunburst"
    ],
    "or_top": [
+    "Tencent: Hy4 flash",
     "Qwen: Qwen4 Max",
     "inclusionAI: Ling 3.2 Flash (free)",
     "Google: Gemini 4 Hydrogen",
-    "Google: Gemini 4 Hydrogen (batch)",
-    "Baidu: ERNIE-5.5-Flash-Preview (free)"
+    "Google: Gemini 4 Hydrogen (batch)"
    ],
    "hn_top": [
-    "Universal XSS in uBlock Origin from website-driven element picker",
-    "Qwen4-Max",
-    "How to Make Almost Anything",
-    "Old Bitly links are being hijacked",
-    "What's Next for Nvidia?"
+    "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+    "Grazing sheep in fields with solar arrays",
+    "Jiff 1.0: A datetime library for Rust",
+    "Frame – 31.5\" color ePaper display",
+    "Aristotle Expands into Rust"
    ]
   },
   "year": 2026,
@@ -2210,15 +2209,6 @@
       "modality": "text+image+video->text"
      },
      {
-      "name": "Z.ai: GLM 5.3 Flash",
-      "org": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
-      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
-      "context": 1048576,
-      "blended": 0.049525,
-      "modality": "text+image+video->text"
-     },
-     {
       "name": "Qwen: Qwen3.7 Flash",
       "org": "qwen",
       "url": "https://openrouter.ai/qwen/qwen3.7-flash",
@@ -2226,6 +2216,15 @@
       "context": 1000000,
       "blended": 0.055,
       "modality": "text+image+video->text"
+     },
+     {
+      "name": "Tencent: Hy4 flash",
+      "org": "tencent",
+      "url": "https://openrouter.ai/tencent/hy4-flash",
+      "note": "context 1,048,576 · ~$0.06/ล้านผสม · text+image->text",
+      "context": 1048576,
+      "blended": 0.061375,
+      "modality": "text+image->text"
      },
      {
       "name": "inclusionAI: Ling 3.1 Flash",
