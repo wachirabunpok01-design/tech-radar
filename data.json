@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-17T03:51+00:00",
+ "updated": "2026-11-17T15:57+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00",
+   "time": "2026-11-17T15:57+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-17T03:51+00:00"
+   "time": "2026-11-17T15:57+00:00"
   }
  },
  "tables": [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
+    "We don't need more apps. We need better open source",
+    "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+    "163 คะแนน"
+   ],
+   [
+    "Loopholes Are for Assholes",
+    "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+    "77 คะแนน"
+   ],
+   [
+    "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+    "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+    "608 คะแนน"
+   ],
+   [
+    "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+    "https://alloyhtml.com/example.html",
+    "29 คะแนน"
+   ],
+   [
+    "First Photos of the Poles of a Rod-Shaped Bacterium",
+    "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+    "43 คะแนน"
+   ],
+   [
     "Carnegie Mellon is putting computer science courses on YouTube for free",
     "https://www.cs.cmu.edu/learn/",
-    "900 คะแนน"
+    "1995 คะแนน"
    ],
    [
-    "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-    "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-    "328 คะแนน"
+    "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+    "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "13 คะแนน"
    ],
    [
-    "BugMeNot has closed",
-    "https://www.bugmenot.com/",
-    "380 คะแนน"
+    "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+    "https://visualbasic.world/",
+    "152 คะแนน"
    ],
    [
-    "Running coding agents without handing them my credentials",
-    "https://blog.antonio.cx/running-agents-with-lend",
-    "48 คะแนน"
+    "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+    "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+    "109 คะแนน"
    ],
    [
-    "Optimizely Compromised, Served Malware on Zoom, GitLab",
-    "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-    "156 คะแนน"
-   ],
-   [
-    "If an App Asks for Full Disk Access or System and App Protection Override",
-    "https://support.apple.com/en-us/149699",
-    "25 คะแนน"
-   ],
-   [
-    "OpenCode Browse",
-    "https://opencode.ai/product/browse",
-    "153 คะแนน"
-   ],
-   [
-    "Chemistry is Actually Geometry",
-    "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-    "142 คะแนน"
-   ],
-   [
-    "Mem Is Shutting Down",
-    "https://get.mem.ai/blog/mem-is-shutting-down",
-    "21 คะแนน"
-   ],
-   [
-    "Frame – 31.5\" color ePaper display",
-    "https://trmnl.com/blog/introducing-frame",
-    "332 คะแนน"
-   ],
-   [
-    "Jiff 1.0: A datetime library for Rust",
-    "https://burntsushi.net/jiff/",
-    "332 คะแนน"
-   ],
-   [
-    "How to Break into Security, Ptacek Edition (2012)",
-    "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+    "Rows vs. Columns: How different are they, really?",
+    "https://spiraldb.com/blog/rows-vs-columns",
     "88 คะแนน"
+   ],
+   [
+    "Optimizely compromised, served malware on Zoom, GitLab",
+    "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "523 คะแนน"
+   ],
+   [
+    "Turbo Pascal Compiler Written in Turbo Pascal",
+    "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
+    "60 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "deepseek-ai/chat-demo",
      "https://github.com/deepseek-ai/chat-demo",
-     "★4,181 TypeScript"
+     "★4,475 TypeScript"
     ],
     [
      "apex-compute/ANR",
      "https://github.com/apex-compute/ANR",
-     "★2,487 C++"
-    ],
-    [
-     "hitkeeen/blender-ai-mcp-addon",
-     "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "★2,259 "
+     "★2,556 C++"
     ],
     [
      "Noniv/abyssal-garden",
      "https://github.com/Noniv/abyssal-garden",
-     "★1,781 JavaScript"
+     "★2,049 JavaScript"
+    ],
+    [
+     "krisgfx9/Wireless-Device-Battery-Monitor",
+     "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+     "★1,785 C++"
     ],
     [
      "duwqijlk/muse-protocol",
      "https://github.com/duwqijlk/muse-protocol",
-     "★1,478 Python"
+     "★1,566 Python"
     ],
     [
      "Eynnzerr/TelemetryCleaner",
      "https://github.com/Eynnzerr/TelemetryCleaner",
-     "★1,349 Kotlin"
+     "★1,444 Kotlin"
     ],
     [
      "ZiChuanLan/freebie-radar",
      "https://github.com/ZiChuanLan/freebie-radar",
-     "★1,188 TypeScript"
+     "★1,389 TypeScript"
+    ],
+    [
+     "Immortal-Protocols/lastbook",
+     "https://github.com/Immortal-Protocols/lastbook",
+     "★1,322 Python"
+    ],
+    [
+     "CzzzzzzJ/mdldm-maitian",
+     "https://github.com/CzzzzzzJ/mdldm-maitian",
+     "★890 JavaScript"
     ],
     [
      "opencoredev/islandcn",
      "https://github.com/opencoredev/islandcn",
-     "★782 TypeScript"
-    ],
-    [
-     "AIRzZ90/study-materials-fork",
-     "https://github.com/AIRzZ90/study-materials-fork",
-     "★743 TypeScript"
-    ],
-    [
-     "linknimiball1974/ai-texture-forge",
-     "https://github.com/linknimiball1974/ai-texture-forge",
-     "★685 "
+     "★791 TypeScript"
     ]
    ],
    "by_lang": {
@@ -484,81 +484,81 @@
      [
       "duwqijlk/muse-protocol",
       "https://github.com/duwqijlk/muse-protocol",
-      "★1,478"
-     ],
-     [
-      "haziqahmedqasmi/PeakCut",
-      "https://github.com/haziqahmedqasmi/PeakCut",
-      "★683"
-     ],
-     [
-      "n4ze3m/tiny-voca",
-      "https://github.com/n4ze3m/tiny-voca",
-      "★628"
+      "★1,566"
      ],
      [
       "Immortal-Protocols/lastbook",
       "https://github.com/Immortal-Protocols/lastbook",
-      "★585"
+      "★1,322"
      ],
      [
-      "higurashi-ai/Haru",
-      "https://github.com/higurashi-ai/Haru",
-      "★529"
+      "haziqahmedqasmi/PeakCut",
+      "https://github.com/haziqahmedqasmi/PeakCut",
+      "★789"
+     ],
+     [
+      "joshpuckett/allo",
+      "https://github.com/joshpuckett/allo",
+      "★757"
+     ],
+     [
+      "gylive/google-ultra",
+      "https://github.com/gylive/google-ultra",
+      "★694"
      ]
     ],
     "TypeScript": [
      [
       "deepseek-ai/chat-demo",
       "https://github.com/deepseek-ai/chat-demo",
-      "★4,181"
+      "★4,475"
      ],
      [
       "ZiChuanLan/freebie-radar",
       "https://github.com/ZiChuanLan/freebie-radar",
-      "★1,188"
+      "★1,389"
      ],
      [
       "opencoredev/islandcn",
       "https://github.com/opencoredev/islandcn",
-      "★782"
+      "★791"
      ],
      [
       "AIRzZ90/study-materials-fork",
       "https://github.com/AIRzZ90/study-materials-fork",
-      "★743"
+      "★745"
      ],
      [
       "rivet-dev/open-orange",
       "https://github.com/rivet-dev/open-orange",
-      "★635"
+      "★651"
      ]
     ],
     "Rust": [
      [
       "makepad/relax",
       "https://github.com/makepad/relax",
-      "★581"
+      "★589"
      ],
      [
       "BigPizzaV3/ClaudeMom",
       "https://github.com/BigPizzaV3/ClaudeMom",
-      "★560"
+      "★585"
+     ],
+     [
+      "erkamyaman/rust-anything",
+      "https://github.com/erkamyaman/rust-anything",
+      "★496"
      ],
      [
       "quer3q/kraken-mount",
       "https://github.com/quer3q/kraken-mount",
-      "★444"
+      "★469"
      ],
      [
       "tremorbuffalospire/IPTV_Player_2.0",
       "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
-      "★380"
-     ],
-     [
-      "TorrentArrow/IPTV_Player_2.0",
-      "https://github.com/TorrentArrow/IPTV_Player_2.0",
-      "★376"
+      "★381"
      ]
     ],
     "Go": [
@@ -592,133 +592,133 @@
      [
       "yetanotherbrowser/yab",
       "https://github.com/yetanotherbrowser/yab",
-      "★602"
+      "★655"
      ],
      [
       "oneamendez/crate-ios",
       "https://github.com/oneamendez/crate-ios",
-      "★407"
+      "★427"
      ],
      [
       "zephyr4123/snug",
       "https://github.com/zephyr4123/snug",
-      "★270"
+      "★314"
      ],
      [
       "paul-nameless/agweb",
       "https://github.com/paul-nameless/agweb",
-      "★255"
+      "★262"
      ],
      [
-      "claration/cis",
-      "https://github.com/claration/cis",
-      "★185"
+      "cnrad/interspace",
+      "https://github.com/cnrad/interspace",
+      "★168"
      ]
     ]
    }
   },
   "hf": [
    [
-    "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥9042"
-   ],
-   [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1329"
+    "♥1389"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20285"
+    "♥20368"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12266"
-   ],
-   [
-    "Comfy-Org/MiniMax-H3-Image",
-    "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥496"
-   ],
-   [
-    "Zyphra/ZONOS3-Mini",
-    "https://huggingface.co/Zyphra/ZONOS3-Mini",
-    "♥482"
+    "♥12346"
    ],
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥437"
+    "♥473"
+   ],
+   [
+    "Comfy-Org/MiniMax-H3-Image",
+    "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+    "♥514"
    ],
    [
     "thinkingmachines/Inkling-2-Small",
     "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "♥418"
+    "♥434"
    ],
    [
     "unsloth/Qwen3.8-27B-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-    "♥6094"
+    "♥6120"
    ],
    [
-    "speridlabs/idol",
-    "https://huggingface.co/speridlabs/idol",
-    "♥2424"
+    "Zyphra/ZONOS3-Mini",
+    "https://huggingface.co/Zyphra/ZONOS3-Mini",
+    "♥504"
+   ],
+   [
+    "black-forest-labs/flux-3-image-klein-comfy",
+    "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+    "♥3389"
+   ],
+   [
+    "facebook/sam3",
+    "https://huggingface.co/facebook/sam3",
+    "♥6856"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "260,880,973 /สัปดาห์"
+    "264,981,619 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "25,213,072 /สัปดาห์"
+    "25,551,990 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "9,766,604 /สัปดาห์"
+    "9,987,823 /สัปดาห์"
    ],
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "11,735,361 /สัปดาห์"
+    "11,978,745 /สัปดาห์"
    ],
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,158,290 /สัปดาห์"
+    "8,209,917 /สัปดาห์"
    ],
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "94,442,807 /สัปดาห์"
+    "95,809,261 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "277,315,630 /สัปดาห์"
+    "281,318,367 /สัปดาห์"
    ],
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "427,220,745 /สัปดาห์"
+    "433,588,805 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,369,432 /สัปดาห์"
+    "2,402,259 /สัปดาห์"
    ],
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "45,776,702 /สัปดาห์"
+    "46,516,458 /สัปดาห์"
    ]
   ],
   "kev": [
@@ -829,11 +829,11 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Open-weight / Local models. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
     "name": "Multimodal",
-    "score": 16,
+    "score": 17,
     "hits": [
      "multimodal",
      "vision",
@@ -843,7 +843,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 15,
+    "score": 11,
     "hits": [
      "agent",
      "agents",
@@ -854,23 +854,23 @@
     "heat": 100
    },
    {
-    "name": "Open-weight / Local models",
-    "score": 10,
-    "hits": [
-     "deepseek",
-     "qwen"
-    ],
-    "heat": 100
-   },
-   {
     "name": "Coding assistants",
-    "score": 9,
+    "score": 8,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 100
+    "heat": 96
+   },
+   {
+    "name": "Open-weight / Local models",
+    "score": 8,
+    "hits": [
+     "deepseek",
+     "qwen"
+    ],
+    "heat": 96
    }
   ],
   "recommendations": [
@@ -953,21 +953,21 @@
     ]
    },
    {
-    "tier": "watch",
-    "title": "Open-weight / local models",
-    "why": "สัญญาณจาก HN/HF/GitHub ชี้ว่า open-weight กำลังร้อน — ลองถ้าต้องการคุมข้อมูลหรือต้นทุน",
-    "tags": [
-     "open-weight",
-     "local"
-    ]
-   },
-   {
     "tier": "use",
     "title": "Coding assistants / IDE agents",
     "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
     "tags": [
      "coding",
      "devtools"
+    ]
+   },
+   {
+    "tier": "caution",
+    "title": "CVE-2026-114713 UnrealIRCd UnrealIRCd",
+    "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
+    "tags": [
+     "security",
+     "KEV"
     ]
    }
   ],
@@ -978,15 +978,15 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Carnegie Mellon is putting computer science courses on YouTube for free"
+    "text": "HN ใหม่ในท็อป: We don't need more apps. We need better open source"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use"
+    "text": "HN ใหม่ในท็อป: Loopholes Are for Assholes"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: BugMeNot has closed"
+    "text": "HN ใหม่ในท็อป: New Evidence Shows School Phone Bans Are Gradually Improving Test Scores"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
@@ -1003,8 +1003,8 @@
    "themes": [
     "Multimodal",
     "AI Agents / Tool use",
-    "Open-weight / Local models",
-    "Coding assistants"
+    "Coding assistants",
+    "Open-weight / Local models"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1024,11 +1024,11 @@
     "Google: Gemini 4 Hydrogen (batch)"
    ],
    "hn_top": [
-    "Carnegie Mellon is putting computer science courses on YouTube for free",
-    "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-    "BugMeNot has closed",
-    "Running coding agents without handing them my credentials",
-    "Optimizely Compromised, Served Malware on Zoom, GitLab"
+    "We don't need more apps. We need better open source",
+    "Loopholes Are for Assholes",
+    "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+    "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+    "First Photos of the Poles of a Rod-Shaped Bacterium"
    ]
   },
   "year": 2026,
@@ -2218,15 +2218,6 @@
       "modality": "text+image+video->text"
      },
      {
-      "name": "Z.ai: GLM 5.3 Flash",
-      "org": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
-      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
-      "context": 1048576,
-      "blended": 0.049525,
-      "modality": "text+image+video->text"
-     },
-     {
       "name": "Qwen: Qwen3.7 Flash",
       "org": "qwen",
       "url": "https://openrouter.ai/qwen/qwen3.7-flash",
@@ -2234,6 +2225,15 @@
       "context": 1000000,
       "blended": 0.055,
       "modality": "text+image+video->text"
+     },
+     {
+      "name": "Tencent: Hy4 flash",
+      "org": "tencent",
+      "url": "https://openrouter.ai/tencent/hy4-flash",
+      "note": "context 1,048,576 · ~$0.06/ล้านผสม · text+image->text",
+      "context": 1048576,
+      "blended": 0.061375,
+      "modality": "text+image->text"
      }
     ]
    },
