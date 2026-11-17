@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-16T19:35+00:00",
+ "updated": "2026-11-17T03:51+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00",
+   "time": "2026-11-17T03:51+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-16T19:35+00:00"
+   "time": "2026-11-17T03:51+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-16",
+   "date": "ดึงเมื่อ 2026-11-17",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
-    "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-    "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-    "149 คะแนน"
+    "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "https://www.cs.cmu.edu/learn/",
+    "900 คะแนน"
    ],
    [
-    "Grazing sheep in fields with solar arrays",
-    "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-    "100 คะแนน"
+    "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "328 คะแนน"
    ],
    [
-    "Jiff 1.0: A datetime library for Rust",
-    "https://burntsushi.net/jiff/",
-    "163 คะแนน"
+    "BugMeNot has closed",
+    "https://www.bugmenot.com/",
+    "380 คะแนน"
+   ],
+   [
+    "Running coding agents without handing them my credentials",
+    "https://blog.antonio.cx/running-agents-with-lend",
+    "48 คะแนน"
+   ],
+   [
+    "Optimizely Compromised, Served Malware on Zoom, GitLab",
+    "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "156 คะแนน"
+   ],
+   [
+    "If an App Asks for Full Disk Access or System and App Protection Override",
+    "https://support.apple.com/en-us/149699",
+    "25 คะแนน"
+   ],
+   [
+    "OpenCode Browse",
+    "https://opencode.ai/product/browse",
+    "153 คะแนน"
+   ],
+   [
+    "Chemistry is Actually Geometry",
+    "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+    "142 คะแนน"
+   ],
+   [
+    "Mem Is Shutting Down",
+    "https://get.mem.ai/blog/mem-is-shutting-down",
+    "21 คะแนน"
    ],
    [
     "Frame – 31.5\" color ePaper display",
     "https://trmnl.com/blog/introducing-frame",
-    "83 คะแนน"
+    "332 คะแนน"
    ],
    [
-    "Aristotle Expands into Rust",
-    "https://www.harmonic.fun/news/aristotle-rust-verification/",
-    "43 คะแนน"
+    "Jiff 1.0: A datetime library for Rust",
+    "https://burntsushi.net/jiff/",
+    "332 คะแนน"
    ],
    [
-    "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-    "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-    "253 คะแนน"
-   ],
-   [
-    "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
-    "https://fakemetrics.com/",
-    "21 คะแนน"
-   ],
-   [
-    "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
-    "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-    "28 คะแนน"
-   ],
-   [
-    "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
-    "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-    "631 คะแนน"
-   ],
-   [
-    "How to make almost anything",
-    "https://pub.cba.mit.edu/863.26/site/",
-    "767 คะแนน"
-   ],
-   [
-    "Jolt – Clojure that speaks C",
-    "https://jolt-lang.net/",
-    "33 คะแนน"
-   ],
-   [
-    "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
-    "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
-    "6 คะแนน"
+    "How to Break into Security, Ptacek Edition (2012)",
+    "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+    "88 คะแนน"
    ]
   ],
   "gh": {
@@ -431,124 +431,124 @@
     [
      "deepseek-ai/chat-demo",
      "https://github.com/deepseek-ai/chat-demo",
-     "★4,001 TypeScript"
+     "★4,181 TypeScript"
     ],
     [
      "apex-compute/ANR",
      "https://github.com/apex-compute/ANR",
-     "★2,436 C++"
-    ],
-    [
-     "Kianuni/Erosion-CN",
-     "https://github.com/Kianuni/Erosion-CN",
-     "★2,194 Swift"
+     "★2,487 C++"
     ],
     [
      "hitkeeen/blender-ai-mcp-addon",
      "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "★2,121 "
-    ],
-    [
-     "FrigadeHQ/yogurt",
-     "https://github.com/FrigadeHQ/yogurt",
-     "★1,825 TypeScript"
-    ],
-    [
-     "HybridRobotics/supermimic",
-     "https://github.com/HybridRobotics/supermimic",
-     "★1,652 Python"
+     "★2,259 "
     ],
     [
      "Noniv/abyssal-garden",
      "https://github.com/Noniv/abyssal-garden",
-     "★1,602 JavaScript"
+     "★1,781 JavaScript"
     ],
     [
      "duwqijlk/muse-protocol",
      "https://github.com/duwqijlk/muse-protocol",
-     "★1,417 Python"
+     "★1,478 Python"
     ],
     [
      "Eynnzerr/TelemetryCleaner",
      "https://github.com/Eynnzerr/TelemetryCleaner",
-     "★1,289 Kotlin"
+     "★1,349 Kotlin"
     ],
     [
      "ZiChuanLan/freebie-radar",
      "https://github.com/ZiChuanLan/freebie-radar",
-     "★1,110 TypeScript"
+     "★1,188 TypeScript"
+    ],
+    [
+     "opencoredev/islandcn",
+     "https://github.com/opencoredev/islandcn",
+     "★782 TypeScript"
+    ],
+    [
+     "AIRzZ90/study-materials-fork",
+     "https://github.com/AIRzZ90/study-materials-fork",
+     "★743 TypeScript"
+    ],
+    [
+     "linknimiball1974/ai-texture-forge",
+     "https://github.com/linknimiball1974/ai-texture-forge",
+     "★685 "
     ]
    ],
    "by_lang": {
     "Python": [
      [
-      "HybridRobotics/supermimic",
-      "https://github.com/HybridRobotics/supermimic",
-      "★1,652"
-     ],
-     [
       "duwqijlk/muse-protocol",
       "https://github.com/duwqijlk/muse-protocol",
-      "★1,417"
+      "★1,478"
      ],
      [
       "haziqahmedqasmi/PeakCut",
       "https://github.com/haziqahmedqasmi/PeakCut",
-      "★599"
+      "★683"
      ],
      [
       "n4ze3m/tiny-voca",
       "https://github.com/n4ze3m/tiny-voca",
-      "★581"
+      "★628"
+     ],
+     [
+      "Immortal-Protocols/lastbook",
+      "https://github.com/Immortal-Protocols/lastbook",
+      "★585"
      ],
      [
       "higurashi-ai/Haru",
       "https://github.com/higurashi-ai/Haru",
-      "★510"
+      "★529"
      ]
     ],
     "TypeScript": [
      [
       "deepseek-ai/chat-demo",
       "https://github.com/deepseek-ai/chat-demo",
-      "★4,001"
-     ],
-     [
-      "FrigadeHQ/yogurt",
-      "https://github.com/FrigadeHQ/yogurt",
-      "★1,825"
+      "★4,181"
      ],
      [
       "ZiChuanLan/freebie-radar",
       "https://github.com/ZiChuanLan/freebie-radar",
-      "★1,110"
-     ],
-     [
-      "JDhruv14/line-art-animation",
-      "https://github.com/JDhruv14/line-art-animation",
-      "★912"
+      "★1,188"
      ],
      [
       "opencoredev/islandcn",
       "https://github.com/opencoredev/islandcn",
-      "★771"
+      "★782"
+     ],
+     [
+      "AIRzZ90/study-materials-fork",
+      "https://github.com/AIRzZ90/study-materials-fork",
+      "★743"
+     ],
+     [
+      "rivet-dev/open-orange",
+      "https://github.com/rivet-dev/open-orange",
+      "★635"
      ]
     ],
     "Rust": [
      [
       "makepad/relax",
       "https://github.com/makepad/relax",
-      "★576"
+      "★581"
      ],
      [
       "BigPizzaV3/ClaudeMom",
       "https://github.com/BigPizzaV3/ClaudeMom",
-      "★523"
+      "★560"
      ],
      [
       "quer3q/kraken-mount",
       "https://github.com/quer3q/kraken-mount",
-      "★429"
+      "★444"
      ],
      [
       "tremorbuffalospire/IPTV_Player_2.0",
@@ -562,11 +562,6 @@
      ]
     ],
     "Go": [
-     [
-      "failsafe-security/artex",
-      "https://github.com/failsafe-security/artex",
-      "★773"
-     ],
      [
       "TurtleReside/Gemini-Config-Checker-",
       "https://github.com/TurtleReside/Gemini-Config-Checker-",
@@ -586,33 +581,38 @@
       "wisemeadowlarkspike/Gemini-Config-Checker-",
       "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
       "★473"
+     ],
+     [
+      "VisionWormStudio/Gemini-Config-Checker-",
+      "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
+      "★473"
      ]
     ],
     "Swift": [
      [
-      "Kianuni/Erosion-CN",
-      "https://github.com/Kianuni/Erosion-CN",
-      "★2,194"
-     ],
-     [
       "yetanotherbrowser/yab",
       "https://github.com/yetanotherbrowser/yab",
-      "★576"
+      "★602"
      ],
      [
       "oneamendez/crate-ios",
       "https://github.com/oneamendez/crate-ios",
-      "★391"
+      "★407"
      ],
      [
       "zephyr4123/snug",
       "https://github.com/zephyr4123/snug",
-      "★258"
+      "★270"
      ],
      [
       "paul-nameless/agweb",
       "https://github.com/paul-nameless/agweb",
-      "★247"
+      "★255"
+     ],
+     [
+      "claration/cis",
+      "https://github.com/claration/cis",
+      "★185"
      ]
     ]
    }
@@ -621,52 +621,52 @@
    [
     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
     "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-    "♥8260"
+    "♥9042"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1286"
+    "♥1329"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20234"
+    "♥20285"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12187"
+    "♥12266"
    ],
    [
     "Comfy-Org/MiniMax-H3-Image",
     "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥461"
+    "♥496"
    ],
    [
     "Zyphra/ZONOS3-Mini",
     "https://huggingface.co/Zyphra/ZONOS3-Mini",
-    "♥445"
+    "♥482"
    ],
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥399"
+    "♥437"
    ],
    [
     "thinkingmachines/Inkling-2-Small",
     "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "♥386"
+    "♥418"
    ],
    [
     "unsloth/Qwen3.8-27B-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-    "♥6055"
+    "♥6094"
    ],
    [
     "speridlabs/idol",
     "https://huggingface.co/speridlabs/idol",
-    "♥2403"
+    "♥2424"
    ]
   ],
   "npm": [
@@ -833,7 +833,7 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 15,
+    "score": 16,
     "hits": [
      "multimodal",
      "vision",
@@ -843,7 +843,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 11,
+    "score": 15,
     "hits": [
      "agent",
      "agents",
@@ -864,13 +864,13 @@
    },
    {
     "name": "Coding assistants",
-    "score": 7,
+    "score": 9,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 84
+    "heat": 100
    }
   ],
   "recommendations": [
@@ -978,15 +978,15 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle"
+    "text": "HN ใหม่ในท็อป: Carnegie Mellon is putting computer science courses on YouTube for free"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Grazing sheep in fields with solar arrays"
+    "text": "HN ใหม่ในท็อป: Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Jiff 1.0: A datetime library for Rust"
+    "text": "HN ใหม่ในท็อป: BugMeNot has closed"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
@@ -1024,11 +1024,11 @@
     "Google: Gemini 4 Hydrogen (batch)"
    ],
    "hn_top": [
-    "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-    "Grazing sheep in fields with solar arrays",
-    "Jiff 1.0: A datetime library for Rust",
-    "Frame – 31.5\" color ePaper display",
-    "Aristotle Expands into Rust"
+    "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "BugMeNot has closed",
+    "Running coding agents without handing them my credentials",
+    "Optimizely Compromised, Served Malware on Zoom, GitLab"
    ]
   },
   "year": 2026,
@@ -2200,9 +2200,27 @@
       "modality": "text+image+file->text"
      },
      {
+      "name": "Z.ai: GLM 5.3 Flash (batch)",
+      "org": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
+      "note": "context 1,048,576 · ~$0.04/ล้านผสม · text+image+video->text",
+      "context": 1048576,
+      "blended": 0.035250000000000004,
+      "modality": "text+image+video->text"
+     },
+     {
       "name": "Z.ai: GLM Flash Latest",
       "org": "~z-ai",
       "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
+      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
+      "context": 1048576,
+      "blended": 0.049525,
+      "modality": "text+image+video->text"
+     },
+     {
+      "name": "Z.ai: GLM 5.3 Flash",
+      "org": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
       "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
       "context": 1048576,
       "blended": 0.049525,
@@ -2216,24 +2234,6 @@
       "context": 1000000,
       "blended": 0.055,
       "modality": "text+image+video->text"
-     },
-     {
-      "name": "Tencent: Hy4 flash",
-      "org": "tencent",
-      "url": "https://openrouter.ai/tencent/hy4-flash",
-      "note": "context 1,048,576 · ~$0.06/ล้านผสม · text+image->text",
-      "context": 1048576,
-      "blended": 0.061375,
-      "modality": "text+image->text"
-     },
-     {
-      "name": "inclusionAI: Ling 3.1 Flash",
-      "org": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-3.1-flash",
-      "note": "context 1,000,000 · ~$0.07/ล้านผสม · text->text",
-      "context": 1000000,
-      "blended": 0.0675,
-      "modality": "text->text"
      }
     ]
    },
