@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-18T11:38+00:00",
+ "updated": "2026-11-18T20:29+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00",
+   "time": "2026-11-18T20:29+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   }
  },
  "tables": [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
-    "Codeberg.org Not Reachable",
-    "https://social.anoxinon.de/@codebergstatus/117636437840688845",
-    "133 คะแนน"
+    "Unauthenticated remote code execution in Nginx",
+    "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "727 คะแนน"
    ],
    [
-    "Java4Shell: RCE in OpenJDK when processing Base64",
-    "https://calif.io/java4shell/",
-    "964 คะแนน"
+    "Seven new models at scalable price-performance",
+    "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "311 คะแนน"
    ],
    [
-    "Google's AI answers reducing search traffic by 40%",
-    "https://revscope.co/blog/search-seo-geo-2026/",
-    "425 คะแนน"
+    "Inside Deutsche Bank",
+    "https://www.inside-db.com/",
+    "370 คะแนน"
    ],
    [
-    "ID.me terms required for IRS sign-in",
-    "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-    "371 คะแนน"
+    "DNS resolvers are the wrong place to fight piracy",
+    "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+    "466 คะแนน"
    ],
    [
-    "Quad9's withdrawal from France: A canary in the coal mine",
-    "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-    "634 คะแนน"
+    "Genie 4 is now available",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "95 คะแนน"
    ],
    [
-    "Energy-Based Reasoners: 385x more efficient inference",
-    "https://energy-based-reasoners.github.io/",
-    "19 คะแนน"
+    "AI agents ask better questions than KPMG accountants in audit trial",
+    "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "174 คะแนน"
    ],
    [
-    "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-    "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-    "558 คะแนน"
+    "Advancing chip design with OpenAI models",
+    "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "70 คะแนน"
    ],
    [
-    "Why is Gemini 4 Carbon taking so long?",
-    "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-    "110 คะแนน"
+    "The Magic of Partial Evaluation",
+    "https://jimmyhmiller.com/magic-of-partial-evaluation",
+    "44 คะแนน"
    ],
    [
-    "Talos Linux",
-    "https://www.siderolabs.com/talos-linux",
-    "48 คะแนน"
+    "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+    "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+    "142 คะแนน"
    ],
    [
-    "Microsoft's ONNX Runtime has disappeared from GitHub",
-    "https://github.com/microsoft/onnxruntime",
-    "340 คะแนน"
+    "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+    "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+    "185 คะแนน"
    ],
    [
-    "Highly classified US national security communications network goes down",
-    "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-    "593 คะแนน"
+    "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+    "https://news.ycombinator.com/item?id=50548660",
+    "43 คะแนน"
    ],
    [
-    "Archive Team is archiving the Apple Support Community",
-    "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-    "201 คะแนน"
+    "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+    "https://exitpath-ruddy.vercel.app/",
+    "95 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "deepseek-ai/chat-demo",
      "https://github.com/deepseek-ai/chat-demo",
-     "★4,680 TypeScript"
+     "★4,806 TypeScript"
     ],
     [
      "krisgfx9/Wireless-Device-Battery-Monitor",
      "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★3,447 C++"
+     "★3,788 C++"
     ],
     [
      "erkamyaman/rust-anything",
      "https://github.com/erkamyaman/rust-anything",
-     "★2,359 Rust"
+     "★3,129 Rust"
     ],
     [
      "Noniv/abyssal-garden",
      "https://github.com/Noniv/abyssal-garden",
-     "★2,296 JavaScript"
+     "★2,370 JavaScript"
     ],
     [
      "Immortal-Protocols/lastbook",
      "https://github.com/Immortal-Protocols/lastbook",
-     "★1,975 Python"
+     "★2,130 Python"
     ],
     [
      "duwqijlk/muse-protocol",
      "https://github.com/duwqijlk/muse-protocol",
-     "★1,617 Python"
+     "★1,626 Python"
     ],
     [
      "ZiChuanLan/freebie-radar",
      "https://github.com/ZiChuanLan/freebie-radar",
-     "★1,539 TypeScript"
+     "★1,610 TypeScript"
     ],
     [
      "CzzzzzzJ/mdldm-maitian",
      "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "★1,216 JavaScript"
+     "★1,292 JavaScript"
     ],
     [
-     "sybil-solutions/inference-optimisation-skill",
-     "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "★1,014 Python"
+     "Hut-hzf/ung220z-tool",
+     "https://github.com/Hut-hzf/ung220z-tool",
+     "★1,100 Python"
     ],
     [
-     "joshpuckett/allo",
-     "https://github.com/joshpuckett/allo",
-     "★969 Python"
+     "haziqahmedqasmi/PeakCut",
+     "https://github.com/haziqahmedqasmi/PeakCut",
+     "★1,062 Python"
     ]
    ],
    "by_lang": {
@@ -484,76 +484,76 @@
      [
       "Immortal-Protocols/lastbook",
       "https://github.com/Immortal-Protocols/lastbook",
-      "★1,975"
+      "★2,130"
      ],
      [
       "duwqijlk/muse-protocol",
       "https://github.com/duwqijlk/muse-protocol",
-      "★1,617"
+      "★1,626"
      ],
      [
-      "sybil-solutions/inference-optimisation-skill",
-      "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "★1,014"
-     ],
-     [
-      "joshpuckett/allo",
-      "https://github.com/joshpuckett/allo",
-      "★969"
+      "Hut-hzf/ung220z-tool",
+      "https://github.com/Hut-hzf/ung220z-tool",
+      "★1,100"
      ],
      [
       "haziqahmedqasmi/PeakCut",
       "https://github.com/haziqahmedqasmi/PeakCut",
-      "★961"
+      "★1,062"
+     ],
+     [
+      "sybil-solutions/inference-optimisation-skill",
+      "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "★1,059"
      ]
     ],
     "TypeScript": [
      [
       "deepseek-ai/chat-demo",
       "https://github.com/deepseek-ai/chat-demo",
-      "★4,680"
+      "★4,806"
      ],
      [
       "ZiChuanLan/freebie-radar",
       "https://github.com/ZiChuanLan/freebie-radar",
-      "★1,539"
+      "★1,610"
      ],
      [
       "opencoredev/islandcn",
       "https://github.com/opencoredev/islandcn",
-      "★803"
+      "★807"
      ],
      [
       "AIRzZ90/study-materials-fork",
       "https://github.com/AIRzZ90/study-materials-fork",
-      "★748"
+      "★750"
      ],
      [
       "rivet-dev/open-orange",
       "https://github.com/rivet-dev/open-orange",
-      "★667"
+      "★676"
      ]
     ],
     "Rust": [
      [
       "erkamyaman/rust-anything",
       "https://github.com/erkamyaman/rust-anything",
-      "★2,359"
-     ],
-     [
-      "BigPizzaV3/ClaudeMom",
-      "https://github.com/BigPizzaV3/ClaudeMom",
-      "★605"
+      "★3,129"
      ],
      [
       "Illson/RustText",
       "https://github.com/Illson/RustText",
-      "★505"
+      "★610"
+     ],
+     [
+      "BigPizzaV3/ClaudeMom",
+      "https://github.com/BigPizzaV3/ClaudeMom",
+      "★609"
      ],
      [
       "quer3q/kraken-mount",
       "https://github.com/quer3q/kraken-mount",
-      "★498"
+      "★511"
      ],
      [
       "tremorbuffalospire/IPTV_Player_2.0",
@@ -592,81 +592,81 @@
      [
       "zephyr4123/snug",
       "https://github.com/zephyr4123/snug",
-      "★762"
+      "★892"
      ],
      [
       "yetanotherbrowser/yab",
       "https://github.com/yetanotherbrowser/yab",
-      "★700"
+      "★713"
      ],
      [
       "oneamendez/crate-ios",
       "https://github.com/oneamendez/crate-ios",
-      "★443"
-     ],
-     [
-      "Kianuni/Camlo",
-      "https://github.com/Kianuni/Camlo",
-      "★186"
+      "★446"
      ],
      [
       "lishuangqiang/mixbar",
       "https://github.com/lishuangqiang/mixbar",
-      "★184"
+      "★201"
+     ],
+     [
+      "Kianuni/Camlo",
+      "https://github.com/Kianuni/Camlo",
+      "★195"
      ]
     ]
    }
   },
   "hf": [
    [
-    "MiniMaxAI/MiniMax-H3-Image",
-    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1561"
-   ],
-   [
-    "Qwen/Qwen3.8-27B",
-    "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20514"
-   ],
-   [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥571"
+    "♥647"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12474"
+    "♥12535"
    ],
    [
     "thinkingmachines/Inkling-2-Small",
     "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "♥472"
-   ],
-   [
-    "unsloth/Qwen3.8-27B-GGUF",
-    "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-    "♥6172"
-   ],
-   [
-    "sensenova/SenseNova-Loop-9B",
-    "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-    "♥288"
+    "♥487"
    ],
    [
     "harness-hub/Qwen3.8-27B-pi-adapted",
     "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥266"
+    "♥377"
    ],
    [
-    "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-    "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-    "♥563"
+    "MiniMaxAI/MiniMax-H3-Image",
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+    "♥1576"
+   ],
+   [
+    "Qwen/Qwen3.8-27B",
+    "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "♥20550"
    ],
    [
     "n4ze3m/tiny-voca",
     "https://huggingface.co/n4ze3m/tiny-voca",
-    "♥264"
+    "♥283"
+   ],
+   [
+    "tencent/Hy4-flash",
+    "https://huggingface.co/tencent/Hy4-flash",
+    "♥220"
+   ],
+   [
+    "meituan-longcat/LongCat-Video-Avatar-1.6",
+    "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+    "♥253"
+   ],
+   [
+    "apple/FastFrames-L",
+    "https://huggingface.co/apple/FastFrames-L",
+    "♥197"
    ]
   ],
   "npm": [
@@ -688,7 +688,7 @@
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "11,978,745 /สัปดาห์"
+    "12,189,513 /สัปดาห์"
    ],
    [
     "@angular/core",
@@ -698,12 +698,12 @@
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "95,809,261 /สัปดาห์"
+    "97,670,224 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "281,318,367 /สัปดาห์"
+    "284,251,377 /สัปดาห์"
    ],
    [
     "typescript",
@@ -718,10 +718,30 @@
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "46,516,458 /สัปดาห์"
+    "47,150,887 /สัปดาห์"
    ]
   ],
   "kev": [
+   [
+    "CVE-2024-10441 Synology DiskStation Manager (DSM)",
+    "https://nvd.nist.gov/vuln/detail/CVE-2024-10441",
+    "เพิ่มเมื่อ 2026-11-18"
+   ],
+   [
+    "CVE-2026-40217 BerriAI LiteLLM",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-40217",
+    "เพิ่มเมื่อ 2026-11-18"
+   ],
+   [
+    "CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap)",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-90817",
+    "เพิ่มเมื่อ 2026-11-18"
+   ],
+   [
+    "CVE-2026-90436 Apache Axis",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-90436",
+    "เพิ่มเมื่อ 2026-11-18"
+   ],
    [
     "CVE-2026-115731 Perforce Puppet Enterprise",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
@@ -751,26 +771,6 @@
     "CVE-2026-20320 Cisco BroadWorks",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-20320",
     "เพิ่มเมื่อ 2026-11-10"
-   ],
-   [
-    "CVE-2026-111560 Barracuda Networks Multiple Products",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-111560",
-    "เพิ่มเมื่อ 2026-11-10"
-   ],
-   [
-    "CVE-2026-116606 Barracuda Networks Barracuda Email Security Gateway (ESG)",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-116606",
-    "เพิ่มเมื่อ 2026-11-10"
-   ],
-   [
-    "CVE-2026-125350 Google Chromium",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-125350",
-    "เพิ่มเมื่อ 2026-11-10"
-   ],
-   [
-    "CVE-2026-102895 GPUStack GPUStack",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
-    "เพิ่มเมื่อ 2026-11-09"
    ]
   ],
   "epss": [
@@ -837,13 +837,14 @@
     "hits": [
      "multimodal",
      "vision",
-     "image"
+     "image",
+     "video"
     ],
     "heat": 100
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 10,
+    "score": 12,
     "hits": [
      "agent",
      "agents",
@@ -857,6 +858,7 @@
     "name": "Open-weight / Local models",
     "score": 10,
     "hits": [
+     "open-source",
      "deepseek",
      "qwen"
     ],
@@ -864,13 +866,21 @@
    },
    {
     "name": "Coding assistants",
-    "score": 6,
+    "score": 8,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 72
+    "heat": 96
+   },
+   {
+    "name": "Security / Exploit awareness",
+    "score": 1,
+    "hits": [
+     "cve"
+    ],
+    "heat": 12
    }
   ],
   "recommendations": [
@@ -981,19 +991,23 @@
     "text": "โมเดลใหม่ใน Top: GPT-6.2 Sol (Xhigh)"
    },
    {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Codeberg.org Not Reachable"
+    "kind": "theme_up",
+    "text": "ธีมขึ้นแรง: Security / Exploit awareness"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Java4Shell: RCE in OpenJDK when processing Base64"
+    "text": "HN ใหม่ในท็อป: Unauthenticated remote code execution in Nginx"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Google's AI answers reducing search traffic by 40%"
+    "text": "HN ใหม่ในท็อป: Seven new models at scalable price-performance"
+   },
+   {
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Inside Deutsche Bank"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 5 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1008,7 +1022,8 @@
     "Multimodal",
     "AI Agents / Tool use",
     "Open-weight / Local models",
-    "Coding assistants"
+    "Coding assistants",
+    "Security / Exploit awareness"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1028,11 +1043,11 @@
     "OpenAI: GPT-6.2 Sol Pro"
    ],
    "hn_top": [
-    "Codeberg.org Not Reachable",
-    "Java4Shell: RCE in OpenJDK when processing Base64",
-    "Google's AI answers reducing search traffic by 40%",
-    "ID.me terms required for IRS sign-in",
-    "Quad9's withdrawal from France: A canary in the coal mine"
+    "Unauthenticated remote code execution in Nginx",
+    "Seven new models at scalable price-performance",
+    "Inside Deutsche Bank",
+    "DNS resolvers are the wrong place to fight piracy",
+    "Genie 4 is now available"
    ]
   },
   "year": 2026,

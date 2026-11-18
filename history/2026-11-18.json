@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:38+00:00",
+ "updated": "2026-11-18T20:29+00:00",
  "snapshot": {
   "ai_top": [
    "Claude Opus 5.5 (Max, Default Fallback)",
@@ -12,7 +12,8 @@
    "Multimodal",
    "AI Agents / Tool use",
    "Open-weight / Local models",
-   "Coding assistants"
+   "Coding assistants",
+   "Security / Exploit awareness"
   ],
   "dim_leaders": [
    "text:Gemini 4 Carbon (High)",
@@ -32,11 +33,11 @@
    "OpenAI: GPT-6.2 Sol Pro"
   ],
   "hn_top": [
-   "Codeberg.org Not Reachable",
-   "Java4Shell: RCE in OpenJDK when processing Base64",
-   "Google's AI answers reducing search traffic by 40%",
-   "ID.me terms required for IRS sign-in",
-   "Quad9's withdrawal from France: A canary in the coal mine"
+   "Unauthenticated remote code execution in Nginx",
+   "Seven new models at scalable price-performance",
+   "Inside Deutsche Bank",
+   "DNS resolvers are the wrong place to fight piracy",
+   "Genie 4 is now available"
   ]
  },
  "trends": {
@@ -49,13 +50,14 @@
     "hits": [
      "multimodal",
      "vision",
-     "image"
+     "image",
+     "video"
     ],
     "heat": 100
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 10,
+    "score": 12,
     "hits": [
      "agent",
      "agents",
@@ -69,6 +71,7 @@
     "name": "Open-weight / Local models",
     "score": 10,
     "hits": [
+     "open-source",
      "deepseek",
      "qwen"
     ],
@@ -76,13 +79,21 @@
    },
    {
     "name": "Coding assistants",
-    "score": 6,
+    "score": 8,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 72
+    "heat": 96
+   },
+   {
+    "name": "Security / Exploit awareness",
+    "score": 1,
+    "hits": [
+     "cve"
+    ],
+    "heat": 12
    }
   ],
   "recommendations": [
@@ -188,56 +199,56 @@
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00",
+   "time": "2026-11-18T20:29+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-18T11:38+00:00"
+   "time": "2026-11-18T20:29+00:00"
   }
  }
 }
