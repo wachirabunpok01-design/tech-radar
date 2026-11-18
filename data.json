@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-17T15:57+00:00",
+ "updated": "2026-11-18T00:56+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00",
+   "time": "2026-11-18T00:56+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-17T15:57+00:00"
+   "time": "2026-11-18T00:56+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-17",
+   "date": "ดึงเมื่อ 2026-11-18",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -223,6 +223,13 @@
      95
     ],
     [
+     "GPT-6.2 Sol (Xhigh)",
+     "55.7",
+     "OpenAI",
+     "ดูรายละเอียดที่เว็บต้นทาง",
+     94
+    ],
+    [
      "GPT-6 Astra (Xhigh)",
      "55.3",
      "OpenAI",
@@ -235,13 +242,6 @@
      "OpenAI",
      "ดูรายละเอียดที่เว็บต้นทาง",
      89
-    ],
-    [
-     "GPT-6.1 Sol (High)",
-     "50.3",
-     "OpenAI",
-     "ดูรายละเอียดที่เว็บต้นทาง",
-     85
     ]
    ],
    "note": "เวอร์ชันของ Index เปลี่ยนเป็นระยะ เทียบคะแนนข้ามช่วงเวลาตรง ๆ ไม่ได้",
@@ -314,6 +314,46 @@
  "live": {
   "or": [
    [
+    "OpenAI: GPT-6.2 Astra Pro",
+    "https://openrouter.ai/openai/gpt-6.2-astra-pro",
+    "2026-11-17 · context 1,050,000 · $8.00 / $40.00 ต่อล้าน tokens"
+   ],
+   [
+    "OpenAI: GPT-6.2 Astra Pro (batch)",
+    "https://openrouter.ai/openai/gpt-6.2-astra-pro:batch",
+    "2026-11-17 · context 1,050,000 · $4.00 / $20.00 ต่อล้าน tokens"
+   ],
+   [
+    "OpenAI: GPT-6.2 Astra",
+    "https://openrouter.ai/openai/gpt-6.2-astra",
+    "2026-11-17 · context 1,050,000 · $8.00 / $40.00 ต่อล้าน tokens"
+   ],
+   [
+    "OpenAI: GPT-6.2 Astra (batch)",
+    "https://openrouter.ai/openai/gpt-6.2-astra:batch",
+    "2026-11-17 · context 1,050,000 · $4.00 / $20.00 ต่อล้าน tokens"
+   ],
+   [
+    "OpenAI: GPT-6.2 Sol Pro",
+    "https://openrouter.ai/openai/gpt-6.2-sol-pro",
+    "2026-11-17 · context 1,050,000 · $2.00 / $10.00 ต่อล้าน tokens"
+   ],
+   [
+    "OpenAI: GPT-6.2 Sol Pro (batch)",
+    "https://openrouter.ai/openai/gpt-6.2-sol-pro:batch",
+    "2026-11-17 · context 1,050,000 · $1.00 / $5.00 ต่อล้าน tokens"
+   ],
+   [
+    "OpenAI: GPT-6.2 Sol",
+    "https://openrouter.ai/openai/gpt-6.2-sol",
+    "2026-11-17 · context 1,050,000 · $2.00 / $10.00 ต่อล้าน tokens"
+   ],
+   [
+    "OpenAI: GPT-6.2 Sol (batch)",
+    "https://openrouter.ai/openai/gpt-6.2-sol:batch",
+    "2026-11-17 · context 1,050,000 · $1.00 / $5.00 ต่อล้าน tokens"
+   ],
+   [
     "Tencent: Hy4 flash",
     "https://openrouter.ai/tencent/hy4-flash",
     "2026-11-16 · context 1,048,576 · $0.04 / $0.14 ต่อล้าน tokens"
@@ -322,108 +362,68 @@
     "Qwen: Qwen4 Max",
     "https://openrouter.ai/qwen/qwen4-max",
     "2026-11-16 · context 1,000,000 · $1.42 / $4.27 ต่อล้าน tokens"
-   ],
-   [
-    "inclusionAI: Ling 3.2 Flash (free)",
-    "https://openrouter.ai/inclusionai/ling-3.2-flash:free",
-    "2026-11-13 · context 1,048,576 · $0.00 / $0.00 ต่อล้าน tokens"
-   ],
-   [
-    "Google: Gemini 4 Hydrogen",
-    "https://openrouter.ai/google/gemini-4-hydrogen",
-    "2026-11-12 · context 1,048,576 · $1.50 / $7.50 ต่อล้าน tokens"
-   ],
-   [
-    "Google: Gemini 4 Hydrogen (batch)",
-    "https://openrouter.ai/google/gemini-4-hydrogen:batch",
-    "2026-11-12 · context 1,048,576 · $0.75 / $3.75 ต่อล้าน tokens"
-   ],
-   [
-    "Baidu: ERNIE-5.5-Flash-Preview (free)",
-    "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
-    "2026-11-10 · context 1,024,000 · $0.00 / $0.00 ต่อล้าน tokens"
-   ],
-   [
-    "Baidu: ERNIE-Light-DT-1.0",
-    "https://openrouter.ai/baidu/ernie-light-dt-1.0-intl",
-    "2026-11-10 · context 1,024,000 · $1.13 / $3.94 ต่อล้าน tokens"
-   ],
-   [
-    "Google: Gemini 4 Carbon",
-    "https://openrouter.ai/google/gemini-4-carbon",
-    "2026-11-10 · context 1,048,576 · $2.00 / $10.00 ต่อล้าน tokens"
-   ],
-   [
-    "Google: Gemini 4 Carbon (batch)",
-    "https://openrouter.ai/google/gemini-4-carbon:batch",
-    "2026-11-10 · context 1,048,576 · $1.00 / $5.00 ต่อล้าน tokens"
-   ],
-   [
-    "Nex AGI: Nex-N2.6",
-    "https://openrouter.ai/nex-agi/nex-n2.6",
-    "2026-11-10 · context 262,144 · $0.12 / $0.40 ต่อล้าน tokens"
    ]
   ],
   "hn": [
    [
-    "We don't need more apps. We need better open source",
-    "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-    "163 คะแนน"
+    "Java4Shell: RCE in OpenJDK when processing Base64",
+    "https://calif.io/java4shell/",
+    "467 คะแนน"
    ],
    [
-    "Loopholes Are for Assholes",
-    "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
-    "77 คะแนน"
+    "GPT‑6.2 Astra and Sol",
+    "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "1064 คะแนน"
    ],
    [
-    "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-    "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-    "608 คะแนน"
+    "Quad9's withdrawal from France: A canary in the coal mine",
+    "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "229 คะแนน"
    ],
    [
-    "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-    "https://alloyhtml.com/example.html",
-    "29 คะแนน"
+    "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "45 คะแนน"
    ],
    [
-    "First Photos of the Poles of a Rod-Shaped Bacterium",
-    "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
-    "43 คะแนน"
+    "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+    "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+    "377 คะแนน"
    ],
    [
-    "Carnegie Mellon is putting computer science courses on YouTube for free",
-    "https://www.cs.cmu.edu/learn/",
-    "1995 คะแนน"
+    "jQuery 4.1.0",
+    "https://github.com/jquery/jquery/releases/tag/4.1.0",
+    "244 คะแนน"
    ],
    [
-    "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
-    "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-    "13 คะแนน"
+    "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "https://github.com/microsoft/onnxruntime",
+    "84 คะแนน"
    ],
    [
-    "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-    "https://visualbasic.world/",
-    "152 คะแนน"
+    "MAI Code 2 and Code 2 Flash",
+    "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "277 คะแนน"
    ],
    [
-    "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-    "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-    "109 คะแนน"
+    "Highly classified US national security communications network goes down",
+    "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "455 คะแนน"
    ],
    [
-    "Rows vs. Columns: How different are they, really?",
-    "https://spiraldb.com/blog/rows-vs-columns",
-    "88 คะแนน"
+    "Phrack 73 Released",
+    "https://phrack.org/issues/73/introduction_md",
+    "262 คะแนน"
    ],
    [
-    "Optimizely compromised, served malware on Zoom, GitLab",
-    "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-    "523 คะแนน"
+    "350 years ago, Ole Rømer discovered that light has a finite speed",
+    "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+    "231 คะแนน"
    ],
    [
-    "Turbo Pascal Compiler Written in Turbo Pascal",
-    "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
-    "60 คะแนน"
+    "Google's AI answers reducing search traffic by 40%",
+    "https://revscope.co/blog/search-seo-geo-2026/",
+    "12 คะแนน"
    ]
   ],
   "gh": {
@@ -431,134 +431,134 @@
     [
      "deepseek-ai/chat-demo",
      "https://github.com/deepseek-ai/chat-demo",
-     "★4,475 TypeScript"
-    ],
-    [
-     "apex-compute/ANR",
-     "https://github.com/apex-compute/ANR",
-     "★2,556 C++"
-    ],
-    [
-     "Noniv/abyssal-garden",
-     "https://github.com/Noniv/abyssal-garden",
-     "★2,049 JavaScript"
+     "★4,528 TypeScript"
     ],
     [
      "krisgfx9/Wireless-Device-Battery-Monitor",
      "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★1,785 C++"
+     "★2,681 C++"
     ],
     [
-     "duwqijlk/muse-protocol",
-     "https://github.com/duwqijlk/muse-protocol",
-     "★1,566 Python"
-    ],
-    [
-     "Eynnzerr/TelemetryCleaner",
-     "https://github.com/Eynnzerr/TelemetryCleaner",
-     "★1,444 Kotlin"
-    ],
-    [
-     "ZiChuanLan/freebie-radar",
-     "https://github.com/ZiChuanLan/freebie-radar",
-     "★1,389 TypeScript"
+     "Noniv/abyssal-garden",
+     "https://github.com/Noniv/abyssal-garden",
+     "★2,160 JavaScript"
     ],
     [
      "Immortal-Protocols/lastbook",
      "https://github.com/Immortal-Protocols/lastbook",
-     "★1,322 Python"
+     "★1,788 Python"
+    ],
+    [
+     "duwqijlk/muse-protocol",
+     "https://github.com/duwqijlk/muse-protocol",
+     "★1,586 Python"
+    ],
+    [
+     "gylive/google-ultra",
+     "https://github.com/gylive/google-ultra",
+     "★1,575 Python"
+    ],
+    [
+     "ZiChuanLan/freebie-radar",
+     "https://github.com/ZiChuanLan/freebie-radar",
+     "★1,431 TypeScript"
+    ],
+    [
+     "erkamyaman/rust-anything",
+     "https://github.com/erkamyaman/rust-anything",
+     "★1,313 Rust"
     ],
     [
      "CzzzzzzJ/mdldm-maitian",
      "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "★890 JavaScript"
+     "★1,024 JavaScript"
     ],
     [
-     "opencoredev/islandcn",
-     "https://github.com/opencoredev/islandcn",
-     "★791 TypeScript"
+     "sybil-solutions/inference-optimisation-skill",
+     "https://github.com/sybil-solutions/inference-optimisation-skill",
+     "★926 Python"
     ]
    ],
    "by_lang": {
     "Python": [
      [
-      "duwqijlk/muse-protocol",
-      "https://github.com/duwqijlk/muse-protocol",
-      "★1,566"
-     ],
-     [
       "Immortal-Protocols/lastbook",
       "https://github.com/Immortal-Protocols/lastbook",
-      "★1,322"
+      "★1,788"
      ],
      [
-      "haziqahmedqasmi/PeakCut",
-      "https://github.com/haziqahmedqasmi/PeakCut",
-      "★789"
-     ],
-     [
-      "joshpuckett/allo",
-      "https://github.com/joshpuckett/allo",
-      "★757"
+      "duwqijlk/muse-protocol",
+      "https://github.com/duwqijlk/muse-protocol",
+      "★1,586"
      ],
      [
       "gylive/google-ultra",
       "https://github.com/gylive/google-ultra",
-      "★694"
+      "★1,575"
+     ],
+     [
+      "sybil-solutions/inference-optimisation-skill",
+      "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "★926"
+     ],
+     [
+      "joshpuckett/allo",
+      "https://github.com/joshpuckett/allo",
+      "★882"
      ]
     ],
     "TypeScript": [
      [
       "deepseek-ai/chat-demo",
       "https://github.com/deepseek-ai/chat-demo",
-      "★4,475"
+      "★4,528"
      ],
      [
       "ZiChuanLan/freebie-radar",
       "https://github.com/ZiChuanLan/freebie-radar",
-      "★1,389"
+      "★1,431"
      ],
      [
       "opencoredev/islandcn",
       "https://github.com/opencoredev/islandcn",
-      "★791"
+      "★796"
      ],
      [
       "AIRzZ90/study-materials-fork",
       "https://github.com/AIRzZ90/study-materials-fork",
-      "★745"
+      "★746"
      ],
      [
       "rivet-dev/open-orange",
       "https://github.com/rivet-dev/open-orange",
-      "★651"
+      "★659"
      ]
     ],
     "Rust": [
      [
-      "makepad/relax",
-      "https://github.com/makepad/relax",
-      "★589"
+      "erkamyaman/rust-anything",
+      "https://github.com/erkamyaman/rust-anything",
+      "★1,313"
      ],
      [
       "BigPizzaV3/ClaudeMom",
       "https://github.com/BigPizzaV3/ClaudeMom",
-      "★585"
-     ],
-     [
-      "erkamyaman/rust-anything",
-      "https://github.com/erkamyaman/rust-anything",
-      "★496"
+      "★594"
      ],
      [
       "quer3q/kraken-mount",
       "https://github.com/quer3q/kraken-mount",
-      "★469"
+      "★482"
      ],
      [
       "tremorbuffalospire/IPTV_Player_2.0",
       "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
-      "★381"
+      "★382"
+     ],
+     [
+      "TorrentArrow/IPTV_Player_2.0",
+      "https://github.com/TorrentArrow/IPTV_Player_2.0",
+      "★376"
      ]
     ],
     "Go": [
@@ -592,26 +592,26 @@
      [
       "yetanotherbrowser/yab",
       "https://github.com/yetanotherbrowser/yab",
-      "★655"
-     ],
-     [
-      "oneamendez/crate-ios",
-      "https://github.com/oneamendez/crate-ios",
-      "★427"
+      "★678"
      ],
      [
       "zephyr4123/snug",
       "https://github.com/zephyr4123/snug",
-      "★314"
+      "★449"
      ],
      [
-      "paul-nameless/agweb",
-      "https://github.com/paul-nameless/agweb",
-      "★262"
+      "oneamendez/crate-ios",
+      "https://github.com/oneamendez/crate-ios",
+      "★432"
      ],
      [
       "cnrad/interspace",
       "https://github.com/cnrad/interspace",
+      "★171"
+     ],
+     [
+      "Kianuni/Camlo",
+      "https://github.com/Kianuni/Camlo",
       "★168"
      ]
     ]
@@ -621,52 +621,52 @@
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1389"
+    "♥1460"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20368"
-   ],
-   [
-    "Lightricks/LTX-2.5",
-    "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12346"
+    "♥20431"
    ],
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥473"
+    "♥506"
    ],
    [
-    "Comfy-Org/MiniMax-H3-Image",
-    "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥514"
+    "Lightricks/LTX-2.5",
+    "https://huggingface.co/Lightricks/LTX-2.5",
+    "♥12403"
    ],
    [
     "thinkingmachines/Inkling-2-Small",
     "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "♥434"
+    "♥442"
    ],
    [
     "unsloth/Qwen3.8-27B-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-    "♥6120"
+    "♥6138"
    ],
    [
-    "Zyphra/ZONOS3-Mini",
-    "https://huggingface.co/Zyphra/ZONOS3-Mini",
-    "♥504"
+    "Comfy-Org/MiniMax-H3-Image",
+    "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+    "♥519"
    ],
    [
     "black-forest-labs/flux-3-image-klein-comfy",
     "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-    "♥3389"
+    "♥3405"
    ],
    [
-    "facebook/sam3",
-    "https://huggingface.co/facebook/sam3",
-    "♥6856"
+    "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+    "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+    "♥497"
+   ],
+   [
+    "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "♥3291"
    ]
   ],
   "npm": [
@@ -723,6 +723,11 @@
   ],
   "kev": [
    [
+    "CVE-2026-115731 Perforce Puppet Enterprise",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
+    "เพิ่มเมื่อ 2026-11-17"
+   ],
+   [
     "CVE-2026-114713 UnrealIRCd UnrealIRCd",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
     "เพิ่มเมื่อ 2026-11-13"
@@ -765,11 +770,6 @@
    [
     "CVE-2026-102895 GPUStack GPUStack",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
-    "เพิ่มเมื่อ 2026-11-09"
-   ],
-   [
-    "CVE-2026-123158 OpenBSD OpenSSH",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
     "เพิ่มเมื่อ 2026-11-09"
    ]
   ],
@@ -829,11 +829,11 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Open-weight / Local models. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
     "name": "Multimodal",
-    "score": 17,
+    "score": 18,
     "hits": [
      "multimodal",
      "vision",
@@ -843,7 +843,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 11,
+    "score": 10,
     "hits": [
      "agent",
      "agents",
@@ -854,23 +854,23 @@
     "heat": 100
    },
    {
+    "name": "Open-weight / Local models",
+    "score": 10,
+    "hits": [
+     "deepseek",
+     "qwen"
+    ],
+    "heat": 100
+   },
+   {
     "name": "Coding assistants",
-    "score": 8,
+    "score": 6,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 96
-   },
-   {
-    "name": "Open-weight / Local models",
-    "score": 8,
-    "hits": [
-     "deepseek",
-     "qwen"
-    ],
-    "heat": 96
+    "heat": 72
    }
   ],
   "recommendations": [
@@ -953,21 +953,21 @@
     ]
    },
    {
-    "tier": "use",
-    "title": "Coding assistants / IDE agents",
-    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
+    "tier": "watch",
+    "title": "GPT-6.2 Sol (Xhigh)",
+    "why": "เพิ่งเข้า Top 15 ของ AA ในรอบนี้ — น่าจับตาและทดสอบกับโจทย์จริงของคุณ",
     "tags": [
-     "coding",
-     "devtools"
+     "ใหม่ในบอร์ด",
+     "OpenAI"
     ]
    },
    {
-    "tier": "caution",
-    "title": "CVE-2026-114713 UnrealIRCd UnrealIRCd",
-    "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
+    "tier": "watch",
+    "title": "Open-weight / local models",
+    "why": "สัญญาณจาก HN/HF/GitHub ชี้ว่า open-weight กำลังร้อน — ลองถ้าต้องการคุมข้อมูลหรือต้นทุน",
     "tags": [
-     "security",
-     "KEV"
+     "open-weight",
+     "local"
     ]
    }
   ],
@@ -977,19 +977,23 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: We don't need more apps. We need better open source"
+    "kind": "ai_new",
+    "text": "โมเดลใหม่ใน Top: GPT-6.2 Sol (Xhigh)"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Loopholes Are for Assholes"
+    "text": "HN ใหม่ในท็อป: Java4Shell: RCE in OpenJDK when processing Base64"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: New Evidence Shows School Phone Bans Are Gradually Improving Test Scores"
+    "text": "HN ใหม่ในท็อป: GPT‑6.2 Astra and Sol"
+   },
+   {
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Quad9's withdrawal from France: A canary in the coal mine"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -998,13 +1002,13 @@
     "Gemini 4 Carbon (Medium)",
     "GPT-6 Astra (Max)",
     "Claude Fable 5.2 (Medium, Default Fallback)",
-    "GPT-6 Astra (Xhigh)"
+    "GPT-6.2 Sol (Xhigh)"
    ],
    "themes": [
     "Multimodal",
     "AI Agents / Tool use",
-    "Coding assistants",
-    "Open-weight / Local models"
+    "Open-weight / Local models",
+    "Coding assistants"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1017,18 +1021,18 @@
     "image:GPT-Image-2.5 Sunburst"
    ],
    "or_top": [
-    "Tencent: Hy4 flash",
-    "Qwen: Qwen4 Max",
-    "inclusionAI: Ling 3.2 Flash (free)",
-    "Google: Gemini 4 Hydrogen",
-    "Google: Gemini 4 Hydrogen (batch)"
+    "OpenAI: GPT-6.2 Astra Pro",
+    "OpenAI: GPT-6.2 Astra Pro (batch)",
+    "OpenAI: GPT-6.2 Astra",
+    "OpenAI: GPT-6.2 Astra (batch)",
+    "OpenAI: GPT-6.2 Sol Pro"
    ],
    "hn_top": [
-    "We don't need more apps. We need better open source",
-    "Loopholes Are for Assholes",
-    "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-    "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-    "First Photos of the Poles of a Rod-Shaped Bacterium"
+    "Java4Shell: RCE in OpenJDK when processing Base64",
+    "GPT‑6.2 Astra and Sol",
+    "Quad9's withdrawal from France: A canary in the coal mine",
+    "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "Nvidia stopped disclosing Singapore sales as revenues hit $104B"
    ]
   },
   "year": 2026,
@@ -2218,6 +2222,15 @@
       "modality": "text+image+video->text"
      },
      {
+      "name": "Z.ai: GLM 5.3 Flash",
+      "org": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
+      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
+      "context": 1048576,
+      "blended": 0.049525,
+      "modality": "text+image+video->text"
+     },
+     {
       "name": "Qwen: Qwen3.7 Flash",
       "org": "qwen",
       "url": "https://openrouter.ai/qwen/qwen3.7-flash",
@@ -2225,15 +2238,6 @@
       "context": 1000000,
       "blended": 0.055,
       "modality": "text+image+video->text"
-     },
-     {
-      "name": "Tencent: Hy4 flash",
-      "org": "tencent",
-      "url": "https://openrouter.ai/tencent/hy4-flash",
-      "note": "context 1,048,576 · ~$0.06/ล้านผสม · text+image->text",
-      "context": 1048576,
-      "blended": 0.061375,
-      "modality": "text+image->text"
      }
     ]
    },
@@ -2485,6 +2489,19 @@
     "new": false
    },
    {
+    "name": "GPT-6.2 Sol (Xhigh)",
+    "org": "OpenAI",
+    "aa": 55.7,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": null,
+    "agent_rank": null,
+    "new": true
+   },
+   {
     "name": "GPT-6 Astra (Xhigh)",
     "org": "OpenAI",
     "aa": 55.3,
@@ -2613,19 +2630,6 @@
     "webdev_rank": null,
     "agent_rank": null,
     "new": false
-   },
-   {
-    "name": "Grok 4.7 (Low)",
-    "org": "SpaceXAI",
-    "aa": 31.1,
-    "coding": null,
-    "agentic": null,
-    "price": null,
-    "speed": null,
-    "arena": null,
-    "webdev_rank": null,
-    "agent_rank": null,
-    "new": false
    }
   ],
   "seen": [
@@ -2633,6 +2637,7 @@
    "Gemini 4 Carbon (Medium)",
    "GPT-6 Astra (Max)",
    "Claude Fable 5.2 (Medium, Default Fallback)",
+   "GPT-6.2 Sol (Xhigh)",
    "GPT-6 Astra (Xhigh)",
    "GPT-6.1 Sol (Xhigh)",
    "GPT-6.1 Sol (High)",
@@ -2642,8 +2647,7 @@
    "Muse Wonder (High)",
    "Claude Fable 5.1 (Low, Default Fallback)",
    "Grok 4.7 (High)",
-   "Claude Haiku 5.5 (Xhigh)",
-   "Grok 4.7 (Low)"
+   "Claude Haiku 5.5 (Xhigh)"
   ],
   "arena_count": 8
  }
