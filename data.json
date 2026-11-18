@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-18T00:56+00:00",
+ "updated": "2026-11-18T11:38+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00",
+   "time": "2026-11-18T11:38+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-18T00:56+00:00"
+   "time": "2026-11-18T11:38+00:00"
   }
  },
  "tables": [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
+    "Codeberg.org Not Reachable",
+    "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+    "133 คะแนน"
+   ],
+   [
     "Java4Shell: RCE in OpenJDK when processing Base64",
     "https://calif.io/java4shell/",
-    "467 คะแนน"
-   ],
-   [
-    "GPT‑6.2 Astra and Sol",
-    "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-    "1064 คะแนน"
-   ],
-   [
-    "Quad9's withdrawal from France: A canary in the coal mine",
-    "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-    "229 คะแนน"
-   ],
-   [
-    "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-    "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-    "45 คะแนน"
-   ],
-   [
-    "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-    "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-    "377 คะแนน"
-   ],
-   [
-    "jQuery 4.1.0",
-    "https://github.com/jquery/jquery/releases/tag/4.1.0",
-    "244 คะแนน"
-   ],
-   [
-    "Microsoft's ONNX Runtime has disappeared from GitHub",
-    "https://github.com/microsoft/onnxruntime",
-    "84 คะแนน"
-   ],
-   [
-    "MAI Code 2 and Code 2 Flash",
-    "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-    "277 คะแนน"
-   ],
-   [
-    "Highly classified US national security communications network goes down",
-    "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-    "455 คะแนน"
-   ],
-   [
-    "Phrack 73 Released",
-    "https://phrack.org/issues/73/introduction_md",
-    "262 คะแนน"
-   ],
-   [
-    "350 years ago, Ole Rømer discovered that light has a finite speed",
-    "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-    "231 คะแนน"
+    "964 คะแนน"
    ],
    [
     "Google's AI answers reducing search traffic by 40%",
     "https://revscope.co/blog/search-seo-geo-2026/",
-    "12 คะแนน"
+    "425 คะแนน"
+   ],
+   [
+    "ID.me terms required for IRS sign-in",
+    "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+    "371 คะแนน"
+   ],
+   [
+    "Quad9's withdrawal from France: A canary in the coal mine",
+    "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "634 คะแนน"
+   ],
+   [
+    "Energy-Based Reasoners: 385x more efficient inference",
+    "https://energy-based-reasoners.github.io/",
+    "19 คะแนน"
+   ],
+   [
+    "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+    "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+    "558 คะแนน"
+   ],
+   [
+    "Why is Gemini 4 Carbon taking so long?",
+    "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+    "110 คะแนน"
+   ],
+   [
+    "Talos Linux",
+    "https://www.siderolabs.com/talos-linux",
+    "48 คะแนน"
+   ],
+   [
+    "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "https://github.com/microsoft/onnxruntime",
+    "340 คะแนน"
+   ],
+   [
+    "Highly classified US national security communications network goes down",
+    "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "593 คะแนน"
+   ],
+   [
+    "Archive Team is archiving the Apple Support Community",
+    "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "201 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "deepseek-ai/chat-demo",
      "https://github.com/deepseek-ai/chat-demo",
-     "★4,528 TypeScript"
+     "★4,680 TypeScript"
     ],
     [
      "krisgfx9/Wireless-Device-Battery-Monitor",
      "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★2,681 C++"
-    ],
-    [
-     "Noniv/abyssal-garden",
-     "https://github.com/Noniv/abyssal-garden",
-     "★2,160 JavaScript"
-    ],
-    [
-     "Immortal-Protocols/lastbook",
-     "https://github.com/Immortal-Protocols/lastbook",
-     "★1,788 Python"
-    ],
-    [
-     "duwqijlk/muse-protocol",
-     "https://github.com/duwqijlk/muse-protocol",
-     "★1,586 Python"
-    ],
-    [
-     "gylive/google-ultra",
-     "https://github.com/gylive/google-ultra",
-     "★1,575 Python"
-    ],
-    [
-     "ZiChuanLan/freebie-radar",
-     "https://github.com/ZiChuanLan/freebie-radar",
-     "★1,431 TypeScript"
+     "★3,447 C++"
     ],
     [
      "erkamyaman/rust-anything",
      "https://github.com/erkamyaman/rust-anything",
-     "★1,313 Rust"
+     "★2,359 Rust"
+    ],
+    [
+     "Noniv/abyssal-garden",
+     "https://github.com/Noniv/abyssal-garden",
+     "★2,296 JavaScript"
+    ],
+    [
+     "Immortal-Protocols/lastbook",
+     "https://github.com/Immortal-Protocols/lastbook",
+     "★1,975 Python"
+    ],
+    [
+     "duwqijlk/muse-protocol",
+     "https://github.com/duwqijlk/muse-protocol",
+     "★1,617 Python"
+    ],
+    [
+     "ZiChuanLan/freebie-radar",
+     "https://github.com/ZiChuanLan/freebie-radar",
+     "★1,539 TypeScript"
     ],
     [
      "CzzzzzzJ/mdldm-maitian",
      "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "★1,024 JavaScript"
+     "★1,216 JavaScript"
     ],
     [
      "sybil-solutions/inference-optimisation-skill",
      "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "★926 Python"
+     "★1,014 Python"
+    ],
+    [
+     "joshpuckett/allo",
+     "https://github.com/joshpuckett/allo",
+     "★969 Python"
     ]
    ],
    "by_lang": {
@@ -484,81 +484,81 @@
      [
       "Immortal-Protocols/lastbook",
       "https://github.com/Immortal-Protocols/lastbook",
-      "★1,788"
+      "★1,975"
      ],
      [
       "duwqijlk/muse-protocol",
       "https://github.com/duwqijlk/muse-protocol",
-      "★1,586"
-     ],
-     [
-      "gylive/google-ultra",
-      "https://github.com/gylive/google-ultra",
-      "★1,575"
+      "★1,617"
      ],
      [
       "sybil-solutions/inference-optimisation-skill",
       "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "★926"
+      "★1,014"
      ],
      [
       "joshpuckett/allo",
       "https://github.com/joshpuckett/allo",
-      "★882"
+      "★969"
+     ],
+     [
+      "haziqahmedqasmi/PeakCut",
+      "https://github.com/haziqahmedqasmi/PeakCut",
+      "★961"
      ]
     ],
     "TypeScript": [
      [
       "deepseek-ai/chat-demo",
       "https://github.com/deepseek-ai/chat-demo",
-      "★4,528"
+      "★4,680"
      ],
      [
       "ZiChuanLan/freebie-radar",
       "https://github.com/ZiChuanLan/freebie-radar",
-      "★1,431"
+      "★1,539"
      ],
      [
       "opencoredev/islandcn",
       "https://github.com/opencoredev/islandcn",
-      "★796"
+      "★803"
      ],
      [
       "AIRzZ90/study-materials-fork",
       "https://github.com/AIRzZ90/study-materials-fork",
-      "★746"
+      "★748"
      ],
      [
       "rivet-dev/open-orange",
       "https://github.com/rivet-dev/open-orange",
-      "★659"
+      "★667"
      ]
     ],
     "Rust": [
      [
       "erkamyaman/rust-anything",
       "https://github.com/erkamyaman/rust-anything",
-      "★1,313"
+      "★2,359"
      ],
      [
       "BigPizzaV3/ClaudeMom",
       "https://github.com/BigPizzaV3/ClaudeMom",
-      "★594"
+      "★605"
+     ],
+     [
+      "Illson/RustText",
+      "https://github.com/Illson/RustText",
+      "★505"
      ],
      [
       "quer3q/kraken-mount",
       "https://github.com/quer3q/kraken-mount",
-      "★482"
+      "★498"
      ],
      [
       "tremorbuffalospire/IPTV_Player_2.0",
       "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
       "★382"
-     ],
-     [
-      "TorrentArrow/IPTV_Player_2.0",
-      "https://github.com/TorrentArrow/IPTV_Player_2.0",
-      "★376"
      ]
     ],
     "Go": [
@@ -590,29 +590,29 @@
     ],
     "Swift": [
      [
-      "yetanotherbrowser/yab",
-      "https://github.com/yetanotherbrowser/yab",
-      "★678"
-     ],
-     [
       "zephyr4123/snug",
       "https://github.com/zephyr4123/snug",
-      "★449"
+      "★762"
+     ],
+     [
+      "yetanotherbrowser/yab",
+      "https://github.com/yetanotherbrowser/yab",
+      "★700"
      ],
      [
       "oneamendez/crate-ios",
       "https://github.com/oneamendez/crate-ios",
-      "★432"
-     ],
-     [
-      "cnrad/interspace",
-      "https://github.com/cnrad/interspace",
-      "★171"
+      "★443"
      ],
      [
       "Kianuni/Camlo",
       "https://github.com/Kianuni/Camlo",
-      "★168"
+      "★186"
+     ],
+     [
+      "lishuangqiang/mixbar",
+      "https://github.com/lishuangqiang/mixbar",
+      "★184"
      ]
     ]
    }
@@ -621,69 +621,69 @@
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1460"
+    "♥1561"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20431"
+    "♥20514"
    ],
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥506"
+    "♥571"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12403"
+    "♥12474"
    ],
    [
     "thinkingmachines/Inkling-2-Small",
     "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "♥442"
+    "♥472"
    ],
    [
     "unsloth/Qwen3.8-27B-GGUF",
     "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-    "♥6138"
+    "♥6172"
    ],
    [
-    "Comfy-Org/MiniMax-H3-Image",
-    "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-    "♥519"
+    "sensenova/SenseNova-Loop-9B",
+    "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+    "♥288"
    ],
    [
-    "black-forest-labs/flux-3-image-klein-comfy",
-    "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-    "♥3405"
+    "harness-hub/Qwen3.8-27B-pi-adapted",
+    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+    "♥266"
    ],
    [
     "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
     "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-    "♥497"
+    "♥563"
    ],
    [
-    "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "♥3291"
+    "n4ze3m/tiny-voca",
+    "https://huggingface.co/n4ze3m/tiny-voca",
+    "♥264"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "264,981,619 /สัปดาห์"
+    "268,618,905 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "25,551,990 /สัปดาห์"
+    "25,914,349 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "9,987,823 /สัปดาห์"
+    "10,153,587 /สัปดาห์"
    ],
    [
     "solid-js",
@@ -693,7 +693,7 @@
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,209,917 /สัปดาห์"
+    "8,262,632 /สัปดาห์"
    ],
    [
     "next",
@@ -708,12 +708,12 @@
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "433,588,805 /สัปดาห์"
+    "438,836,710 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,402,259 /สัปดาห์"
+    "2,413,850 /สัปดาห์"
    ],
    [
     "ai",
@@ -833,7 +833,7 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 18,
+    "score": 16,
     "hits": [
      "multimodal",
      "vision",
@@ -954,20 +954,20 @@
    },
    {
     "tier": "watch",
-    "title": "GPT-6.2 Sol (Xhigh)",
-    "why": "เพิ่งเข้า Top 15 ของ AA ในรอบนี้ — น่าจับตาและทดสอบกับโจทย์จริงของคุณ",
-    "tags": [
-     "ใหม่ในบอร์ด",
-     "OpenAI"
-    ]
-   },
-   {
-    "tier": "watch",
     "title": "Open-weight / local models",
     "why": "สัญญาณจาก HN/HF/GitHub ชี้ว่า open-weight กำลังร้อน — ลองถ้าต้องการคุมข้อมูลหรือต้นทุน",
     "tags": [
      "open-weight",
      "local"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Coding assistants / IDE agents",
+    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
+    "tags": [
+     "coding",
+     "devtools"
     ]
    }
   ],
@@ -982,15 +982,15 @@
    },
    {
     "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Codeberg.org Not Reachable"
+   },
+   {
+    "kind": "hn",
     "text": "HN ใหม่ในท็อป: Java4Shell: RCE in OpenJDK when processing Base64"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: GPT‑6.2 Astra and Sol"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Quad9's withdrawal from France: A canary in the coal mine"
+    "text": "HN ใหม่ในท็อป: Google's AI answers reducing search traffic by 40%"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
@@ -1028,11 +1028,11 @@
     "OpenAI: GPT-6.2 Sol Pro"
    ],
    "hn_top": [
+    "Codeberg.org Not Reachable",
     "Java4Shell: RCE in OpenJDK when processing Base64",
-    "GPT‑6.2 Astra and Sol",
-    "Quad9's withdrawal from France: A canary in the coal mine",
-    "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-    "Nvidia stopped disclosing Singapore sales as revenues hit $104B"
+    "Google's AI answers reducing search traffic by 40%",
+    "ID.me terms required for IRS sign-in",
+    "Quad9's withdrawal from France: A canary in the coal mine"
    ]
   },
   "year": 2026,
@@ -1812,104 +1812,104 @@
     "use": "generate รูปจากข้อความ",
     "tip": "บอร์ดสร้างภาพ — คนละกลุ่มกับ LLM แชท",
     "score_kind": "elo",
-    "date": "2026-11-12",
+    "date": "2026-11-17",
     "leader": "GPT-Image-2.5 Sunburst",
     "items": [
      {
       "rank": 1,
       "name": "GPT-Image-2.5 Sunburst",
       "org": "openai",
-      "score": 1428.658740106337,
-      "votes": 63818,
-      "date": "2026-11-12",
+      "score": 1428.457476981579,
+      "votes": 68073,
+      "date": "2026-11-17",
       "license": "Proprietary",
-      "score_label": "1429",
+      "score_label": "1428",
       "bar": 100,
-      "meta": "โหวต/สังเกต ~63,818"
+      "meta": "โหวต/สังเกต ~68,073"
      },
      {
       "rank": 2,
       "name": "GPT-Image-2.6 Sunburst (Medium)",
       "org": "openai",
-      "score": 1405.5960201244966,
-      "votes": 2697,
-      "date": "2026-11-12",
+      "score": 1410.1144596717731,
+      "votes": 6547,
+      "date": "2026-11-17",
       "license": "Proprietary",
-      "score_label": "1406",
-      "bar": 98,
-      "meta": "โหวต/สังเกต ~2,697"
+      "score_label": "1410",
+      "bar": 99,
+      "meta": "โหวต/สังเกต ~6,547"
      },
      {
       "rank": 3,
       "name": "GPT-Image-2.5 Flare",
       "org": "openai",
-      "score": 1398.1844908090748,
-      "votes": 63120,
-      "date": "2026-11-12",
+      "score": 1399.5392369641024,
+      "votes": 67372,
+      "date": "2026-11-17",
       "license": "Proprietary",
-      "score_label": "1398",
+      "score_label": "1400",
       "bar": 98,
-      "meta": "โหวต/สังเกต ~63,120"
+      "meta": "โหวต/สังเกต ~67,372"
      },
      {
       "rank": 4,
-      "name": "GPT-Image-2.6 Flare (Medium)",
-      "org": "openai",
-      "score": 1383.51155141982,
-      "votes": 2532,
-      "date": "2026-11-12",
+      "name": "MAI-Image-2.7",
+      "org": "microsoft-ai",
+      "score": 1387.3671233107225,
+      "votes": 3082,
+      "date": "2026-11-17",
       "license": "Proprietary",
-      "score_label": "1384",
+      "score_label": "1387",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~2,532"
+      "meta": "โหวต/สังเกต ~3,082"
      },
      {
       "rank": 5,
       "name": "GPT-Image-2 (Medium)",
       "org": "openai",
-      "score": 1381.72527119212,
-      "votes": 108559,
-      "date": "2026-11-12",
+      "score": 1382.0192878030816,
+      "votes": 110696,
+      "date": "2026-11-17",
       "license": "Proprietary",
       "score_label": "1382",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~108,559"
+      "meta": "โหวต/สังเกต ~110,696"
      },
      {
       "rank": 6,
-      "name": "MAI-Image-2.6",
-      "org": "microsoft-ai",
-      "score": 1329.8690695678902,
-      "votes": 41413,
-      "date": "2026-11-12",
+      "name": "GPT-Image-2.6 Flare (Medium)",
+      "org": "openai",
+      "score": 1375.344171109689,
+      "votes": 6447,
+      "date": "2026-11-17",
       "license": "Proprietary",
-      "score_label": "1330",
-      "bar": 93,
-      "meta": "โหวต/สังเกต ~41,413"
+      "score_label": "1375",
+      "bar": 96,
+      "meta": "โหวต/สังเกต ~6,447"
      },
      {
       "rank": 7,
-      "name": "Gemini Nano Banana 2.1",
-      "org": "google",
-      "score": 1327.474846718301,
-      "votes": 4961,
-      "date": "2026-11-12",
+      "name": "MAI-Image-2.6",
+      "org": "microsoft-ai",
+      "score": 1330.6752866849622,
+      "votes": 42837,
+      "date": "2026-11-17",
       "license": "Proprietary",
-      "score_label": "1327",
+      "score_label": "1331",
       "bar": 93,
-      "meta": "โหวต/สังเกต ~4,961"
+      "meta": "โหวต/สังเกต ~42,837"
      },
      {
       "rank": 8,
-      "name": "Grok Imagine Image 2.0",
-      "org": "xai",
-      "score": 1317.8719076201676,
-      "votes": 9919,
-      "date": "2026-11-12",
+      "name": "Gemini Nano Banana 2.1",
+      "org": "google",
+      "score": 1327.553852728771,
+      "votes": 4957,
+      "date": "2026-11-17",
       "license": "Proprietary",
-      "score_label": "1318",
-      "bar": 92,
-      "meta": "โหวต/สังเกต ~9,919"
+      "score_label": "1328",
+      "bar": 93,
+      "meta": "โหวต/สังเกต ~4,957"
      }
     ]
    }
@@ -1991,7 +1991,7 @@
     "short": "Image",
     "model": "GPT-Image-2.5 Sunburst",
     "org": "openai",
-    "score_label": "1429",
+    "score_label": "1428",
     "use": "generate รูปจากข้อความ",
     "why": "อันดับ 1 บน LMArena · Image — เหมาะงาน: generate รูปจากข้อความ"
    }
@@ -2222,15 +2222,6 @@
       "modality": "text+image+video->text"
      },
      {
-      "name": "Z.ai: GLM 5.3 Flash",
-      "org": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
-      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
-      "context": 1048576,
-      "blended": 0.049525,
-      "modality": "text+image+video->text"
-     },
-     {
       "name": "Qwen: Qwen3.7 Flash",
       "org": "qwen",
       "url": "https://openrouter.ai/qwen/qwen3.7-flash",
@@ -2238,6 +2229,15 @@
       "context": 1000000,
       "blended": 0.055,
       "modality": "text+image+video->text"
+     },
+     {
+      "name": "Tencent: Hy4 flash",
+      "org": "tencent",
+      "url": "https://openrouter.ai/tencent/hy4-flash",
+      "note": "context 1,048,576 · ~$0.06/ล้านผสม · text+image->text",
+      "context": 1048576,
+      "blended": 0.061375,
+      "modality": "text+image->text"
      }
     ]
    },
@@ -2499,7 +2499,7 @@
     "arena": null,
     "webdev_rank": null,
     "agent_rank": null,
-    "new": true
+    "new": false
    },
    {
     "name": "GPT-6 Astra (Xhigh)",
