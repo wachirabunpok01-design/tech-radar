@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:33+00:00",
+ "updated": "2026-11-19T11:36+00:00",
  "snapshot": {
   "ai_top": [
    "Claude Opus 5.5 (Max, Default Fallback)",
@@ -12,7 +12,8 @@
    "Multimodal",
    "AI Agents / Tool use",
    "Coding assistants",
-   "Open-weight / Local models"
+   "Open-weight / Local models",
+   "RAG / Knowledge"
   ],
   "dim_leaders": [
    "text:Gemini 4 Carbon (High)",
@@ -32,11 +33,11 @@
    "OpenAI: GPT-6.2 Astra"
   ],
   "hn_top": [
+   "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+   "What's New in PHP 8.6",
+   "Distributed, high-performance blob storage on SQLite",
    "Gemini 4 Neon",
-   "AI Will Not Make You Rich (2025)",
-   "Unauthenticated remote code execution in Nginx",
-   "Gemini 4 Neon looks like an Opus 5.5 competitor",
-   "Multiple vulnerabilities in Regexp and String case conversion"
+   "15M web servers on one VM – smoltcp, DPDK, AF_XDP"
   ]
  },
  "trends": {
@@ -56,7 +57,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 12,
+    "score": 10,
     "hits": [
      "agent",
      "agents",
@@ -68,13 +69,13 @@
    },
    {
     "name": "Coding assistants",
-    "score": 8,
+    "score": 7,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 96
+    "heat": 84
    },
    {
     "name": "Open-weight / Local models",
@@ -83,6 +84,14 @@
      "qwen"
     ],
     "heat": 48
+   },
+   {
+    "name": "RAG / Knowledge",
+    "score": 2,
+    "hits": [
+     "rag"
+    ],
+    "heat": 24
    }
   ],
   "recommendations": [
@@ -165,21 +174,21 @@
     ]
    },
    {
-    "tier": "watch",
-    "title": "Gemini 4 Neon (Medium)",
-    "why": "เพิ่งเข้า Top 15 ของ AA ในรอบนี้ — น่าจับตาและทดสอบกับโจทย์จริงของคุณ",
+    "tier": "use",
+    "title": "Coding assistants / IDE agents",
+    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
     "tags": [
-     "ใหม่ในบอร์ด",
-     "Google"
+     "coding",
+     "devtools"
     ]
    },
    {
-    "tier": "watch",
-    "title": "Gemini 4 Neon (Low)",
-    "why": "เพิ่งเข้า Top 15 ของ AA ในรอบนี้ — น่าจับตาและทดสอบกับโจทย์จริงของคุณ",
+    "tier": "caution",
+    "title": "CVE-2024-10441 Synology DiskStation Manager (DSM)",
+    "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
     "tags": [
-     "ใหม่ในบอร์ด",
-     "Google"
+     "security",
+     "KEV"
     ]
    }
   ],
@@ -188,56 +197,56 @@
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00",
+   "time": "2026-11-19T11:36+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-19T02:33+00:00"
+   "time": "2026-11-19T11:36+00:00"
   }
  }
 }
