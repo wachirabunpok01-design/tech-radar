@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-19T11:36+00:00",
+ "updated": "2026-11-19T20:33+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00",
+   "time": "2026-11-19T20:33+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   }
  },
  "tables": [
@@ -366,189 +366,189 @@
   ],
   "hn": [
    [
-    "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-    "https://verialabs.com/ruby2shell/",
+    "Anthropic hits $2T in Nasdaq debut",
+    "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+    "534 คะแนน"
+   ],
+   [
+    "Claude solves two open problems in the physics of black holes",
+    "https://www.anthropic.com/research/claude-black-hole-physics",
+    "233 คะแนน"
+   ],
+   [
+    "Pancreatic cancer halted by virus injection in three patients",
+    "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
     "167 คะแนน"
    ],
    [
-    "What's New in PHP 8.6",
-    "https://www.php.net/releases/8.6/en.php",
-    "72 คะแนน"
-   ],
-   [
-    "Distributed, high-performance blob storage on SQLite",
-    "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-    "73 คะแนน"
-   ],
-   [
-    "Gemini 4 Neon",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-    "859 คะแนน"
-   ],
-   [
-    "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-    "https://kapteko.com/15-million-webservers/",
-    "182 คะแนน"
-   ],
-   [
-    "Unauthenticated remote code execution in Nginx",
-    "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-    "1408 คะแนน"
-   ],
-   [
-    "SSD prices will start going down the second half of next year",
-    "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
-    "89 คะแนน"
-   ],
-   [
-    "Do not buy RAM, compress",
-    "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
-    "47 คะแนน"
+    "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+    "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+    "56 คะแนน"
    ],
    [
     "Garage Door Spam",
     "https://blog.harrison.page/garage-door-spam/",
-    "18 คะแนน"
+    "618 คะแนน"
    ],
    [
-    "Multiple vulnerabilities in Regexp and String case conversion",
-    "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-    "281 คะแนน"
+    "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+    "https://cornholenews.news",
+    "129 คะแนน"
    ],
    [
-    "The first ping from Tonga (1997)",
-    "https://colo.to/firstping.html",
-    "44 คะแนน"
+    "UK government forced to admit it issued Apple a secret encryption order",
+    "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+    "300 คะแนน"
    ],
    [
-    "Anthropic prices initial public offering",
-    "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-    "254 คะแนน"
+    "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+    "https://github.com/onlook-dev/onlook/",
+    "55 คะแนน"
+   ],
+   [
+    "Someone reported java4shell bug in September 2026",
+    "https://github.com/openjdk/jdk/pull/32781",
+    "263 คะแนน"
+   ],
+   [
+    "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+    "https://www.youtube.com/watch?v=lwfewYL7X0o",
+    "23 คะแนน"
+   ],
+   [
+    "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+    "https://thedataexchange.media/pete-warden-moonshine/",
+    "170 คะแนน"
+   ],
+   [
+    "Making 8-page foldable zines from a single A4 sheet in the browser",
+    "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+    "169 คะแนน"
    ]
   ],
   "gh": {
    "top": [
     [
-     "krisgfx9/Wireless-Device-Battery-Monitor",
-     "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★4,294 C++"
-    ],
-    [
      "erkamyaman/rust-anything",
      "https://github.com/erkamyaman/rust-anything",
-     "★4,195 Rust"
+     "★4,987 Rust"
     ],
     [
-     "duwqijlk/muse-protocol",
-     "https://github.com/duwqijlk/muse-protocol",
-     "★1,640 Python"
+     "krisgfx9/Wireless-Device-Battery-Monitor",
+     "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+     "★4,586 C++"
+    ],
+    [
+     "gylive/google-ultra",
+     "https://github.com/gylive/google-ultra",
+     "★2,437 Python"
     ],
     [
      "Hut-hzf/ung220z-tool",
      "https://github.com/Hut-hzf/ung220z-tool",
-     "★1,586 Python"
+     "★1,720 Python"
+    ],
+    [
+     "duwqijlk/muse-protocol",
+     "https://github.com/duwqijlk/muse-protocol",
+     "★1,654 Python"
     ],
     [
      "CzzzzzzJ/mdldm-maitian",
      "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "★1,522 JavaScript"
+     "★1,594 JavaScript"
     ],
     [
      "haziqahmedqasmi/PeakCut",
      "https://github.com/haziqahmedqasmi/PeakCut",
-     "★1,188 Python"
+     "★1,318 Python"
     ],
     [
      "sybil-solutions/inference-optimisation-skill",
      "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "★1,182 Python"
+     "★1,248 Python"
     ],
     [
      "joshpuckett/allo",
      "https://github.com/joshpuckett/allo",
-     "★1,101 Python"
+     "★1,140 Python"
     ],
     [
      "zephyr4123/snug",
      "https://github.com/zephyr4123/snug",
-     "★1,074 Swift"
-    ],
-    [
-     "chuanqisun/spaceship",
-     "https://github.com/chuanqisun/spaceship",
-     "★899 HTML"
+     "★1,090 Swift"
     ]
    ],
    "by_lang": {
     "Python": [
      [
-      "duwqijlk/muse-protocol",
-      "https://github.com/duwqijlk/muse-protocol",
-      "★1,640"
+      "gylive/google-ultra",
+      "https://github.com/gylive/google-ultra",
+      "★2,437"
      ],
      [
       "Hut-hzf/ung220z-tool",
       "https://github.com/Hut-hzf/ung220z-tool",
-      "★1,586"
+      "★1,720"
+     ],
+     [
+      "duwqijlk/muse-protocol",
+      "https://github.com/duwqijlk/muse-protocol",
+      "★1,654"
      ],
      [
       "haziqahmedqasmi/PeakCut",
       "https://github.com/haziqahmedqasmi/PeakCut",
-      "★1,188"
+      "★1,318"
      ],
      [
       "sybil-solutions/inference-optimisation-skill",
       "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "★1,182"
-     ],
-     [
-      "joshpuckett/allo",
-      "https://github.com/joshpuckett/allo",
-      "★1,101"
+      "★1,248"
      ]
     ],
     "TypeScript": [
      [
       "opencoredev/islandcn",
       "https://github.com/opencoredev/islandcn",
-      "★815"
+      "★820"
      ],
      [
       "ysunyang4/Nexus",
       "https://github.com/ysunyang4/Nexus",
-      "★419"
+      "★431"
      ],
      [
       "Forward-Future/scarlet",
       "https://github.com/Forward-Future/scarlet",
-      "★365"
+      "★377"
+     ],
+     [
+      "replit/datacat",
+      "https://github.com/replit/datacat",
+      "★373"
      ],
      [
       "EunChae1110/mmforge-platform",
       "https://github.com/EunChae1110/mmforge-platform",
       "★347"
-     ],
-     [
-      "replit/datacat",
-      "https://github.com/replit/datacat",
-      "★270"
      ]
     ],
     "Rust": [
      [
       "erkamyaman/rust-anything",
       "https://github.com/erkamyaman/rust-anything",
-      "★4,195"
-     ],
-     [
-      "Illson/RustText",
-      "https://github.com/Illson/RustText",
-      "★665"
+      "★4,987"
      ],
      [
       "quer3q/kraken-mount",
       "https://github.com/quer3q/kraken-mount",
-      "★533"
+      "★546"
+     ],
+     [
+      "Illson/RustText",
+      "https://github.com/Illson/RustText",
+      "★403"
      ],
      [
       "tremorbuffalospire/IPTV_Player_2.0",
@@ -592,27 +592,27 @@
      [
       "zephyr4123/snug",
       "https://github.com/zephyr4123/snug",
-      "★1,074"
+      "★1,090"
      ],
      [
       "yetanotherbrowser/yab",
       "https://github.com/yetanotherbrowser/yab",
-      "★730"
+      "★735"
      ],
      [
       "oneamendez/crate-ios",
       "https://github.com/oneamendez/crate-ios",
-      "★459"
+      "★460"
      ],
      [
       "Kianuni/Camlo",
       "https://github.com/Kianuni/Camlo",
-      "★216"
+      "★233"
      ],
      [
       "lishuangqiang/mixbar",
       "https://github.com/lishuangqiang/mixbar",
-      "★214"
+      "★221"
      ]
     ]
    }
@@ -621,74 +621,74 @@
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥1870"
+    "♥3578"
    ],
    [
     "tencent/Hy4-flash",
     "https://huggingface.co/tencent/Hy4-flash",
-    "♥281"
-   ],
-   [
-    "Qwen/Qwen3.8-27B",
-    "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20608"
-   ],
-   [
-    "MiniMaxAI/MiniMax-H3-Image",
-    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1607"
-   ],
-   [
-    "harness-hub/Qwen3.8-27B-pi-adapted",
-    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥657"
+    "♥332"
    ],
    [
     "apple/FastFrames-L",
     "https://huggingface.co/apple/FastFrames-L",
-    "♥249"
+    "♥317"
    ],
    [
-    "n4ze3m/tiny-voca",
-    "https://huggingface.co/n4ze3m/tiny-voca",
-    "♥308"
+    "Qwen/Qwen3.8-27B",
+    "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "♥20669"
    ],
    [
-    "meituan-longcat/LongCat-Video-Avatar-1.6",
-    "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
-    "♥289"
+    "harness-hub/Qwen3.8-27B-pi-adapted",
+    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+    "♥720"
+   ],
+   [
+    "MiniMaxAI/MiniMax-H3-Image",
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+    "♥1642"
+   ],
+   [
+    "inworld/voice-isolator",
+    "https://huggingface.co/inworld/voice-isolator",
+    "♥233"
    ],
    [
     "maxwell-model/Maxwell-V1-Flash",
     "https://huggingface.co/maxwell-model/Maxwell-V1-Flash",
-    "♥254"
+    "♥287"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12665"
+    "♥12726"
+   ],
+   [
+    "thinkingmachines/Inkling-2-Small",
+    "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+    "♥580"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "268,618,905 /สัปดาห์"
+    "273,970,923 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "25,914,349 /สัปดาห์"
+    "26,423,429 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "10,153,587 /สัปดาห์"
+    "10,383,642 /สัปดาห์"
    ],
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "12,189,513 /สัปดาห์"
+    "12,526,845 /สัปดาห์"
    ],
    [
     "@angular/core",
@@ -698,17 +698,17 @@
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "97,670,224 /สัปดาห์"
+    "99,343,684 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "284,251,377 /สัปดาห์"
+    "288,613,751 /สัปดาห์"
    ],
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "438,836,710 /สัปดาห์"
+    "448,017,757 /สัปดาห์"
    ],
    [
     "@openai/agents",
@@ -718,7 +718,7 @@
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "47,150,887 /สัปดาห์"
+    "48,313,300 /สัปดาห์"
    ]
   ],
   "kev": [
@@ -866,19 +866,20 @@
    },
    {
     "name": "Open-weight / Local models",
-    "score": 4,
+    "score": 5,
     "hits": [
+     "open-source",
      "qwen"
     ],
-    "heat": 48
+    "heat": 60
    },
    {
     "name": "RAG / Knowledge",
-    "score": 2,
+    "score": 1,
     "hits": [
      "rag"
     ],
-    "heat": 24
+    "heat": 12
    }
   ],
   "recommendations": [
@@ -990,15 +991,15 @@
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Ruby2ßhell: Pre-authentication RCE on stock Rails"
+    "text": "HN ใหม่ในท็อป: Anthropic hits $2T in Nasdaq debut"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: What's New in PHP 8.6"
+    "text": "HN ใหม่ในท็อป: Claude solves two open problems in the physics of black holes"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Distributed, high-performance blob storage on SQLite"
+    "text": "HN ใหม่ในท็อป: Pancreatic cancer halted by virus injection in three patients"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
@@ -1037,11 +1038,11 @@
     "OpenAI: GPT-6.2 Astra"
    ],
    "hn_top": [
-    "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-    "What's New in PHP 8.6",
-    "Distributed, high-performance blob storage on SQLite",
-    "Gemini 4 Neon",
-    "15M web servers on one VM – smoltcp, DPDK, AF_XDP"
+    "Anthropic hits $2T in Nasdaq debut",
+    "Claude solves two open problems in the physics of black holes",
+    "Pancreatic cancer halted by virus injection in three patients",
+    "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+    "Garage Door Spam"
    ]
   },
   "year": 2026,
@@ -2323,15 +2324,6 @@
       "modality": "text+image->text"
      },
      {
-      "name": "Thinking Machines: Inkling 2 Small (free)",
-      "org": "thinkingmachines",
-      "url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
-      "note": "context 1,048,576 · ~$0.00/ล้านผสม · text+image->text",
-      "context": 1048576,
-      "blended": 0.0,
-      "modality": "text+image->text"
-     },
-     {
       "name": "Particle AI: Particle-1 (free)",
       "org": "particle-ai",
       "url": "https://openrouter.ai/particle-ai/particle-1:free",
@@ -2362,6 +2354,15 @@
       "name": "NVIDIA: Nemotron 3.5 Lightning (free)",
       "org": "nvidia",
       "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free",
+      "note": "context 1,000,000 · ~$0.00/ล้านผสม · text->text",
+      "context": 1000000,
+      "blended": 0.0,
+      "modality": "text->text"
+     },
+     {
+      "name": "NVIDIA: Nemotron 3 Ultra (free)",
+      "org": "nvidia",
+      "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free",
       "note": "context 1,000,000 · ~$0.00/ล้านผสม · text->text",
       "context": 1000000,
       "blended": 0.0,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:36+00:00",
+ "updated": "2026-11-19T20:33+00:00",
  "snapshot": {
   "ai_top": [
    "Claude Opus 5.5 (Max, Default Fallback)",
@@ -33,11 +33,11 @@
    "OpenAI: GPT-6.2 Astra"
   ],
   "hn_top": [
-   "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-   "What's New in PHP 8.6",
-   "Distributed, high-performance blob storage on SQLite",
-   "Gemini 4 Neon",
-   "15M web servers on one VM – smoltcp, DPDK, AF_XDP"
+   "Anthropic hits $2T in Nasdaq debut",
+   "Claude solves two open problems in the physics of black holes",
+   "Pancreatic cancer halted by virus injection in three patients",
+   "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+   "Garage Door Spam"
   ]
  },
  "trends": {
@@ -79,19 +79,20 @@
    },
    {
     "name": "Open-weight / Local models",
-    "score": 4,
+    "score": 5,
     "hits": [
+     "open-source",
      "qwen"
     ],
-    "heat": 48
+    "heat": 60
    },
    {
     "name": "RAG / Knowledge",
-    "score": 2,
+    "score": 1,
     "hits": [
      "rag"
     ],
-    "heat": 24
+    "heat": 12
    }
   ],
   "recommendations": [
@@ -197,56 +198,56 @@
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00",
+   "time": "2026-11-19T20:33+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-19T11:36+00:00"
+   "time": "2026-11-19T20:33+00:00"
   }
  }
 }
