@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-18T20:29+00:00",
+ "updated": "2026-11-19T02:33+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00",
+   "time": "2026-11-19T02:33+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-18T20:29+00:00"
+   "time": "2026-11-19T02:33+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-18",
+   "date": "ดึงเมื่อ 2026-11-19",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -237,11 +237,11 @@
      94
     ],
     [
-     "GPT-6.1 Sol (Xhigh)",
-     "52.5",
-     "OpenAI",
+     "Gemini 4 Neon (Medium)",
+     "54.9",
+     "Google",
      "ดูรายละเอียดที่เว็บต้นทาง",
-     89
+     93
     ]
    ],
    "note": "เวอร์ชันของ Index เปลี่ยนเป็นระยะ เทียบคะแนนข้ามช่วงเวลาตรง ๆ ไม่ได้",
@@ -314,6 +314,16 @@
  "live": {
   "or": [
    [
+    "Google: Gemini 4 Neon",
+    "https://openrouter.ai/google/gemini-4-neon",
+    "2026-11-18 · context 1,048,576 · $3.00 / $15.00 ต่อล้าน tokens"
+   ],
+   [
+    "Google: Gemini 4 Neon (batch)",
+    "https://openrouter.ai/google/gemini-4-neon:batch",
+    "2026-11-18 · context 1,048,576 · $1.50 / $7.50 ต่อล้าน tokens"
+   ],
+   [
     "OpenAI: GPT-6.2 Astra Pro",
     "https://openrouter.ai/openai/gpt-6.2-astra-pro",
     "2026-11-17 · context 1,050,000 · $8.00 / $40.00 ต่อล้าน tokens"
@@ -352,213 +362,203 @@
     "OpenAI: GPT-6.2 Sol (batch)",
     "https://openrouter.ai/openai/gpt-6.2-sol:batch",
     "2026-11-17 · context 1,050,000 · $1.00 / $5.00 ต่อล้าน tokens"
-   ],
-   [
-    "Tencent: Hy4 flash",
-    "https://openrouter.ai/tencent/hy4-flash",
-    "2026-11-16 · context 1,048,576 · $0.04 / $0.14 ต่อล้าน tokens"
-   ],
-   [
-    "Qwen: Qwen4 Max",
-    "https://openrouter.ai/qwen/qwen4-max",
-    "2026-11-16 · context 1,000,000 · $1.42 / $4.27 ต่อล้าน tokens"
    ]
   ],
   "hn": [
    [
+    "Gemini 4 Neon",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "490 คะแนน"
+   ],
+   [
+    "AI Will Not Make You Rich (2025)",
+    "https://colossus.com/article/ai-will-not-make-you-rich/",
+    "33 คะแนน"
+   ],
+   [
     "Unauthenticated remote code execution in Nginx",
     "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-    "727 คะแนน"
+    "1166 คะแนน"
+   ],
+   [
+    "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+    "88 คะแนน"
+   ],
+   [
+    "Multiple vulnerabilities in Regexp and String case conversion",
+    "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+    "91 คะแนน"
+   ],
+   [
+    "Anthropic prices initial public offering",
+    "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "81 คะแนน"
    ],
    [
     "Seven new models at scalable price-performance",
     "https://microsoft.ai/news/microsoft-ignite-2026/",
-    "311 คะแนน"
+    "457 คะแนน"
    ],
    [
-    "Inside Deutsche Bank",
-    "https://www.inside-db.com/",
-    "370 คะแนน"
-   ],
-   [
-    "DNS resolvers are the wrong place to fight piracy",
-    "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-    "466 คะแนน"
-   ],
-   [
-    "Genie 4 is now available",
-    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-    "95 คะแนน"
+    "LLM assisted reverse engineering",
+    "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "78 คะแนน"
    ],
    [
     "AI agents ask better questions than KPMG accountants in audit trial",
     "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-    "174 คะแนน"
+    "371 คะแนน"
    ],
    [
-    "Advancing chip design with OpenAI models",
-    "https://openai.com/index/advancing-chip-design-with-our-models/",
-    "70 คะแนน"
+    "Inside Deutsche Bank",
+    "https://www.inside-db.com/",
+    "567 คะแนน"
    ],
    [
-    "The Magic of Partial Evaluation",
-    "https://jimmyhmiller.com/magic-of-partial-evaluation",
-    "44 คะแนน"
+    "DNS resolvers are the wrong place to fight piracy",
+    "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+    "610 คะแนน"
    ],
    [
-    "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
-    "https://www.cve.org/CVERecord?id=CVE-2026-99312",
-    "142 คะแนน"
-   ],
-   [
-    "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
-    "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
-    "185 คะแนน"
-   ],
-   [
-    "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-    "https://news.ycombinator.com/item?id=50548660",
-    "43 คะแนน"
-   ],
-   [
-    "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-    "https://exitpath-ruddy.vercel.app/",
-    "95 คะแนน"
+    "Fable: Written, painted and directed by Claude Fable 5.2",
+    "https://claudia.gallery/fable/",
+    "45 คะแนน"
    ]
   ],
   "gh": {
    "top": [
     [
-     "deepseek-ai/chat-demo",
-     "https://github.com/deepseek-ai/chat-demo",
-     "★4,806 TypeScript"
-    ],
-    [
      "krisgfx9/Wireless-Device-Battery-Monitor",
      "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★3,788 C++"
+     "★4,038 C++"
     ],
     [
      "erkamyaman/rust-anything",
      "https://github.com/erkamyaman/rust-anything",
-     "★3,129 Rust"
-    ],
-    [
-     "Noniv/abyssal-garden",
-     "https://github.com/Noniv/abyssal-garden",
-     "★2,370 JavaScript"
-    ],
-    [
-     "Immortal-Protocols/lastbook",
-     "https://github.com/Immortal-Protocols/lastbook",
-     "★2,130 Python"
+     "★3,463 Rust"
     ],
     [
      "duwqijlk/muse-protocol",
      "https://github.com/duwqijlk/muse-protocol",
-     "★1,626 Python"
-    ],
-    [
-     "ZiChuanLan/freebie-radar",
-     "https://github.com/ZiChuanLan/freebie-radar",
-     "★1,610 TypeScript"
+     "★1,628 Python"
     ],
     [
      "CzzzzzzJ/mdldm-maitian",
      "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "★1,292 JavaScript"
+     "★1,348 JavaScript"
     ],
     [
      "Hut-hzf/ung220z-tool",
      "https://github.com/Hut-hzf/ung220z-tool",
-     "★1,100 Python"
+     "★1,282 Python"
+    ],
+    [
+     "sybil-solutions/inference-optimisation-skill",
+     "https://github.com/sybil-solutions/inference-optimisation-skill",
+     "★1,123 Python"
     ],
     [
      "haziqahmedqasmi/PeakCut",
      "https://github.com/haziqahmedqasmi/PeakCut",
-     "★1,062 Python"
+     "★1,099 Python"
+    ],
+    [
+     "joshpuckett/allo",
+     "https://github.com/joshpuckett/allo",
+     "★1,055 Python"
+    ],
+    [
+     "zephyr4123/snug",
+     "https://github.com/zephyr4123/snug",
+     "★952 Swift"
+    ],
+    [
+     "chuanqisun/spaceship",
+     "https://github.com/chuanqisun/spaceship",
+     "★871 HTML"
     ]
    ],
    "by_lang": {
     "Python": [
      [
-      "Immortal-Protocols/lastbook",
-      "https://github.com/Immortal-Protocols/lastbook",
-      "★2,130"
-     ],
-     [
       "duwqijlk/muse-protocol",
       "https://github.com/duwqijlk/muse-protocol",
-      "★1,626"
+      "★1,628"
      ],
      [
       "Hut-hzf/ung220z-tool",
       "https://github.com/Hut-hzf/ung220z-tool",
-      "★1,100"
-     ],
-     [
-      "haziqahmedqasmi/PeakCut",
-      "https://github.com/haziqahmedqasmi/PeakCut",
-      "★1,062"
+      "★1,282"
      ],
      [
       "sybil-solutions/inference-optimisation-skill",
       "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "★1,059"
+      "★1,123"
+     ],
+     [
+      "haziqahmedqasmi/PeakCut",
+      "https://github.com/haziqahmedqasmi/PeakCut",
+      "★1,099"
+     ],
+     [
+      "joshpuckett/allo",
+      "https://github.com/joshpuckett/allo",
+      "★1,055"
      ]
     ],
     "TypeScript": [
      [
-      "deepseek-ai/chat-demo",
-      "https://github.com/deepseek-ai/chat-demo",
-      "★4,806"
-     ],
-     [
-      "ZiChuanLan/freebie-radar",
-      "https://github.com/ZiChuanLan/freebie-radar",
-      "★1,610"
-     ],
-     [
       "opencoredev/islandcn",
       "https://github.com/opencoredev/islandcn",
-      "★807"
+      "★812"
      ],
      [
-      "AIRzZ90/study-materials-fork",
-      "https://github.com/AIRzZ90/study-materials-fork",
-      "★750"
+      "ysunyang4/Nexus",
+      "https://github.com/ysunyang4/Nexus",
+      "★406"
      ],
      [
-      "rivet-dev/open-orange",
-      "https://github.com/rivet-dev/open-orange",
-      "★676"
+      "Forward-Future/scarlet",
+      "https://github.com/Forward-Future/scarlet",
+      "★364"
+     ],
+     [
+      "EunChae1110/mmforge-platform",
+      "https://github.com/EunChae1110/mmforge-platform",
+      "★319"
+     ],
+     [
+      "johnlindquist/pi-emphasis",
+      "https://github.com/johnlindquist/pi-emphasis",
+      "★246"
      ]
     ],
     "Rust": [
      [
       "erkamyaman/rust-anything",
       "https://github.com/erkamyaman/rust-anything",
-      "★3,129"
+      "★3,463"
      ],
      [
       "Illson/RustText",
       "https://github.com/Illson/RustText",
-      "★610"
-     ],
-     [
-      "BigPizzaV3/ClaudeMom",
-      "https://github.com/BigPizzaV3/ClaudeMom",
-      "★609"
+      "★615"
      ],
      [
       "quer3q/kraken-mount",
       "https://github.com/quer3q/kraken-mount",
-      "★511"
+      "★519"
      ],
      [
       "tremorbuffalospire/IPTV_Player_2.0",
       "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
       "★382"
+     ],
+     [
+      "TorrentArrow/IPTV_Player_2.0",
+      "https://github.com/TorrentArrow/IPTV_Player_2.0",
+      "★376"
      ]
     ],
     "Go": [
@@ -592,27 +592,27 @@
      [
       "zephyr4123/snug",
       "https://github.com/zephyr4123/snug",
-      "★892"
+      "★952"
      ],
      [
       "yetanotherbrowser/yab",
       "https://github.com/yetanotherbrowser/yab",
-      "★713"
+      "★723"
      ],
      [
       "oneamendez/crate-ios",
       "https://github.com/oneamendez/crate-ios",
-      "★446"
+      "★450"
      ],
      [
       "lishuangqiang/mixbar",
       "https://github.com/lishuangqiang/mixbar",
-      "★201"
+      "★206"
      ],
      [
       "Kianuni/Camlo",
       "https://github.com/Kianuni/Camlo",
-      "★195"
+      "★199"
      ]
     ]
    }
@@ -621,52 +621,52 @@
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥647"
-   ],
-   [
-    "Lightricks/LTX-2.5",
-    "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12535"
-   ],
-   [
-    "thinkingmachines/Inkling-2-Small",
-    "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "♥487"
+    "♥695"
    ],
    [
     "harness-hub/Qwen3.8-27B-pi-adapted",
     "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥377"
+    "♥422"
+   ],
+   [
+    "Lightricks/LTX-2.5",
+    "https://huggingface.co/Lightricks/LTX-2.5",
+    "♥12568"
+   ],
+   [
+    "thinkingmachines/Inkling-2-Small",
+    "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+    "♥495"
    ],
    [
     "MiniMaxAI/MiniMax-H3-Image",
     "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1576"
+    "♥1585"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20550"
-   ],
-   [
-    "n4ze3m/tiny-voca",
-    "https://huggingface.co/n4ze3m/tiny-voca",
-    "♥283"
+    "♥20562"
    ],
    [
     "tencent/Hy4-flash",
     "https://huggingface.co/tencent/Hy4-flash",
-    "♥220"
+    "♥237"
    ],
    [
-    "meituan-longcat/LongCat-Video-Avatar-1.6",
-    "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
-    "♥253"
+    "n4ze3m/tiny-voca",
+    "https://huggingface.co/n4ze3m/tiny-voca",
+    "♥290"
    ],
    [
     "apple/FastFrames-L",
     "https://huggingface.co/apple/FastFrames-L",
-    "♥197"
+    "♥218"
+   ],
+   [
+    "meituan-longcat/LongCat-Video-Avatar-1.6",
+    "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+    "♥265"
    ]
   ],
   "npm": [
@@ -829,7 +829,7 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Open-weight / Local models. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
     "name": "Multimodal",
@@ -855,16 +855,6 @@
     "heat": 100
    },
    {
-    "name": "Open-weight / Local models",
-    "score": 10,
-    "hits": [
-     "open-source",
-     "deepseek",
-     "qwen"
-    ],
-    "heat": 100
-   },
-   {
     "name": "Coding assistants",
     "score": 8,
     "hits": [
@@ -875,12 +865,12 @@
     "heat": 96
    },
    {
-    "name": "Security / Exploit awareness",
-    "score": 1,
+    "name": "Open-weight / Local models",
+    "score": 4,
     "hits": [
-     "cve"
+     "qwen"
     ],
-    "heat": 12
+    "heat": 48
    }
   ],
   "recommendations": [
@@ -964,20 +954,20 @@
    },
    {
     "tier": "watch",
-    "title": "Open-weight / local models",
-    "why": "สัญญาณจาก HN/HF/GitHub ชี้ว่า open-weight กำลังร้อน — ลองถ้าต้องการคุมข้อมูลหรือต้นทุน",
+    "title": "Gemini 4 Neon (Medium)",
+    "why": "เพิ่งเข้า Top 15 ของ AA ในรอบนี้ — น่าจับตาและทดสอบกับโจทย์จริงของคุณ",
     "tags": [
-     "open-weight",
-     "local"
+     "ใหม่ในบอร์ด",
+     "Google"
     ]
    },
    {
-    "tier": "use",
-    "title": "Coding assistants / IDE agents",
-    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
+    "tier": "watch",
+    "title": "Gemini 4 Neon (Low)",
+    "why": "เพิ่งเข้า Top 15 ของ AA ในรอบนี้ — น่าจับตาและทดสอบกับโจทย์จริงของคุณ",
     "tags": [
-     "coding",
-     "devtools"
+     "ใหม่ในบอร์ด",
+     "Google"
     ]
    }
   ],
@@ -987,27 +977,15 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "ai_new",
-    "text": "โมเดลใหม่ใน Top: GPT-6.2 Sol (Xhigh)"
-   },
-   {
-    "kind": "theme_up",
-    "text": "ธีมขึ้นแรง: Security / Exploit awareness"
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Gemini 4 Neon"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Unauthenticated remote code execution in Nginx"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Seven new models at scalable price-performance"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Inside Deutsche Bank"
+    "text": "HN ใหม่ในท็อป: AI Will Not Make You Rich (2025)"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 5 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 2 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1021,9 +999,8 @@
    "themes": [
     "Multimodal",
     "AI Agents / Tool use",
-    "Open-weight / Local models",
     "Coding assistants",
-    "Security / Exploit awareness"
+    "Open-weight / Local models"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1036,18 +1013,18 @@
     "image:GPT-Image-2.5 Sunburst"
    ],
    "or_top": [
+    "Google: Gemini 4 Neon",
+    "Google: Gemini 4 Neon (batch)",
     "OpenAI: GPT-6.2 Astra Pro",
     "OpenAI: GPT-6.2 Astra Pro (batch)",
-    "OpenAI: GPT-6.2 Astra",
-    "OpenAI: GPT-6.2 Astra (batch)",
-    "OpenAI: GPT-6.2 Sol Pro"
+    "OpenAI: GPT-6.2 Astra"
    ],
    "hn_top": [
+    "Gemini 4 Neon",
+    "AI Will Not Make You Rich (2025)",
     "Unauthenticated remote code execution in Nginx",
-    "Seven new models at scalable price-performance",
-    "Inside Deutsche Bank",
-    "DNS resolvers are the wrong place to fight piracy",
-    "Genie 4 is now available"
+    "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "Multiple vulnerabilities in Regexp and String case conversion"
    ]
   },
   "year": 2026,
@@ -2530,6 +2507,19 @@
     "new": false
    },
    {
+    "name": "Gemini 4 Neon (Medium)",
+    "org": "Google",
+    "aa": 54.9,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": null,
+    "agent_rank": null,
+    "new": true
+   },
+   {
     "name": "GPT-6.1 Sol (Xhigh)",
     "org": "OpenAI",
     "aa": 52.5,
@@ -2567,6 +2557,19 @@
     "webdev_rank": 7,
     "agent_rank": 6,
     "new": false
+   },
+   {
+    "name": "Gemini 4 Neon (Low)",
+    "org": "Google",
+    "aa": 44.1,
+    "coding": null,
+    "agentic": null,
+    "price": null,
+    "speed": null,
+    "arena": null,
+    "webdev_rank": null,
+    "agent_rank": null,
+    "new": true
    },
    {
     "name": "Claude Fable 5.1 (Medium, Default Fallback)",
@@ -2619,32 +2622,6 @@
     "webdev_rank": 7,
     "agent_rank": 6,
     "new": false
-   },
-   {
-    "name": "Grok 4.7 (High)",
-    "org": "SpaceXAI",
-    "aa": 35.2,
-    "coding": null,
-    "agentic": null,
-    "price": null,
-    "speed": null,
-    "arena": null,
-    "webdev_rank": null,
-    "agent_rank": null,
-    "new": false
-   },
-   {
-    "name": "Claude Haiku 5.5 (Xhigh)",
-    "org": "Anthropic",
-    "aa": 34.6,
-    "coding": null,
-    "agentic": null,
-    "price": null,
-    "speed": null,
-    "arena": null,
-    "webdev_rank": null,
-    "agent_rank": null,
-    "new": false
    }
   ],
   "seen": [
@@ -2654,15 +2631,15 @@
    "Claude Fable 5.2 (Medium, Default Fallback)",
    "GPT-6.2 Sol (Xhigh)",
    "GPT-6 Astra (Xhigh)",
+   "Gemini 4 Neon (Medium)",
    "GPT-6.1 Sol (Xhigh)",
    "GPT-6.1 Sol (High)",
    "Claude Fable 5.1 (Max, Default Fallback)",
+   "Gemini 4 Neon (Low)",
    "Claude Fable 5.1 (Medium, Default Fallback)",
    "Claude Sonnet 5.5 (High, Default Fallback)",
    "Muse Wonder (High)",
-   "Claude Fable 5.1 (Low, Default Fallback)",
-   "Grok 4.7 (High)",
-   "Claude Haiku 5.5 (Xhigh)"
+   "Claude Fable 5.1 (Low, Default Fallback)"
   ],
   "arena_count": 8
  }
