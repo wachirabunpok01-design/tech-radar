@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-20T11:35+00:00",
+ "updated": "2026-11-20T20:14+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00",
+   "time": "2026-11-20T20:14+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   }
  },
  "tables": [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
-    "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
-    "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-    "67 คะแนน"
+    "Hurried Announcement: Alessandro Masullo GRH",
+    "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+    "628 คะแนน"
    ],
    [
-    "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "https://architectlabs.com/blog/frostbite",
-    "110 คะแนน"
+    "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+    "https://alpo.ge/remark.pdf",
+    "1975 คะแนน"
+   ],
+   [
+    "Language Models Can Rewrite Their Own Weights",
+    "https://arxiv.org/abs/2611.21885",
+    "241 คะแนน"
+   ],
+   [
+    "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+    "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+    "151 คะแนน"
+   ],
+   [
+    "We promoted developers into architects without informing them",
+    "https://manidoraisamy.com/developer-to-architect.html",
+    "91 คะแนน"
+   ],
+   [
+    "Finite-time blow-up for the Navier–Stokes equations",
+    "https://github.com/tristanbuckmaster/navier-stokes/",
+    "187 คะแนน"
+   ],
+   [
+    "Vibecoding an inference chip",
+    "https://ankitg.me/blog/vibecoding-inference-chip/",
+    "41 คะแนน"
    ],
    [
     "If you can't explain something in simple terms, you don't understand it (2017)",
     "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-    "33 คะแนน"
+    "531 คะแนน"
    ],
    [
-    "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-    "https://github.com/openssl/openssl/pull/33652",
-    "276 คะแนน"
+    "Winedroid – run Android apps without Android (WASM demo)",
+    "https://winedroid.soham.sh/demo/",
+    "16 คะแนน"
    ],
    [
-    "The Making of Oxygene",
-    "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-    "11 คะแนน"
+    "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "https://architectlabs.com/blog/frostbite",
+    "549 คะแนน"
    ],
    [
-    "The Strongest Sokoban Solver",
-    "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
-    "71 คะแนน"
+    "Signal Is Serious About Protecting Your Privacy",
+    "https://signal.org/blog/protecting-your-privacy/",
+    "370 คะแนน"
    ],
    [
-    "Show HN: Radiotherapy Delivery Demo",
-    "https://tps.neuralrad.com",
-    "5 คะแนน"
-   ],
-   [
-    "µ-Wire – USB on an ATtiny 10",
-    "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
-    "45 คะแนน"
-   ],
-   [
-    "FFmpeg 9.1 'Gauss'",
-    "https://ffmpeg.org/download.html#release_9.1",
-    "160 คะแนน"
-   ],
-   [
-    "Show HN: Tinnitus frequency finder and audio notch tool",
-    "https://trynotched.com/find",
-    "15 คะแนน"
-   ],
-   [
-    "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-    "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-    "114 คะแนน"
-   ],
-   [
-    "What people are building, discovered through new domains",
-    "https://startups.novumsignals.com/",
-    "8 คะแนน"
+    "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "https://news.ycombinator.com/item?id=50577613",
+    "66 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "erkamyaman/rust-anything",
      "https://github.com/erkamyaman/rust-anything",
-     "★5,923 Rust"
+     "★6,495 Rust"
     ],
     [
      "krisgfx9/Wireless-Device-Battery-Monitor",
      "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★4,943 C++"
+     "★5,200 C++"
     ],
     [
      "gylive/google-ultra",
      "https://github.com/gylive/google-ultra",
-     "★2,502 Python"
+     "★2,522 Python"
     ],
     [
      "Hut-hzf/ung220z-tool",
      "https://github.com/Hut-hzf/ung220z-tool",
-     "★1,898 Python"
+     "★1,989 Python"
     ],
     [
      "CzzzzzzJ/mdldm-maitian",
      "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "★1,680 JavaScript"
+     "★1,709 JavaScript"
     ],
     [
      "duwqijlk/muse-protocol",
      "https://github.com/duwqijlk/muse-protocol",
-     "★1,676 Python"
+     "★1,692 Python"
     ],
     [
      "haziqahmedqasmi/PeakCut",
      "https://github.com/haziqahmedqasmi/PeakCut",
-     "★1,459 Python"
-    ],
-    [
-     "sybil-solutions/inference-optimisation-skill",
-     "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "★1,286 Python"
-    ],
-    [
-     "joshpuckett/allo",
-     "https://github.com/joshpuckett/allo",
-     "★1,199 Python"
+     "★1,527 Python"
     ],
     [
      "bookwjitchieni1986/blender-ai-mcp-addon",
      "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "★1,014 "
+     "★1,487 "
+    ],
+    [
+     "sybil-solutions/inference-optimisation-skill",
+     "https://github.com/sybil-solutions/inference-optimisation-skill",
+     "★1,319 Python"
+    ],
+    [
+     "joshpuckett/allo",
+     "https://github.com/joshpuckett/allo",
+     "★1,243 Python"
     ]
    ],
    "by_lang": {
@@ -484,71 +484,71 @@
      [
       "gylive/google-ultra",
       "https://github.com/gylive/google-ultra",
-      "★2,502"
+      "★2,522"
      ],
      [
       "Hut-hzf/ung220z-tool",
       "https://github.com/Hut-hzf/ung220z-tool",
-      "★1,898"
+      "★1,989"
      ],
      [
       "duwqijlk/muse-protocol",
       "https://github.com/duwqijlk/muse-protocol",
-      "★1,676"
+      "★1,692"
      ],
      [
       "haziqahmedqasmi/PeakCut",
       "https://github.com/haziqahmedqasmi/PeakCut",
-      "★1,459"
+      "★1,527"
      ],
      [
       "sybil-solutions/inference-optimisation-skill",
       "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "★1,286"
+      "★1,319"
      ]
     ],
     "TypeScript": [
      [
       "replit/datacat",
       "https://github.com/replit/datacat",
-      "★434"
+      "★458"
      ],
      [
       "johnlindquist/pi-emphasis",
       "https://github.com/johnlindquist/pi-emphasis",
-      "★257"
+      "★262"
      ],
      [
       "dmitrykurash/holospot",
       "https://github.com/dmitrykurash/holospot",
-      "★189"
+      "★196"
      ],
      [
       "joeseesun/subcast",
       "https://github.com/joeseesun/subcast",
-      "★187"
+      "★189"
      ],
      [
-      "nasir63425-art/tiktok-scraper",
-      "https://github.com/nasir63425-art/tiktok-scraper",
-      "★155"
+      "govijr/fix-storage",
+      "https://github.com/govijr/fix-storage",
+      "★173"
      ]
     ],
     "Rust": [
      [
       "erkamyaman/rust-anything",
       "https://github.com/erkamyaman/rust-anything",
-      "★5,923"
+      "★6,495"
      ],
      [
       "Lemxy/WinRust",
       "https://github.com/Lemxy/WinRust",
-      "★578"
+      "★697"
      ],
      [
       "davidondrej/superbot",
       "https://github.com/davidondrej/superbot",
-      "★383"
+      "★391"
      ],
      [
       "tremorbuffalospire/IPTV_Player_2.0",
@@ -592,22 +592,22 @@
      [
       "yetanotherbrowser/yab",
       "https://github.com/yetanotherbrowser/yab",
-      "★748"
+      "★758"
      ],
      [
       "lishuangqiang/mixbar",
       "https://github.com/lishuangqiang/mixbar",
-      "★267"
+      "★303"
      ],
      [
       "Kianuni/Camlo",
       "https://github.com/Kianuni/Camlo",
-      "★248"
+      "★258"
      ],
      [
       "fedesanchez0/shader-lab",
       "https://github.com/fedesanchez0/shader-lab",
-      "★195"
+      "★197"
      ],
      [
       "cnrad/interspace",
@@ -621,59 +621,59 @@
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥3787"
-   ],
-   [
-    "apple/FastFrames-L",
-    "https://huggingface.co/apple/FastFrames-L",
-    "♥367"
-   ],
-   [
-    "inworld/voice-isolator",
-    "https://huggingface.co/inworld/voice-isolator",
-    "♥316"
+    "♥4909"
    ],
    [
     "harness-hub/Qwen3.8-27B-pi-adapted",
     "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥781"
+    "♥852"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20715"
-   ],
-   [
-    "maxwell-model/Maxwell-V1-Flash",
-    "https://huggingface.co/maxwell-model/Maxwell-V1-Flash",
-    "♥301"
-   ],
-   [
-    "MiniMaxAI/MiniMax-H3-Image",
-    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1664"
+    "♥20789"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12781"
+    "♥12860"
    ],
    [
-    "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-    "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-    "♥708"
+    "MiniMaxAI/MiniMax-H3-Image",
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+    "♥1698"
    ],
    [
     "tencent/Hy4-flash",
     "https://huggingface.co/tencent/Hy4-flash",
-    "♥479"
+    "♥531"
+   ],
+   [
+    "sensenova/SenseNova-Loop-9B",
+    "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+    "♥437"
+   ],
+   [
+    "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+    "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+    "♥759"
+   ],
+   [
+    "inworld/voice-isolator",
+    "https://huggingface.co/inworld/voice-isolator",
+    "♥486"
+   ],
+   [
+    "apple/FastFrames-L",
+    "https://huggingface.co/apple/FastFrames-L",
+    "♥485"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "273,970,923 /สัปดาห์"
+    "275,243,399 /สัปดาห์"
    ],
    [
     "vue",
@@ -693,7 +693,7 @@
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,462,534 /สัปดาห์"
+    "8,492,071 /สัปดาห์"
    ],
    [
     "next",
@@ -723,6 +723,26 @@
   ],
   "kev": [
    [
+    "CVE-2026-129448 Apache Roller",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-129448",
+    "เพิ่มเมื่อ 2026-11-20"
+   ],
+   [
+    "CVE-2026-123890 Broadcom VMware vCenter",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
+    "เพิ่มเมื่อ 2026-11-20"
+   ],
+   [
+    "CVE-2025-42884 SAP NetWeaver",
+    "https://nvd.nist.gov/vuln/detail/CVE-2025-42884",
+    "เพิ่มเมื่อ 2026-11-20"
+   ],
+   [
+    "CVE-2026-76466 Cisco Expressway Series",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-76466",
+    "เพิ่มเมื่อ 2026-11-20"
+   ],
+   [
     "CVE-2024-10441 Synology DiskStation Manager (DSM)",
     "https://nvd.nist.gov/vuln/detail/CVE-2024-10441",
     "เพิ่มเมื่อ 2026-11-18"
@@ -751,26 +771,6 @@
     "CVE-2026-114713 UnrealIRCd UnrealIRCd",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
     "เพิ่มเมื่อ 2026-11-13"
-   ],
-   [
-    "CVE-2026-123039 Check Point Multiple Products",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
-    "เพิ่มเมื่อ 2026-11-13"
-   ],
-   [
-    "CVE-2026-124194 Microsoft Office",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-124194",
-    "เพิ่มเมื่อ 2026-11-10"
-   ],
-   [
-    "CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-111793",
-    "เพิ่มเมื่อ 2026-11-10"
-   ],
-   [
-    "CVE-2026-20320 Cisco BroadWorks",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-20320",
-    "เพิ่มเมื่อ 2026-11-10"
    ]
   ],
   "epss": [
@@ -833,12 +833,11 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 17,
+    "score": 16,
     "hits": [
      "multimodal",
      "vision",
-     "image",
-     "audio"
+     "image"
     ],
     "heat": 100
    },
@@ -873,10 +872,18 @@
     "heat": 60
    },
    {
-    "name": "Security / Exploit awareness",
+    "name": "RAG / Knowledge",
     "score": 1,
     "hits": [
-     "cve"
+     "rag"
+    ],
+    "heat": 12
+   },
+   {
+    "name": "Infra / Platforms",
+    "score": 1,
+    "hits": [
+     "wasm"
     ],
     "heat": 12
    }
@@ -971,7 +978,7 @@
    },
    {
     "tier": "caution",
-    "title": "CVE-2024-10441 Synology DiskStation Manager (DSM)",
+    "title": "CVE-2026-129448 Apache Roller",
     "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
     "tags": [
      "security",
@@ -985,27 +992,23 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "theme_up",
-    "text": "ธีมขึ้นแรง: Security / Exploit awareness"
-   },
-   {
     "kind": "dim",
     "text": "ผู้นำมิติ search เปลี่ยน: Qwen3.8-Max → Amazon-Web-Search-Agent"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars"
+    "text": "HN ใหม่ในท็อป: Hurried Announcement: Alessandro Masullo GRH"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Frostbite: A new CPU architecture discovered, designed and verified by AI"
+    "text": "HN ใหม่ในท็อป: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: If you can't explain something in simple terms, you don't understand it (2017)"
+    "text": "HN ใหม่ในท็อป: Language Models Can Rewrite Their Own Weights"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 5 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1021,7 +1024,7 @@
     "AI Agents / Tool use",
     "Coding assistants",
     "Open-weight / Local models",
-    "Security / Exploit awareness"
+    "RAG / Knowledge"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1041,11 +1044,11 @@
     "OpenAI: GPT-6.2 Astra Pro (batch)"
    ],
    "hn_top": [
-    "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
-    "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "If you can't explain something in simple terms, you don't understand it (2017)",
-    "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-    "The Making of Oxygene"
+    "Hurried Announcement: Alessandro Masullo GRH",
+    "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+    "Language Models Can Rewrite Their Own Weights",
+    "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+    "We promoted developers into architects without informing them"
    ]
   },
   "year": 2026,
@@ -2183,13 +2186,13 @@
       "modality": "text+image+file->text"
      },
      {
-      "name": "Xiaomi: MiMo-V2.6-Flash",
-      "org": "xiaomi",
-      "url": "https://openrouter.ai/xiaomi/mimo-v2.6-flash",
-      "note": "context 1,050,000 · ~$0.18/ล้านผสม · text+image+audio+video->text",
+      "name": "OpenAI: GPT-6 Luna Pro",
+      "org": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6-luna-pro",
+      "note": "context 1,050,000 · ~$0.20/ล้านผสม · text+image+file->text",
       "context": 1050000,
-      "blended": 0.17500000000000002,
-      "modality": "text+image+audio+video->text"
+      "blended": 0.2,
+      "modality": "text+image+file->text"
      }
     ]
    },

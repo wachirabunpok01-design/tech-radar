@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:35+00:00",
+ "updated": "2026-11-20T20:14+00:00",
  "snapshot": {
   "ai_top": [
    "Claude Opus 5.5 (Max, Default Fallback)",
@@ -13,7 +13,7 @@
    "AI Agents / Tool use",
    "Coding assistants",
    "Open-weight / Local models",
-   "Security / Exploit awareness"
+   "RAG / Knowledge"
   ],
   "dim_leaders": [
    "text:Gemini 4 Carbon (High)",
@@ -33,11 +33,11 @@
    "OpenAI: GPT-6.2 Astra Pro (batch)"
   ],
   "hn_top": [
-   "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
-   "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-   "If you can't explain something in simple terms, you don't understand it (2017)",
-   "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-   "The Making of Oxygene"
+   "Hurried Announcement: Alessandro Masullo GRH",
+   "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+   "Language Models Can Rewrite Their Own Weights",
+   "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+   "We promoted developers into architects without informing them"
   ]
  },
  "trends": {
@@ -46,12 +46,11 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 17,
+    "score": 16,
     "hits": [
      "multimodal",
      "vision",
-     "image",
-     "audio"
+     "image"
     ],
     "heat": 100
    },
@@ -86,10 +85,18 @@
     "heat": 60
    },
    {
-    "name": "Security / Exploit awareness",
+    "name": "RAG / Knowledge",
     "score": 1,
     "hits": [
-     "cve"
+     "rag"
+    ],
+    "heat": 12
+   },
+   {
+    "name": "Infra / Platforms",
+    "score": 1,
+    "hits": [
+     "wasm"
     ],
     "heat": 12
    }
@@ -184,7 +191,7 @@
    },
    {
     "tier": "caution",
-    "title": "CVE-2024-10441 Synology DiskStation Manager (DSM)",
+    "title": "CVE-2026-129448 Apache Roller",
     "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
     "tags": [
      "security",
@@ -197,56 +204,56 @@
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00",
+   "time": "2026-11-20T20:14+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-20T11:35+00:00"
+   "time": "2026-11-20T20:14+00:00"
   }
  }
 }
