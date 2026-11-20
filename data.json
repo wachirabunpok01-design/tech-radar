@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-19T20:33+00:00",
+ "updated": "2026-11-20T02:18+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00",
+   "time": "2026-11-20T02:18+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-19T20:33+00:00"
+   "time": "2026-11-20T02:18+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-19",
+   "date": "ดึงเมื่อ 2026-11-20",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
-    "Anthropic hits $2T in Nasdaq debut",
+    "Anthropic’s Nasdaq debut",
     "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-    "534 คะแนน"
+    "924 คะแนน"
+   ],
+   [
+    "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "https://git-aarvin.github.io/mei/",
+    "125 คะแนน"
+   ],
+   [
+    "Pancreatic cancer halted by virus injection in three patients",
+    "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+    "603 คะแนน"
    ],
    [
     "Claude solves two open problems in the physics of black holes",
     "https://www.anthropic.com/research/claude-black-hole-physics",
-    "233 คะแนน"
+    "398 คะแนน"
    ],
    [
-    "Pancreatic cancer halted by virus injection in three patients",
-    "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-    "167 คะแนน"
+    "How to CAD Almost Anything",
+    "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+    "137 คะแนน"
    ],
    [
-    "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-    "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-    "56 คะแนน"
+    "Synology Security Advisory",
+    "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+    "106 คะแนน"
    ],
    [
     "Garage Door Spam",
     "https://blog.harrison.page/garage-door-spam/",
-    "618 คะแนน"
+    "762 คะแนน"
    ],
    [
-    "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-    "https://cornholenews.news",
-    "129 คะแนน"
+    "RegExr: Temporarily Offline",
+    "https://regexr.com/",
+    "52 คะแนน"
    ],
    [
-    "UK government forced to admit it issued Apple a secret encryption order",
-    "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-    "300 คะแนน"
-   ],
-   [
-    "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-    "https://github.com/onlook-dev/onlook/",
-    "55 คะแนน"
+    "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+    "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+    "207 คะแนน"
    ],
    [
     "Someone reported java4shell bug in September 2026",
     "https://github.com/openjdk/jdk/pull/32781",
-    "263 คะแนน"
+    "373 คะแนน"
    ],
    [
     "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
     "https://www.youtube.com/watch?v=lwfewYL7X0o",
-    "23 คะแนน"
+    "78 คะแนน"
    ],
    [
-    "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-    "https://thedataexchange.media/pete-warden-moonshine/",
-    "170 คะแนน"
-   ],
-   [
-    "Making 8-page foldable zines from a single A4 sheet in the browser",
-    "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-    "169 คะแนน"
+    "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+    "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+    "96 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "erkamyaman/rust-anything",
      "https://github.com/erkamyaman/rust-anything",
-     "★4,987 Rust"
+     "★5,286 Rust"
     ],
     [
      "krisgfx9/Wireless-Device-Battery-Monitor",
      "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★4,586 C++"
+     "★4,693 C++"
     ],
     [
      "gylive/google-ultra",
      "https://github.com/gylive/google-ultra",
-     "★2,437 Python"
+     "★2,454 Python"
     ],
     [
      "Hut-hzf/ung220z-tool",
      "https://github.com/Hut-hzf/ung220z-tool",
-     "★1,720 Python"
+     "★1,769 Python"
     ],
     [
      "duwqijlk/muse-protocol",
      "https://github.com/duwqijlk/muse-protocol",
-     "★1,654 Python"
+     "★1,656 Python"
     ],
     [
      "CzzzzzzJ/mdldm-maitian",
      "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "★1,594 JavaScript"
+     "★1,613 JavaScript"
     ],
     [
      "haziqahmedqasmi/PeakCut",
      "https://github.com/haziqahmedqasmi/PeakCut",
-     "★1,318 Python"
+     "★1,347 Python"
     ],
     [
      "sybil-solutions/inference-optimisation-skill",
      "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "★1,248 Python"
+     "★1,266 Python"
     ],
     [
      "joshpuckett/allo",
      "https://github.com/joshpuckett/allo",
-     "★1,140 Python"
+     "★1,157 Python"
     ],
     [
-     "zephyr4123/snug",
-     "https://github.com/zephyr4123/snug",
-     "★1,090 Swift"
+     "chuanqisun/spaceship",
+     "https://github.com/chuanqisun/spaceship",
+     "★948 HTML"
     ]
    ],
    "by_lang": {
@@ -484,71 +484,66 @@
      [
       "gylive/google-ultra",
       "https://github.com/gylive/google-ultra",
-      "★2,437"
+      "★2,454"
      ],
      [
       "Hut-hzf/ung220z-tool",
       "https://github.com/Hut-hzf/ung220z-tool",
-      "★1,720"
+      "★1,769"
      ],
      [
       "duwqijlk/muse-protocol",
       "https://github.com/duwqijlk/muse-protocol",
-      "★1,654"
+      "★1,656"
      ],
      [
       "haziqahmedqasmi/PeakCut",
       "https://github.com/haziqahmedqasmi/PeakCut",
-      "★1,318"
+      "★1,347"
      ],
      [
       "sybil-solutions/inference-optimisation-skill",
       "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "★1,248"
+      "★1,266"
      ]
     ],
     "TypeScript": [
      [
-      "opencoredev/islandcn",
-      "https://github.com/opencoredev/islandcn",
-      "★820"
-     ],
-     [
-      "ysunyang4/Nexus",
-      "https://github.com/ysunyang4/Nexus",
-      "★431"
-     ],
-     [
-      "Forward-Future/scarlet",
-      "https://github.com/Forward-Future/scarlet",
-      "★377"
-     ],
-     [
       "replit/datacat",
       "https://github.com/replit/datacat",
-      "★373"
+      "★413"
      ],
      [
-      "EunChae1110/mmforge-platform",
-      "https://github.com/EunChae1110/mmforge-platform",
-      "★347"
+      "johnlindquist/pi-emphasis",
+      "https://github.com/johnlindquist/pi-emphasis",
+      "★254"
+     ],
+     [
+      "dmitrykurash/holospot",
+      "https://github.com/dmitrykurash/holospot",
+      "★184"
+     ],
+     [
+      "joeseesun/subcast",
+      "https://github.com/joeseesun/subcast",
+      "★180"
+     ],
+     [
+      "aburhabanas-sketch/signal-bot-client",
+      "https://github.com/aburhabanas-sketch/signal-bot-client",
+      "★155"
      ]
     ],
     "Rust": [
      [
       "erkamyaman/rust-anything",
       "https://github.com/erkamyaman/rust-anything",
-      "★4,987"
+      "★5,286"
      ],
      [
-      "quer3q/kraken-mount",
-      "https://github.com/quer3q/kraken-mount",
-      "★546"
-     ],
-     [
-      "Illson/RustText",
-      "https://github.com/Illson/RustText",
-      "★403"
+      "Lemxy/WinRust",
+      "https://github.com/Lemxy/WinRust",
+      "★417"
      ],
      [
       "tremorbuffalospire/IPTV_Player_2.0",
@@ -559,6 +554,11 @@
       "TorrentArrow/IPTV_Player_2.0",
       "https://github.com/TorrentArrow/IPTV_Player_2.0",
       "★375"
+     ],
+     [
+      "davidondrej/superbot",
+      "https://github.com/davidondrej/superbot",
+      "★371"
      ]
     ],
     "Go": [
@@ -590,29 +590,29 @@
     ],
     "Swift": [
      [
-      "zephyr4123/snug",
-      "https://github.com/zephyr4123/snug",
-      "★1,090"
-     ],
-     [
       "yetanotherbrowser/yab",
       "https://github.com/yetanotherbrowser/yab",
-      "★735"
-     ],
-     [
-      "oneamendez/crate-ios",
-      "https://github.com/oneamendez/crate-ios",
-      "★460"
-     ],
-     [
-      "Kianuni/Camlo",
-      "https://github.com/Kianuni/Camlo",
-      "★233"
+      "★738"
      ],
      [
       "lishuangqiang/mixbar",
       "https://github.com/lishuangqiang/mixbar",
-      "★221"
+      "★240"
+     ],
+     [
+      "Kianuni/Camlo",
+      "https://github.com/Kianuni/Camlo",
+      "★235"
+     ],
+     [
+      "fedesanchez0/shader-lab",
+      "https://github.com/fedesanchez0/shader-lab",
+      "★194"
+     ],
+     [
+      "cnrad/interspace",
+      "https://github.com/cnrad/interspace",
+      "★178"
      ]
     ]
    }
@@ -621,37 +621,37 @@
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥3578"
+    "♥3646"
    ],
    [
     "tencent/Hy4-flash",
     "https://huggingface.co/tencent/Hy4-flash",
-    "♥332"
+    "♥348"
    ],
    [
     "apple/FastFrames-L",
     "https://huggingface.co/apple/FastFrames-L",
-    "♥317"
-   ],
-   [
-    "Qwen/Qwen3.8-27B",
-    "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20669"
+    "♥336"
    ],
    [
     "harness-hub/Qwen3.8-27B-pi-adapted",
     "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥720"
+    "♥741"
    ],
    [
-    "MiniMaxAI/MiniMax-H3-Image",
-    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1642"
+    "Qwen/Qwen3.8-27B",
+    "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "♥20683"
    ],
    [
     "inworld/voice-isolator",
     "https://huggingface.co/inworld/voice-isolator",
-    "♥233"
+    "♥269"
+   ],
+   [
+    "MiniMaxAI/MiniMax-H3-Image",
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+    "♥1650"
    ],
    [
     "maxwell-model/Maxwell-V1-Flash",
@@ -661,12 +661,12 @@
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12726"
+    "♥12745"
    ],
    [
-    "thinkingmachines/Inkling-2-Small",
-    "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-    "♥580"
+    "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+    "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+    "♥693"
    ]
   ],
   "npm": [
@@ -833,7 +833,7 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 16,
+    "score": 17,
     "hits": [
      "multimodal",
      "vision",
@@ -868,7 +868,6 @@
     "name": "Open-weight / Local models",
     "score": 5,
     "hits": [
-     "open-source",
      "qwen"
     ],
     "heat": 60
@@ -986,23 +985,15 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "theme_up",
-    "text": "ธีมขึ้นแรง: RAG / Knowledge"
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Anthropic’s Nasdaq debut"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Anthropic hits $2T in Nasdaq debut"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Claude solves two open problems in the physics of black holes"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Pancreatic cancer halted by virus injection in three patients"
+    "text": "HN ใหม่ในท็อป: Gemini 4 Neon is the new #1 on the Models Engineering Index"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 2 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1038,11 +1029,11 @@
     "OpenAI: GPT-6.2 Astra"
    ],
    "hn_top": [
-    "Anthropic hits $2T in Nasdaq debut",
-    "Claude solves two open problems in the physics of black holes",
+    "Anthropic’s Nasdaq debut",
+    "Gemini 4 Neon is the new #1 on the Models Engineering Index",
     "Pancreatic cancer halted by virus injection in three patients",
-    "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-    "Garage Door Spam"
+    "Claude solves two open problems in the physics of black holes",
+    "How to CAD Almost Anything"
    ]
   },
   "year": 2026,
@@ -2135,7 +2126,7 @@
     "tip": "เหมาะงานเอกสารยาว / codebase ใหญ่",
     "items": [
      {
-      "name": "SpaceXAI: Grok 4.20 Multi-Agent",
+      "name": "SpaceXSI: Grok 4.20 Multi-Agent",
       "org": "x-ai",
       "url": "https://openrouter.ai/x-ai/grok-4.20-multi-agent",
       "note": "context 2,000,000 · ~$1.56/ล้านผสม · text+image+file->text",
@@ -2144,7 +2135,7 @@
       "modality": "text+image+file->text"
      },
      {
-      "name": "SpaceXAI: Grok 4.20",
+      "name": "SpaceXSI: Grok 4.20",
       "org": "x-ai",
       "url": "https://openrouter.ai/x-ai/grok-4.20",
       "note": "context 2,000,000 · ~$1.56/ล้านผสม · text+image+file->text",
