@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-21T10:58+00:00",
+ "updated": "2026-11-21T19:13+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00",
+   "time": "2026-11-21T19:13+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-21T10:58+00:00"
+   "time": "2026-11-21T19:13+00:00"
   }
  },
  "tables": [
@@ -316,7 +316,7 @@
    [
     "Thinking Machines: Inkling 2 Mini",
     "https://openrouter.ai/thinkingmachines/inkling-2-mini",
-    "2026-11-21 · context 1,048,576 · $0.10 / $0.40 ต่อล้าน tokens"
+    "2026-11-21 · context 1,048,576 · $0.07 / $0.30 ต่อล้าน tokens"
    ],
    [
     "RadixArk: DaisyRose 27B",
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
+    "Inkling-2-Mini in 5.4 GB Memory",
+    "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "69 คะแนน"
+   ],
+   [
+    "Detonating a pile of lead azide",
+    "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "381 คะแนน"
+   ],
+   [
+    "Lean verification of the Riemann Hypothesis",
+    "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "510 คะแนน"
+   ],
+   [
+    "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+    "523 คะแนน"
+   ],
+   [
+    "PostgreSQL Extensions in Go",
+    "https://jespino.github.io/gopgext/",
+    "58 คะแนน"
+   ],
+   [
+    "My monitor was cutting my download speed by 75%",
+    "https://blog.tymscar.com/posts/studiodisplayethernet/",
+    "320 คะแนน"
+   ],
+   [
     "Hurried Announcement: Alessandro Masullo GRH",
     "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-    "2104 คะแนน"
+    "2328 คะแนน"
+   ],
+   [
+    "Verification files for the Lean proof of the Riemann Hypothesis",
+    "https://math.mit.edu/~drew/grh/",
+    "36 คะแนน"
    ],
    [
     "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
     "https://alpo.ge/remark.pdf",
-    "2657 คะแนน"
+    "2828 คะแนน"
+   ],
+   [
+    "I'm quite pleased by the tech architecture of my art website",
+    "https://klauria.tech/klauria-art/",
+    "89 คะแนน"
    ],
    [
     "Inkling 2 Mini",
     "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "1026 คะแนน"
-   ],
-   [
-    "ClawDOS – An AI coding agent for DOS",
-    "http://ricapar.net/ClawDOS/",
-    "71 คะแนน"
-   ],
-   [
-    "We promoted developers into architects without informing them",
-    "https://manidoraisamy.com/developer-to-architect.html",
-    "443 คะแนน"
-   ],
-   [
-    "Surprisingly Adorable Insect Portraits",
-    "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-    "50 คะแนน"
-   ],
-   [
-    "NINLIVE: The Nine Inch Nails live archive",
-    "https://ninlive.com/",
-    "267 คะแนน"
-   ],
-   [
-    "Clojure will affect the way you think about programming (2017)",
-    "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-    "104 คะแนน"
-   ],
-   [
-    "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-    "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-    "452 คะแนน"
-   ],
-   [
-    "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-    "https://news.ycombinator.com/item?id=50583761",
-    "214 คะแนน"
+    "1270 คะแนน"
    ],
    [
     "RCE in Gnupg",
     "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-    "15 คะแนน"
-   ],
-   [
-    "Sir Brian May adds new dimension to Hera asteroid",
-    "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-    "115 คะแนน"
+    "181 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "erkamyaman/rust-anything",
      "https://github.com/erkamyaman/rust-anything",
-     "★6,975 Rust"
+     "★7,277 Rust"
     ],
     [
      "krisgfx9/Wireless-Device-Battery-Monitor",
      "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★5,549 C++"
+     "★5,746 C++"
     ],
     [
      "gylive/google-ultra",
      "https://github.com/gylive/google-ultra",
-     "★2,561 Python"
+     "★2,587 Python"
     ],
     [
      "Hut-hzf/ung220z-tool",
      "https://github.com/Hut-hzf/ung220z-tool",
-     "★2,141 Python"
+     "★2,210 Python"
     ],
     [
      "bookwjitchieni1986/blender-ai-mcp-addon",
      "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "★1,909 "
+     "★2,141 "
     ],
     [
      "iamajmeena/neonclipping",
      "https://github.com/iamajmeena/neonclipping",
-     "★1,474 Python"
+     "★1,699 Python"
+    ],
+    [
+     "ItsNotRexed/Leonida",
+     "https://github.com/ItsNotRexed/Leonida",
+     "★1,525 Python"
     ],
     [
      "sybil-solutions/inference-optimisation-skill",
      "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "★1,405 Python"
+     "★1,455 Python"
     ],
     [
      "joshpuckett/allo",
      "https://github.com/joshpuckett/allo",
-     "★1,278 Python"
+     "★1,310 Python"
     ],
     [
      "chuanqisun/spaceship",
      "https://github.com/chuanqisun/spaceship",
-     "★1,003 HTML"
-    ],
-    [
-     "siliconjungle/shapeshift-labs-ink-studio",
-     "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-     "★901 JavaScript"
+     "★1,014 HTML"
     ]
    ],
    "by_lang": {
@@ -484,66 +484,71 @@
      [
       "gylive/google-ultra",
       "https://github.com/gylive/google-ultra",
-      "★2,561"
+      "★2,587"
      ],
      [
       "Hut-hzf/ung220z-tool",
       "https://github.com/Hut-hzf/ung220z-tool",
-      "★2,141"
+      "★2,210"
      ],
      [
       "iamajmeena/neonclipping",
       "https://github.com/iamajmeena/neonclipping",
-      "★1,474"
+      "★1,699"
+     ],
+     [
+      "ItsNotRexed/Leonida",
+      "https://github.com/ItsNotRexed/Leonida",
+      "★1,525"
      ],
      [
       "sybil-solutions/inference-optimisation-skill",
       "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "★1,405"
-     ],
-     [
-      "joshpuckett/allo",
-      "https://github.com/joshpuckett/allo",
-      "★1,278"
+      "★1,455"
      ]
     ],
     "TypeScript": [
      [
       "replit/datacat",
       "https://github.com/replit/datacat",
-      "★479"
+      "★491"
      ],
      [
       "johnlindquist/pi-emphasis",
       "https://github.com/johnlindquist/pi-emphasis",
-      "★267"
+      "★269"
      ],
      [
       "INK-Q/agy-fast",
       "https://github.com/INK-Q/agy-fast",
-      "★224"
+      "★245"
      ],
      [
       "dmitrykurash/holospot",
       "https://github.com/dmitrykurash/holospot",
-      "★199"
+      "★203"
      ],
      [
       "joeseesun/subcast",
       "https://github.com/joeseesun/subcast",
-      "★193"
+      "★195"
      ]
     ],
     "Rust": [
      [
       "erkamyaman/rust-anything",
       "https://github.com/erkamyaman/rust-anything",
-      "★6,975"
+      "★7,277"
      ],
      [
       "Lemxy/WinRust",
       "https://github.com/Lemxy/WinRust",
-      "★839"
+      "★921"
+     ],
+     [
+      "omonkeyz/xbox-emulator",
+      "https://github.com/omonkeyz/xbox-emulator",
+      "★480"
      ],
      [
       "davidondrej/superbot",
@@ -553,61 +558,56 @@
      [
       "scarletkc/colab-playground",
       "https://github.com/scarletkc/colab-playground",
-      "★307"
-     ],
-     [
-      "leostera/git-twig",
-      "https://github.com/leostera/git-twig",
-      "★271"
+      "★309"
      ]
     ],
     "Go": [
      [
       "TurtleReside/Gemini-Config-Checker-",
       "https://github.com/TurtleReside/Gemini-Config-Checker-",
-      "★472"
-     ],
-     [
-      "WerewolfEmuHub/Gemini-Config-Checker-",
-      "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
-      "★472"
+      "★470"
      ],
      [
       "Violetnyudress/Gemini-Config-Checker-",
       "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-      "★472"
-     ],
-     [
-      "wisemeadowlarkspike/Gemini-Config-Checker-",
-      "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
-      "★472"
+      "★470"
      ],
      [
       "VisionWormStudio/Gemini-Config-Checker-",
       "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
-      "★472"
+      "★470"
+     ],
+     [
+      "WerewolfEmuHub/Gemini-Config-Checker-",
+      "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
+      "★469"
+     ],
+     [
+      "wisemeadowlarkspike/Gemini-Config-Checker-",
+      "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
+      "★469"
      ]
     ],
     "Swift": [
      [
       "lishuangqiang/mixbar",
       "https://github.com/lishuangqiang/mixbar",
-      "★319"
+      "★326"
      ],
      [
       "Kianuni/Camlo",
       "https://github.com/Kianuni/Camlo",
-      "★266"
+      "★270"
      ],
      [
       "fedesanchez0/shader-lab",
       "https://github.com/fedesanchez0/shader-lab",
-      "★199"
+      "★201"
      ],
      [
       "cnrad/interspace",
       "https://github.com/cnrad/interspace",
-      "★183"
+      "★185"
      ],
      [
       "andyhuo520/beanpod",
@@ -621,52 +621,52 @@
    [
     "thinkingmachines/Inkling-2-Mini",
     "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-    "♥1148"
-   ],
-   [
-    "higurashi-ai/Haru-4B",
-    "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥5718"
-   ],
-   [
-    "harness-hub/Qwen3.8-27B-pi-adapted",
-    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥842"
-   ],
-   [
-    "Sentinel7/h3",
-    "https://huggingface.co/Sentinel7/h3",
-    "♥592"
-   ],
-   [
-    "tencent/Hy4-flash",
-    "https://huggingface.co/tencent/Hy4-flash",
-    "♥558"
-   ],
-   [
-    "Lightricks/LTX-2.5",
-    "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12848"
+    "♥1961"
    ],
    [
     "unsloth/Inkling-2-Mini-GGUF",
     "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-    "♥372"
+    "♥528"
+   ],
+   [
+    "tencent/Hy4-flash",
+    "https://huggingface.co/tencent/Hy4-flash",
+    "♥516"
+   ],
+   [
+    "Lightricks/LTX-2.5",
+    "https://huggingface.co/Lightricks/LTX-2.5",
+    "♥12909"
    ],
    [
     "inworld/voice-isolator",
     "https://huggingface.co/inworld/voice-isolator",
-    "♥516"
+    "♥477"
+   ],
+   [
+    "apple/FastFrames-L",
+    "https://huggingface.co/apple/FastFrames-L",
+    "♥470"
+   ],
+   [
+    "harness-hub/Qwen3.8-27B-pi-adapted",
+    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+    "♥913"
+   ],
+   [
+    "higurashi-ai/Haru-4B",
+    "https://huggingface.co/higurashi-ai/Haru-4B",
+    "♥828"
    ],
    [
     "meituan-longcat/LongCat-Video-Avatar-1.6",
     "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
-    "♥399"
+    "♥362"
    ],
    [
     "n4ze3m/tiny-voca",
     "https://huggingface.co/n4ze3m/tiny-voca",
-    "♥391"
+    "♥350"
    ]
   ],
   "npm": [
@@ -782,7 +782,7 @@
    [
     "CVE-2026-9999",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-9999",
-    "EPSS 0.002"
+    "EPSS 0.003"
    ],
    [
     "CVE-2026-9998",
@@ -844,7 +844,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 13,
+    "score": 12,
     "hits": [
      "agent",
      "agents",
@@ -866,11 +866,12 @@
    },
    {
     "name": "Open-weight / Local models",
-    "score": 2,
+    "score": 3,
     "hits": [
+     "open-source",
      "qwen"
     ],
-    "heat": 24
+    "heat": 36
    }
   ],
   "recommendations": [
@@ -978,10 +979,18 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Inkling 2 Mini"
+    "text": "HN ใหม่ในท็อป: Inkling-2-Mini in 5.4 GB Memory"
+   },
+   {
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Detonating a pile of lead azide"
+   },
+   {
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Lean verification of the Riemann Hypothesis"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 1 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1016,11 +1025,11 @@
     "Google: Gemini 4 Neon (batch)"
    ],
    "hn_top": [
-    "Hurried Announcement: Alessandro Masullo GRH",
-    "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-    "Inkling 2 Mini",
-    "ClawDOS – An AI coding agent for DOS",
-    "We promoted developers into architects without informing them"
+    "Inkling-2-Mini in 5.4 GB Memory",
+    "Detonating a pile of lead azide",
+    "Lean verification of the Riemann Hypothesis",
+    "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+    "PostgreSQL Extensions in Go"
    ]
   },
   "year": 2026,
