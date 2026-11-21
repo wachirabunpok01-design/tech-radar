@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-21T02:12+00:00",
+ "updated": "2026-11-21T10:58+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00",
+   "time": "2026-11-21T10:58+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   }
  },
  "tables": [
@@ -314,6 +314,11 @@
  "live": {
   "or": [
    [
+    "Thinking Machines: Inkling 2 Mini",
+    "https://openrouter.ai/thinkingmachines/inkling-2-mini",
+    "2026-11-21 · context 1,048,576 · $0.10 / $0.40 ต่อล้าน tokens"
+   ],
+   [
     "RadixArk: DaisyRose 27B",
     "https://openrouter.ai/radixark/daisyrose-27b",
     "2026-11-21 · context 262,144 · $0.15 / $1.88 ต่อล้าน tokens"
@@ -357,73 +362,68 @@
     "OpenAI: GPT-6.2 Sol Pro",
     "https://openrouter.ai/openai/gpt-6.2-sol-pro",
     "2026-11-17 · context 1,050,000 · $2.00 / $10.00 ต่อล้าน tokens"
-   ],
-   [
-    "OpenAI: GPT-6.2 Sol Pro (batch)",
-    "https://openrouter.ai/openai/gpt-6.2-sol-pro:batch",
-    "2026-11-17 · context 1,050,000 · $1.00 / $5.00 ต่อล้าน tokens"
    ]
   ],
   "hn": [
    [
     "Hurried Announcement: Alessandro Masullo GRH",
     "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-    "1592 คะแนน"
-   ],
-   [
-    "Inkling 2 Mini",
-    "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "694 คะแนน"
+    "2104 คะแนน"
    ],
    [
     "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
     "https://alpo.ge/remark.pdf",
-    "2381 คะแนน"
+    "2657 คะแนน"
    ],
    [
-    "NINLIVE: The Nine Inch Nails live archive",
-    "https://ninlive.com/",
-    "130 คะแนน"
+    "Inkling 2 Mini",
+    "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "1026 คะแนน"
+   ],
+   [
+    "ClawDOS – An AI coding agent for DOS",
+    "http://ricapar.net/ClawDOS/",
+    "71 คะแนน"
    ],
    [
     "We promoted developers into architects without informing them",
     "https://manidoraisamy.com/developer-to-architect.html",
-    "309 คะแนน"
+    "443 คะแนน"
+   ],
+   [
+    "Surprisingly Adorable Insect Portraits",
+    "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+    "50 คะแนน"
+   ],
+   [
+    "NINLIVE: The Nine Inch Nails live archive",
+    "https://ninlive.com/",
+    "267 คะแนน"
+   ],
+   [
+    "Clojure will affect the way you think about programming (2017)",
+    "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+    "104 คะแนน"
    ],
    [
     "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
     "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-    "347 คะแนน"
+    "452 คะแนน"
    ],
    [
-    "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-    "https://valkey.io/blog/from-skiplist-to-b+tree/",
-    "38 คะแนน"
+    "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+    "https://news.ycombinator.com/item?id=50583761",
+    "214 คะแนน"
    ],
    [
-    "Language Models Can Rewrite Their Own Weights",
-    "https://arxiv.org/abs/2611.21885",
-    "343 คะแนน"
+    "RCE in Gnupg",
+    "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+    "15 คะแนน"
    ],
    [
     "Sir Brian May adds new dimension to Hera asteroid",
     "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-    "38 คะแนน"
-   ],
-   [
-    "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-    "https://www.masteringemacs.org/article/announcing-dreamcoder",
-    "112 คะแนน"
-   ],
-   [
-    "Finite-time blow-up for the Navier–Stokes equations",
-    "https://github.com/tristanbuckmaster/navier-stokes/",
-    "260 คะแนน"
-   ],
-   [
-    "If you can't explain something in simple terms, you don't understand it (2017)",
-    "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-    "629 คะแนน"
+    "115 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "erkamyaman/rust-anything",
      "https://github.com/erkamyaman/rust-anything",
-     "★6,686 Rust"
+     "★6,975 Rust"
     ],
     [
      "krisgfx9/Wireless-Device-Battery-Monitor",
      "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★5,332 C++"
+     "★5,549 C++"
     ],
     [
      "gylive/google-ultra",
      "https://github.com/gylive/google-ultra",
-     "★2,539 Python"
+     "★2,561 Python"
     ],
     [
      "Hut-hzf/ung220z-tool",
      "https://github.com/Hut-hzf/ung220z-tool",
-     "★2,023 Python"
+     "★2,141 Python"
     ],
     [
      "bookwjitchieni1986/blender-ai-mcp-addon",
      "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "★1,795 "
-    ],
-    [
-     "sybil-solutions/inference-optimisation-skill",
-     "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "★1,344 Python"
-    ],
-    [
-     "joshpuckett/allo",
-     "https://github.com/joshpuckett/allo",
-     "★1,254 Python"
+     "★1,909 "
     ],
     [
      "iamajmeena/neonclipping",
      "https://github.com/iamajmeena/neonclipping",
-     "★1,254 Python"
+     "★1,474 Python"
+    ],
+    [
+     "sybil-solutions/inference-optimisation-skill",
+     "https://github.com/sybil-solutions/inference-optimisation-skill",
+     "★1,405 Python"
+    ],
+    [
+     "joshpuckett/allo",
+     "https://github.com/joshpuckett/allo",
+     "★1,278 Python"
     ],
     [
      "chuanqisun/spaceship",
      "https://github.com/chuanqisun/spaceship",
-     "★994 HTML"
+     "★1,003 HTML"
     ],
     [
      "siliconjungle/shapeshift-labs-ink-studio",
      "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-     "★874 JavaScript"
+     "★901 JavaScript"
     ]
    ],
    "by_lang": {
@@ -484,81 +484,81 @@
      [
       "gylive/google-ultra",
       "https://github.com/gylive/google-ultra",
-      "★2,539"
+      "★2,561"
      ],
      [
       "Hut-hzf/ung220z-tool",
       "https://github.com/Hut-hzf/ung220z-tool",
-      "★2,023"
-     ],
-     [
-      "sybil-solutions/inference-optimisation-skill",
-      "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "★1,344"
-     ],
-     [
-      "joshpuckett/allo",
-      "https://github.com/joshpuckett/allo",
-      "★1,254"
+      "★2,141"
      ],
      [
       "iamajmeena/neonclipping",
       "https://github.com/iamajmeena/neonclipping",
-      "★1,254"
+      "★1,474"
+     ],
+     [
+      "sybil-solutions/inference-optimisation-skill",
+      "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "★1,405"
+     ],
+     [
+      "joshpuckett/allo",
+      "https://github.com/joshpuckett/allo",
+      "★1,278"
      ]
     ],
     "TypeScript": [
      [
       "replit/datacat",
       "https://github.com/replit/datacat",
-      "★464"
+      "★479"
      ],
      [
       "johnlindquist/pi-emphasis",
       "https://github.com/johnlindquist/pi-emphasis",
-      "★266"
-     ],
-     [
-      "dmitrykurash/holospot",
-      "https://github.com/dmitrykurash/holospot",
-      "★198"
-     ],
-     [
-      "joeseesun/subcast",
-      "https://github.com/joeseesun/subcast",
-      "★191"
+      "★267"
      ],
      [
       "INK-Q/agy-fast",
       "https://github.com/INK-Q/agy-fast",
-      "★179"
+      "★224"
+     ],
+     [
+      "dmitrykurash/holospot",
+      "https://github.com/dmitrykurash/holospot",
+      "★199"
+     ],
+     [
+      "joeseesun/subcast",
+      "https://github.com/joeseesun/subcast",
+      "★193"
      ]
     ],
     "Rust": [
      [
       "erkamyaman/rust-anything",
       "https://github.com/erkamyaman/rust-anything",
-      "★6,686"
+      "★6,975"
      ],
      [
       "Lemxy/WinRust",
       "https://github.com/Lemxy/WinRust",
-      "★753"
+      "★839"
      ],
      [
       "davidondrej/superbot",
       "https://github.com/davidondrej/superbot",
-      "★394"
+      "★402"
      ],
      [
       "scarletkc/colab-playground",
       "https://github.com/scarletkc/colab-playground",
-      "★302"
+      "★307"
      ],
      [
       "leostera/git-twig",
       "https://github.com/leostera/git-twig",
-      "★268"
+      "★271"
      ]
     ],
     "Go": [
@@ -592,22 +592,22 @@
      [
       "lishuangqiang/mixbar",
       "https://github.com/lishuangqiang/mixbar",
-      "★314"
+      "★319"
      ],
      [
       "Kianuni/Camlo",
       "https://github.com/Kianuni/Camlo",
-      "★260"
+      "★266"
      ],
      [
       "fedesanchez0/shader-lab",
       "https://github.com/fedesanchez0/shader-lab",
-      "★198"
+      "★199"
      ],
      [
       "cnrad/interspace",
       "https://github.com/cnrad/interspace",
-      "★179"
+      "★183"
      ],
      [
       "andyhuo520/beanpod",
@@ -619,106 +619,106 @@
   },
   "hf": [
    [
+    "thinkingmachines/Inkling-2-Mini",
+    "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+    "♥1148"
+   ],
+   [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥5584"
+    "♥5718"
    ],
    [
     "harness-hub/Qwen3.8-27B-pi-adapted",
     "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥865"
-   ],
-   [
-    "thinkingmachines/Inkling-2-Mini",
-    "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-    "♥702"
-   ],
-   [
-    "Qwen/Qwen3.8-27B",
-    "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20811"
+    "♥842"
    ],
    [
     "Sentinel7/h3",
     "https://huggingface.co/Sentinel7/h3",
-    "♥294"
-   ],
-   [
-    "unsloth/Inkling-2-Mini-GGUF",
-    "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-    "♥222"
-   ],
-   [
-    "Lightricks/LTX-2.5",
-    "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12905"
+    "♥592"
    ],
    [
     "tencent/Hy4-flash",
     "https://huggingface.co/tencent/Hy4-flash",
-    "♥550"
+    "♥558"
    ],
    [
-    "sensenova/SenseNova-Loop-9B",
-    "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-    "♥450"
+    "Lightricks/LTX-2.5",
+    "https://huggingface.co/Lightricks/LTX-2.5",
+    "♥12848"
    ],
    [
-    "MiniMaxAI/MiniMax-H3-Image",
-    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1704"
+    "unsloth/Inkling-2-Mini-GGUF",
+    "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+    "♥372"
+   ],
+   [
+    "inworld/voice-isolator",
+    "https://huggingface.co/inworld/voice-isolator",
+    "♥516"
+   ],
+   [
+    "meituan-longcat/LongCat-Video-Avatar-1.6",
+    "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+    "♥399"
+   ],
+   [
+    "n4ze3m/tiny-voca",
+    "https://huggingface.co/n4ze3m/tiny-voca",
+    "♥391"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "275,243,399 /สัปดาห์"
+    "275,461,240 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "26,626,896 /สัปดาห์"
+    "26,702,897 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "10,423,528 /สัปดาห์"
+    "10,392,751 /สัปดาห์"
    ],
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "12,547,422 /สัปดาห์"
+    "12,570,158 /สัปดาห์"
    ],
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,492,071 /สัปดาห์"
+    "8,480,874 /สัปดาห์"
    ],
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "99,212,612 /สัปดาห์"
+    "98,723,467 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "289,652,957 /สัปดาห์"
+    "288,997,704 /สัปดาห์"
    ],
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "450,589,660 /สัปดาห์"
+    "450,660,908 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,497,256 /สัปดาห์"
+    "2,466,302 /สัปดาห์"
    ],
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "48,671,684 /สัปดาห์"
+    "48,505,361 /สัปดาห์"
    ]
   ],
   "kev": [
@@ -837,13 +837,14 @@
     "hits": [
      "multimodal",
      "vision",
-     "image"
+     "image",
+     "video"
     ],
     "heat": 100
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 12,
+    "score": 13,
     "hits": [
      "agent",
      "agents",
@@ -865,11 +866,11 @@
    },
    {
     "name": "Open-weight / Local models",
-    "score": 4,
+    "score": 2,
     "hits": [
      "qwen"
     ],
-    "heat": 48
+    "heat": 24
    }
   ],
   "recommendations": [
@@ -1008,17 +1009,17 @@
     "image:GPT-Image-2.5 Sunburst"
    ],
    "or_top": [
+    "Thinking Machines: Inkling 2 Mini",
     "RadixArk: DaisyRose 27B",
     "Mistral: Pixtral Large 2502",
     "Google: Gemini 4 Neon",
-    "Google: Gemini 4 Neon (batch)",
-    "OpenAI: GPT-6.2 Astra Pro"
+    "Google: Gemini 4 Neon (batch)"
    ],
    "hn_top": [
     "Hurried Announcement: Alessandro Masullo GRH",
-    "Inkling 2 Mini",
     "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-    "NINLIVE: The Nine Inch Nails live archive",
+    "Inkling 2 Mini",
+    "ClawDOS – An AI coding agent for DOS",
     "We promoted developers into architects without informing them"
    ]
   },
@@ -1145,104 +1146,104 @@
     "use": "เขียนเว็บ, UI, frontend",
     "tip": "เน้นงานสร้างเว็บและโค้ดหน้าบ้าน — สำคัญถ้าคุณใช้ AI ช่วยเขียนแอป",
     "score_kind": "elo",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "leader": "Claude Fable 5.2 (xHigh)",
     "items": [
      {
       "rank": 1,
       "name": "Claude Fable 5.2 (xHigh)",
       "org": "anthropic",
-      "score": 1823.415214122922,
-      "votes": 1993,
-      "date": "2026-11-19",
+      "score": 1823.6359080977645,
+      "votes": 2042,
+      "date": "2026-11-20",
       "license": "Proprietary",
-      "score_label": "1823",
+      "score_label": "1824",
       "bar": 100,
-      "meta": "โหวต/สังเกต ~1,993"
+      "meta": "โหวต/สังเกต ~2,042"
      },
      {
       "rank": 2,
       "name": "Claude Opus 5.5 (Max)",
       "org": "anthropic",
-      "score": 1818.3481391767866,
-      "votes": 4912,
-      "date": "2026-11-19",
+      "score": 1819.0439502180366,
+      "votes": 4952,
+      "date": "2026-11-20",
       "license": "Proprietary",
-      "score_label": "1818",
+      "score_label": "1819",
       "bar": 100,
-      "meta": "โหวต/สังเกต ~4,912"
+      "meta": "โหวต/สังเกต ~4,952"
      },
      {
       "rank": 3,
       "name": "Claude Sonnet 5.5 (xHigh)",
       "org": "anthropic",
-      "score": 1771.309457087049,
-      "votes": 6721,
-      "date": "2026-11-19",
+      "score": 1771.9964582141224,
+      "votes": 6785,
+      "date": "2026-11-20",
       "license": "Proprietary",
-      "score_label": "1771",
+      "score_label": "1772",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~6,721"
+      "meta": "โหวต/สังเกต ~6,785"
      },
      {
       "rank": 4,
       "name": "Gemini 4 Carbon (High)",
       "org": "google",
-      "score": 1768.7703295228937,
-      "votes": 2092,
-      "date": "2026-11-19",
+      "score": 1768.7337302312299,
+      "votes": 2093,
+      "date": "2026-11-20",
       "license": "Proprietary",
       "score_label": "1769",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~2,092"
+      "meta": "โหวต/สังเกต ~2,093"
      },
      {
       "rank": 5,
-      "name": "Gemini 4 Neon (High)",
-      "org": "google",
-      "score": 1763.1503443828433,
-      "votes": 2324,
-      "date": "2026-11-19",
+      "name": "GPT-6.2 Astra (Max)",
+      "org": "openai",
+      "score": 1766.1844637793192,
+      "votes": 1913,
+      "date": "2026-11-20",
       "license": "Proprietary",
-      "score_label": "1763",
+      "score_label": "1766",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~2,324"
+      "meta": "โหวต/สังเกต ~1,913"
      },
      {
       "rank": 6,
-      "name": "GPT-6 Astra (Max)",
-      "org": "openai",
-      "score": 1763.076436152142,
-      "votes": 9316,
-      "date": "2026-11-19",
+      "name": "Gemini 4 Neon (High)",
+      "org": "google",
+      "score": 1764.886599440801,
+      "votes": 2305,
+      "date": "2026-11-20",
       "license": "Proprietary",
-      "score_label": "1763",
+      "score_label": "1765",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~9,316"
+      "meta": "โหวต/สังเกต ~2,305"
      },
      {
       "rank": 7,
-      "name": "GPT-6.2 Astra (Max)",
+      "name": "GPT-6 Astra (Max)",
       "org": "openai",
-      "score": 1759.2790499354217,
-      "votes": 1848,
-      "date": "2026-11-19",
+      "score": 1763.9611761987949,
+      "votes": 9391,
+      "date": "2026-11-20",
       "license": "Proprietary",
-      "score_label": "1759",
-      "bar": 96,
-      "meta": "โหวต/สังเกต ~1,848"
+      "score_label": "1764",
+      "bar": 97,
+      "meta": "โหวต/สังเกต ~9,391"
      },
      {
       "rank": 8,
       "name": "GPT-6.2 Sol (Max)",
       "org": "openai",
-      "score": 1754.5128820616385,
-      "votes": 1947,
-      "date": "2026-11-19",
+      "score": 1754.042714895044,
+      "votes": 2067,
+      "date": "2026-11-20",
       "license": "Proprietary",
-      "score_label": "1755",
+      "score_label": "1754",
       "bar": 96,
-      "meta": "โหวต/สังเกต ~1,947"
+      "meta": "โหวต/สังเกต ~2,067"
      }
     ]
    },
@@ -1918,7 +1919,7 @@
     "short": "WebDev",
     "model": "Claude Fable 5.2 (xHigh)",
     "org": "anthropic",
-    "score_label": "1823",
+    "score_label": "1824",
     "use": "เขียนเว็บ, UI, frontend",
     "why": "อันดับ 1 บน LMArena · WebDev — เหมาะงาน: เขียนเว็บ, UI, frontend"
    },
@@ -2011,7 +2012,7 @@
     "org": "google",
     "ranks": {
      "text": 3,
-     "webdev": 5,
+     "webdev": 6,
      "agent": 3,
      "factual": 2
     },
@@ -2053,7 +2054,7 @@
     "name": "GPT-6 Astra (Max)",
     "org": "openai",
     "ranks": {
-     "webdev": 6,
+     "webdev": 7,
      "agent": 7,
      "search": 8
     },
@@ -2087,20 +2088,20 @@
     "appear": 2
    },
    {
+    "name": "GPT-6.2 Astra (Max)",
+    "org": "openai",
+    "ranks": {
+     "webdev": 5,
+     "agent": 6
+    },
+    "appear": 2
+   },
+   {
     "name": "Claude Opus 4.7",
     "org": "anthropic",
     "ranks": {
      "vision": 4,
      "document": 7
-    },
-    "appear": 2
-   },
-   {
-    "name": "Muse Wonder (Max)",
-    "org": "meta",
-    "ranks": {
-     "text": 7,
-     "factual": 5
     },
     "appear": 2
    }
@@ -2457,7 +2458,7 @@
     "price": null,
     "speed": null,
     "arena": null,
-    "webdev_rank": 6,
+    "webdev_rank": 7,
     "agent_rank": 7,
     "new": false
    },
@@ -2496,7 +2497,7 @@
     "price": null,
     "speed": null,
     "arena": null,
-    "webdev_rank": 6,
+    "webdev_rank": 7,
     "agent_rank": 7,
     "new": false
    },
@@ -2509,7 +2510,7 @@
     "price": null,
     "speed": null,
     "arena": 1524,
-    "webdev_rank": 5,
+    "webdev_rank": 6,
     "agent_rank": 3,
     "new": false
    },
@@ -2561,7 +2562,7 @@
     "price": null,
     "speed": null,
     "arena": 1524,
-    "webdev_rank": 5,
+    "webdev_rank": 6,
     "agent_rank": 3,
     "new": false
    },

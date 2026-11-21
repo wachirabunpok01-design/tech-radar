@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:12+00:00",
+ "updated": "2026-11-21T10:58+00:00",
  "snapshot": {
   "ai_top": [
    "Claude Opus 5.5 (Max, Default Fallback)",
@@ -25,17 +25,17 @@
    "image:GPT-Image-2.5 Sunburst"
   ],
   "or_top": [
+   "Thinking Machines: Inkling 2 Mini",
    "RadixArk: DaisyRose 27B",
    "Mistral: Pixtral Large 2502",
    "Google: Gemini 4 Neon",
-   "Google: Gemini 4 Neon (batch)",
-   "OpenAI: GPT-6.2 Astra Pro"
+   "Google: Gemini 4 Neon (batch)"
   ],
   "hn_top": [
    "Hurried Announcement: Alessandro Masullo GRH",
-   "Inkling 2 Mini",
    "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-   "NINLIVE: The Nine Inch Nails live archive",
+   "Inkling 2 Mini",
+   "ClawDOS – An AI coding agent for DOS",
    "We promoted developers into architects without informing them"
   ]
  },
@@ -49,13 +49,14 @@
     "hits": [
      "multimodal",
      "vision",
-     "image"
+     "image",
+     "video"
     ],
     "heat": 100
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 12,
+    "score": 13,
     "hits": [
      "agent",
      "agents",
@@ -77,11 +78,11 @@
    },
    {
     "name": "Open-weight / Local models",
-    "score": 4,
+    "score": 2,
     "hits": [
      "qwen"
     ],
-    "heat": 48
+    "heat": 24
    }
   ],
   "recommendations": [
@@ -187,56 +188,56 @@
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00",
+   "time": "2026-11-21T10:58+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-21T02:12+00:00"
+   "time": "2026-11-21T10:58+00:00"
   }
  }
 }
