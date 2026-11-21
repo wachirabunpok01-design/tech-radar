@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-20T20:14+00:00",
+ "updated": "2026-11-21T02:12+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00",
+   "time": "2026-11-21T02:12+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-20T20:14+00:00"
+   "time": "2026-11-21T02:12+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-20",
+   "date": "ดึงเมื่อ 2026-11-21",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -314,6 +314,11 @@
  "live": {
   "or": [
    [
+    "RadixArk: DaisyRose 27B",
+    "https://openrouter.ai/radixark/daisyrose-27b",
+    "2026-11-21 · context 262,144 · $0.15 / $1.88 ต่อล้าน tokens"
+   ],
+   [
     "Mistral: Pixtral Large 2502",
     "https://openrouter.ai/mistralai/pixtral-large-2502",
     "2026-11-20 · context 128,000 · $2.00 / $6.00 ต่อล้าน tokens"
@@ -357,73 +362,68 @@
     "OpenAI: GPT-6.2 Sol Pro (batch)",
     "https://openrouter.ai/openai/gpt-6.2-sol-pro:batch",
     "2026-11-17 · context 1,050,000 · $1.00 / $5.00 ต่อล้าน tokens"
-   ],
-   [
-    "OpenAI: GPT-6.2 Sol",
-    "https://openrouter.ai/openai/gpt-6.2-sol",
-    "2026-11-17 · context 1,050,000 · $2.00 / $10.00 ต่อล้าน tokens"
    ]
   ],
   "hn": [
    [
     "Hurried Announcement: Alessandro Masullo GRH",
     "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-    "628 คะแนน"
+    "1592 คะแนน"
+   ],
+   [
+    "Inkling 2 Mini",
+    "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "694 คะแนน"
    ],
    [
     "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
     "https://alpo.ge/remark.pdf",
-    "1975 คะแนน"
+    "2381 คะแนน"
    ],
    [
-    "Language Models Can Rewrite Their Own Weights",
-    "https://arxiv.org/abs/2611.21885",
-    "241 คะแนน"
-   ],
-   [
-    "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-    "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-    "151 คะแนน"
+    "NINLIVE: The Nine Inch Nails live archive",
+    "https://ninlive.com/",
+    "130 คะแนน"
    ],
    [
     "We promoted developers into architects without informing them",
     "https://manidoraisamy.com/developer-to-architect.html",
-    "91 คะแนน"
+    "309 คะแนน"
+   ],
+   [
+    "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+    "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+    "347 คะแนน"
+   ],
+   [
+    "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+    "https://valkey.io/blog/from-skiplist-to-b+tree/",
+    "38 คะแนน"
+   ],
+   [
+    "Language Models Can Rewrite Their Own Weights",
+    "https://arxiv.org/abs/2611.21885",
+    "343 คะแนน"
+   ],
+   [
+    "Sir Brian May adds new dimension to Hera asteroid",
+    "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+    "38 คะแนน"
+   ],
+   [
+    "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+    "https://www.masteringemacs.org/article/announcing-dreamcoder",
+    "112 คะแนน"
    ],
    [
     "Finite-time blow-up for the Navier–Stokes equations",
     "https://github.com/tristanbuckmaster/navier-stokes/",
-    "187 คะแนน"
-   ],
-   [
-    "Vibecoding an inference chip",
-    "https://ankitg.me/blog/vibecoding-inference-chip/",
-    "41 คะแนน"
+    "260 คะแนน"
    ],
    [
     "If you can't explain something in simple terms, you don't understand it (2017)",
     "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-    "531 คะแนน"
-   ],
-   [
-    "Winedroid – run Android apps without Android (WASM demo)",
-    "https://winedroid.soham.sh/demo/",
-    "16 คะแนน"
-   ],
-   [
-    "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "https://architectlabs.com/blog/frostbite",
-    "549 คะแนน"
-   ],
-   [
-    "Signal Is Serious About Protecting Your Privacy",
-    "https://signal.org/blog/protecting-your-privacy/",
-    "370 คะแนน"
-   ],
-   [
-    "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-    "https://news.ycombinator.com/item?id=50577613",
-    "66 คะแนน"
+    "629 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "erkamyaman/rust-anything",
      "https://github.com/erkamyaman/rust-anything",
-     "★6,495 Rust"
+     "★6,686 Rust"
     ],
     [
      "krisgfx9/Wireless-Device-Battery-Monitor",
      "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★5,200 C++"
+     "★5,332 C++"
     ],
     [
      "gylive/google-ultra",
      "https://github.com/gylive/google-ultra",
-     "★2,522 Python"
+     "★2,539 Python"
     ],
     [
      "Hut-hzf/ung220z-tool",
      "https://github.com/Hut-hzf/ung220z-tool",
-     "★1,989 Python"
-    ],
-    [
-     "CzzzzzzJ/mdldm-maitian",
-     "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "★1,709 JavaScript"
-    ],
-    [
-     "duwqijlk/muse-protocol",
-     "https://github.com/duwqijlk/muse-protocol",
-     "★1,692 Python"
-    ],
-    [
-     "haziqahmedqasmi/PeakCut",
-     "https://github.com/haziqahmedqasmi/PeakCut",
-     "★1,527 Python"
+     "★2,023 Python"
     ],
     [
      "bookwjitchieni1986/blender-ai-mcp-addon",
      "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "★1,487 "
+     "★1,795 "
     ],
     [
      "sybil-solutions/inference-optimisation-skill",
      "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "★1,319 Python"
+     "★1,344 Python"
     ],
     [
      "joshpuckett/allo",
      "https://github.com/joshpuckett/allo",
-     "★1,243 Python"
+     "★1,254 Python"
+    ],
+    [
+     "iamajmeena/neonclipping",
+     "https://github.com/iamajmeena/neonclipping",
+     "★1,254 Python"
+    ],
+    [
+     "chuanqisun/spaceship",
+     "https://github.com/chuanqisun/spaceship",
+     "★994 HTML"
+    ],
+    [
+     "siliconjungle/shapeshift-labs-ink-studio",
+     "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+     "★874 JavaScript"
     ]
    ],
    "by_lang": {
@@ -484,81 +484,81 @@
      [
       "gylive/google-ultra",
       "https://github.com/gylive/google-ultra",
-      "★2,522"
+      "★2,539"
      ],
      [
       "Hut-hzf/ung220z-tool",
       "https://github.com/Hut-hzf/ung220z-tool",
-      "★1,989"
-     ],
-     [
-      "duwqijlk/muse-protocol",
-      "https://github.com/duwqijlk/muse-protocol",
-      "★1,692"
-     ],
-     [
-      "haziqahmedqasmi/PeakCut",
-      "https://github.com/haziqahmedqasmi/PeakCut",
-      "★1,527"
+      "★2,023"
      ],
      [
       "sybil-solutions/inference-optimisation-skill",
       "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "★1,319"
+      "★1,344"
+     ],
+     [
+      "joshpuckett/allo",
+      "https://github.com/joshpuckett/allo",
+      "★1,254"
+     ],
+     [
+      "iamajmeena/neonclipping",
+      "https://github.com/iamajmeena/neonclipping",
+      "★1,254"
      ]
     ],
     "TypeScript": [
      [
       "replit/datacat",
       "https://github.com/replit/datacat",
-      "★458"
+      "★464"
      ],
      [
       "johnlindquist/pi-emphasis",
       "https://github.com/johnlindquist/pi-emphasis",
-      "★262"
+      "★266"
      ],
      [
       "dmitrykurash/holospot",
       "https://github.com/dmitrykurash/holospot",
-      "★196"
+      "★198"
      ],
      [
       "joeseesun/subcast",
       "https://github.com/joeseesun/subcast",
-      "★189"
+      "★191"
      ],
      [
-      "govijr/fix-storage",
-      "https://github.com/govijr/fix-storage",
-      "★173"
+      "INK-Q/agy-fast",
+      "https://github.com/INK-Q/agy-fast",
+      "★179"
      ]
     ],
     "Rust": [
      [
       "erkamyaman/rust-anything",
       "https://github.com/erkamyaman/rust-anything",
-      "★6,495"
+      "★6,686"
      ],
      [
       "Lemxy/WinRust",
       "https://github.com/Lemxy/WinRust",
-      "★697"
+      "★753"
      ],
      [
       "davidondrej/superbot",
       "https://github.com/davidondrej/superbot",
-      "★391"
+      "★394"
      ],
      [
-      "tremorbuffalospire/IPTV_Player_2.0",
-      "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
-      "★381"
+      "scarletkc/colab-playground",
+      "https://github.com/scarletkc/colab-playground",
+      "★302"
      ],
      [
-      "TorrentArrow/IPTV_Player_2.0",
-      "https://github.com/TorrentArrow/IPTV_Player_2.0",
-      "★375"
+      "leostera/git-twig",
+      "https://github.com/leostera/git-twig",
+      "★268"
      ]
     ],
     "Go": [
@@ -590,29 +590,29 @@
     ],
     "Swift": [
      [
-      "yetanotherbrowser/yab",
-      "https://github.com/yetanotherbrowser/yab",
-      "★758"
-     ],
-     [
       "lishuangqiang/mixbar",
       "https://github.com/lishuangqiang/mixbar",
-      "★303"
+      "★314"
      ],
      [
       "Kianuni/Camlo",
       "https://github.com/Kianuni/Camlo",
-      "★258"
+      "★260"
      ],
      [
       "fedesanchez0/shader-lab",
       "https://github.com/fedesanchez0/shader-lab",
-      "★197"
+      "★198"
      ],
      [
       "cnrad/interspace",
       "https://github.com/cnrad/interspace",
       "★179"
+     ],
+     [
+      "andyhuo520/beanpod",
+      "https://github.com/andyhuo520/beanpod",
+      "★99"
      ]
     ]
    }
@@ -621,52 +621,52 @@
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥4909"
+    "♥5584"
    ],
    [
     "harness-hub/Qwen3.8-27B-pi-adapted",
     "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥852"
+    "♥865"
+   ],
+   [
+    "thinkingmachines/Inkling-2-Mini",
+    "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+    "♥702"
    ],
    [
     "Qwen/Qwen3.8-27B",
     "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥20789"
+    "♥20811"
+   ],
+   [
+    "Sentinel7/h3",
+    "https://huggingface.co/Sentinel7/h3",
+    "♥294"
+   ],
+   [
+    "unsloth/Inkling-2-Mini-GGUF",
+    "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+    "♥222"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12860"
-   ],
-   [
-    "MiniMaxAI/MiniMax-H3-Image",
-    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "♥1698"
+    "♥12905"
    ],
    [
     "tencent/Hy4-flash",
     "https://huggingface.co/tencent/Hy4-flash",
-    "♥531"
+    "♥550"
    ],
    [
     "sensenova/SenseNova-Loop-9B",
     "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-    "♥437"
+    "♥450"
    ],
    [
-    "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-    "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-    "♥759"
-   ],
-   [
-    "inworld/voice-isolator",
-    "https://huggingface.co/inworld/voice-isolator",
-    "♥486"
-   ],
-   [
-    "apple/FastFrames-L",
-    "https://huggingface.co/apple/FastFrames-L",
-    "♥485"
+    "MiniMaxAI/MiniMax-H3-Image",
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+    "♥1704"
    ]
   ],
   "npm": [
@@ -833,7 +833,7 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 16,
+    "score": 15,
     "hits": [
      "multimodal",
      "vision",
@@ -855,37 +855,21 @@
    },
    {
     "name": "Coding assistants",
-    "score": 7,
+    "score": 8,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 84
+    "heat": 96
    },
    {
     "name": "Open-weight / Local models",
-    "score": 5,
+    "score": 4,
     "hits": [
      "qwen"
     ],
-    "heat": 60
-   },
-   {
-    "name": "RAG / Knowledge",
-    "score": 1,
-    "hits": [
-     "rag"
-    ],
-    "heat": 12
-   },
-   {
-    "name": "Infra / Platforms",
-    "score": 1,
-    "hits": [
-     "wasm"
-    ],
-    "heat": 12
+    "heat": 48
    }
   ],
   "recommendations": [
@@ -992,23 +976,11 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "dim",
-    "text": "ผู้นำมิติ search เปลี่ยน: Qwen3.8-Max → Amazon-Web-Search-Agent"
-   },
-   {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Hurried Announcement: Alessandro Masullo GRH"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Language Models Can Rewrite Their Own Weights"
+    "text": "HN ใหม่ในท็อป: Inkling 2 Mini"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 1 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1023,8 +995,7 @@
     "Multimodal",
     "AI Agents / Tool use",
     "Coding assistants",
-    "Open-weight / Local models",
-    "RAG / Knowledge"
+    "Open-weight / Local models"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1037,17 +1008,17 @@
     "image:GPT-Image-2.5 Sunburst"
    ],
    "or_top": [
+    "RadixArk: DaisyRose 27B",
     "Mistral: Pixtral Large 2502",
     "Google: Gemini 4 Neon",
     "Google: Gemini 4 Neon (batch)",
-    "OpenAI: GPT-6.2 Astra Pro",
-    "OpenAI: GPT-6.2 Astra Pro (batch)"
+    "OpenAI: GPT-6.2 Astra Pro"
    ],
    "hn_top": [
     "Hurried Announcement: Alessandro Masullo GRH",
+    "Inkling 2 Mini",
     "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-    "Language Models Can Rewrite Their Own Weights",
-    "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+    "NINLIVE: The Nine Inch Nails live archive",
     "We promoted developers into architects without informing them"
    ]
   },
