@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-21T19:13+00:00",
+ "updated": "2026-11-22T01:17+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00",
+   "time": "2026-11-22T01:17+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-21T19:13+00:00"
+   "time": "2026-11-22T01:17+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-21",
+   "date": "ดึงเมื่อ 2026-11-22",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
-    "Inkling-2-Mini in 5.4 GB Memory",
-    "https://github.com/ShinMegamiBoson/lookatmyquant",
-    "69 คะแนน"
-   ],
-   [
-    "Detonating a pile of lead azide",
-    "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-    "381 คะแนน"
+    "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+    "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "581 คะแนน"
    ],
    [
     "Lean verification of the Riemann Hypothesis",
     "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-    "510 คะแนน"
+    "819 คะแนน"
+   ],
+   [
+    "Inkling-2-Mini in 5.4 GB Memory",
+    "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "348 คะแนน"
    ],
    [
     "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
     "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-    "523 คะแนน"
+    "744 คะแนน"
    ],
    [
-    "PostgreSQL Extensions in Go",
-    "https://jespino.github.io/gopgext/",
-    "58 คะแนน"
+    "Detonating a pile of lead azide",
+    "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "515 คะแนน"
+   ],
+   [
+    "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+    "https://github.com/sebaandrada-cell/PcapAnalyzer",
+    "49 คะแนน"
+   ],
+   [
+    "Getting the mind to steer the body to steer you",
+    "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+    "143 คะแนน"
    ],
    [
     "My monitor was cutting my download speed by 75%",
     "https://blog.tymscar.com/posts/studiodisplayethernet/",
-    "320 คะแนน"
+    "481 คะแนน"
    ],
    [
-    "Hurried Announcement: Alessandro Masullo GRH",
-    "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-    "2328 คะแนน"
+    "Advice for the next 100 Rust GUIs",
+    "https://linebender.org/blog/next-100-guis/",
+    "77 คะแนน"
    ],
    [
-    "Verification files for the Lean proof of the Riemann Hypothesis",
-    "https://math.mit.edu/~drew/grh/",
-    "36 คะแนน"
+    "PostgreSQL Extensions in Go",
+    "https://jespino.github.io/gopgext/",
+    "117 คะแนน"
    ],
    [
-    "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-    "https://alpo.ge/remark.pdf",
-    "2828 คะแนน"
+    "Pandex – Official European Law for AI Agents, over MCP",
+    "https://www.pandex.io",
+    "26 คะแนน"
    ],
    [
-    "I'm quite pleased by the tech architecture of my art website",
-    "https://klauria.tech/klauria-art/",
-    "89 คะแนน"
-   ],
-   [
-    "Inkling 2 Mini",
-    "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "1270 คะแนน"
-   ],
-   [
-    "RCE in Gnupg",
-    "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-    "181 คะแนน"
+    "The Emergence of Inequality in the Czech Corded Ware Culture",
+    "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+    "26 คะแนน"
    ]
   ],
   "gh": {
@@ -431,188 +431,188 @@
     [
      "erkamyaman/rust-anything",
      "https://github.com/erkamyaman/rust-anything",
-     "★7,277 Rust"
+     "★7,439 Rust"
     ],
     [
      "krisgfx9/Wireless-Device-Battery-Monitor",
      "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "★5,746 C++"
-    ],
-    [
-     "gylive/google-ultra",
-     "https://github.com/gylive/google-ultra",
-     "★2,587 Python"
-    ],
-    [
-     "Hut-hzf/ung220z-tool",
-     "https://github.com/Hut-hzf/ung220z-tool",
-     "★2,210 Python"
-    ],
-    [
-     "bookwjitchieni1986/blender-ai-mcp-addon",
-     "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "★2,141 "
-    ],
-    [
-     "iamajmeena/neonclipping",
-     "https://github.com/iamajmeena/neonclipping",
-     "★1,699 Python"
+     "★5,816 C++"
     ],
     [
      "ItsNotRexed/Leonida",
      "https://github.com/ItsNotRexed/Leonida",
-     "★1,525 Python"
+     "★5,697 Python"
+    ],
+    [
+     "gylive/google-ultra",
+     "https://github.com/gylive/google-ultra",
+     "★2,599 Python"
+    ],
+    [
+     "bookwjitchieni1986/blender-ai-mcp-addon",
+     "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+     "★2,436 "
+    ],
+    [
+     "iamajmeena/neonclipping",
+     "https://github.com/iamajmeena/neonclipping",
+     "★1,736 Python"
     ],
     [
      "sybil-solutions/inference-optimisation-skill",
      "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "★1,455 Python"
+     "★1,670 Python"
     ],
     [
-     "joshpuckett/allo",
-     "https://github.com/joshpuckett/allo",
-     "★1,310 Python"
+     "hatsunemiku-ai/google-one-tools",
+     "https://github.com/hatsunemiku-ai/google-one-tools",
+     "★1,047 Python"
     ],
     [
      "chuanqisun/spaceship",
      "https://github.com/chuanqisun/spaceship",
-     "★1,014 HTML"
+     "★1,024 HTML"
+    ],
+    [
+     "Lemxy/WinRust",
+     "https://github.com/Lemxy/WinRust",
+     "★964 Rust"
     ]
    ],
    "by_lang": {
     "Python": [
      [
-      "gylive/google-ultra",
-      "https://github.com/gylive/google-ultra",
-      "★2,587"
+      "ItsNotRexed/Leonida",
+      "https://github.com/ItsNotRexed/Leonida",
+      "★5,697"
      ],
      [
-      "Hut-hzf/ung220z-tool",
-      "https://github.com/Hut-hzf/ung220z-tool",
-      "★2,210"
+      "gylive/google-ultra",
+      "https://github.com/gylive/google-ultra",
+      "★2,599"
      ],
      [
       "iamajmeena/neonclipping",
       "https://github.com/iamajmeena/neonclipping",
-      "★1,699"
-     ],
-     [
-      "ItsNotRexed/Leonida",
-      "https://github.com/ItsNotRexed/Leonida",
-      "★1,525"
+      "★1,736"
      ],
      [
       "sybil-solutions/inference-optimisation-skill",
       "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "★1,455"
+      "★1,670"
+     ],
+     [
+      "hatsunemiku-ai/google-one-tools",
+      "https://github.com/hatsunemiku-ai/google-one-tools",
+      "★1,047"
      ]
     ],
     "TypeScript": [
      [
       "replit/datacat",
       "https://github.com/replit/datacat",
-      "★491"
-     ],
-     [
-      "johnlindquist/pi-emphasis",
-      "https://github.com/johnlindquist/pi-emphasis",
-      "★269"
+      "★494"
      ],
      [
       "INK-Q/agy-fast",
       "https://github.com/INK-Q/agy-fast",
-      "★245"
+      "★252"
      ],
      [
       "dmitrykurash/holospot",
       "https://github.com/dmitrykurash/holospot",
-      "★203"
+      "★211"
      ],
      [
       "joeseesun/subcast",
       "https://github.com/joeseesun/subcast",
       "★195"
+     ],
+     [
+      "w01fb0ss/PiBot",
+      "https://github.com/w01fb0ss/PiBot",
+      "★175"
      ]
     ],
     "Rust": [
      [
       "erkamyaman/rust-anything",
       "https://github.com/erkamyaman/rust-anything",
-      "★7,277"
+      "★7,439"
      ],
      [
       "Lemxy/WinRust",
       "https://github.com/Lemxy/WinRust",
-      "★921"
+      "★964"
      ],
      [
       "omonkeyz/xbox-emulator",
       "https://github.com/omonkeyz/xbox-emulator",
-      "★480"
-     ],
-     [
-      "davidondrej/superbot",
-      "https://github.com/davidondrej/superbot",
-      "★402"
+      "★783"
      ],
      [
       "scarletkc/colab-playground",
       "https://github.com/scarletkc/colab-playground",
-      "★309"
+      "★311"
+     ],
+     [
+      "sohzm/winedroid",
+      "https://github.com/sohzm/winedroid",
+      "★199"
      ]
     ],
     "Go": [
      [
-      "TurtleReside/Gemini-Config-Checker-",
-      "https://github.com/TurtleReside/Gemini-Config-Checker-",
-      "★470"
+      "prusa3d/prusa-connect",
+      "https://github.com/prusa3d/prusa-connect",
+      "★276"
      ],
      [
-      "Violetnyudress/Gemini-Config-Checker-",
-      "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-      "★470"
+      "sabrinfathimaa-beep/dlss-5-swapper-compatibility",
+      "https://github.com/sabrinfathimaa-beep/dlss-5-swapper-compatibility",
+      "★152"
      ],
      [
-      "VisionWormStudio/Gemini-Config-Checker-",
-      "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
-      "★470"
+      "piyushverse001/quantconnect-lean-selvon-research",
+      "https://github.com/piyushverse001/quantconnect-lean-selvon-research",
+      "★150"
      ],
      [
-      "WerewolfEmuHub/Gemini-Config-Checker-",
-      "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
-      "★469"
+      "BuildLogic264/tmodloader-varriora",
+      "https://github.com/BuildLogic264/tmodloader-varriora",
+      "★150"
      ],
      [
-      "wisemeadowlarkspike/Gemini-Config-Checker-",
-      "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
-      "★469"
+      "Dhaarani007/palworld-coop-orroven",
+      "https://github.com/Dhaarani007/palworld-coop-orroven",
+      "★149"
      ]
     ],
     "Swift": [
      [
-      "lishuangqiang/mixbar",
-      "https://github.com/lishuangqiang/mixbar",
-      "★326"
-     ],
-     [
-      "Kianuni/Camlo",
-      "https://github.com/Kianuni/Camlo",
-      "★270"
-     ],
-     [
       "fedesanchez0/shader-lab",
       "https://github.com/fedesanchez0/shader-lab",
-      "★201"
-     ],
-     [
-      "cnrad/interspace",
-      "https://github.com/cnrad/interspace",
-      "★185"
+      "★202"
      ],
      [
       "andyhuo520/beanpod",
       "https://github.com/andyhuo520/beanpod",
       "★99"
+     ],
+     [
+      "sibylsea-hub/touch-space",
+      "https://github.com/sibylsea-hub/touch-space",
+      "★72"
+     ],
+     [
+      "acoyfellow/rexweb",
+      "https://github.com/acoyfellow/rexweb",
+      "★69"
+     ],
+     [
+      "stephancill/ios-keyboard-dictation",
+      "https://github.com/stephancill/ios-keyboard-dictation",
+      "★68"
      ]
     ]
    }
@@ -621,52 +621,52 @@
    [
     "thinkingmachines/Inkling-2-Mini",
     "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-    "♥1961"
+    "♥2910"
    ],
    [
     "unsloth/Inkling-2-Mini-GGUF",
     "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-    "♥528"
+    "♥619"
    ],
    [
     "tencent/Hy4-flash",
     "https://huggingface.co/tencent/Hy4-flash",
-    "♥516"
-   ],
-   [
-    "Lightricks/LTX-2.5",
-    "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥12909"
+    "♥545"
    ],
    [
     "inworld/voice-isolator",
     "https://huggingface.co/inworld/voice-isolator",
-    "♥477"
+    "♥515"
    ],
    [
     "apple/FastFrames-L",
     "https://huggingface.co/apple/FastFrames-L",
-    "♥470"
+    "♥493"
    ],
    [
     "harness-hub/Qwen3.8-27B-pi-adapted",
     "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥913"
+    "♥934"
    ],
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥828"
+    "♥844"
    ],
    [
-    "meituan-longcat/LongCat-Video-Avatar-1.6",
-    "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
-    "♥362"
+    "Qwen/Qwen3.8-27B",
+    "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "♥20812"
    ],
    [
-    "n4ze3m/tiny-voca",
-    "https://huggingface.co/n4ze3m/tiny-voca",
-    "♥350"
+    "sensenova/SenseNova-Loop-9B",
+    "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+    "♥462"
+   ],
+   [
+    "Lightricks/LTX-2.5",
+    "https://huggingface.co/Lightricks/LTX-2.5",
+    "♥12946"
    ]
   ],
   "npm": [
@@ -829,22 +829,11 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: AI Agents / Tool use, Multimodal, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
    {
-    "name": "Multimodal",
-    "score": 15,
-    "hits": [
-     "multimodal",
-     "vision",
-     "image",
-     "video"
-    ],
-    "heat": 100
-   },
-   {
     "name": "AI Agents / Tool use",
-    "score": 12,
+    "score": 15,
     "hits": [
      "agent",
      "agents",
@@ -855,23 +844,33 @@
     "heat": 100
    },
    {
+    "name": "Multimodal",
+    "score": 13,
+    "hits": [
+     "multimodal",
+     "vision",
+     "image"
+    ],
+    "heat": 100
+   },
+   {
     "name": "Coding assistants",
-    "score": 8,
+    "score": 6,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 96
+    "heat": 72
    },
    {
     "name": "Open-weight / Local models",
-    "score": 3,
+    "score": 5,
     "hits": [
      "open-source",
      "qwen"
     ],
-    "heat": 36
+    "heat": 60
    }
   ],
   "recommendations": [
@@ -979,18 +978,10 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Inkling-2-Mini in 5.4 GB Memory"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Detonating a pile of lead azide"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Lean verification of the Riemann Hypothesis"
+    "text": "HN ใหม่ในท็อป: Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 1 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1002,8 +993,8 @@
     "GPT-6.2 Sol (Xhigh)"
    ],
    "themes": [
-    "Multimodal",
     "AI Agents / Tool use",
+    "Multimodal",
     "Coding assistants",
     "Open-weight / Local models"
    ],
@@ -1025,11 +1016,11 @@
     "Google: Gemini 4 Neon (batch)"
    ],
    "hn_top": [
-    "Inkling-2-Mini in 5.4 GB Memory",
-    "Detonating a pile of lead azide",
+    "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
     "Lean verification of the Riemann Hypothesis",
+    "Inkling-2-Mini in 5.4 GB Memory",
     "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-    "PostgreSQL Extensions in Go"
+    "Detonating a pile of lead azide"
    ]
   },
   "year": 2026,
