@@ -1,0 +1,252 @@
+{
+ "updated": "2026-11-23T01:40+00:00",
+ "snapshot": {
+  "ai_top": [
+   "Claude Opus 5.5 (Max, Default Fallback)",
+   "Gemini 4 Carbon (Medium)",
+   "GPT-6 Astra (Max)",
+   "Claude Fable 5.2 (Medium, Default Fallback)",
+   "GPT-6.2 Sol (Xhigh)"
+  ],
+  "themes": [
+   "Multimodal",
+   "AI Agents / Tool use",
+   "Coding assistants",
+   "Open-weight / Local models",
+   "Edge / On-device AI"
+  ],
+  "dim_leaders": [
+   "text:Gemini 4 Carbon (High)",
+   "webdev:Claude Fable 5.2 (xHigh)",
+   "agent:Claude Fable 5.2 (Max)",
+   "vision:Claude Fable 5 (High)",
+   "search:Amazon-Web-Search-Agent",
+   "factual:Gemini 4 Carbon (High)",
+   "document:Claude Fable 5.1 (Max)",
+   "image:GPT-Image-2.5 Sunburst"
+  ],
+  "or_top": [
+   "Thinking Machines: Inkling 2 Mini",
+   "RadixArk: DaisyRose 27B",
+   "Mistral: Pixtral Large 2502",
+   "Google: Gemini 4 Neon",
+   "Google: Gemini 4 Neon (batch)"
+  ],
+  "hn_top": [
+   "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+   "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+   "GL.iNet Security Notice 2026-11-20"
+  ]
+ },
+ "trends": {
+  "year": 2026,
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "themes": [
+   {
+    "name": "Multimodal",
+    "score": 13,
+    "hits": [
+     "multimodal",
+     "vision",
+     "image"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "AI Agents / Tool use",
+    "score": 12,
+    "hits": [
+     "agent",
+     "agents",
+     "tool use",
+     "tool-calling",
+     "mcp"
+    ],
+    "heat": 100
+   },
+   {
+    "name": "Coding assistants",
+    "score": 8,
+    "hits": [
+     "coding",
+     "copilot",
+     "ide"
+    ],
+    "heat": 96
+   },
+   {
+    "name": "Open-weight / Local models",
+    "score": 6,
+    "hits": [
+     "open-source",
+     "qwen"
+    ],
+    "heat": 72
+   },
+   {
+    "name": "Edge / On-device AI",
+    "score": 1,
+    "hits": [
+     "edge"
+    ],
+    "heat": 12
+   }
+  ],
+  "recommendations": [
+   {
+    "tier": "use",
+    "title": "Gemini 4 Carbon (High) · Text",
+    "why": "อันดับ 1 บน LMArena · Text — เหมาะงาน: chat, อธิบาย, ร่างข้อความ",
+    "tags": [
+     "Text",
+     "google",
+     "chat, อธิบาย, ร่างข้อความ"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Claude Fable 5.2 (xHigh) · WebDev",
+    "why": "อันดับ 1 บน LMArena · WebDev — เหมาะงาน: เขียนเว็บ, UI, frontend",
+    "tags": [
+     "WebDev",
+     "anthropic",
+     "เขียนเว็บ, UI, frontend"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Claude Fable 5.2 (Max) · Agent",
+    "why": "อันดับ 1 บน LMArena · Agent — เหมาะงาน: agent, tool-calling, automation",
+    "tags": [
+     "Agent",
+     "anthropic",
+     "agent, tool-calling, automation"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Claude Fable 5 (High) · Vision",
+    "why": "อันดับ 1 บน LMArena · Vision — เหมาะงาน: อ่านรูป, screenshot, UI review",
+    "tags": [
+     "Vision",
+     "anthropic",
+     "อ่านรูป, screenshot, UI review"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Amazon-Web-Search-Agent · Search",
+    "why": "อันดับ 1 บน LMArena · Search — เหมาะงาน: search-augmented, research",
+    "tags": [
+     "Search",
+     "amazon",
+     "search-augmented, research"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Gemini 4 Carbon (High) · Factual",
+    "why": "อันดับ 1 บน LMArena · Factual — เหมาะงาน: คำตอบที่ต้องถูกต้อง",
+    "tags": [
+     "Factual",
+     "google",
+     "คำตอบที่ต้องถูกต้อง"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Claude Opus 5.5 (Max, Default Fallback)",
+    "why": "นำด้านความสามารถ (AA 59.1) จาก Artificial Analysis — เหมาะเป็น default สำหรับงานทั่วไป/ยาก",
+    "tags": [
+     "ความสามารถสูง",
+     "Anthropic"
+    ]
+   },
+   {
+    "tier": "watch",
+    "title": "Gemini 4 Carbon (Medium)",
+    "why": "คนชอบสูงบน LMArena (1539) แม้คะแนนทดสอบอาจไม่สูงสุด — เหมาะงานสนทนา/เขียน",
+    "tags": [
+     "user preference",
+     "Google"
+    ]
+   },
+   {
+    "tier": "use",
+    "title": "Coding assistants / IDE agents",
+    "why": "ธีม coding กำลังร้อนในแหล่งสด — คุ้มลงทุนเวลาเทียบเครื่องมือช่วยเขียนโค้ดกับ workflow ปัจจุบันของคุณ",
+    "tags": [
+     "coding",
+     "devtools"
+    ]
+   },
+   {
+    "tier": "caution",
+    "title": "CVE-2026-129448 Apache Roller",
+    "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
+    "tags": [
+     "security",
+     "KEV"
+    ]
+   }
+  ],
+  "method": "นับคำจากแหล่งสด + อันดับโมเดล ไม่ใช่ความเห็นบรรณาธิการ — รีเฟรชอัตโนมัติทุกครั้งที่สคริปต์รัน"
+ },
+ "status": {
+  "aa": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "lm": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "or": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "hn": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "gh": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "hf": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "npm": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "kev": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "epss": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "trends": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "dims": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00",
+   "msg": "8 boards"
+  },
+  "dimensions": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  },
+  "ai": {
+   "ok": true,
+   "time": "2026-11-23T01:40+00:00"
+  }
+ }
+}
