@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-23T12:33+00:00",
+ "updated": "2026-11-24T02:12+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00",
+   "time": "2026-11-24T02:12+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-23T12:33+00:00"
+   "time": "2026-11-24T02:12+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-23",
+   "date": "ดึงเมื่อ 2026-11-24",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -366,253 +366,253 @@
   ],
   "hn": [
    [
-    "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+    "Nvidia Reinstates Jensen Huang as CEO",
+    "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "2135 คะแนน"
+   ],
+   [
+    "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "208 คะแนน"
+   ],
+   [
+    "Ladybird is now in alpha",
+    "https://ladybird.org/posts/alpha/",
+    "1460 คะแนน"
+   ],
+   [
+    "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+    "https://www.science.org/doi/10.1126/scisignal.aef1375",
+    "28 คะแนน"
+   ],
+   [
+    "GPUI is getting its own repository",
+    "https://github.com/zed-industries/gpui",
+    "129 คะแนน"
+   ],
+   [
+    "GLM-5.4: Toward generalized coding with our first loop transformer",
     "https://z.ai/blog/glm-5.4",
-    "227 คะแนน"
+    "1061 คะแนน"
    ],
    [
-    "XNU Linux: Full OS X GUI Userspace on Linux",
-    "https://github.com/AFK-surf/xnulinux",
-    "397 คะแนน"
+    "Bored.com: Fun, interesting and cool websites to explore when bored",
+    "https://www.bored.com/",
+    "112 คะแนน"
    ],
    [
-    "Free alternative TV network built from the Internet Archive's forgotten videos",
-    "https://spelunkr.tv",
-    "604 คะแนน"
+    "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+    "https://arm.jonpalmisc.com/",
+    "851 คะแนน"
    ],
    [
-    "Yes, 17M lines of Lean is a lot",
-    "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-    "133 คะแนน"
+    "Freeing the iPod Nano 5G",
+    "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+    "44 คะแนน"
    ],
    [
-    "Elixir HLS makes FPGA circuits from functions written in Elixir",
-    "https://github.com/elixir-hls/elixir-hls",
-    "41 คะแนน"
+    "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+    "https://twitter.com/ylecun/status/2124550037912920090",
+    "1185 คะแนน"
    ],
    [
-    "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-    "566 คะแนน"
+    "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+    "https://arxiv.org/abs/2602.20031",
+    "22 คะแนน"
    ],
    [
-    "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-    "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-    "534 คะแนน"
-   ],
-   [
-    "Masullo on the Riemann Hypothesis",
-    "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-    "250 คะแนน"
-   ],
-   [
-    "Perplexity and Intelligence",
-    "https://openai.com/index/perplexity-and-intelligence/",
-    "613 คะแนน"
-   ],
-   [
-    "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-    "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-    "271 คะแนน"
-   ],
-   [
-    "A Partial Evaluator for C",
-    "https://phoenix.labri.fr/software/tempo/",
-    "76 คะแนน"
-   ],
-   [
-    "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
-    "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
-    "4 คะแนน"
+    "VP ≠ VNP over Every Field",
+    "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+    "241 คะแนน"
    ]
   ],
   "gh": {
    "top": [
     [
-     "ItsNotRexed/Leonida",
-     "https://github.com/ItsNotRexed/Leonida",
-     "★19,306 Python"
-    ],
-    [
-     "bookwjitchieni1986/blender-ai-mcp-addon",
-     "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "★2,760 "
+     "ivall/xcl",
+     "https://github.com/ivall/xcl",
+     "★3,291 Rust"
     ],
     [
      "EL4CTEO/fast-anything",
      "https://github.com/EL4CTEO/fast-anything",
-     "★2,673 Rust"
+     "★3,168 Rust"
+    ],
+    [
+     "Marvisak/VIctory",
+     "https://github.com/Marvisak/VIctory",
+     "★2,997 Rust"
     ],
     [
      "iamajmeena/neonclipping",
      "https://github.com/iamajmeena/neonclipping",
-     "★2,231 Python"
-    ],
-    [
-     "omonkeyz/xbox-emulator",
-     "https://github.com/omonkeyz/xbox-emulator",
-     "★1,489 Rust"
-    ],
-    [
-     "R0Y00/Xbox2Windows",
-     "https://github.com/R0Y00/Xbox2Windows",
-     "★1,394 Python"
-    ],
-    [
-     "Lemxy/WinRust",
-     "https://github.com/Lemxy/WinRust",
-     "★1,319 Rust"
+     "★2,311 Python"
     ],
     [
      "AFK-surf/xnulinux",
      "https://github.com/AFK-surf/xnulinux",
-     "★929 Objective-C++"
+     "★2,170 Objective-C++"
+    ],
+    [
+     "omonkeyz/xbox-emulator",
+     "https://github.com/omonkeyz/xbox-emulator",
+     "★1,691 Rust"
+    ],
+    [
+     "R0Y00/Xbox2Windows",
+     "https://github.com/R0Y00/Xbox2Windows",
+     "★1,571 Python"
     ],
     [
      "os6/nospeaker",
      "https://github.com/os6/nospeaker",
-     "★905 Swift"
+     "★1,463 Swift"
     ],
     [
      "leanprover-community/riemann-hypothesis",
      "https://github.com/leanprover-community/riemann-hypothesis",
-     "★729 Lean"
+     "★875 Lean"
+    ],
+    [
+     "INK-Q/agy-fast",
+     "https://github.com/INK-Q/agy-fast",
+     "★795 TypeScript"
     ]
    ],
    "by_lang": {
     "Python": [
      [
-      "ItsNotRexed/Leonida",
-      "https://github.com/ItsNotRexed/Leonida",
-      "★19,306"
-     ],
-     [
       "iamajmeena/neonclipping",
       "https://github.com/iamajmeena/neonclipping",
-      "★2,231"
+      "★2,311"
      ],
      [
       "R0Y00/Xbox2Windows",
       "https://github.com/R0Y00/Xbox2Windows",
-      "★1,394"
+      "★1,571"
      ],
      [
       "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
       "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-      "★662"
+      "★708"
      ],
      [
       "ThreatDefence/agentic-attack-detections",
       "https://github.com/ThreatDefence/agentic-attack-detections",
-      "★506"
+      "★566"
+     ],
+     [
+      "sybil-solutions/skill-distill",
+      "https://github.com/sybil-solutions/skill-distill",
+      "★521"
      ]
     ],
     "TypeScript": [
      [
       "INK-Q/agy-fast",
       "https://github.com/INK-Q/agy-fast",
-      "★711"
-     ],
-     [
-      "replit/datacat",
-      "https://github.com/replit/datacat",
-      "★582"
+      "★795"
      ],
      [
       "w01fb0ss/PiBot",
       "https://github.com/w01fb0ss/PiBot",
-      "★471"
-     ],
-     [
-      "JimLiu/open-artifact",
-      "https://github.com/JimLiu/open-artifact",
-      "★408"
+      "★507"
      ],
      [
       "sshkeda/minecraft-server-on-orange-cloud",
       "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
-      "★402"
+      "★421"
+     ],
+     [
+      "qianyiai/kurocat",
+      "https://github.com/qianyiai/kurocat",
+      "★337"
+     ],
+     [
+      "indigo-832/steam-library-artwork-manager",
+      "https://github.com/indigo-832/steam-library-artwork-manager",
+      "★189"
      ]
     ],
     "Rust": [
      [
+      "ivall/xcl",
+      "https://github.com/ivall/xcl",
+      "★3,291"
+     ],
+     [
       "EL4CTEO/fast-anything",
       "https://github.com/EL4CTEO/fast-anything",
-      "★2,673"
+      "★3,168"
+     ],
+     [
+      "Marvisak/VIctory",
+      "https://github.com/Marvisak/VIctory",
+      "★2,998"
      ],
      [
       "omonkeyz/xbox-emulator",
       "https://github.com/omonkeyz/xbox-emulator",
-      "★1,489"
-     ],
-     [
-      "Lemxy/WinRust",
-      "https://github.com/Lemxy/WinRust",
-      "★1,319"
-     ],
-     [
-      "ivall/xcl",
-      "https://github.com/ivall/xcl",
-      "★376"
+      "★1,691"
      ],
      [
       "erkamyaman/safe-anything",
       "https://github.com/erkamyaman/safe-anything",
-      "★306"
+      "★505"
      ]
     ],
     "Go": [
      [
-      "prusa3d/prusa-connect",
-      "https://github.com/prusa3d/prusa-connect",
-      "★294"
-     ],
-     [
       "txchen/govault",
       "https://github.com/txchen/govault",
-      "★182"
+      "★186"
      ],
      [
       "geerlingguy/chronytop",
       "https://github.com/geerlingguy/chronytop",
-      "★153"
+      "★154"
      ],
      [
-      "vulnix0x4/a-better-antivirus",
-      "https://github.com/vulnix0x4/a-better-antivirus",
-      "★146"
+      "jasonxu114514/aws-quickwork-2api",
+      "https://github.com/jasonxu114514/aws-quickwork-2api",
+      "★129"
      ],
      [
-      "piyushverse001/quantconnect-lean-selvon-research",
-      "https://github.com/piyushverse001/quantconnect-lean-selvon-research",
-      "★145"
+      "yldm-ai/mirra",
+      "https://github.com/yldm-ai/mirra",
+      "★105"
+     ],
+     [
+      "podomy/weld",
+      "https://github.com/podomy/weld",
+      "★101"
      ]
     ],
     "Swift": [
      [
       "os6/nospeaker",
       "https://github.com/os6/nospeaker",
-      "★905"
-     ],
-     [
-      "liuliuya2333/LiLite",
-      "https://github.com/liuliuya2333/LiLite",
-      "★145"
+      "★1,463"
      ],
      [
       "sibylsea-hub/touch-space",
       "https://github.com/sibylsea-hub/touch-space",
-      "★98"
+      "★100"
      ],
      [
       "stephancill/ios-keyboard-dictation",
       "https://github.com/stephancill/ios-keyboard-dictation",
-      "★79"
+      "★82"
      ],
      [
       "acoyfellow/rexweb",
       "https://github.com/acoyfellow/rexweb",
-      "★75"
+      "★77"
+     ],
+     [
+      "ixiehao/ezNTFS",
+      "https://github.com/ixiehao/ezNTFS",
+      "★67"
      ]
     ]
    }
@@ -621,52 +621,52 @@
    [
     "thinkingmachines/Inkling-2-Mini",
     "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-    "♥5259"
+    "♥5502"
    ],
    [
     "unsloth/Inkling-2-Mini-GGUF",
     "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-    "♥989"
+    "♥1118"
    ],
    [
     "inworld/voice-isolator",
     "https://huggingface.co/inworld/voice-isolator",
-    "♥684"
+    "♥738"
    ],
    [
     "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
     "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-    "♥574"
+    "♥655"
    ],
    [
     "harness-hub/Qwen3.8-27B-pi-adapted",
     "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥1011"
+    "♥1038"
    ],
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥914"
+    "♥940"
    ],
    [
     "tencent/Hy4-flash",
     "https://huggingface.co/tencent/Hy4-flash",
-    "♥633"
-   ],
-   [
-    "sensenova/SenseNova-Loop-9B",
-    "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-    "♥608"
-   ],
-   [
-    "Qwen/Qwen3.8-27B",
-    "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "♥21635"
+    "♥649"
    ],
    [
     "SulphurAI/Sulphur-3",
     "https://huggingface.co/SulphurAI/Sulphur-3",
-    "♥820"
+    "♥856"
+   ],
+   [
+    "sensenova/SenseNova-Loop-9B",
+    "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+    "♥644"
+   ],
+   [
+    "apple/FastFrames-L",
+    "https://huggingface.co/apple/FastFrames-L",
+    "♥570"
    ]
   ],
   "npm": [
@@ -723,6 +723,16 @@
   ],
   "kev": [
    [
+    "CVE-2026-133968 Project MONAI MONAI Label",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-133968",
+    "เพิ่มเมื่อ 2026-11-23"
+   ],
+   [
+    "CVE-2026-134624 N-able MailAssure",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-134624",
+    "เพิ่มเมื่อ 2026-11-23"
+   ],
+   [
     "CVE-2026-129448 Apache Roller",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-129448",
     "เพิ่มเมื่อ 2026-11-20"
@@ -761,16 +771,6 @@
     "CVE-2026-90436 Apache Axis",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-90436",
     "เพิ่มเมื่อ 2026-11-18"
-   ],
-   [
-    "CVE-2026-115731 Perforce Puppet Enterprise",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
-    "เพิ่มเมื่อ 2026-11-17"
-   ],
-   [
-    "CVE-2026-114713 UnrealIRCd UnrealIRCd",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
-    "เพิ่มเมื่อ 2026-11-13"
    ]
   ],
   "epss": [
@@ -833,18 +833,17 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 14,
+    "score": 13,
     "hits": [
      "multimodal",
      "vision",
-     "image",
-     "video"
+     "image"
     ],
     "heat": 100
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 13,
+    "score": 12,
     "hits": [
      "agent",
      "agents",
@@ -856,22 +855,22 @@
    },
    {
     "name": "Coding assistants",
-    "score": 9,
+    "score": 6,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 100
+    "heat": 72
    },
    {
     "name": "Open-weight / Local models",
-    "score": 6,
+    "score": 3,
     "hits": [
      "open-source",
      "qwen"
     ],
-    "heat": 72
+    "heat": 36
    }
   ],
   "recommendations": [
@@ -964,7 +963,7 @@
    },
    {
     "tier": "caution",
-    "title": "CVE-2026-129448 Apache Roller",
+    "title": "CVE-2026-133968 Project MONAI MONAI Label",
     "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
     "tags": [
      "security",
@@ -979,15 +978,15 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: GLM-5.4: Toward Generalized Coding with Our First Loop Transformer"
+    "text": "HN ใหม่ในท็อป: Nvidia Reinstates Jensen Huang as CEO"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: XNU Linux: Full OS X GUI Userspace on Linux"
+    "text": "HN ใหม่ในท็อป: Stalwart is now a drop-in replacement for Microsoft Exchange"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Free alternative TV network built from the Internet Archive's forgotten videos"
+    "text": "HN ใหม่ในท็อป: Ladybird is now in alpha"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
@@ -1025,11 +1024,11 @@
     "Google: Gemini 4 Neon (batch)"
    ],
    "hn_top": [
-    "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-    "XNU Linux: Full OS X GUI Userspace on Linux",
-    "Free alternative TV network built from the Internet Archive's forgotten videos",
-    "Yes, 17M lines of Lean is a lot",
-    "Elixir HLS makes FPGA circuits from functions written in Elixir"
+    "Nvidia Reinstates Jensen Huang as CEO",
+    "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "Ladybird is now in alpha",
+    "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+    "GPUI is getting its own repository"
    ]
   },
   "year": 2026,
@@ -2214,16 +2213,7 @@
       "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
       "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
       "context": 1048576,
-      "blended": 0.048424999999999996,
-      "modality": "text+image+video->text"
-     },
-     {
-      "name": "Z.ai: GLM 5.3 Flash",
-      "org": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-flash",
-      "note": "context 1,048,576 · ~$0.05/ล้านผสม · text+image+video->text",
-      "context": 1048576,
-      "blended": 0.048424999999999996,
+      "blended": 0.047075,
       "modality": "text+image+video->text"
      },
      {
@@ -2234,6 +2224,15 @@
       "context": 1000000,
       "blended": 0.055,
       "modality": "text+image+video->text"
+     },
+     {
+      "name": "Tencent: Hy4 flash",
+      "org": "tencent",
+      "url": "https://openrouter.ai/tencent/hy4-flash",
+      "note": "context 1,048,576 · ~$0.06/ล้านผสม · text+image->text",
+      "context": 1048576,
+      "blended": 0.061375,
+      "modality": "text+image->text"
      }
     ]
    },
@@ -2371,15 +2370,6 @@
       "modality": "text->text"
      },
      {
-      "name": "Meta: Llama 3.1 8B Instruct",
-      "org": "meta-llama",
-      "url": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
-      "note": "context 131,072 · ~$0.03/ล้านผสม · text->text",
-      "context": 131072,
-      "blended": 0.025,
-      "modality": "text->text"
-     },
-     {
       "name": "Mistral: Mistral Nemo",
       "org": "mistralai",
       "url": "https://openrouter.ai/mistralai/mistral-nemo",
@@ -2414,6 +2404,15 @@
       "context": 262144,
       "blended": 0.0315,
       "modality": "text->text"
+     },
+     {
+      "name": "Z.ai: GLM 5.3 Flash (batch)",
+      "org": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
+      "note": "context 1,048,576 · ~$0.03/ล้านผสม · text+image+video->text",
+      "context": 1048576,
+      "blended": 0.03425,
+      "modality": "text+image+video->text"
      }
     ]
    }
