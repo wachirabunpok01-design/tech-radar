@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-24T02:12+00:00",
+ "updated": "2026-11-24T13:39+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00",
+   "time": "2026-11-24T13:39+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-24T02:12+00:00"
+   "time": "2026-11-24T13:39+00:00"
   }
  },
  "tables": [
@@ -366,117 +366,117 @@
   ],
   "hn": [
    [
-    "Nvidia Reinstates Jensen Huang as CEO",
-    "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-    "2135 คะแนน"
+    "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+    "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+    "324 คะแนน"
    ],
    [
-    "Stalwart is now a drop-in replacement for Microsoft Exchange",
-    "https://stalw.art/blog/microsoft-exchange-replacement/",
-    "208 คะแนน"
+    "LLM agents work for their parent companies, not for you",
+    "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "106 คะแนน"
+   ],
+   [
+    "Who in Washington owns and trades Nvidia stock",
+    "https://www.kadoa.com/congress/insights/trump-nvidia",
+    "78 คะแนน"
+   ],
+   [
+    "2035 Came Early",
+    "https://fzakaria.com/2026/11/23/2035-came-early",
+    "432 คะแนน"
+   ],
+   [
+    "Worshipping at the Altar of Brendan Gregg",
+    "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+    "72 คะแนน"
    ],
    [
     "Ladybird is now in alpha",
     "https://ladybird.org/posts/alpha/",
-    "1460 คะแนน"
+    "2144 คะแนน"
    ],
    [
-    "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
-    "https://www.science.org/doi/10.1126/scisignal.aef1375",
-    "28 คะแนน"
+    "An anti-slavery sugar bowl (2024)",
+    "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
+    "36 คะแนน"
    ],
    [
-    "GPUI is getting its own repository",
-    "https://github.com/zed-industries/gpui",
-    "129 คะแนน"
+    "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "547 คะแนน"
    ],
    [
-    "GLM-5.4: Toward generalized coding with our first loop transformer",
-    "https://z.ai/blog/glm-5.4",
-    "1061 คะแนน"
+    "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+    "https://www.phoronix.com/review/amd-epyc-9006-7601",
+    "141 คะแนน"
    ],
    [
-    "Bored.com: Fun, interesting and cool websites to explore when bored",
-    "https://www.bored.com/",
-    "112 คะแนน"
-   ],
-   [
-    "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-    "https://arm.jonpalmisc.com/",
-    "851 คะแนน"
-   ],
-   [
-    "Freeing the iPod Nano 5G",
-    "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
-    "44 คะแนน"
-   ],
-   [
-    "Dario is hyping the dangers so OSS models are illegal and he stays in control",
-    "https://twitter.com/ylecun/status/2124550037912920090",
-    "1185 คะแนน"
-   ],
-   [
-    "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-    "https://arxiv.org/abs/2602.20031",
+    "How a Mechanical Watch Keeps Time (Interactive 3D)",
+    "https://martincmartin.github.io/slidev-stem/watches/article/1/",
     "22 คะแนน"
    ],
    [
-    "VP ≠ VNP over Every Field",
-    "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
-    "241 คะแนน"
+    "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+    "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "18 คะแนน"
+   ],
+   [
+    "Nvidia Reinstates Jensen Huang as CEO",
+    "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "2674 คะแนน"
    ]
   ],
   "gh": {
    "top": [
     [
+     "Marvisak/VIctory",
+     "https://github.com/Marvisak/VIctory",
+     "★8,799 Rust"
+    ],
+    [
      "ivall/xcl",
      "https://github.com/ivall/xcl",
-     "★3,291 Rust"
+     "★6,665 Rust"
     ],
     [
      "EL4CTEO/fast-anything",
      "https://github.com/EL4CTEO/fast-anything",
-     "★3,168 Rust"
-    ],
-    [
-     "Marvisak/VIctory",
-     "https://github.com/Marvisak/VIctory",
-     "★2,997 Rust"
-    ],
-    [
-     "iamajmeena/neonclipping",
-     "https://github.com/iamajmeena/neonclipping",
-     "★2,311 Python"
+     "★3,461 Rust"
     ],
     [
      "AFK-surf/xnulinux",
      "https://github.com/AFK-surf/xnulinux",
-     "★2,170 Objective-C++"
+     "★2,936 Objective-C++"
     ],
     [
-     "omonkeyz/xbox-emulator",
-     "https://github.com/omonkeyz/xbox-emulator",
-     "★1,691 Rust"
+     "iamajmeena/neonclipping",
+     "https://github.com/iamajmeena/neonclipping",
+     "★2,395 Python"
+    ],
+    [
+     "4lwayz/portwatch-vi",
+     "https://github.com/4lwayz/portwatch-vi",
+     "★1,854 JavaScript"
     ],
     [
      "R0Y00/Xbox2Windows",
      "https://github.com/R0Y00/Xbox2Windows",
-     "★1,571 Python"
+     "★1,805 Python"
+    ],
+    [
+     "omonkeyz/xbox-emulator",
+     "https://github.com/omonkeyz/xbox-emulator",
+     "★1,755 Rust"
     ],
     [
      "os6/nospeaker",
      "https://github.com/os6/nospeaker",
-     "★1,463 Swift"
+     "★1,644 Swift"
     ],
     [
-     "leanprover-community/riemann-hypothesis",
-     "https://github.com/leanprover-community/riemann-hypothesis",
-     "★875 Lean"
-    ],
-    [
-     "INK-Q/agy-fast",
-     "https://github.com/INK-Q/agy-fast",
-     "★795 TypeScript"
+     "ubiquitarianism/leonida",
+     "https://github.com/ubiquitarianism/leonida",
+     "★1,215 Python"
     ]
    ],
    "by_lang": {
@@ -484,88 +484,88 @@
      [
       "iamajmeena/neonclipping",
       "https://github.com/iamajmeena/neonclipping",
-      "★2,311"
+      "★2,395"
      ],
      [
       "R0Y00/Xbox2Windows",
       "https://github.com/R0Y00/Xbox2Windows",
-      "★1,571"
+      "★1,805"
+     ],
+     [
+      "ubiquitarianism/leonida",
+      "https://github.com/ubiquitarianism/leonida",
+      "★1,215"
      ],
      [
       "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
       "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-      "★708"
+      "★721"
      ],
      [
       "ThreatDefence/agentic-attack-detections",
       "https://github.com/ThreatDefence/agentic-attack-detections",
-      "★566"
-     ],
-     [
-      "sybil-solutions/skill-distill",
-      "https://github.com/sybil-solutions/skill-distill",
-      "★521"
+      "★604"
      ]
     ],
     "TypeScript": [
      [
       "INK-Q/agy-fast",
       "https://github.com/INK-Q/agy-fast",
-      "★795"
-     ],
-     [
-      "w01fb0ss/PiBot",
-      "https://github.com/w01fb0ss/PiBot",
-      "★507"
-     ],
-     [
-      "sshkeda/minecraft-server-on-orange-cloud",
-      "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
-      "★421"
+      "★915"
      ],
      [
       "qianyiai/kurocat",
       "https://github.com/qianyiai/kurocat",
-      "★337"
+      "★549"
      ],
      [
-      "indigo-832/steam-library-artwork-manager",
-      "https://github.com/indigo-832/steam-library-artwork-manager",
-      "★189"
+      "w01fb0ss/PiBot",
+      "https://github.com/w01fb0ss/PiBot",
+      "★541"
+     ],
+     [
+      "sshkeda/minecraft-server-on-orange-cloud",
+      "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
+      "★425"
+     ],
+     [
+      "mitsuhiko/tvpipe",
+      "https://github.com/mitsuhiko/tvpipe",
+      "★222"
      ]
     ],
     "Rust": [
      [
+      "Marvisak/VIctory",
+      "https://github.com/Marvisak/VIctory",
+      "★8,799"
+     ],
+     [
       "ivall/xcl",
       "https://github.com/ivall/xcl",
-      "★3,291"
+      "★6,665"
      ],
      [
       "EL4CTEO/fast-anything",
       "https://github.com/EL4CTEO/fast-anything",
-      "★3,168"
-     ],
-     [
-      "Marvisak/VIctory",
-      "https://github.com/Marvisak/VIctory",
-      "★2,998"
+      "★3,461"
      ],
      [
       "omonkeyz/xbox-emulator",
       "https://github.com/omonkeyz/xbox-emulator",
-      "★1,691"
+      "★1,755"
      ],
      [
       "erkamyaman/safe-anything",
       "https://github.com/erkamyaman/safe-anything",
-      "★505"
+      "★581"
      ]
     ],
     "Go": [
      [
       "txchen/govault",
       "https://github.com/txchen/govault",
-      "★186"
+      "★191"
      ],
      [
       "geerlingguy/chronytop",
@@ -575,7 +575,7 @@
      [
       "jasonxu114514/aws-quickwork-2api",
       "https://github.com/jasonxu114514/aws-quickwork-2api",
-      "★129"
+      "★137"
      ],
      [
       "yldm-ai/mirra",
@@ -592,27 +592,27 @@
      [
       "os6/nospeaker",
       "https://github.com/os6/nospeaker",
-      "★1,463"
+      "★1,644"
      ],
      [
       "sibylsea-hub/touch-space",
       "https://github.com/sibylsea-hub/touch-space",
-      "★100"
+      "★101"
      ],
      [
       "stephancill/ios-keyboard-dictation",
       "https://github.com/stephancill/ios-keyboard-dictation",
-      "★82"
+      "★95"
      ],
      [
       "acoyfellow/rexweb",
       "https://github.com/acoyfellow/rexweb",
-      "★77"
+      "★79"
      ],
      [
       "ixiehao/ezNTFS",
       "https://github.com/ixiehao/ezNTFS",
-      "★67"
+      "★69"
      ]
     ]
    }
@@ -621,104 +621,104 @@
    [
     "thinkingmachines/Inkling-2-Mini",
     "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-    "♥5502"
+    "♥5650"
    ],
    [
     "unsloth/Inkling-2-Mini-GGUF",
     "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-    "♥1118"
+    "♥1190"
    ],
    [
     "inworld/voice-isolator",
     "https://huggingface.co/inworld/voice-isolator",
-    "♥738"
-   ],
-   [
-    "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-    "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-    "♥655"
-   ],
-   [
-    "harness-hub/Qwen3.8-27B-pi-adapted",
-    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥1038"
-   ],
-   [
-    "higurashi-ai/Haru-4B",
-    "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥940"
+    "♥772"
    ],
    [
     "tencent/Hy4-flash",
     "https://huggingface.co/tencent/Hy4-flash",
-    "♥649"
+    "♥665"
+   ],
+   [
+    "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+    "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+    "♥703"
+   ],
+   [
+    "harness-hub/Qwen3.8-27B-pi-adapted",
+    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+    "♥1052"
+   ],
+   [
+    "higurashi-ai/Haru-4B",
+    "https://huggingface.co/higurashi-ai/Haru-4B",
+    "♥951"
    ],
    [
     "SulphurAI/Sulphur-3",
     "https://huggingface.co/SulphurAI/Sulphur-3",
-    "♥856"
+    "♥871"
    ],
    [
     "sensenova/SenseNova-Loop-9B",
     "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-    "♥644"
+    "♥661"
    ],
    [
     "apple/FastFrames-L",
     "https://huggingface.co/apple/FastFrames-L",
-    "♥570"
+    "♥579"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "275,732,766 /สัปดาห์"
+    "274,654,160 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "26,822,809 /สัปดาห์"
+    "26,698,975 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "10,404,457 /สัปดาห์"
+    "10,405,786 /สัปดาห์"
    ],
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "12,546,583 /สัปดาห์"
+    "12,499,825 /สัปดาห์"
    ],
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,541,185 /สัปดาห์"
+    "8,552,994 /สัปดาห์"
    ],
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "98,003,359 /สัปดาห์"
+    "97,089,813 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "287,894,425 /สัปดาห์"
+    "286,510,880 /สัปดาห์"
    ],
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "450,984,480 /สัปดาห์"
+    "449,380,935 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,441,052 /สัปดาห์"
+    "2,377,425 /สัปดาห์"
    ],
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "48,501,198 /สัปดาห์"
+    "48,189,926 /สัปดาห์"
    ]
   ],
   "kev": [
@@ -829,8 +829,20 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: AI Agents / Tool use, Multimodal, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
+   {
+    "name": "AI Agents / Tool use",
+    "score": 14,
+    "hits": [
+     "agent",
+     "agents",
+     "tool use",
+     "tool-calling",
+     "mcp"
+    ],
+    "heat": 100
+   },
    {
     "name": "Multimodal",
     "score": 13,
@@ -838,18 +850,6 @@
      "multimodal",
      "vision",
      "image"
-    ],
-    "heat": 100
-   },
-   {
-    "name": "AI Agents / Tool use",
-    "score": 12,
-    "hits": [
-     "agent",
-     "agents",
-     "tool use",
-     "tool-calling",
-     "mcp"
     ],
     "heat": 100
    },
@@ -978,15 +978,15 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Nvidia Reinstates Jensen Huang as CEO"
+    "text": "HN ใหม่ในท็อป: Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Stalwart is now a drop-in replacement for Microsoft Exchange"
+    "text": "HN ใหม่ในท็อป: LLM agents work for their parent companies, not for you"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Ladybird is now in alpha"
+    "text": "HN ใหม่ในท็อป: Who in Washington owns and trades Nvidia stock"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
@@ -1001,8 +1001,8 @@
     "GPT-6.2 Sol (Xhigh)"
    ],
    "themes": [
-    "Multimodal",
     "AI Agents / Tool use",
+    "Multimodal",
     "Coding assistants",
     "Open-weight / Local models"
    ],
@@ -1024,11 +1024,11 @@
     "Google: Gemini 4 Neon (batch)"
    ],
    "hn_top": [
-    "Nvidia Reinstates Jensen Huang as CEO",
-    "Stalwart is now a drop-in replacement for Microsoft Exchange",
-    "Ladybird is now in alpha",
-    "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
-    "GPUI is getting its own repository"
+    "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+    "LLM agents work for their parent companies, not for you",
+    "Who in Washington owns and trades Nvidia stock",
+    "2035 Came Early",
+    "Worshipping at the Altar of Brendan Gregg"
    ]
   },
   "year": 2026,
@@ -1154,104 +1154,104 @@
     "use": "เขียนเว็บ, UI, frontend",
     "tip": "เน้นงานสร้างเว็บและโค้ดหน้าบ้าน — สำคัญถ้าคุณใช้ AI ช่วยเขียนแอป",
     "score_kind": "elo",
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "leader": "Claude Fable 5.2 (xHigh)",
     "items": [
      {
       "rank": 1,
       "name": "Claude Fable 5.2 (xHigh)",
       "org": "anthropic",
-      "score": 1822.1334535572094,
-      "votes": 2124,
-      "date": "2026-11-22",
+      "score": 1821.6543300273584,
+      "votes": 2159,
+      "date": "2026-11-23",
       "license": "Proprietary",
       "score_label": "1822",
       "bar": 100,
-      "meta": "โหวต/สังเกต ~2,124"
+      "meta": "โหวต/สังเกต ~2,159"
      },
      {
       "rank": 2,
       "name": "Claude Opus 5.5 (Max)",
       "org": "anthropic",
-      "score": 1820.2717791077653,
-      "votes": 5075,
-      "date": "2026-11-22",
+      "score": 1820.352133915408,
+      "votes": 5121,
+      "date": "2026-11-23",
       "license": "Proprietary",
       "score_label": "1820",
       "bar": 100,
-      "meta": "โหวต/สังเกต ~5,075"
+      "meta": "โหวต/สังเกต ~5,121"
      },
      {
       "rank": 3,
       "name": "Claude Sonnet 5.5 (xHigh)",
       "org": "anthropic",
-      "score": 1772.3567021268916,
-      "votes": 6925,
-      "date": "2026-11-22",
+      "score": 1772.644765547574,
+      "votes": 6973,
+      "date": "2026-11-23",
       "license": "Proprietary",
-      "score_label": "1772",
+      "score_label": "1773",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~6,925"
+      "meta": "โหวต/สังเกต ~6,973"
      },
      {
       "rank": 4,
       "name": "Gemini 4 Carbon (High)",
       "org": "google",
-      "score": 1768.897000921913,
-      "votes": 2092,
-      "date": "2026-11-22",
+      "score": 1768.9772706074991,
+      "votes": 2091,
+      "date": "2026-11-23",
       "license": "Proprietary",
       "score_label": "1769",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~2,092"
+      "meta": "โหวต/สังเกต ~2,091"
      },
      {
       "rank": 5,
-      "name": "Gemini 4 Neon (High)",
+      "name": "Gemini 4 Neon (xHigh)",
       "org": "google",
-      "score": 1765.7693354866158,
-      "votes": 2310,
-      "date": "2026-11-22",
+      "score": 1765.2738702758857,
+      "votes": 2308,
+      "date": "2026-11-23",
       "license": "Proprietary",
-      "score_label": "1766",
+      "score_label": "1765",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~2,310"
+      "meta": "โหวต/สังเกต ~2,308"
      },
      {
       "rank": 6,
       "name": "GPT-6 Astra (Max)",
       "org": "openai",
-      "score": 1764.3365718071632,
-      "votes": 9495,
-      "date": "2026-11-22",
+      "score": 1763.6447154168923,
+      "votes": 9541,
+      "date": "2026-11-23",
       "license": "Proprietary",
       "score_label": "1764",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~9,495"
+      "meta": "โหวต/สังเกต ~9,541"
      },
      {
       "rank": 7,
       "name": "GPT-6.2 Astra (Max)",
       "org": "openai",
-      "score": 1759.4459073817447,
-      "votes": 2088,
-      "date": "2026-11-22",
+      "score": 1760.6727670955838,
+      "votes": 2170,
+      "date": "2026-11-23",
       "license": "Proprietary",
-      "score_label": "1759",
+      "score_label": "1761",
       "bar": 97,
-      "meta": "โหวต/สังเกต ~2,088"
+      "meta": "โหวต/สังเกต ~2,170"
      },
      {
       "rank": 8,
       "name": "GPT-6.2 Sol (Max)",
       "org": "openai",
-      "score": 1755.0678190213337,
-      "votes": 2247,
-      "date": "2026-11-22",
+      "score": 1754.823285761312,
+      "votes": 2336,
+      "date": "2026-11-23",
       "license": "Proprietary",
       "score_label": "1755",
       "bar": 96,
-      "meta": "โหวต/สังเกต ~2,247"
+      "meta": "โหวต/สังเกต ~2,336"
      }
     ]
    },
@@ -2016,17 +2016,6 @@
     "appear": 4
    },
    {
-    "name": "Gemini 4 Neon (High)",
-    "org": "google",
-    "ranks": {
-     "text": 3,
-     "webdev": 5,
-     "agent": 3,
-     "factual": 2
-    },
-    "appear": 4
-   },
-   {
     "name": "Claude Opus 5.5 (High)",
     "org": "anthropic",
     "ranks": {
@@ -2047,6 +2036,16 @@
      "document": 2
     },
     "appear": 4
+   },
+   {
+    "name": "Gemini 4 Neon (High)",
+    "org": "google",
+    "ranks": {
+     "text": 3,
+     "agent": 3,
+     "factual": 2
+    },
+    "appear": 3
    },
    {
     "name": "Claude Opus 4.6 (High)",
