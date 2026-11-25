@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-25T08:29+00:00",
+ "updated": "2026-11-25T19:14+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00",
+   "time": "2026-11-25T19:14+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   }
  },
  "tables": [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
-    "Matrix Multiplication is Θ(n^2.25) [pdf]",
-    "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-    "556 คะแนน"
+    "1Password Security Incident",
+    "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "383 คะแนน"
+   ],
+   [
+    "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+    "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+    "326 คะแนน"
+   ],
+   [
+    "Google releases Cogentic papers on integer factorization, discrete logs and more",
+    "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+    "346 คะแนน"
+   ],
+   [
+    "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+    "https://github.com/xoxorwr/pw-loudness-eq",
+    "260 คะแนน"
+   ],
+   [
+    "I checked Clojure's core with Lean and found unreported bugs",
+    "https://s.conao3.com/blog/2026/e4f733",
+    "94 คะแนน"
+   ],
+   [
+    "Predicting LoRA size for any dataset",
+    "https://engram.com/blog/lora-size",
+    "64 คะแนน"
+   ],
+   [
+    "Britain's ghost stations",
+    "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+    "19 คะแนน"
+   ],
+   [
+    "Deriving Black-Scholes",
+    "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+    "20 คะแนน"
    ],
    [
     "Button Sounds – collection of professionally-recorded button clicks and presses",
     "https://buttons.joshwcomeau.com/",
-    "298 คะแนน"
+    "753 คะแนน"
    ],
    [
-    "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-    "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-    "196 คะแนน"
+    "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+    "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+    "118 คะแนน"
    ],
    [
-    "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "https://gpu-demo-gallery.pages.dev/",
-    "80 คะแนน"
+    "The matrix multiplication exponent is nine fourths [pdf]",
+    "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "925 คะแนน"
    ],
    [
-    "Ternary Bonsai 2.5 27B",
-    "https://prismml.com/news/bonsai-2-5-27b",
-    "436 คะแนน"
-   ],
-   [
-    "PenGPT: A Generative Transformer for Handwriting and Sketches",
-    "https://greydanus.github.io/2026/11/12/pengpt/",
-    "221 คะแนน"
-   ],
-   [
-    "Taking over US Treasury subdomains for $3 each",
-    "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-    "64 คะแนน"
-   ],
-   [
-    "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-    "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-    "140 คะแนน"
-   ],
-   [
-    "The algebra of dependent types (2025)",
-    "https://dotat.at/@/2025-05-28-types.html",
-    "15 คะแนน"
-   ],
-   [
-    "Marginalia Search, Money, C++, Rust, AI, Stuff",
-    "https://www.marginalia.nu/log/a_141_marginalia_update/",
-    "91 คะแนน"
-   ],
-   [
-    "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-    "251 คะแนน"
-   ],
-   [
-    "Top open problems in mathematics ranked by LLM-assessed importance",
-    "https://www.proofatlas.ai/open-problems/",
-    "46 คะแนน"
+    "Investigating degraded experiences across GitHub products",
+    "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+    "157 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "Marvisak/VIctory",
      "https://github.com/Marvisak/VIctory",
-     "★11,795 Rust"
+     "★12,426 Rust"
     ],
     [
      "xcl-dev/xcl",
      "https://github.com/xcl-dev/xcl",
-     "★8,032 Rust"
+     "★8,248 Rust"
     ],
     [
      "EL4CTEO/fast-anything",
      "https://github.com/EL4CTEO/fast-anything",
-     "★3,746 Rust"
+     "★3,902 Rust"
     ],
     [
      "AFK-surf/xnulinux",
      "https://github.com/AFK-surf/xnulinux",
-     "★3,615 C"
+     "★3,861 C"
     ],
     [
      "4lwayz/portwatch-vi",
      "https://github.com/4lwayz/portwatch-vi",
-     "★3,158 JavaScript"
-    ],
-    [
-     "iamajmeena/neonclipping",
-     "https://github.com/iamajmeena/neonclipping",
-     "★2,538 Python"
+     "★3,747 JavaScript"
     ],
     [
      "fxceless/victory-fork",
      "https://github.com/fxceless/victory-fork",
-     "★2,446 Rust"
+     "★2,929 Rust"
+    ],
+    [
+     "iamajmeena/neonclipping",
+     "https://github.com/iamajmeena/neonclipping",
+     "★2,612 Python"
     ],
     [
      "ubiquitarianism/leonida",
      "https://github.com/ubiquitarianism/leonida",
-     "★2,044 Python"
+     "★2,267 Python"
     ],
     [
      "R0Y00/Xbox2Windows",
      "https://github.com/R0Y00/Xbox2Windows",
-     "★1,931 Python"
+     "★1,948 Python"
     ],
     [
-     "omonkeyz/xbox-emulator",
-     "https://github.com/omonkeyz/xbox-emulator",
-     "★1,829 Rust"
+     "os6/nospeaker",
+     "https://github.com/os6/nospeaker",
+     "★1,867 Swift"
     ]
    ],
    "by_lang": {
@@ -484,39 +484,39 @@
      [
       "iamajmeena/neonclipping",
       "https://github.com/iamajmeena/neonclipping",
-      "★2,538"
+      "★2,612"
      ],
      [
       "ubiquitarianism/leonida",
       "https://github.com/ubiquitarianism/leonida",
-      "★2,044"
+      "★2,267"
      ],
      [
       "R0Y00/Xbox2Windows",
       "https://github.com/R0Y00/Xbox2Windows",
-      "★1,931"
+      "★1,948"
      ],
      [
       "zero5122/offline-file-converter-windows",
       "https://github.com/zero5122/offline-file-converter-windows",
-      "★1,059"
+      "★1,062"
      ],
      [
       "sous-labs/songe",
       "https://github.com/sous-labs/songe",
-      "★765"
+      "★839"
      ]
     ],
     "TypeScript": [
      [
       "INK-Q/agy-fast",
       "https://github.com/INK-Q/agy-fast",
-      "★1,357"
+      "★1,493"
      ],
      [
       "qianyiai/kurocat",
       "https://github.com/qianyiai/kurocat",
-      "★808"
+      "★944"
      ],
      [
       "Basil0879/steam-game-idler",
@@ -526,39 +526,39 @@
      [
       "w01fb0ss/PiBot",
       "https://github.com/w01fb0ss/PiBot",
-      "★571"
+      "★589"
      ],
      [
       "sshkeda/minecraft-server-on-orange-cloud",
       "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
-      "★430"
+      "★437"
      ]
     ],
     "Rust": [
      [
       "Marvisak/VIctory",
       "https://github.com/Marvisak/VIctory",
-      "★11,795"
+      "★12,426"
      ],
      [
       "xcl-dev/xcl",
       "https://github.com/xcl-dev/xcl",
-      "★8,032"
+      "★8,248"
      ],
      [
       "EL4CTEO/fast-anything",
       "https://github.com/EL4CTEO/fast-anything",
-      "★3,746"
+      "★3,902"
      ],
      [
       "fxceless/victory-fork",
       "https://github.com/fxceless/victory-fork",
-      "★2,446"
+      "★2,929"
      ],
      [
       "omonkeyz/xbox-emulator",
       "https://github.com/omonkeyz/xbox-emulator",
-      "★1,829"
+      "★1,843"
      ]
     ],
     "Go": [
@@ -568,14 +568,14 @@
       "★193"
      ],
      [
-      "kevinr-2752/PClabs",
-      "https://github.com/kevinr-2752/PClabs",
-      "★193"
+      "robertmar-work47/davinci-resolve-studio-21-premiere-2026-video-suite-ko",
+      "https://github.com/robertmar-work47/davinci-resolve-studio-21-premiere-2026-video-suite-ko",
+      "★128"
      ],
      [
-      "jasonxu114514/aws-quickwork-2api",
-      "https://github.com/jasonxu114514/aws-quickwork-2api",
-      "★145"
+      "GregoryPerry76835/autodesk-autocad-2027-solidworks-2026-muhendislik-paketi-t",
+      "https://github.com/GregoryPerry76835/autodesk-autocad-2027-solidworks-2026-muhendislik-paketi-t",
+      "★125"
      ],
      [
       "yldm-ai/mirra",
@@ -592,27 +592,27 @@
      [
       "os6/nospeaker",
       "https://github.com/os6/nospeaker",
-      "★1,800"
+      "★1,867"
+     ],
+     [
+      "swipt-automation/Swipterm",
+      "https://github.com/swipt-automation/Swipterm",
+      "★126"
      ],
      [
       "sibylsea-hub/touch-space",
       "https://github.com/sibylsea-hub/touch-space",
-      "★102"
+      "★104"
      ],
      [
       "stephancill/ios-keyboard-dictation",
       "https://github.com/stephancill/ios-keyboard-dictation",
-      "★99"
+      "★100"
      ],
      [
       "jakobhviid/verso",
       "https://github.com/jakobhviid/verso",
-      "★71"
-     ],
-     [
-      "ixiehao/ezNTFS",
-      "https://github.com/ixiehao/ezNTFS",
-      "★69"
+      "★75"
      ]
     ]
    }
@@ -621,107 +621,112 @@
    [
     "thinkingmachines/Inkling-2-Mini",
     "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-    "♥5854"
+    "♥5956"
    ],
    [
     "unsloth/Inkling-2-Mini-GGUF",
     "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-    "♥1288"
+    "♥1335"
    ],
    [
     "inworld/voice-isolator",
     "https://huggingface.co/inworld/voice-isolator",
-    "♥838"
+    "♥864"
    ],
    [
     "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
     "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-    "♥772"
+    "♥814"
    ],
    [
     "SulphurAI/Sulphur-3",
     "https://huggingface.co/SulphurAI/Sulphur-3",
-    "♥959"
-   ],
-   [
-    "harness-hub/Qwen3.8-27B-pi-adapted",
-    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥1080"
-   ],
-   [
-    "higurashi-ai/Haru-4B",
-    "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥981"
-   ],
-   [
-    "apple/DepthPro2",
-    "https://huggingface.co/apple/DepthPro2",
-    "♥1207"
-   ],
-   [
-    "tencent/Hy4-flash",
-    "https://huggingface.co/tencent/Hy4-flash",
-    "♥684"
+    "♥1012"
    ],
    [
     "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-    "♥174"
+    "♥277"
+   ],
+   [
+    "apple/DepthPro2",
+    "https://huggingface.co/apple/DepthPro2",
+    "♥1222"
+   ],
+   [
+    "harness-hub/Qwen3.8-27B-pi-adapted",
+    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+    "♥1090"
+   ],
+   [
+    "higurashi-ai/Haru-4B",
+    "https://huggingface.co/higurashi-ai/Haru-4B",
+    "♥992"
+   ],
+   [
+    "llamaindex/OCRia-nano-1",
+    "https://huggingface.co/llamaindex/OCRia-nano-1",
+    "♥207"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "274,654,160 /สัปดาห์"
+    "272,822,385 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "26,698,975 /สัปดาห์"
+    "26,572,550 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "10,405,786 /สัปดาห์"
+    "10,309,456 /สัปดาห์"
    ],
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "12,499,825 /สัปดาห์"
+    "12,523,177 /สัปดาห์"
    ],
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,552,994 /สัปดาห์"
+    "8,564,067 /สัปดาห์"
    ],
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "97,089,813 /สัปดาห์"
+    "94,714,881 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "286,510,880 /สัปดาห์"
+    "285,111,487 /สัปดาห์"
    ],
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "449,380,935 /สัปดาห์"
+    "447,758,264 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,377,425 /สัปดาห์"
+    "2,345,745 /สัปดาห์"
    ],
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "48,189,926 /สัปดาห์"
+    "47,746,034 /สัปดาห์"
    ]
   ],
   "kev": [
+   [
+    "CVE-2026-103406 Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-103406",
+    "เพิ่มเมื่อ 2026-11-25"
+   ],
    [
     "CVE-2026-132224 Optimizely Web Experimentation",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-132224",
@@ -766,63 +771,58 @@
     "CVE-2026-76466 Cisco Expressway Series",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-76466",
     "เพิ่มเมื่อ 2026-11-20"
-   ],
-   [
-    "CVE-2024-10441 Synology DiskStation Manager (DSM)",
-    "https://nvd.nist.gov/vuln/detail/CVE-2024-10441",
-    "เพิ่มเมื่อ 2026-11-18"
    ]
   ],
   "epss": [
    [
     "CVE-2026-99999",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-99999",
-    "EPSS 0.008"
+    "EPSS 0.003"
    ],
    [
     "CVE-2026-9999",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-9999",
-    "EPSS 0.003"
+    "EPSS 0.004"
    ],
    [
     "CVE-2026-9998",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-9998",
-    "EPSS 0.002"
+    "EPSS 0.004"
    ],
    [
     "CVE-2026-9997",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-9997",
-    "EPSS 0.002"
+    "EPSS 0.003"
    ],
    [
     "CVE-2026-9996",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-9996",
-    "EPSS 0.002"
+    "EPSS 0.003"
    ],
    [
     "CVE-2026-9995",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-9995",
-    "EPSS 0.003"
+    "EPSS 0.005"
    ],
    [
     "CVE-2026-9994",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-9994",
-    "EPSS 0.002"
+    "EPSS 0.003"
    ],
    [
     "CVE-2026-9993",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-9993",
-    "EPSS 0.002"
+    "EPSS 0.003"
    ],
    [
     "CVE-2026-9992",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-9992",
-    "EPSS 0.002"
+    "EPSS 0.004"
    ],
    [
     "CVE-2026-9991",
     "https://nvd.nist.gov/vuln/detail/CVE-2026-9991",
-    "EPSS 0.001"
+    "EPSS 0.002"
    ]
   ]
  },
@@ -833,11 +833,12 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 13,
+    "score": 14,
     "hits": [
      "multimodal",
      "vision",
-     "image"
+     "image",
+     "video"
     ],
     "heat": 100
    },
@@ -855,21 +856,22 @@
    },
    {
     "name": "Coding assistants",
-    "score": 5,
+    "score": 7,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 60
+    "heat": 84
    },
    {
     "name": "Open-weight / Local models",
-    "score": 2,
+    "score": 3,
     "hits": [
+     "llama",
      "qwen"
     ],
-    "heat": 24
+    "heat": 36
    }
   ],
   "recommendations": [
@@ -962,7 +964,7 @@
    },
    {
     "tier": "caution",
-    "title": "CVE-2026-132224 Optimizely Web Experimentation",
+    "title": "CVE-2026-103406 Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router",
     "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
     "tags": [
      "security",
@@ -977,15 +979,15 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Matrix Multiplication is Θ(n^2.25) [pdf]"
+    "text": "HN ใหม่ในท็อป: 1Password Security Incident"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Button Sounds – collection of professionally-recorded button clicks and presses"
+    "text": "HN ใหม่ในท็อป: A few questions for the guy who went snorkeling in a Home Depot retention pond"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Models Can Communicate via Inference Servers Despite Being Sandboxed"
+    "text": "HN ใหม่ในท็อป: Google releases Cogentic papers on integer factorization, discrete logs and more"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
@@ -1023,11 +1025,11 @@
     "RadixArk: DaisyRose 27B"
    ],
    "hn_top": [
-    "Matrix Multiplication is Θ(n^2.25) [pdf]",
-    "Button Sounds – collection of professionally-recorded button clicks and presses",
-    "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-    "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "Ternary Bonsai 2.5 27B"
+    "1Password Security Incident",
+    "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+    "Google releases Cogentic papers on integer factorization, discrete logs and more",
+    "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+    "I checked Clojure's core with Lean and found unreported bugs"
    ]
   },
   "year": 2026,

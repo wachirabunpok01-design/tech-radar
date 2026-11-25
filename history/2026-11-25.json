@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:29+00:00",
+ "updated": "2026-11-25T19:14+00:00",
  "snapshot": {
   "ai_top": [
    "Claude Opus 5.5 (Max, Default Fallback)",
@@ -32,11 +32,11 @@
    "RadixArk: DaisyRose 27B"
   ],
   "hn_top": [
-   "Matrix Multiplication is Θ(n^2.25) [pdf]",
-   "Button Sounds – collection of professionally-recorded button clicks and presses",
-   "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-   "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-   "Ternary Bonsai 2.5 27B"
+   "1Password Security Incident",
+   "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+   "Google releases Cogentic papers on integer factorization, discrete logs and more",
+   "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+   "I checked Clojure's core with Lean and found unreported bugs"
   ]
  },
  "trends": {
@@ -45,11 +45,12 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 13,
+    "score": 14,
     "hits": [
      "multimodal",
      "vision",
-     "image"
+     "image",
+     "video"
     ],
     "heat": 100
    },
@@ -67,21 +68,22 @@
    },
    {
     "name": "Coding assistants",
-    "score": 5,
+    "score": 7,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 60
+    "heat": 84
    },
    {
     "name": "Open-weight / Local models",
-    "score": 2,
+    "score": 3,
     "hits": [
+     "llama",
      "qwen"
     ],
-    "heat": 24
+    "heat": 36
    }
   ],
   "recommendations": [
@@ -174,7 +176,7 @@
    },
    {
     "tier": "caution",
-    "title": "CVE-2026-132224 Optimizely Web Experimentation",
+    "title": "CVE-2026-103406 Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router",
     "why": "อยู่ใน CISA KEV (ถูกโจมตีจริง) — ตรวจระบบที่เกี่ยวกับ vendor/product นี้ก่อน ไม่ใช่เทรนน่าลอง",
     "tags": [
      "security",
@@ -187,56 +189,56 @@
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00",
+   "time": "2026-11-25T19:14+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-25T08:29+00:00"
+   "time": "2026-11-25T19:14+00:00"
   }
  }
 }
