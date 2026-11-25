@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-24T23:53+00:00",
+ "updated": "2026-11-25T08:29+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00",
+   "time": "2026-11-25T08:29+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-24T23:53+00:00"
+   "time": "2026-11-25T08:29+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-24",
+   "date": "ดึงเมื่อ 2026-11-25",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -314,9 +314,19 @@
  "live": {
   "or": [
    [
+    "Upstage: Solar Mini 4.5 (Preview)",
+    "https://openrouter.ai/upstage/solar-mini-4-5",
+    "2026-11-24 · context 524,288 · $0.01 / $0.04 ต่อล้าน tokens"
+   ],
+   [
+    "Upstage: Solar Pro 4 Contributor",
+    "https://openrouter.ai/upstage/solar-pro-4-contributor",
+    "2026-11-24 · context 524,288 · $0.09 / $0.36 ต่อล้าน tokens"
+   ],
+   [
     "Xiaomi: MiMo-V2.6-Flash-MOPD",
     "https://openrouter.ai/xiaomi/mimo-v2.6-flash-mopd",
-    "2026-11-23 · context 1,048,576 · $0.15 / $0.42 ต่อล้าน tokens"
+    "2026-11-23 · context 1,048,576 · $0.50 / $1.00 ต่อล้าน tokens"
    ],
    [
     "Thinking Machines: Inkling 2 Mini",
@@ -352,78 +362,68 @@
     "OpenAI: GPT-6.2 Astra Pro (batch)",
     "https://openrouter.ai/openai/gpt-6.2-astra-pro:batch",
     "2026-11-17 · context 1,050,000 · $4.00 / $20.00 ต่อล้าน tokens"
-   ],
-   [
-    "OpenAI: GPT-6.2 Astra",
-    "https://openrouter.ai/openai/gpt-6.2-astra",
-    "2026-11-17 · context 1,050,000 · $8.00 / $40.00 ต่อล้าน tokens"
-   ],
-   [
-    "OpenAI: GPT-6.2 Astra (batch)",
-    "https://openrouter.ai/openai/gpt-6.2-astra:batch",
-    "2026-11-17 · context 1,050,000 · $4.00 / $20.00 ต่อล้าน tokens"
    ]
   ],
   "hn": [
    [
+    "Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "556 คะแนน"
+   ],
+   [
+    "Button Sounds – collection of professionally-recorded button clicks and presses",
+    "https://buttons.joshwcomeau.com/",
+    "298 คะแนน"
+   ],
+   [
+    "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "196 คะแนน"
+   ],
+   [
+    "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "https://gpu-demo-gallery.pages.dev/",
+    "80 คะแนน"
+   ],
+   [
     "Ternary Bonsai 2.5 27B",
     "https://prismml.com/news/bonsai-2-5-27b",
-    "273 คะแนน"
+    "436 คะแนน"
+   ],
+   [
+    "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "https://greydanus.github.io/2026/11/12/pengpt/",
+    "221 คะแนน"
+   ],
+   [
+    "Taking over US Treasury subdomains for $3 each",
+    "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "64 คะแนน"
+   ],
+   [
+    "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+    "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+    "140 คะแนน"
+   ],
+   [
+    "The algebra of dependent types (2025)",
+    "https://dotat.at/@/2025-05-28-types.html",
+    "15 คะแนน"
+   ],
+   [
+    "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "91 คะแนน"
    ],
    [
     "GPT-6 models demonstrate intrinsic protein-design capabilities",
     "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-    "115 คะแนน"
+    "251 คะแนน"
    ],
    [
-    "Launch HN: Versine (YC F26) – MCP to send and receive money",
-    "https://news.ycombinator.com/item?id=50634426",
-    "54 คะแนน"
-   ],
-   [
-    "Active intrusion campaign against Check Point security management servers",
-    "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-    "249 คะแนน"
-   ],
-   [
-    "Gödel Enigma",
-    "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
-    "61 คะแนน"
-   ],
-   [
-    "The Spray Bottle",
-    "https://mechanical-pencil.com/products/spray-bottle",
-    "325 คะแนน"
-   ],
-   [
-    "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
-    "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
-    "17 คะแนน"
-   ],
-   [
-    "Calculate how many mesh radio nodes your city needs",
-    "https://meshcoveragecalculator.lalala.ing/",
-    "63 คะแนน"
-   ],
-   [
-    "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-    "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-    "55 คะแนน"
-   ],
-   [
-    "Heart attack and stroke risk detectable decades in advance",
-    "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-    "91 คะแนน"
-   ],
-   [
-    "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
-    "https://github.com/PQCrypta/pqcrypta-proxy",
-    "17 คะแนน"
-   ],
-   [
-    "Jetty Pro",
-    "http://hypercritical.co/2026/11/23/jetty-pro",
-    "247 คะแนน"
+    "Top open problems in mathematics ranked by LLM-assessed importance",
+    "https://www.proofatlas.ai/open-problems/",
+    "46 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "Marvisak/VIctory",
      "https://github.com/Marvisak/VIctory",
-     "★11,255 Rust"
+     "★11,795 Rust"
     ],
     [
      "xcl-dev/xcl",
      "https://github.com/xcl-dev/xcl",
-     "★7,803 Rust"
+     "★8,032 Rust"
     ],
     [
      "EL4CTEO/fast-anything",
      "https://github.com/EL4CTEO/fast-anything",
-     "★3,594 Rust"
+     "★3,746 Rust"
     ],
     [
      "AFK-surf/xnulinux",
      "https://github.com/AFK-surf/xnulinux",
-     "★3,340 Objective-C++"
+     "★3,615 C"
     ],
     [
      "4lwayz/portwatch-vi",
      "https://github.com/4lwayz/portwatch-vi",
-     "★2,811 JavaScript"
+     "★3,158 JavaScript"
     ],
     [
      "iamajmeena/neonclipping",
      "https://github.com/iamajmeena/neonclipping",
-     "★2,481 Python"
+     "★2,538 Python"
     ],
     [
-     "R0Y00/Xbox2Windows",
-     "https://github.com/R0Y00/Xbox2Windows",
-     "★1,896 Python"
+     "fxceless/victory-fork",
+     "https://github.com/fxceless/victory-fork",
+     "★2,446 Rust"
     ],
     [
      "ubiquitarianism/leonida",
      "https://github.com/ubiquitarianism/leonida",
-     "★1,859 Python"
+     "★2,044 Python"
+    ],
+    [
+     "R0Y00/Xbox2Windows",
+     "https://github.com/R0Y00/Xbox2Windows",
+     "★1,931 Python"
     ],
     [
      "omonkeyz/xbox-emulator",
      "https://github.com/omonkeyz/xbox-emulator",
-     "★1,818 Rust"
-    ],
-    [
-     "os6/nospeaker",
-     "https://github.com/os6/nospeaker",
-     "★1,750 Swift"
+     "★1,829 Rust"
     ]
    ],
    "by_lang": {
@@ -484,130 +484,130 @@
      [
       "iamajmeena/neonclipping",
       "https://github.com/iamajmeena/neonclipping",
-      "★2,481"
-     ],
-     [
-      "R0Y00/Xbox2Windows",
-      "https://github.com/R0Y00/Xbox2Windows",
-      "★1,896"
+      "★2,538"
      ],
      [
       "ubiquitarianism/leonida",
       "https://github.com/ubiquitarianism/leonida",
-      "★1,859"
+      "★2,044"
      ],
      [
-      "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-      "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-      "★722"
+      "R0Y00/Xbox2Windows",
+      "https://github.com/R0Y00/Xbox2Windows",
+      "★1,931"
      ],
      [
-      "sybil-solutions/skill-distill",
-      "https://github.com/sybil-solutions/skill-distill",
-      "★714"
+      "zero5122/offline-file-converter-windows",
+      "https://github.com/zero5122/offline-file-converter-windows",
+      "★1,059"
+     ],
+     [
+      "sous-labs/songe",
+      "https://github.com/sous-labs/songe",
+      "★765"
      ]
     ],
     "TypeScript": [
      [
       "INK-Q/agy-fast",
       "https://github.com/INK-Q/agy-fast",
-      "★1,165"
+      "★1,357"
      ],
      [
       "qianyiai/kurocat",
       "https://github.com/qianyiai/kurocat",
-      "★604"
-     ],
-     [
-      "w01fb0ss/PiBot",
-      "https://github.com/w01fb0ss/PiBot",
-      "★557"
+      "★808"
      ],
      [
       "Basil0879/steam-game-idler",
       "https://github.com/Basil0879/steam-game-idler",
-      "★501"
+      "★682"
+     ],
+     [
+      "w01fb0ss/PiBot",
+      "https://github.com/w01fb0ss/PiBot",
+      "★571"
      ],
      [
       "sshkeda/minecraft-server-on-orange-cloud",
       "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
-      "★428"
+      "★430"
      ]
     ],
     "Rust": [
      [
       "Marvisak/VIctory",
       "https://github.com/Marvisak/VIctory",
-      "★11,255"
+      "★11,795"
      ],
      [
       "xcl-dev/xcl",
       "https://github.com/xcl-dev/xcl",
-      "★7,803"
+      "★8,032"
      ],
      [
       "EL4CTEO/fast-anything",
       "https://github.com/EL4CTEO/fast-anything",
-      "★3,594"
-     ],
-     [
-      "omonkeyz/xbox-emulator",
-      "https://github.com/omonkeyz/xbox-emulator",
-      "★1,818"
+      "★3,746"
      ],
      [
       "fxceless/victory-fork",
       "https://github.com/fxceless/victory-fork",
-      "★1,719"
+      "★2,446"
+     ],
+     [
+      "omonkeyz/xbox-emulator",
+      "https://github.com/omonkeyz/xbox-emulator",
+      "★1,829"
      ]
     ],
     "Go": [
      [
       "txchen/govault",
       "https://github.com/txchen/govault",
-      "★192"
+      "★193"
      ],
      [
       "kevinr-2752/PClabs",
       "https://github.com/kevinr-2752/PClabs",
-      "★156"
-     ],
-     [
-      "geerlingguy/chronytop",
-      "https://github.com/geerlingguy/chronytop",
-      "★156"
+      "★193"
      ],
      [
       "jasonxu114514/aws-quickwork-2api",
       "https://github.com/jasonxu114514/aws-quickwork-2api",
-      "★141"
+      "★145"
      ],
      [
       "yldm-ai/mirra",
       "https://github.com/yldm-ai/mirra",
       "★105"
+     ],
+     [
+      "podomy/weld",
+      "https://github.com/podomy/weld",
+      "★101"
      ]
     ],
     "Swift": [
      [
       "os6/nospeaker",
       "https://github.com/os6/nospeaker",
-      "★1,750"
+      "★1,800"
      ],
      [
       "sibylsea-hub/touch-space",
       "https://github.com/sibylsea-hub/touch-space",
-      "★101"
+      "★102"
      ],
      [
       "stephancill/ios-keyboard-dictation",
       "https://github.com/stephancill/ios-keyboard-dictation",
-      "★97"
+      "★99"
      ],
      [
-      "acoyfellow/rexweb",
-      "https://github.com/acoyfellow/rexweb",
-      "★80"
+      "jakobhviid/verso",
+      "https://github.com/jakobhviid/verso",
+      "★71"
      ],
      [
       "ixiehao/ezNTFS",
@@ -621,52 +621,52 @@
    [
     "thinkingmachines/Inkling-2-Mini",
     "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-    "♥5777"
+    "♥5854"
    ],
    [
     "unsloth/Inkling-2-Mini-GGUF",
     "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-    "♥1250"
+    "♥1288"
    ],
    [
     "inworld/voice-isolator",
     "https://huggingface.co/inworld/voice-isolator",
-    "♥814"
+    "♥838"
    ],
    [
     "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
     "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-    "♥752"
-   ],
-   [
-    "harness-hub/Qwen3.8-27B-pi-adapted",
-    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥1069"
+    "♥772"
    ],
    [
     "SulphurAI/Sulphur-3",
     "https://huggingface.co/SulphurAI/Sulphur-3",
-    "♥904"
+    "♥959"
+   ],
+   [
+    "harness-hub/Qwen3.8-27B-pi-adapted",
+    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+    "♥1080"
    ],
    [
     "higurashi-ai/Haru-4B",
     "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥977"
-   ],
-   [
-    "tencent/Hy4-flash",
-    "https://huggingface.co/tencent/Hy4-flash",
-    "♥679"
+    "♥981"
    ],
    [
     "apple/DepthPro2",
     "https://huggingface.co/apple/DepthPro2",
-    "♥1193"
+    "♥1207"
    ],
    [
-    "apple/FastFrames-L",
-    "https://huggingface.co/apple/FastFrames-L",
-    "♥594"
+    "tencent/Hy4-flash",
+    "https://huggingface.co/tencent/Hy4-flash",
+    "♥684"
+   ],
+   [
+    "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+    "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+    "♥174"
    ]
   ],
   "npm": [
@@ -843,7 +843,7 @@
    },
    {
     "name": "AI Agents / Tool use",
-    "score": 12,
+    "score": 11,
     "hits": [
      "agent",
      "agents",
@@ -865,12 +865,11 @@
    },
    {
     "name": "Open-weight / Local models",
-    "score": 3,
+    "score": 2,
     "hits": [
-     "open-source",
      "qwen"
     ],
-    "heat": 36
+    "heat": 24
    }
   ],
   "recommendations": [
@@ -978,15 +977,15 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Ternary Bonsai 2.5 27B"
+    "text": "HN ใหม่ในท็อป: Matrix Multiplication is Θ(n^2.25) [pdf]"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: GPT-6 models demonstrate intrinsic protein-design capabilities"
+    "text": "HN ใหม่ในท็อป: Button Sounds – collection of professionally-recorded button clicks and presses"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Launch HN: Versine (YC F26) – MCP to send and receive money"
+    "text": "HN ใหม่ในท็อป: Models Can Communicate via Inference Servers Despite Being Sandboxed"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
@@ -1017,18 +1016,18 @@
     "image:GPT-Image-2.5 Sunburst"
    ],
    "or_top": [
+    "Upstage: Solar Mini 4.5 (Preview)",
+    "Upstage: Solar Pro 4 Contributor",
     "Xiaomi: MiMo-V2.6-Flash-MOPD",
     "Thinking Machines: Inkling 2 Mini",
-    "RadixArk: DaisyRose 27B",
-    "Mistral: Pixtral Large 2502",
-    "Google: Gemini 4 Neon"
+    "RadixArk: DaisyRose 27B"
    ],
    "hn_top": [
-    "Ternary Bonsai 2.5 27B",
-    "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "Launch HN: Versine (YC F26) – MCP to send and receive money",
-    "Active intrusion campaign against Check Point security management servers",
-    "Gödel Enigma"
+    "Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "Button Sounds – collection of professionally-recorded button clicks and presses",
+    "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "Ternary Bonsai 2.5 27B"
    ]
   },
   "year": 2026,
@@ -2207,6 +2206,15 @@
       "modality": "text+image+video->text"
      },
      {
+      "name": "Upstage: Solar Mini 4.5 (Preview)",
+      "org": "upstage",
+      "url": "https://openrouter.ai/upstage/solar-mini-4-5",
+      "note": "context 524,288 · ~$0.02/ล้านผสม · text->text",
+      "context": 524288,
+      "blended": 0.0175,
+      "modality": "text->text"
+     },
+     {
       "name": "Z.ai: GLM Flash Latest",
       "org": "~z-ai",
       "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
@@ -2223,15 +2231,6 @@
       "context": 1000000,
       "blended": 0.055,
       "modality": "text+image+video->text"
-     },
-     {
-      "name": "Tencent: Hy4 flash",
-      "org": "tencent",
-      "url": "https://openrouter.ai/tencent/hy4-flash",
-      "note": "context 1,048,576 · ~$0.06/ล้านผสม · text+image->text",
-      "context": 1048576,
-      "blended": 0.061375,
-      "modality": "text+image->text"
      }
     ]
    },
@@ -2360,6 +2359,15 @@
     "tip": "งานปริมาณมากที่คุณภาพไม่ต้องท็อปสุด",
     "items": [
      {
+      "name": "Upstage: Solar Mini 4.5 (Preview)",
+      "org": "upstage",
+      "url": "https://openrouter.ai/upstage/solar-mini-4-5",
+      "note": "context 524,288 · ~$0.02/ล้านผสม · text->text",
+      "context": 524288,
+      "blended": 0.0175,
+      "modality": "text->text"
+     },
+     {
       "name": "inclusionAI: Ling 3.0 Tiny",
       "org": "inclusionai",
       "url": "https://openrouter.ai/inclusionai/ling-3.0-tiny",
@@ -2403,15 +2411,6 @@
       "context": 262144,
       "blended": 0.0315,
       "modality": "text->text"
-     },
-     {
-      "name": "Z.ai: GLM 5.3 Flash (batch)",
-      "org": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-flash:batch",
-      "note": "context 1,048,576 · ~$0.03/ล้านผสม · text+image+video->text",
-      "context": 1048576,
-      "blended": 0.03425,
-      "modality": "text+image+video->text"
      }
     ]
    }
