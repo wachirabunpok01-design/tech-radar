@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-25T19:14+00:00",
+ "updated": "2026-11-26T03:33+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00",
+   "time": "2026-11-26T03:33+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-25T19:14+00:00"
+   "time": "2026-11-26T03:33+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-25",
+   "date": "ดึงเมื่อ 2026-11-26",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -368,62 +368,62 @@
    [
     "1Password Security Incident",
     "https://1password.com/blog/update-on-nov-2026-security-incident",
-    "383 คะแนน"
+    "1234 คะแนน"
+   ],
+   [
+    "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+    "https://scottaaronson.blog/?p=10379",
+    "1013 คะแนน"
+   ],
+   [
+    "Much shorter version of GRH Lean verification from Anthropic",
+    "https://github.com/lsernau/grh-lean",
+    "322 คะแนน"
+   ],
+   [
+    "Tell HN: Lots of Ask HNs again",
+    "https://news.ycombinator.com/item?id=50649864",
+    "126 คะแนน"
+   ],
+   [
+    "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+    "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+    "274 คะแนน"
+   ],
+   [
+    "Slow Ubuntu security response times",
+    "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+    "170 คะแนน"
    ],
    [
     "A few questions for the guy who went snorkeling in a Home Depot retention pond",
     "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-    "326 คะแนน"
+    "448 คะแนน"
    ],
    [
-    "Google releases Cogentic papers on integer factorization, discrete logs and more",
-    "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-    "346 คะแนน"
+    "The New York Times warns photographers not to update Photoshop over AI features",
+    "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "242 คะแนน"
    ],
    [
-    "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-    "https://github.com/xoxorwr/pw-loudness-eq",
-    "260 คะแนน"
+    "How did pinwheel calculators work?",
+    "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+    "32 คะแนน"
    ],
    [
-    "I checked Clojure's core with Lean and found unreported bugs",
-    "https://s.conao3.com/blog/2026/e4f733",
-    "94 คะแนน"
+    "Bare Metal Qwen",
+    "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+    "78 คะแนน"
    ],
    [
-    "Predicting LoRA size for any dataset",
-    "https://engram.com/blog/lora-size",
-    "64 คะแนน"
+    "Collection of preserved UI style guides",
+    "https://aresluna.org/ui-style-guides/",
+    "23 คะแนน"
    ],
    [
-    "Britain's ghost stations",
-    "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-    "19 คะแนน"
-   ],
-   [
-    "Deriving Black-Scholes",
-    "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
-    "20 คะแนน"
-   ],
-   [
-    "Button Sounds – collection of professionally-recorded button clicks and presses",
-    "https://buttons.joshwcomeau.com/",
-    "753 คะแนน"
-   ],
-   [
-    "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-    "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-    "118 คะแนน"
-   ],
-   [
-    "The matrix multiplication exponent is nine fourths [pdf]",
-    "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-    "925 คะแนน"
-   ],
-   [
-    "Investigating degraded experiences across GitHub products",
-    "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-    "157 คะแนน"
+    "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+    "https://opensec.in/blog/nfs2root-cve-2026-99362",
+    "97 คะแนน"
    ]
   ],
   "gh": {
@@ -431,134 +431,134 @@
     [
      "Marvisak/VIctory",
      "https://github.com/Marvisak/VIctory",
-     "★12,426 Rust"
+     "★12,679 Rust"
     ],
     [
      "xcl-dev/xcl",
      "https://github.com/xcl-dev/xcl",
-     "★8,248 Rust"
-    ],
-    [
-     "EL4CTEO/fast-anything",
-     "https://github.com/EL4CTEO/fast-anything",
-     "★3,902 Rust"
-    ],
-    [
-     "AFK-surf/xnulinux",
-     "https://github.com/AFK-surf/xnulinux",
-     "★3,861 C"
+     "★8,342 Rust"
     ],
     [
      "4lwayz/portwatch-vi",
      "https://github.com/4lwayz/portwatch-vi",
-     "★3,747 JavaScript"
+     "★4,319 JavaScript"
+    ],
+    [
+     "EL4CTEO/fast-anything",
+     "https://github.com/EL4CTEO/fast-anything",
+     "★4,019 Rust"
+    ],
+    [
+     "AFK-surf/xnulinux",
+     "https://github.com/AFK-surf/xnulinux",
+     "★3,986 C"
     ],
     [
      "fxceless/victory-fork",
      "https://github.com/fxceless/victory-fork",
-     "★2,929 Rust"
-    ],
-    [
-     "iamajmeena/neonclipping",
-     "https://github.com/iamajmeena/neonclipping",
-     "★2,612 Python"
+     "★3,101 Rust"
     ],
     [
      "ubiquitarianism/leonida",
      "https://github.com/ubiquitarianism/leonida",
-     "★2,267 Python"
+     "★2,357 Python"
     ],
     [
      "R0Y00/Xbox2Windows",
      "https://github.com/R0Y00/Xbox2Windows",
-     "★1,948 Python"
+     "★1,959 Python"
     ],
     [
      "os6/nospeaker",
      "https://github.com/os6/nospeaker",
-     "★1,867 Swift"
+     "★1,899 Swift"
+    ],
+    [
+     "omonkeyz/xbox-emulator",
+     "https://github.com/omonkeyz/xbox-emulator",
+     "★1,849 Rust"
     ]
    ],
    "by_lang": {
     "Python": [
      [
-      "iamajmeena/neonclipping",
-      "https://github.com/iamajmeena/neonclipping",
-      "★2,612"
-     ],
-     [
       "ubiquitarianism/leonida",
       "https://github.com/ubiquitarianism/leonida",
-      "★2,267"
+      "★2,357"
      ],
      [
       "R0Y00/Xbox2Windows",
       "https://github.com/R0Y00/Xbox2Windows",
-      "★1,948"
+      "★1,959"
      ],
      [
       "zero5122/offline-file-converter-windows",
       "https://github.com/zero5122/offline-file-converter-windows",
-      "★1,062"
+      "★1,061"
      ],
      [
       "sous-labs/songe",
       "https://github.com/sous-labs/songe",
-      "★839"
+      "★870"
+     ],
+     [
+      "sybil-solutions/skill-distill",
+      "https://github.com/sybil-solutions/skill-distill",
+      "★816"
      ]
     ],
     "TypeScript": [
      [
-      "INK-Q/agy-fast",
-      "https://github.com/INK-Q/agy-fast",
-      "★1,493"
-     ],
-     [
       "qianyiai/kurocat",
       "https://github.com/qianyiai/kurocat",
-      "★944"
+      "★1,046"
      ],
      [
       "Basil0879/steam-game-idler",
       "https://github.com/Basil0879/steam-game-idler",
-      "★682"
+      "★681"
      ],
      [
       "w01fb0ss/PiBot",
       "https://github.com/w01fb0ss/PiBot",
-      "★589"
+      "★603"
      ],
      [
       "sshkeda/minecraft-server-on-orange-cloud",
       "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
-      "★437"
+      "★440"
+     ],
+     [
+      "mattpocock/cookout",
+      "https://github.com/mattpocock/cookout",
+      "★272"
      ]
     ],
     "Rust": [
      [
       "Marvisak/VIctory",
       "https://github.com/Marvisak/VIctory",
-      "★12,426"
+      "★12,679"
      ],
      [
       "xcl-dev/xcl",
       "https://github.com/xcl-dev/xcl",
-      "★8,248"
+      "★8,342"
      ],
      [
       "EL4CTEO/fast-anything",
       "https://github.com/EL4CTEO/fast-anything",
-      "★3,902"
+      "★4,019"
      ],
      [
       "fxceless/victory-fork",
       "https://github.com/fxceless/victory-fork",
-      "★2,929"
+      "★3,101"
      ],
      [
       "omonkeyz/xbox-emulator",
       "https://github.com/omonkeyz/xbox-emulator",
-      "★1,843"
+      "★1,849"
      ]
     ],
     "Go": [
@@ -568,51 +568,51 @@
       "★193"
      ],
      [
-      "robertmar-work47/davinci-resolve-studio-21-premiere-2026-video-suite-ko",
-      "https://github.com/robertmar-work47/davinci-resolve-studio-21-premiere-2026-video-suite-ko",
-      "★128"
-     ],
-     [
-      "GregoryPerry76835/autodesk-autocad-2027-solidworks-2026-muhendislik-paketi-t",
-      "https://github.com/GregoryPerry76835/autodesk-autocad-2027-solidworks-2026-muhendislik-paketi-t",
-      "★125"
-     ],
-     [
-      "yldm-ai/mirra",
-      "https://github.com/yldm-ai/mirra",
-      "★105"
+      "jasonxu114514/aws-quickwork-2api",
+      "https://github.com/jasonxu114514/aws-quickwork-2api",
+      "★150"
      ],
      [
       "podomy/weld",
       "https://github.com/podomy/weld",
       "★101"
+     ],
+     [
+      "madrays/trackferry",
+      "https://github.com/madrays/trackferry",
+      "★89"
+     ],
+     [
+      "iximiuz/pathviz",
+      "https://github.com/iximiuz/pathviz",
+      "★77"
      ]
     ],
     "Swift": [
      [
       "os6/nospeaker",
       "https://github.com/os6/nospeaker",
-      "★1,867"
+      "★1,899"
      ],
      [
       "swipt-automation/Swipterm",
       "https://github.com/swipt-automation/Swipterm",
-      "★126"
+      "★153"
      ],
      [
       "sibylsea-hub/touch-space",
       "https://github.com/sibylsea-hub/touch-space",
-      "★104"
-     ],
-     [
-      "stephancill/ios-keyboard-dictation",
-      "https://github.com/stephancill/ios-keyboard-dictation",
-      "★100"
+      "★105"
      ],
      [
       "jakobhviid/verso",
       "https://github.com/jakobhviid/verso",
-      "★75"
+      "★76"
+     ],
+     [
+      "ixiehao/ezNTFS",
+      "https://github.com/ixiehao/ezNTFS",
+      "★70"
      ]
     ]
    }
@@ -621,52 +621,52 @@
    [
     "thinkingmachines/Inkling-2-Mini",
     "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-    "♥5956"
+    "♥6054"
    ],
    [
     "unsloth/Inkling-2-Mini-GGUF",
     "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-    "♥1335"
+    "♥1382"
    ],
    [
     "inworld/voice-isolator",
     "https://huggingface.co/inworld/voice-isolator",
-    "♥864"
+    "♥900"
    ],
    [
     "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
     "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-    "♥814"
+    "♥846"
    ],
    [
     "SulphurAI/Sulphur-3",
     "https://huggingface.co/SulphurAI/Sulphur-3",
-    "♥1012"
+    "♥1096"
    ],
    [
     "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-    "♥277"
+    "♥354"
    ],
    [
     "apple/DepthPro2",
     "https://huggingface.co/apple/DepthPro2",
-    "♥1222"
-   ],
-   [
-    "harness-hub/Qwen3.8-27B-pi-adapted",
-    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-    "♥1090"
-   ],
-   [
-    "higurashi-ai/Haru-4B",
-    "https://huggingface.co/higurashi-ai/Haru-4B",
-    "♥992"
+    "♥1256"
    ],
    [
     "llamaindex/OCRia-nano-1",
     "https://huggingface.co/llamaindex/OCRia-nano-1",
-    "♥207"
+    "♥235"
+   ],
+   [
+    "inclusionAI/Ling-3.2-air",
+    "https://huggingface.co/inclusionAI/Ling-3.2-air",
+    "♥237"
+   ],
+   [
+    "harness-hub/Qwen3.8-27B-pi-adapted",
+    "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+    "♥1119"
    ]
   ],
   "npm": [
@@ -728,49 +728,49 @@
     "เพิ่มเมื่อ 2026-11-25"
    ],
    [
-    "CVE-2026-132224 Optimizely Web Experimentation",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-132224",
-    "เพิ่มเมื่อ 2026-11-24"
+    "CVE-2026-133469 Vates Xen Orchestra",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-133469",
+    "เพิ่มเมื่อ 2026-11-25"
    ],
    [
-    "CVE-2026-131914 Idunno AntiCsrf",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-131914",
-    "เพิ่มเมื่อ 2026-11-24"
+    "CVE-2025-41450 Danfoss AK-SM 800A Series",
+    "https://nvd.nist.gov/vuln/detail/CVE-2025-41450",
+    "เพิ่มเมื่อ 2026-11-25"
    ],
    [
-    "CVE-2026-132165 Drupal Core",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-132165",
-    "เพิ่มเมื่อ 2026-11-24"
+    "CVE-2023-25914 Danfoss AK-SM 800A Series",
+    "https://nvd.nist.gov/vuln/detail/CVE-2023-25914",
+    "เพิ่มเมื่อ 2026-11-25"
    ],
    [
-    "CVE-2026-133968 Project MONAI MONAI Label",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-133968",
-    "เพิ่มเมื่อ 2026-11-23"
+    "CVE-2023-25915 Danfoss AK-SM 800A Series",
+    "https://nvd.nist.gov/vuln/detail/CVE-2023-25915",
+    "เพิ่มเมื่อ 2026-11-25"
    ],
    [
-    "CVE-2026-134624 N-able MailAssure",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-134624",
-    "เพิ่มเมื่อ 2026-11-23"
+    "CVE-2026-133324 Mitel MiCollab",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-133324",
+    "เพิ่มเมื่อ 2026-11-25"
    ],
    [
-    "CVE-2026-129448 Apache Roller",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-129448",
-    "เพิ่มเมื่อ 2026-11-20"
+    "CVE-2026-133275 Mitel MiCollab",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-133275",
+    "เพิ่มเมื่อ 2026-11-25"
    ],
    [
-    "CVE-2026-123890 Broadcom VMware vCenter",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
-    "เพิ่มเมื่อ 2026-11-20"
+    "CVE-2026-133311 Mitel MiCollab",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-133311",
+    "เพิ่มเมื่อ 2026-11-25"
    ],
    [
-    "CVE-2025-42884 SAP NetWeaver",
-    "https://nvd.nist.gov/vuln/detail/CVE-2025-42884",
-    "เพิ่มเมื่อ 2026-11-20"
+    "CVE-2026-133303 Mitel MiCollab",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-133303",
+    "เพิ่มเมื่อ 2026-11-25"
    ],
    [
-    "CVE-2026-76466 Cisco Expressway Series",
-    "https://nvd.nist.gov/vuln/detail/CVE-2026-76466",
-    "เพิ่มเมื่อ 2026-11-20"
+    "CVE-2026-133323 Mitel MiCollab",
+    "https://nvd.nist.gov/vuln/detail/CVE-2026-133323",
+    "เพิ่มเมื่อ 2026-11-25"
    ]
   ],
   "epss": [
@@ -833,12 +833,11 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 14,
+    "score": 13,
     "hits": [
      "multimodal",
      "vision",
-     "image",
-     "video"
+     "image"
     ],
     "heat": 100
    },
@@ -866,12 +865,12 @@
    },
    {
     "name": "Open-weight / Local models",
-    "score": 3,
+    "score": 4,
     "hits": [
      "llama",
      "qwen"
     ],
-    "heat": 36
+    "heat": 48
    }
   ],
   "recommendations": [
@@ -979,18 +978,14 @@
   "items": [
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: 1Password Security Incident"
+    "text": "HN ใหม่ในท็อป: Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: A few questions for the guy who went snorkeling in a Home Depot retention pond"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Google releases Cogentic papers on integer factorization, discrete logs and more"
+    "text": "HN ใหม่ในท็อป: Much shorter version of GRH Lean verification from Anthropic"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 2 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1026,10 +1021,10 @@
    ],
    "hn_top": [
     "1Password Security Incident",
-    "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-    "Google releases Cogentic papers on integer factorization, discrete logs and more",
-    "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-    "I checked Clojure's core with Lean and found unreported bugs"
+    "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+    "Much shorter version of GRH Lean verification from Anthropic",
+    "Tell HN: Lots of Ask HNs again",
+    "GPT-6.2 Astra is the first model to beat Googlers' code golf records"
    ]
   },
   "year": 2026,
