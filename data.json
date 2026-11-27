@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-27T01:43+00:00",
+ "updated": "2026-11-27T12:14+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00",
+   "time": "2026-11-27T12:14+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-27T01:43+00:00"
+   "time": "2026-11-27T12:14+00:00"
   }
  },
  "tables": [
@@ -336,7 +336,7 @@
    [
     "Thinking Machines: Inkling 2 Mini",
     "https://openrouter.ai/thinkingmachines/inkling-2-mini",
-    "2026-11-21 · context 1,048,576 · $0.07 / $0.30 ต่อล้าน tokens"
+    "2026-11-21 · context 1,048,576 · $0.06 / $0.24 ต่อล้าน tokens"
    ],
    [
     "RadixArk: DaisyRose 27B",
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
+    "The group chat where your AI talks behind your back",
+    "https://construct22.com/",
+    "344 คะแนน"
+   ],
+   [
     "AI made self-hosting fun again",
     "https://janlukas.blog/posts/ai-self-hosting",
-    "302 คะแนน"
+    "776 คะแนน"
    ],
    [
     "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
     "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-    "231 คะแนน"
+    "392 คะแนน"
    ],
    [
     "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
     "https://github.com/antonpictures/youtube-punisher",
-    "267 คะแนน"
+    "431 คะแนน"
    ],
    [
     "AMD-specific fork of llama.cpp",
     "https://devnull.land/amd-specific-llama-cpp",
-    "284 คะแนน"
+    "381 คะแนน"
+   ],
+   [
+    "Hard Drive pricing has gotten bad",
+    "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "388 คะแนน"
    ],
    [
     "CTO of 'RansomwareHelp' indicted for wire fraud",
     "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-    "211 คะแนน"
+    "282 คะแนน"
    ],
    [
-    "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-    "https://kendell.dev/blog/arkwrapper/",
-    "39 คะแนน"
+    "Company Culture = Slack Emoji ÷ √Headcount",
+    "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+    "408 คะแนน"
+   ],
+   [
+    "European Commission Declares Browser Competition a Digital Markets Act Priority",
+    "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+    "79 คะแนน"
    ],
    [
     "Intel One Mono font (2023)",
     "https://github.com/intel/intel-one-mono",
-    "466 คะแนน"
+    "533 คะแนน"
    ],
    [
-    "Rvoip: VoIP stack in Rust",
-    "https://github.com/eisenzopf/rvoip",
-    "86 คะแนน"
+    "The need for a formally verifiable mainstream programming language",
+    "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "179 คะแนน"
    ],
    [
-    "Show HN: Olumino, a Markdown notes and spaced repetition app",
-    "https://olumino.app",
-    "74 คะแนน"
-   ],
-   [
-    "Largest 2D Chart library in the world using BUI: BlenderUI",
-    "https://bui.preetham.top/charts/",
-    "57 คะแนน"
-   ],
-   [
-    "George Whitesides, 1939-2026",
-    "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-    "63 คะแนน"
-   ],
-   [
-    "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-    "240 คะแนน"
+    "Buy Nothing Day – Friday November 27th 2026",
+    "https://www.buynothingday.co.uk/",
+    "134 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "Marvisak/VIctory",
      "https://github.com/Marvisak/VIctory",
-     "★13,380 Rust"
+     "★13,601 Rust"
     ],
     [
      "4lwayz/portwatch-vi",
      "https://github.com/4lwayz/portwatch-vi",
-     "★5,854 JavaScript"
+     "★6,232 JavaScript"
     ],
     [
      "EL4CTEO/fast-anything",
      "https://github.com/EL4CTEO/fast-anything",
-     "★4,243 Rust"
-    ],
-    [
-     "fxceless/victory-fork",
-     "https://github.com/fxceless/victory-fork",
-     "★3,282 Rust"
+     "★4,371 Rust"
     ],
     [
      "Belobug/VIctory-Belobug-AMD",
      "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "★3,032 Rust"
+     "★3,851 Rust"
+    ],
+    [
+     "fxceless/victory-fork",
+     "https://github.com/fxceless/victory-fork",
+     "★3,320 Rust"
     ],
     [
      "ubiquitarianism/leonida",
      "https://github.com/ubiquitarianism/leonida",
-     "★2,536 Python"
+     "★2,584 Python"
     ],
     [
      "os6/nospeaker",
      "https://github.com/os6/nospeaker",
-     "★1,956 Swift"
-    ],
-    [
-     "omonkeyz/xbox-emulator",
-     "https://github.com/omonkeyz/xbox-emulator",
-     "★1,852 Rust"
+     "★1,973 Swift"
     ],
     [
      "avatarmanz/VIctory-7900XTX",
      "https://github.com/avatarmanz/VIctory-7900XTX",
-     "★1,849 Rust"
+     "★1,906 Rust"
     ],
     [
-     "crhywun/g1-acq",
-     "https://github.com/crhywun/g1-acq",
-     "★1,644 JavaScript"
+     "omonkeyz/xbox-emulator",
+     "https://github.com/omonkeyz/xbox-emulator",
+     "★1,853 Rust"
+    ],
+    [
+     "alesha-pro/llm.asm",
+     "https://github.com/alesha-pro/llm.asm",
+     "★1,845 Assembly"
     ]
    ],
    "by_lang": {
@@ -484,135 +484,135 @@
      [
       "ubiquitarianism/leonida",
       "https://github.com/ubiquitarianism/leonida",
-      "★2,536"
-     ],
-     [
-      "zero5122/offline-file-converter-windows",
-      "https://github.com/zero5122/offline-file-converter-windows",
-      "★1,072"
+      "★2,584"
      ],
      [
       "sybil-solutions/skill-distill",
       "https://github.com/sybil-solutions/skill-distill",
-      "★920"
-     ],
-     [
-      "bikini/minecraft2shell",
-      "https://github.com/bikini/minecraft2shell",
-      "★456"
+      "★966"
      ],
      [
       "gary23w/f-ck_data_brokers",
       "https://github.com/gary23w/f-ck_data_brokers",
-      "★398"
+      "★494"
+     ],
+     [
+      "bikini/minecraft2shell",
+      "https://github.com/bikini/minecraft2shell",
+      "★463"
+     ],
+     [
+      "stellarr-studio/kelvaroq",
+      "https://github.com/stellarr-studio/kelvaroq",
+      "★423"
      ]
     ],
     "TypeScript": [
      [
-      "qianyiai/KuroCat",
-      "https://github.com/qianyiai/KuroCat",
-      "★1,383"
-     ],
-     [
       "nexu-io/opengame",
       "https://github.com/nexu-io/opengame",
-      "★981"
+      "★1,787"
+     ],
+     [
+      "qianyiai/KuroCat",
+      "https://github.com/qianyiai/KuroCat",
+      "★1,682"
      ],
      [
       "Basil0879/steam-game-idler",
       "https://github.com/Basil0879/steam-game-idler",
-      "★681"
+      "★680"
      ],
      [
       "w01fb0ss/PiBot",
       "https://github.com/w01fb0ss/PiBot",
-      "★655"
+      "★666"
      ],
      [
-      "sshkeda/minecraft-server-on-orange-cloud",
-      "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
-      "★445"
+      "linjiejim/ohmwork",
+      "https://github.com/linjiejim/ohmwork",
+      "★466"
      ]
     ],
     "Rust": [
      [
       "Marvisak/VIctory",
       "https://github.com/Marvisak/VIctory",
-      "★13,380"
+      "★13,601"
      ],
      [
       "EL4CTEO/fast-anything",
       "https://github.com/EL4CTEO/fast-anything",
-      "★4,243"
-     ],
-     [
-      "fxceless/victory-fork",
-      "https://github.com/fxceless/victory-fork",
-      "★3,282"
+      "★4,371"
      ],
      [
       "Belobug/VIctory-Belobug-AMD",
       "https://github.com/Belobug/VIctory-Belobug-AMD",
-      "★3,032"
+      "★3,852"
      ],
      [
-      "omonkeyz/xbox-emulator",
-      "https://github.com/omonkeyz/xbox-emulator",
-      "★1,852"
+      "fxceless/victory-fork",
+      "https://github.com/fxceless/victory-fork",
+      "★3,320"
+     ],
+     [
+      "avatarmanz/VIctory-7900XTX",
+      "https://github.com/avatarmanz/VIctory-7900XTX",
+      "★1,906"
      ]
     ],
     "Go": [
      [
       "jasonxu114514/aws-quickwork-2api",
       "https://github.com/jasonxu114514/aws-quickwork-2api",
-      "★157"
+      "★163"
      ],
      [
       "madrays/trackferry",
       "https://github.com/madrays/trackferry",
-      "★105"
+      "★116"
      ],
      [
       "iximiuz/pathviz",
       "https://github.com/iximiuz/pathviz",
-      "★104"
+      "★113"
      ],
      [
       "byJoey/dun",
       "https://github.com/byJoey/dun",
-      "★87"
+      "★97"
      ],
      [
       "helloxz/zpad",
       "https://github.com/helloxz/zpad",
-      "★75"
+      "★85"
      ]
     ],
     "Swift": [
      [
       "os6/nospeaker",
       "https://github.com/os6/nospeaker",
-      "★1,956"
+      "★1,973"
      ],
      [
       "Reukix/Reloc",
       "https://github.com/Reukix/Reloc",
-      "★842"
+      "★1,208"
      ],
      [
       "swipt-automation/Swipterm",
       "https://github.com/swipt-automation/Swipterm",
-      "★176"
+      "★182"
+     ],
+     [
+      "ixiehao/ezNTFS",
+      "https://github.com/ixiehao/ezNTFS",
+      "★82"
      ],
      [
       "jakobhviid/verso",
       "https://github.com/jakobhviid/verso",
-      "★80"
-     ],
-     [
-      "diegobruegger-prog/cablepeek",
-      "https://github.com/diegobruegger-prog/cablepeek",
-      "★77"
+      "★81"
      ]
     ]
    }
@@ -621,104 +621,104 @@
    [
     "thinkingmachines/Inkling-2-Mini",
     "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-    "♥6259"
+    "♥6368"
    ],
    [
     "unsloth/Inkling-2-Mini-GGUF",
     "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-    "♥1496"
-   ],
-   [
-    "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-    "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-    "♥936"
-   ],
-   [
-    "inworld/voice-isolator",
-    "https://huggingface.co/inworld/voice-isolator",
-    "♥965"
+    "♥1539"
    ],
    [
     "SulphurAI/Sulphur-3",
     "https://huggingface.co/SulphurAI/Sulphur-3",
-    "♥1214"
+    "♥1295"
+   ],
+   [
+    "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+    "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+    "♥967"
    ],
    [
     "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-    "♥523"
+    "♥575"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥13597"
-   ],
-   [
-    "llamaindex/OCRia-nano-1",
-    "https://huggingface.co/llamaindex/OCRia-nano-1",
-    "♥285"
+    "♥13638"
    ],
    [
     "nvidia/Nemotron-Labs-Image-30B-A3B",
     "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-    "♥280"
+    "♥299"
+   ],
+   [
+    "llamaindex/OCRia-nano-1",
+    "https://huggingface.co/llamaindex/OCRia-nano-1",
+    "♥299"
+   ],
+   [
+    "inworld/voice-isolator",
+    "https://huggingface.co/inworld/voice-isolator",
+    "♥978"
    ],
    [
     "apple/DepthPro2",
     "https://huggingface.co/apple/DepthPro2",
-    "♥1317"
+    "♥1329"
    ]
   ],
   "npm": [
    [
     "react",
     "https://www.npmjs.com/package/react",
-    "269,193,595 /สัปดาห์"
+    "262,224,777 /สัปดาห์"
    ],
    [
     "vue",
     "https://www.npmjs.com/package/vue",
-    "26,520,561 /สัปดาห์"
+    "26,015,414 /สัปดาห์"
    ],
    [
     "svelte",
     "https://www.npmjs.com/package/svelte",
-    "10,238,736 /สัปดาห์"
+    "9,977,396 /สัปดาห์"
    ],
    [
     "solid-js",
     "https://www.npmjs.com/package/solid-js",
-    "12,484,291 /สัปดาห์"
+    "12,357,402 /สัปดาห์"
    ],
    [
     "@angular/core",
     "https://www.npmjs.com/package/@angular/core",
-    "8,484,060 /สัปดาห์"
+    "8,272,288 /สัปดาห์"
    ],
    [
     "next",
     "https://www.npmjs.com/package/next",
-    "91,831,403 /สัปดาห์"
+    "88,422,566 /สัปดาห์"
    ],
    [
     "vite",
     "https://www.npmjs.com/package/vite",
-    "282,418,522 /สัปดาห์"
+    "275,680,104 /สัปดาห์"
    ],
    [
     "typescript",
     "https://www.npmjs.com/package/typescript",
-    "442,299,640 /สัปดาห์"
+    "430,313,547 /สัปดาห์"
    ],
    [
     "@openai/agents",
     "https://www.npmjs.com/package/@openai/agents",
-    "2,296,180 /สัปดาห์"
+    "2,197,647 /สัปดาห์"
    ],
    [
     "ai",
     "https://www.npmjs.com/package/ai",
-    "46,653,735 /สัปดาห์"
+    "44,789,021 /สัปดาห์"
    ]
   ],
   "kev": [
@@ -829,20 +829,8 @@
  "schema": 2,
  "trends": {
   "year": 2026,
-  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: AI Agents / Tool use, Multimodal, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
+  "blurb": "ปี 2026 ตอนนี้ความสนใจกระจุกที่: Multimodal, AI Agents / Tool use, Coding assistants. ใช้คำแนะนำด้านล่างเป็นจุดเริ่ม แล้วทดสอบกับงานจริงก่อนล็อกสแตก",
   "themes": [
-   {
-    "name": "AI Agents / Tool use",
-    "score": 14,
-    "hits": [
-     "agent",
-     "agents",
-     "tool use",
-     "tool-calling",
-     "mcp"
-    ],
-    "heat": 100
-   },
    {
     "name": "Multimodal",
     "score": 14,
@@ -854,14 +842,26 @@
     "heat": 100
    },
    {
+    "name": "AI Agents / Tool use",
+    "score": 11,
+    "hits": [
+     "agent",
+     "agents",
+     "tool use",
+     "tool-calling",
+     "mcp"
+    ],
+    "heat": 100
+   },
+   {
     "name": "Coding assistants",
-    "score": 6,
+    "score": 5,
     "hits": [
      "coding",
      "copilot",
      "ide"
     ],
-    "heat": 72
+    "heat": 60
    },
    {
     "name": "Open-weight / Local models",
@@ -990,15 +990,15 @@
    },
    {
     "kind": "hn",
+    "text": "HN ใหม่ในท็อป: The group chat where your AI talks behind your back"
+   },
+   {
+    "kind": "hn",
     "text": "HN ใหม่ในท็อป: AI made self-hosting fun again"
    },
    {
     "kind": "hn",
     "text": "HN ใหม่ในท็อป: Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays"
    }
   ],
   "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
@@ -1013,8 +1013,8 @@
     "GPT-6.2 Sol (Xhigh)"
    ],
    "themes": [
-    "AI Agents / Tool use",
     "Multimodal",
+    "AI Agents / Tool use",
     "Coding assistants",
     "Open-weight / Local models",
     "Security / Exploit awareness"
@@ -1037,11 +1037,11 @@
     "Thinking Machines: Inkling 2 Mini"
    ],
    "hn_top": [
+    "The group chat where your AI talks behind your back",
     "AI made self-hosting fun again",
     "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
     "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-    "AMD-specific fork of llama.cpp",
-    "CTO of 'RansomwareHelp' indicted for wire fraud"
+    "AMD-specific fork of llama.cpp"
    ]
   },
   "year": 2026,
