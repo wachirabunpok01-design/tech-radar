@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-27T21:19+00:00",
+ "updated": "2026-11-28T07:45+00:00",
  "status": {
   "aa": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "lm": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "or": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "hn": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "gh": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "hf": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "npm": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "kev": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "epss": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "trends": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "dims": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00",
+   "time": "2026-11-28T07:45+00:00",
    "msg": "8 boards"
   },
   "dimensions": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   },
   "ai": {
    "ok": true,
-   "time": "2026-11-27T21:19+00:00"
+   "time": "2026-11-28T07:45+00:00"
   }
  },
  "tables": [
@@ -191,7 +191,7 @@
    "id": "aa",
    "tab": "Artificial Analysis",
    "title": "Artificial Analysis: ความสามารถที่วัดแบบมาตรฐาน",
-   "date": "ดึงเมื่อ 2026-11-27",
+   "date": "ดึงเมื่อ 2026-11-28",
    "why": "ทีมเดียวกันรันชุดทดสอบมาตรฐานกับทุกโมเดล จึงเทียบข้ามค่ายได้ยุติธรรม และมีข้อมูลราคาและความเร็ว",
    "items": [
     [
@@ -366,64 +366,64 @@
   ],
   "hn": [
    [
-    "Credit card skimming scripts using WebRTC found on popular shopping sites",
-    "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-    "304 คะแนน"
+    "Unkernel: Real Linux kernel, compiled to WebAssembly",
+    "https://unkernel.dev",
+    "181 คะแนน"
+   ],
+   [
+    "Loom seamlessly combines weaving, knitting and braiding",
+    "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+    "45 คะแนน"
+   ],
+   [
+    "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "321 คะแนน"
+   ],
+   [
+    "The Balatro Timeline",
+    "https://localthunk.com/blog/balatro-timeline-3aarh",
+    "276 คะแนน"
    ],
    [
     "GPT 6.2 Astra Solves a Historical Mystery",
     "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-    "77 คะแนน"
+    "420 คะแนน"
+   ],
+   [
+    "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "502 คะแนน"
+   ],
+   [
+    "Paolo Soleri built a utopian eco-city in the Arizona desert",
+    "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+    "34 คะแนน"
+   ],
+   [
+    "Sydney Fire Ant Infestation",
+    "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+    "42 คะแนน"
    ],
    [
     "Convex skills send the user's app idea to a remote server without telling them",
     "https://github.com/convex/convex-backend-skill/issues/64",
-    "136 คะแนน"
-   ],
-   [
-    "Michael Nielsen took down his book on neural nets",
-    "https://twitter.com/michael_nielsen/status/2126359767362748777",
-    "163 คะแนน"
+    "288 คะแนน"
    ],
    [
     "Citroën Hydraulic System",
     "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-    "49 คะแนน"
+    "177 คะแนน"
+   ],
+   [
+    "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+    "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+    "80 คะแนน"
    ],
    [
     "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
     "https://bouncemarket.minhanhday.com/",
-    "294 คะแนน"
-   ],
-   [
-    "The AT&T Unix PC (3B1) VM",
-    "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
-    "19 คะแนน"
-   ],
-   [
-    "Show HN: DragDropMath – Learn math by feel",
-    "https://dragdropmath.com/",
-    "45 คะแนน"
-   ],
-   [
-    "False computer-checked proofs",
-    "https://cr.yp.to/proofs/falseccp.html",
-    "137 คะแนน"
-   ],
-   [
-    "First images of the impact of DART asteroid deflection experiment",
-    "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-    "156 คะแนน"
-   ],
-   [
-    "Rayshader 1.0: Exit the Matrix",
-    "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
-    "35 คะแนน"
-   ],
-   [
-    "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-    "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-    "80 คะแนน"
+    "365 คะแนน"
    ]
   ],
   "gh": {
@@ -431,52 +431,52 @@
     [
      "Marvisak/VIctory",
      "https://github.com/Marvisak/VIctory",
-     "★13,767 Rust"
-    ],
-    [
-     "4lwayz/portwatch-vi",
-     "https://github.com/4lwayz/portwatch-vi",
-     "★6,633 JavaScript"
-    ],
-    [
-     "EL4CTEO/fast-anything",
-     "https://github.com/EL4CTEO/fast-anything",
-     "★4,436 Rust"
-    ],
-    [
-     "fxceless/victory-fork",
-     "https://github.com/fxceless/victory-fork",
-     "★3,353 Rust"
-    ],
-    [
-     "ProjectLeonida/mandy",
-     "https://github.com/ProjectLeonida/mandy",
-     "★2,635 Python"
+     "★13,893 Rust"
     ],
     [
      "trustno1-coder/VIctory-NVIDIA",
      "https://github.com/trustno1-coder/VIctory-NVIDIA",
-     "★2,528 Rust"
+     "★4,399 Rust"
+    ],
+    [
+     "fxceless/victory-fork",
+     "https://github.com/fxceless/victory-fork",
+     "★3,366 Rust"
+    ],
+    [
+     "ProjectLeonida/mandy",
+     "https://github.com/ProjectLeonida/mandy",
+     "★3,017 Python"
     ],
     [
      "nexu-io/opengame",
      "https://github.com/nexu-io/opengame",
-     "★2,150 TypeScript"
+     "★2,495 TypeScript"
     ],
     [
      "alesha-pro/llm.asm",
      "https://github.com/alesha-pro/llm.asm",
-     "★2,099 Assembly"
+     "★2,382 Assembly"
     ],
     [
      "os6/nospeaker",
      "https://github.com/os6/nospeaker",
-     "★1,989 Swift"
+     "★1,998 Swift"
     ],
     [
-     "omonkeyz/xbox-emulator",
-     "https://github.com/omonkeyz/xbox-emulator",
-     "★1,852 Rust"
+     "Reukix/Reloc",
+     "https://github.com/Reukix/Reloc",
+     "★1,912 Swift"
+    ],
+    [
+     "crhywun/g1-acq",
+     "https://github.com/crhywun/g1-acq",
+     "★1,822 JavaScript"
+    ],
+    [
+     "Avaneesh-Inamdar/Stream-Tube-Desktop",
+     "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+     "★1,692 Rust"
     ]
    ],
    "by_lang": {
@@ -484,135 +484,135 @@
      [
       "ProjectLeonida/mandy",
       "https://github.com/ProjectLeonida/mandy",
-      "★2,635"
+      "★3,017"
      ],
      [
-      "sybil-solutions/skill-distill",
-      "https://github.com/sybil-solutions/skill-distill",
-      "★995"
+      "quartzdev666/windows-pdf-editor",
+      "https://github.com/quartzdev666/windows-pdf-editor",
+      "★908"
      ],
      [
       "gary23w/f-ck_data_brokers",
       "https://github.com/gary23w/f-ck_data_brokers",
-      "★565"
+      "★905"
      ],
      [
       "stellarr-studio/kelvaroq",
       "https://github.com/stellarr-studio/kelvaroq",
-      "★494"
+      "★521"
      ],
      [
       "bikini/minecraft2shell",
       "https://github.com/bikini/minecraft2shell",
-      "★470"
+      "★480"
      ]
     ],
     "TypeScript": [
      [
       "nexu-io/opengame",
       "https://github.com/nexu-io/opengame",
-      "★2,150"
-     ],
-     [
-      "qianyiai/KuroCat",
-      "https://github.com/qianyiai/KuroCat",
-      "★1,756"
+      "★2,495"
      ],
      [
       "Basil0879/steam-game-idler",
       "https://github.com/Basil0879/steam-game-idler",
-      "★865"
-     ],
-     [
-      "w01fb0ss/PiBot",
-      "https://github.com/w01fb0ss/PiBot",
-      "★675"
+      "★1,224"
      ],
      [
       "linjiejim/ohmwork",
       "https://github.com/linjiejim/ohmwork",
-      "★515"
+      "★574"
+     ],
+     [
+      "mattpocock/cookout",
+      "https://github.com/mattpocock/cookout",
+      "★355"
+     ],
+     [
+      "SilverFeit/StikSound",
+      "https://github.com/SilverFeit/StikSound",
+      "★283"
      ]
     ],
     "Rust": [
      [
       "Marvisak/VIctory",
       "https://github.com/Marvisak/VIctory",
-      "★13,767"
-     ],
-     [
-      "EL4CTEO/fast-anything",
-      "https://github.com/EL4CTEO/fast-anything",
-      "★4,436"
-     ],
-     [
-      "fxceless/victory-fork",
-      "https://github.com/fxceless/victory-fork",
-      "★3,353"
+      "★13,893"
      ],
      [
       "trustno1-coder/VIctory-NVIDIA",
       "https://github.com/trustno1-coder/VIctory-NVIDIA",
-      "★2,528"
+      "★4,399"
      ],
      [
-      "omonkeyz/xbox-emulator",
-      "https://github.com/omonkeyz/xbox-emulator",
-      "★1,852"
+      "fxceless/victory-fork",
+      "https://github.com/fxceless/victory-fork",
+      "★3,366"
+     ],
+     [
+      "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "★1,692"
+     ],
+     [
+      "ZigZagBoi1/ScarlettPort",
+      "https://github.com/ZigZagBoi1/ScarlettPort",
+      "★1,390"
      ]
     ],
     "Go": [
      [
-      "sresarehumantoo/ARTEX-CC",
-      "https://github.com/sresarehumantoo/ARTEX-CC",
-      "★196"
+      "sergeijang/windows-11-activator",
+      "https://github.com/sergeijang/windows-11-activator",
+      "★374"
      ],
      [
-      "jasonxu114514/aws-quickwork-2api",
-      "https://github.com/jasonxu114514/aws-quickwork-2api",
-      "★164"
+      "lindawu10389/stable-cascade-stage-a-pro-patcher-installer",
+      "https://github.com/lindawu10389/stable-cascade-stage-a-pro-patcher-installer",
+      "★359"
      ],
      [
-      "iximiuz/pathviz",
-      "https://github.com/iximiuz/pathviz",
-      "★127"
+      "ryu61903/rpcs3-pro-patcher-installer",
+      "https://github.com/ryu61903/rpcs3-pro-patcher-installer",
+      "★344"
      ],
      [
-      "byJoey/dun",
-      "https://github.com/byJoey/dun",
-      "★125"
+      "Ruiz481/totk-optimizer-nx-pro-patcher-installer",
+      "https://github.com/Ruiz481/totk-optimizer-nx-pro-patcher-installer",
+      "★343"
      ],
      [
-      "madrays/trackferry",
-      "https://github.com/madrays/trackferry",
-      "★118"
+      "tylerk9406/forsaken-roblox-script",
+      "https://github.com/tylerk9406/forsaken-roblox-script",
+      "★285"
      ]
     ],
     "Swift": [
      [
       "os6/nospeaker",
       "https://github.com/os6/nospeaker",
-      "★1,989"
+      "★1,998"
      ],
      [
       "Reukix/Reloc",
       "https://github.com/Reukix/Reloc",
-      "★1,520"
+      "★1,912"
      ],
      [
       "swipt-automation/Swipterm",
       "https://github.com/swipt-automation/Swipterm",
-      "★184"
-     ],
-     [
-      "ixiehao/ezNTFS",
-      "https://github.com/ixiehao/ezNTFS",
-      "★85"
+      "★187"
      ],
      [
       "diegobruegger-prog/cablepeek",
       "https://github.com/diegobruegger-prog/cablepeek",
-      "★85"
+      "★89"
+     ],
+     [
+      "jakobhviid/verso",
+      "https://github.com/jakobhviid/verso",
+      "★82"
      ]
     ]
    }
@@ -621,52 +621,52 @@
    [
     "thinkingmachines/Inkling-2-Mini",
     "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-    "♥6448"
+    "♥6507"
    ],
    [
     "unsloth/Inkling-2-Mini-GGUF",
     "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-    "♥1599"
+    "♥1626"
    ],
    [
     "SulphurAI/Sulphur-3",
     "https://huggingface.co/SulphurAI/Sulphur-3",
-    "♥1363"
-   ],
-   [
-    "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-    "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-    "♥1028"
+    "♥1388"
    ],
    [
     "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
     "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-    "♥625"
+    "♥653"
+   ],
+   [
+    "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+    "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+    "♥1046"
    ],
    [
     "inworld/voice-isolator",
     "https://huggingface.co/inworld/voice-isolator",
-    "♥1011"
+    "♥1018"
    ],
    [
     "Lightricks/LTX-2.5",
     "https://huggingface.co/Lightricks/LTX-2.5",
-    "♥13719"
+    "♥13753"
    ],
    [
     "llamaindex/OCRia-nano-1",
     "https://huggingface.co/llamaindex/OCRia-nano-1",
-    "♥353"
+    "♥366"
    ],
    [
     "nvidia/Nemotron-Labs-Image-30B-A3B",
     "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-    "♥337"
+    "♥345"
    ],
    [
-    "strata-engine/Inkling-2-Mini-Strata",
-    "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
-    "♥300"
+    "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+    "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+    "♥294"
    ]
   ],
   "npm": [
@@ -833,7 +833,7 @@
   "themes": [
    {
     "name": "Multimodal",
-    "score": 16,
+    "score": 14,
     "hits": [
      "multimodal",
      "vision",
@@ -871,14 +871,6 @@
      "qwen"
     ],
     "heat": 24
-   },
-   {
-    "name": "RAG / Knowledge",
-    "score": 1,
-    "hits": [
-     "rag"
-    ],
-    "heat": 12
    }
   ],
   "recommendations": [
@@ -985,23 +977,19 @@
   "has_prev": true,
   "items": [
    {
-    "kind": "theme_up",
-    "text": "ธีมขึ้นแรง: RAG / Knowledge"
+    "kind": "hn",
+    "text": "HN ใหม่ในท็อป: Unkernel: Real Linux kernel, compiled to WebAssembly"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Credit card skimming scripts using WebRTC found on popular shopping sites"
+    "text": "HN ใหม่ในท็อป: Loom seamlessly combines weaving, knitting and braiding"
    },
    {
     "kind": "hn",
-    "text": "HN ใหม่ในท็อป: GPT 6.2 Astra Solves a Historical Mystery"
-   },
-   {
-    "kind": "hn",
-    "text": "HN ใหม่ในท็อป: Convex skills send the user's app idea to a remote server without telling them"
+    "text": "HN ใหม่ในท็อป: Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
    }
   ],
-  "summary": "พบการเปลี่ยนแปลง 4 รายการจากรอบก่อน"
+  "summary": "พบการเปลี่ยนแปลง 3 รายการจากรอบก่อน"
  },
  "meta": {
   "previous_snapshot": {
@@ -1016,8 +1004,7 @@
     "Multimodal",
     "AI Agents / Tool use",
     "Coding assistants",
-    "Open-weight / Local models",
-    "RAG / Knowledge"
+    "Open-weight / Local models"
    ],
    "dim_leaders": [
     "text:Gemini 4 Carbon (High)",
@@ -1037,11 +1024,11 @@
     "Thinking Machines: Inkling 2 Mini"
    ],
    "hn_top": [
-    "Credit card skimming scripts using WebRTC found on popular shopping sites",
-    "GPT 6.2 Astra Solves a Historical Mystery",
-    "Convex skills send the user's app idea to a remote server without telling them",
-    "Michael Nielsen took down his book on neural nets",
-    "Citroën Hydraulic System"
+    "Unkernel: Real Linux kernel, compiled to WebAssembly",
+    "Loom seamlessly combines weaving, knitting and braiding",
+    "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "The Balatro Timeline",
+    "GPT 6.2 Astra Solves a Historical Mystery"
    ]
   },
   "year": 2026,
